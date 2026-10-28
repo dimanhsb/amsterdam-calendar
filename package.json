@@ -1,0 +1,11 @@
+{
+  "name": "amsterdam-open-week",
+  "version": "0.13.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "python3 scripts/build.py",
+    "check": "node scripts/check.mjs",
+    "dev": "python3 -m http.server 4173 --bind 127.0.0.1 --directory dist"
+  }
+}

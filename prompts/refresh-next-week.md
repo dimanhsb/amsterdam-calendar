@@ -1,0 +1,20 @@
+# Refresh the next-week calendar
+
+## Current profile and reusable workflow
+
+Ideas are browsed by activity and by provider. Keep `data/idea-catalog.json` in sync with new `data/ideas.json` records; use explicit saved activity/provider relationships and null for an unidentified provider. Read `source-guides/idea-catalog.md`. Potential providers do not establish current sessions, admission or beginner access.
+
+Investigate city history, architecture, neighborhood, nature and themed walks. Distinguish genuinely free entry from tip-based/pay-what-you-want tours, donation entry and fixed per-person admission. A private group quotation is not a public single-person ticket price. Record mandatory booking/entrance fees separately. Verify spoken English/Dutch on the actual tour or session, never from webpage language. Use `languages: ["en"]` / `["nl"]` / both only when stated; otherwise `languages: []`. Where a provider offers separate language choices, retain `languageMode: "options"` and verify the chosen session. Mark `activityType: "walking-tour"` and use `price.type: "tip-based"` with null amount if no fixed fee is published but tipping is expected. Keep exact dates undated until individually verified.
+
+Read `data/preferences.json` and `source-guides/README.md` first. Apply the current profile settings when relevant. Retain other times as searchable alternatives, never silently change a published time. The current coverage is 19 October–30 November 2026 inclusive; use a new explicitly requested window for later runs.
+
+Use one source guide per website and small evidence batches. Record actual `researchMethod`, `researchRound`, `discoverySource` and explicit `ideaIds`; log unsuccessful routes too. Run `scripts/ingest.py` as a dry run, review evidence, then apply; regenerate the report and build/check. Start with cheaper models for straightforward extraction, escalate ambiguous access, prices or eligibility for review. Android Firefox is a public rendering fallback; no accounts, bookings, payments, contact or access-control bypass. Read `source-guides/REPORT.md` to prioritize sources by real dated/preferred yield. Historical seed ideas below are an archive and do not override this blacklist.
+
+
+Read `prompts/discover-more.md`, `data/events.json`, `data/sources.json` and the research reports. Current researched coverage is 19 October–30 November 2026 inclusive. Preserve that history. Compute next Monday–Sunday in Europe/Amsterdam, or use my requested range. Update data/meta.json when extending coverage. Refresh exact dated listings from multiple independent organizers; look for organizer cancellations and sold-out states. Retain canonical event IDs and every field's evidence. Preserve historical events and source corrections. Do not instantiate weekly recurrences from pattern alone. Flag changed prices, moved locations and date exceptions. Separate unknown from free and published from available.
+
+Update canonical events/sources, add new hypotheses to ideas, and keep raw research snapshots with checked dates. Run `npm run build` and `npm run check`. Check desktop/mobile interaction and ICS timezone behavior if app logic changed. Update `README.md` with a dated verified change. Publish the updated existing Site using the retained `.openai/hosting.json` project_id and the supported Sites workflow. Do not create a new Site. Return 3 choices, costs, links and remaining unknowns. This prompt requests a refresh when run; it does not itself schedule one.
+
+## ClassPass and price follow-through
+
+Reopen studio calendars as their booking windows advance; undated offers do not authorize recurring event generation. Check exact direct euro totals against mandatory fees/rental. ClassPass credits remain session/account-specific and separate; record blocked pages without bypassing them. Resolve availability conflicts and waitlists before promoting/exporting anything. Recheck old source caveats and preserve stable IDs and original preferences. Read the deeper-browser-research section of discover-more.md for the full evidence rules.

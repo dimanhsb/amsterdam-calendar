@@ -1,0 +1,2018 @@
+{
+  "checkedAt": "2026-10-18",
+  "events": [
+    {
+      "id": "adc-pilates-open-level-2026-10-26-0900",
+      "title": "Pilates Open level · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-10-26T09:00:00+01:00",
+      "end": "2026-10-26T10:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "60-minute Pilates Open level class with Elizabeth Steele; public timetable lists it at Centrum Studio 2. ADC labels the session open level (everyone).",
+      "participation": "active",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Maandag 26 Oktober.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 26 oktober: MAANDAG 26 OKTOBER, 09:00 - 10:00 (60 min), Pilates Open level, Elizabeth Steele, Centrum Studio 2; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-modern-basic-beginners-2026-10-27-1000",
+      "title": "Modern basic/beginners · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-10-27T10:00:00+01:00",
+      "end": "2026-10-27T11:30:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "90-minute Modern basic/beginners class with Ana Gabriela; public timetable lists it at Centrum Studio 2. The timetable uses the mixed Basic/Beginner label.",
+      "participation": "active",
+      "formatLabel": "Single class · Basic / Beginners",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN. Mixed Basic/Beginners label; check the class’s intended entry level.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Dinsdag 27 Oktober.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 26 oktober: DINSDAG 27 OKTOBER, 10:00 - 11:30 (90 min), Modern basic/beginners, Ana Gabriela, Centrum Studio 2; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-afrodance-open-level-2026-10-28-1900",
+      "title": "Afrodance open level · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-10-28T19:00:00+01:00",
+      "end": "2026-10-28T20:30:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "90-minute Afrodance open level class with Yuleum Park; public timetable lists it at Centrum Studio 3. ADC labels the session open level (everyone).",
+      "participation": "active",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Woensdag 28 Oktober.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 26 oktober: WOENSDAG 28 OKTOBER, 19:00 - 20:30 (90 min), Afrodance open level, Yuleum Park, Centrum Studio 3; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-barre-all-levels-2026-10-29-0900",
+      "title": "Barre - all levels · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-10-29T09:00:00+01:00",
+      "end": "2026-10-29T10:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "60-minute Barre - all levels class with Matthijs Janssen; public timetable lists it at Centrum Studio 2. ADC labels the session open level (everyone).",
+      "participation": "active",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Donderdag 29 Oktober.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 26 oktober: DONDERDAG 29 OKTOBER, 09:00 - 10:00 (60 min), Barre - all levels, Matthijs Janssen, Centrum Studio 2; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-hiphop-absolute-beginner-2026-10-30-1845",
+      "title": "Hiphop absolute beginner · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-10-30T18:45:00+01:00",
+      "end": "2026-10-30T20:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "75-minute Hiphop absolute beginner class with Haseeb Qureshie; public timetable lists it at Centrum Studio 2. ADC labels the session beginner.",
+      "participation": "active",
+      "formatLabel": "Single class · Beginner",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Vrijdag 30 Oktober.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 26 oktober: VRIJDAG 30 OKTOBER, 18:45 - 20:00 (75 min), Hiphop absolute beginner, Haseeb Qureshie, Centrum Studio 2; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-contemporary-floorwork-beginners-2026-10-31-1430",
+      "title": "Contemporary/ Floorwork beginners · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-10-31T14:30:00+01:00",
+      "end": "2026-10-31T16:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "90-minute Contemporary/ Floorwork beginners class with Liv Schmiedeke; public timetable lists it at Centrum Studio 1. ADC labels the session beginner.",
+      "participation": "active",
+      "formatLabel": "Single class · Beginners (prior dance knowledge)",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN. Beginners means prior dance knowledge; check suitability for this style.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Zaterdag 31 Oktober.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 26 oktober: ZATERDAG 31 OKTOBER, 14:30 - 16:00 (90 min), Contemporary/ Floorwork beginners, Liv Schmiedeke, Centrum Studio 1; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated.",
+        "Some prior dance knowledge is expected; this is not an absolute-novice Basic class."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-pilates-open-level-2026-11-02-0900",
+      "title": "Pilates Open level · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-11-02T09:00:00+01:00",
+      "end": "2026-11-02T10:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "60-minute Pilates Open level class with Elizabeth Steele; public timetable lists it at Centrum Studio 2. ADC labels the session open level (everyone).",
+      "participation": "active",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Maandag 2 November.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 2 november: MAANDAG 2 NOVEMBER, 09:00 - 10:00 (60 min), Pilates Open level, Elizabeth Steele, Centrum Studio 2; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-modern-basic-beginners-2026-11-03-1000",
+      "title": "Modern basic/beginners · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-11-03T10:00:00+01:00",
+      "end": "2026-11-03T11:30:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "90-minute Modern basic/beginners class with Ana Gabriela; public timetable lists it at Centrum Studio 2. The timetable uses the mixed Basic/Beginner label.",
+      "participation": "active",
+      "formatLabel": "Single class · Basic / Beginners",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN. Mixed Basic/Beginners label; check the class’s intended entry level.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Dinsdag 3 November.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 2 november: DINSDAG 3 NOVEMBER, 10:00 - 11:30 (90 min), Modern basic/beginners, Ana Gabriela, Centrum Studio 2; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-afrodance-open-level-2026-11-04-1900",
+      "title": "Afrodance open level · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-11-04T19:00:00+01:00",
+      "end": "2026-11-04T20:30:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "90-minute Afrodance open level class with Yuleum Park; public timetable lists it at Centrum Studio 3. ADC labels the session open level (everyone).",
+      "participation": "active",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Woensdag 4 November.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 2 november: WOENSDAG 4 NOVEMBER, 19:00 - 20:30 (90 min), Afrodance open level, Yuleum Park, Centrum Studio 3; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-barre-all-levels-2026-11-05-0900",
+      "title": "Barre - all levels · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-11-05T09:00:00+01:00",
+      "end": "2026-11-05T10:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "60-minute Barre - all levels class with Matthijs Janssen; public timetable lists it at Centrum Studio 2. ADC labels the session open level (everyone).",
+      "participation": "active",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Donderdag 5 November.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 2 november: DONDERDAG 5 NOVEMBER, 09:00 - 10:00 (60 min), Barre - all levels, Matthijs Janssen, Centrum Studio 2; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-hiphop-absolute-beginner-2026-11-06-1845",
+      "title": "Hiphop absolute beginner · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-11-06T18:45:00+01:00",
+      "end": "2026-11-06T20:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "75-minute Hiphop absolute beginner class with Haseeb Qureshie; public timetable lists it at Centrum Studio 2. ADC labels the session beginner.",
+      "participation": "active",
+      "formatLabel": "Single class · Beginner",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Vrijdag 6 November.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 2 november: VRIJDAG 6 NOVEMBER, 18:45 - 20:00 (75 min), Hiphop absolute beginner, Haseeb Qureshie, Centrum Studio 2; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-contemporary-floorwork-beginners-2026-11-07-1430",
+      "title": "Contemporary/ Floorwork beginners · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-11-07T14:30:00+01:00",
+      "end": "2026-11-07T16:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "90-minute Contemporary/ Floorwork beginners class with Liv Schmiedeke; public timetable lists it at Centrum Studio 1. ADC labels the session beginner.",
+      "participation": "active",
+      "formatLabel": "Single class · Beginners (prior dance knowledge)",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN. Beginners means prior dance knowledge; check suitability for this style.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Zaterdag 7 November.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 2 november: ZATERDAG 7 NOVEMBER, 14:30 - 16:00 (90 min), Contemporary/ Floorwork beginners, Liv Schmiedeke, Centrum Studio 1; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated.",
+        "Some prior dance knowledge is expected; this is not an absolute-novice Basic class."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-pilates-open-level-2026-11-09-0900",
+      "title": "Pilates Open level · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-11-09T09:00:00+01:00",
+      "end": "2026-11-09T10:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "60-minute Pilates Open level class with Elizabeth Steele; public timetable lists it at Centrum Studio 2. ADC labels the session open level (everyone).",
+      "participation": "active",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Maandag 9 November.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 9 november: MAANDAG 9 NOVEMBER, 09:00 - 10:00 (60 min), Pilates Open level, Elizabeth Steele, Centrum Studio 2; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-modern-basic-beginners-2026-11-10-1000",
+      "title": "Modern basic/beginners · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-11-10T10:00:00+01:00",
+      "end": "2026-11-10T11:30:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "90-minute Modern basic/beginners class with Ana Gabriela; public timetable lists it at Centrum Studio 2. The timetable uses the mixed Basic/Beginner label.",
+      "participation": "active",
+      "formatLabel": "Single class · Basic / Beginners",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN. Mixed Basic/Beginners label; check the class’s intended entry level.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Dinsdag 10 November.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 9 november: DINSDAG 10 NOVEMBER, 10:00 - 11:30 (90 min), Modern basic/beginners, Ana Gabriela, Centrum Studio 2; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-afrodance-open-level-2026-11-11-1900",
+      "title": "Afrodance open level · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-11-11T19:00:00+01:00",
+      "end": "2026-11-11T20:30:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "90-minute Afrodance open level class with Yuleum Park; public timetable lists it at Centrum Studio 3. ADC labels the session open level (everyone).",
+      "participation": "active",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Woensdag 11 November.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 9 november: WOENSDAG 11 NOVEMBER, 19:00 - 20:30 (90 min), Afrodance open level, Yuleum Park, Centrum Studio 3; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-barre-all-levels-2026-11-12-0900",
+      "title": "Barre - all levels · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-11-12T09:00:00+01:00",
+      "end": "2026-11-12T10:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "60-minute Barre - all levels class with Matthijs Janssen; public timetable lists it at Centrum Studio 2. ADC labels the session open level (everyone).",
+      "participation": "active",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Donderdag 12 November.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 9 november: DONDERDAG 12 NOVEMBER, 09:00 - 10:00 (60 min), Barre - all levels, Matthijs Janssen, Centrum Studio 2; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-hiphop-absolute-beginner-2026-11-13-1845",
+      "title": "Hiphop absolute beginner · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-11-13T18:45:00+01:00",
+      "end": "2026-11-13T20:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "75-minute Hiphop absolute beginner class with Haseeb Qureshie; public timetable lists it at Centrum Studio 2. ADC labels the session beginner.",
+      "participation": "active",
+      "formatLabel": "Single class · Beginner",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Vrijdag 13 November.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 9 november: VRIJDAG 13 NOVEMBER, 18:45 - 20:00 (75 min), Hiphop absolute beginner, Haseeb Qureshie, Centrum Studio 2; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-contemporary-floorwork-beginners-2026-11-14-1430",
+      "title": "Contemporary/ Floorwork beginners · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-11-14T14:30:00+01:00",
+      "end": "2026-11-14T16:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "90-minute Contemporary/ Floorwork beginners class with Liv Schmiedeke; public timetable lists it at Centrum Studio 1. ADC labels the session beginner.",
+      "participation": "active",
+      "formatLabel": "Single class · Beginners (prior dance knowledge)",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN. Beginners means prior dance knowledge; check suitability for this style.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Zaterdag 14 November.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 9 november: ZATERDAG 14 NOVEMBER, 14:30 - 16:00 (90 min), Contemporary/ Floorwork beginners, Liv Schmiedeke, Centrum Studio 1; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated.",
+        "Some prior dance knowledge is expected; this is not an absolute-novice Basic class."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-pilates-open-level-2026-11-16-0900",
+      "title": "Pilates Open level · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-11-16T09:00:00+01:00",
+      "end": "2026-11-16T10:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "60-minute Pilates Open level class with Elizabeth Steele; public timetable lists it at Centrum Studio 2. ADC labels the session open level (everyone).",
+      "participation": "active",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Maandag 16 November.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 16 november: MAANDAG 16 NOVEMBER, 09:00 - 10:00 (60 min), Pilates Open level, Elizabeth Steele, Centrum Studio 2; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-modern-basic-beginners-2026-11-17-1000",
+      "title": "Modern basic/beginners · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-11-17T10:00:00+01:00",
+      "end": "2026-11-17T11:30:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "90-minute Modern basic/beginners class with Ana Gabriela; public timetable lists it at Centrum Studio 2. The timetable uses the mixed Basic/Beginner label.",
+      "participation": "active",
+      "formatLabel": "Single class · Basic / Beginners",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN. Mixed Basic/Beginners label; check the class’s intended entry level.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Dinsdag 17 November.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 16 november: DINSDAG 17 NOVEMBER, 10:00 - 11:30 (90 min), Modern basic/beginners, Ana Gabriela, Centrum Studio 2; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-afrodance-open-level-2026-11-18-1900",
+      "title": "Afrodance open level · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-11-18T19:00:00+01:00",
+      "end": "2026-11-18T20:30:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "90-minute Afrodance open level class with Yuleum Park; public timetable lists it at Centrum Studio 3. ADC labels the session open level (everyone).",
+      "participation": "active",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Woensdag 18 November.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 16 november: WOENSDAG 18 NOVEMBER, 19:00 - 20:30 (90 min), Afrodance open level, Yuleum Park, Centrum Studio 3; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-barre-all-levels-2026-11-19-0900",
+      "title": "Barre - all levels · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-11-19T09:00:00+01:00",
+      "end": "2026-11-19T10:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "60-minute Barre - all levels class with Matthijs Janssen; public timetable lists it at Centrum Studio 2. ADC labels the session open level (everyone).",
+      "participation": "active",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Donderdag 19 November.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 16 november: DONDERDAG 19 NOVEMBER, 09:00 - 10:00 (60 min), Barre - all levels, Matthijs Janssen, Centrum Studio 2; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-hiphop-absolute-beginner-2026-11-20-1845",
+      "title": "Hiphop absolute beginner · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-11-20T18:45:00+01:00",
+      "end": "2026-11-20T20:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "75-minute Hiphop absolute beginner class with Haseeb Qureshie; public timetable lists it at Centrum Studio 2. ADC labels the session beginner.",
+      "participation": "active",
+      "formatLabel": "Single class · Beginner",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Vrijdag 20 November.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 16 november: VRIJDAG 20 NOVEMBER, 18:45 - 20:00 (75 min), Hiphop absolute beginner, Haseeb Qureshie, Centrum Studio 2; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-contemporary-floorwork-beginners-2026-11-21-1430",
+      "title": "Contemporary/ Floorwork beginners · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-11-21T14:30:00+01:00",
+      "end": "2026-11-21T16:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "90-minute Contemporary/ Floorwork beginners class with Liv Schmiedeke; public timetable lists it at Centrum Studio 1. ADC labels the session beginner.",
+      "participation": "active",
+      "formatLabel": "Single class · Beginners (prior dance knowledge)",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN. Beginners means prior dance knowledge; check suitability for this style.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Zaterdag 21 November.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 16 november: ZATERDAG 21 NOVEMBER, 14:30 - 16:00 (90 min), Contemporary/ Floorwork beginners, Liv Schmiedeke, Centrum Studio 1; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated.",
+        "Some prior dance knowledge is expected; this is not an absolute-novice Basic class."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-pilates-open-level-2026-11-23-0900",
+      "title": "Pilates Open level · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-11-23T09:00:00+01:00",
+      "end": "2026-11-23T10:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "60-minute Pilates Open level class with Elizabeth Steele; public timetable lists it at Centrum Studio 2. ADC labels the session open level (everyone).",
+      "participation": "active",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Maandag 23 November.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 23 november: MAANDAG 23 NOVEMBER, 09:00 - 10:00 (60 min), Pilates Open level, Elizabeth Steele, Centrum Studio 2; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-modern-basic-beginners-2026-11-24-1000",
+      "title": "Modern basic/beginners · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-11-24T10:00:00+01:00",
+      "end": "2026-11-24T11:30:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "90-minute Modern basic/beginners class with Ana Gabriela; public timetable lists it at Centrum Studio 2. The timetable uses the mixed Basic/Beginner label.",
+      "participation": "active",
+      "formatLabel": "Single class · Basic / Beginners",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN. Mixed Basic/Beginners label; check the class’s intended entry level.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Dinsdag 24 November.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 23 november: DINSDAG 24 NOVEMBER, 10:00 - 11:30 (90 min), Modern basic/beginners, Ana Gabriela, Centrum Studio 2; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-afrodance-open-level-2026-11-25-1900",
+      "title": "Afrodance open level · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-11-25T19:00:00+01:00",
+      "end": "2026-11-25T20:30:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "90-minute Afrodance open level class with Yuleum Park; public timetable lists it at Centrum Studio 3. ADC labels the session open level (everyone).",
+      "participation": "active",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Woensdag 25 November.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 23 november: WOENSDAG 25 NOVEMBER, 19:00 - 20:30 (90 min), Afrodance open level, Yuleum Park, Centrum Studio 3; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-barre-all-levels-2026-11-26-0900",
+      "title": "Barre - all levels · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-11-26T09:00:00+01:00",
+      "end": "2026-11-26T10:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "60-minute Barre - all levels class with Matthijs Janssen; public timetable lists it at Centrum Studio 2. ADC labels the session open level (everyone).",
+      "participation": "active",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Donderdag 26 November.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 23 november: DONDERDAG 26 NOVEMBER, 09:00 - 10:00 (60 min), Barre - all levels, Matthijs Janssen, Centrum Studio 2; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-hiphop-absolute-beginner-2026-11-27-1845",
+      "title": "Hiphop absolute beginner · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-11-27T18:45:00+01:00",
+      "end": "2026-11-27T20:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "75-minute Hiphop absolute beginner class with Haseeb Qureshie; public timetable lists it at Centrum Studio 2. ADC labels the session beginner.",
+      "participation": "active",
+      "formatLabel": "Single class · Beginner",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Vrijdag 27 November.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 23 november: VRIJDAG 27 NOVEMBER, 18:45 - 20:00 (75 min), Hiphop absolute beginner, Haseeb Qureshie, Centrum Studio 2; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-contemporary-floorwork-beginners-2026-11-28-1430",
+      "title": "Contemporary/ Floorwork beginners · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-11-28T14:30:00+01:00",
+      "end": "2026-11-28T16:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "90-minute Contemporary/ Floorwork beginners class with Liv Schmiedeke; public timetable lists it at Centrum Studio 1. ADC labels the session beginner.",
+      "participation": "active",
+      "formatLabel": "Single class · Beginners (prior dance knowledge)",
+      "socialReason": "Shared group class; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Adult single class is €22.50 without membership; sign-up button was shown for this session. Check booking page for current availability. First visit: arrive around 30 minutes early; desk payment is PIN. Beginners means prior dance knowledge; check suitability for this style.",
+      "language": "Not stated; ADC site and widget offer Dutch and English. Confirm class language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+        "https://amsterdamdancecentre.nl/adults/"
+      ],
+      "dateEvidence": "Exact date, time, duration, title, instructor and Centrum studio were shown in the public ADC schedule after selecting Zaterdag 28 November.",
+      "evidence": {
+        "schedule": "Public ADC Trainin widget selected for week of 23 november: ZATERDAG 28 NOVEMBER, 14:30 - 16:00 (90 min), Contemporary/ Floorwork beginners, Liv Schmiedeke, Centrum Studio 1; sign-up button displayed.",
+        "single_visit": "ADC adult FAQ lists a €22.50 single class, with no membership required."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; the public widget showed an Aanmelden button.",
+        "Teaching language was not stated.",
+        "Some prior dance knowledge is expected; this is not an absolute-novice Basic class."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "Adult FAQ lists €22.50 per single class without membership.",
+        "caption": "€22.50 single class"
+      },
+      "arrival": "First-time visitors: arrive around 30 minutes early; desk payment is PIN."
+    },
+    {
+      "id": "equal-core-flow-linnaeusstraat-2026-10-20",
+      "title": "Core Flow · EQUAL Linnaeusstraat",
+      "status": "dated",
+      "start": "2026-10-20T10:00:00+02:00",
+      "end": "2026-10-20T11:00:00+02:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Yoga & mindful movement",
+      "area": "Amsterdam East / Linnaeusstraat",
+      "venue": "EQUAL Linnaeusstraat",
+      "address": "Linnaeusstraat 30, 1092 CL Amsterdam",
+      "description": "One-hour Core Flow session in a 32°C heated room. Independent single-class attendance is available.",
+      "participation": "active",
+      "formatLabel": "Single class · beginner suitable",
+      "socialReason": "Individual practice; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Buy a single-class card and separately reserve this session; a card purchase alone does not reserve a place. Bring a mandatory towel or rent one for€2.50.",
+      "language": "The booking site is in English; teaching language not stated. Confirm if needed.",
+      "bookingUrl": "https://www.equalyoga.com/reserve/",
+      "sourceUrls": [
+        "https://www.equalyoga.com/reserve/",
+        "https://www.equalyoga.com/pricing",
+        "https://www.equalyoga.com/studios/linnaeusstraat",
+        "https://www.equalyoga.com/faq"
+      ],
+      "dateEvidence": "Exact class, date, teacher, time, duration and Amsterdam Linnaeusstraat location were shown after selecting 2026-10-20 in EQUAL’s public booking calendar.",
+      "evidence": {
+        "schedule": "EQUAL public calendar selected date 2026-10-20: Core Flow, 10:00–11:00, Monica Tesarova, 60 minutes, Ams - Linnaeusstraat; BOOK NOW button visible.",
+        "beginner": "EQUAL FAQ recommends Core Flow for beginners.",
+        "single_visit": "EQUAL pricing page lists a €20 single-class card valid for one year. The €25 three-class first-time offer is a bundle, not the single-class price; towel rental €2.50.",
+        "horizon": "Booking opens14days ahead; only individually observed dates throughNovember1 included.",
+        "temperature": "32°C for this class type."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 20.0,
+        "type": "single class card",
+        "from": false,
+        "note": "€20 single-class card; towel rental €2.50. Separate first-timer offer is three classes for €25.",
+        "caption": "€20; towel rental€2.50 extra if needed"
+      },
+      "arrival": "Arrive 10–15 minutes early."
+    },
+    {
+      "id": "equal-hot-fusion-linnaeusstraat-2026-10-21",
+      "title": "Hot Fusion · EQUAL Linnaeusstraat",
+      "status": "dated",
+      "start": "2026-10-21T07:00:00+02:00",
+      "end": "2026-10-21T08:00:00+02:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Yoga & mindful movement",
+      "area": "Amsterdam East / Linnaeusstraat",
+      "venue": "EQUAL Linnaeusstraat",
+      "address": "Linnaeusstraat 30, 1092 CL Amsterdam",
+      "description": "One-hour Hot Fusion session in a 36°C heated room. Independent single-class attendance is available.",
+      "participation": "active",
+      "formatLabel": "Single class · beginner suitable",
+      "socialReason": "Individual practice; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Buy a single-class card and separately reserve this session; a card purchase alone does not reserve a place. Bring a mandatory towel or rent one for€2.50.",
+      "language": "The booking site is in English; teaching language not stated. Confirm if needed.",
+      "bookingUrl": "https://www.equalyoga.com/reserve/",
+      "sourceUrls": [
+        "https://www.equalyoga.com/reserve/",
+        "https://www.equalyoga.com/pricing",
+        "https://www.equalyoga.com/studios/linnaeusstraat",
+        "https://www.equalyoga.com/faq"
+      ],
+      "dateEvidence": "Exact class, date, teacher, time, duration and Amsterdam Linnaeusstraat location were shown after selecting 2026-10-21 in EQUAL’s public booking calendar.",
+      "evidence": {
+        "schedule": "EQUAL public calendar selected date 2026-10-21: Hot Fusion, 07:00–08:00, Flean Holdert, 60 minutes, Ams - Linnaeusstraat; BOOK NOW button visible.",
+        "beginner": "Class description says it is good for beginners.",
+        "single_visit": "EQUAL pricing page lists a €20 single-class card valid for one year. The €25 three-class first-time offer is a bundle, not the single-class price; towel rental €2.50.",
+        "horizon": "Booking opens14days ahead; only individually observed dates throughNovember1 included.",
+        "temperature": "36°C for this class type."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 20.0,
+        "type": "single class card",
+        "from": false,
+        "note": "€20 single-class card; towel rental €2.50. Separate first-timer offer is three classes for €25.",
+        "caption": "€20; towel rental€2.50 extra if needed"
+      },
+      "arrival": "Arrive 10–15 minutes early."
+    },
+    {
+      "id": "equal-hot-pilates-linnaeusstraat-2026-10-22",
+      "title": "Hot Pilates · EQUAL Linnaeusstraat",
+      "status": "dated",
+      "start": "2026-10-22T08:30:00+02:00",
+      "end": "2026-10-22T09:30:00+02:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Yoga & mindful movement",
+      "area": "Amsterdam East / Linnaeusstraat",
+      "venue": "EQUAL Linnaeusstraat",
+      "address": "Linnaeusstraat 30, 1092 CL Amsterdam",
+      "description": "One-hour Hot Pilates session in a 32°C heated room. Independent single-class attendance is available.",
+      "participation": "active",
+      "formatLabel": "Single class · beginner suitable",
+      "socialReason": "Individual practice; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Buy a single-class card and separately reserve this session; a card purchase alone does not reserve a place. Bring a mandatory towel or rent one for€2.50.",
+      "language": "The booking site is in English; teaching language not stated. Confirm if needed.",
+      "bookingUrl": "https://www.equalyoga.com/reserve/",
+      "sourceUrls": [
+        "https://www.equalyoga.com/reserve/",
+        "https://www.equalyoga.com/pricing",
+        "https://www.equalyoga.com/studios/linnaeusstraat",
+        "https://www.equalyoga.com/faq"
+      ],
+      "dateEvidence": "Exact class, date, teacher, time, duration and Amsterdam Linnaeusstraat location were shown after selecting 2026-10-22 in EQUAL’s public booking calendar.",
+      "evidence": {
+        "schedule": "EQUAL public calendar selected date 2026-10-22: Hot Pilates, 08:30–09:30, Daniel Kemna, 60 minutes, Ams - Linnaeusstraat; BOOK NOW button visible.",
+        "beginner": "Class description welcomes people new to Pilates.",
+        "single_visit": "EQUAL pricing page lists a €20 single-class card valid for one year. The €25 three-class first-time offer is a bundle, not the single-class price; towel rental €2.50.",
+        "horizon": "Booking opens14days ahead; only individually observed dates throughNovember1 included.",
+        "temperature": "32°C for this class type."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 20.0,
+        "type": "single class card",
+        "from": false,
+        "note": "€20 single-class card; towel rental €2.50. Separate first-timer offer is three classes for €25.",
+        "caption": "€20; towel rental€2.50 extra if needed"
+      },
+      "arrival": "Arrive 10–15 minutes early."
+    },
+    {
+      "id": "equal-hot-fusion-linnaeusstraat-2026-10-23",
+      "title": "Hot Fusion · EQUAL Linnaeusstraat",
+      "status": "dated",
+      "start": "2026-10-23T07:00:00+02:00",
+      "end": "2026-10-23T08:00:00+02:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Yoga & mindful movement",
+      "area": "Amsterdam East / Linnaeusstraat",
+      "venue": "EQUAL Linnaeusstraat",
+      "address": "Linnaeusstraat 30, 1092 CL Amsterdam",
+      "description": "One-hour Hot Fusion session in a 36°C heated room. Independent single-class attendance is available.",
+      "participation": "active",
+      "formatLabel": "Single class · beginner suitable",
+      "socialReason": "Individual practice; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Buy a single-class card and separately reserve this session; a card purchase alone does not reserve a place. Bring a mandatory towel or rent one for€2.50.",
+      "language": "The booking site is in English; teaching language not stated. Confirm if needed.",
+      "bookingUrl": "https://www.equalyoga.com/reserve/",
+      "sourceUrls": [
+        "https://www.equalyoga.com/reserve/",
+        "https://www.equalyoga.com/pricing",
+        "https://www.equalyoga.com/studios/linnaeusstraat",
+        "https://www.equalyoga.com/faq"
+      ],
+      "dateEvidence": "Exact class, date, teacher, time, duration and Amsterdam Linnaeusstraat location were shown after selecting 2026-10-23 in EQUAL’s public booking calendar.",
+      "evidence": {
+        "schedule": "EQUAL public calendar selected date 2026-10-23: Hot Fusion, 07:00–08:00, Susanna Sottili, 60 minutes, Ams - Linnaeusstraat; BOOK NOW button visible.",
+        "beginner": "Class description says it is good for beginners.",
+        "single_visit": "EQUAL pricing page lists a €20 single-class card valid for one year. The €25 three-class first-time offer is a bundle, not the single-class price; towel rental €2.50.",
+        "horizon": "Booking opens14days ahead; only individually observed dates throughNovember1 included.",
+        "temperature": "36°C for this class type."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 20.0,
+        "type": "single class card",
+        "from": false,
+        "note": "€20 single-class card; towel rental €2.50. Separate first-timer offer is three classes for €25.",
+        "caption": "€20; towel rental€2.50 extra if needed"
+      },
+      "arrival": "Arrive 10–15 minutes early."
+    },
+    {
+      "id": "equal-hot-fusion-linnaeusstraat-2026-10-24",
+      "title": "Hot Fusion · EQUAL Linnaeusstraat",
+      "status": "dated",
+      "start": "2026-10-24T10:00:00+02:00",
+      "end": "2026-10-24T11:00:00+02:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Yoga & mindful movement",
+      "area": "Amsterdam East / Linnaeusstraat",
+      "venue": "EQUAL Linnaeusstraat",
+      "address": "Linnaeusstraat 30, 1092 CL Amsterdam",
+      "description": "One-hour Hot Fusion session in a 36°C heated room. Independent single-class attendance is available.",
+      "participation": "active",
+      "formatLabel": "Single class · beginner suitable",
+      "socialReason": "Individual practice; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Buy a single-class card and separately reserve this session; a card purchase alone does not reserve a place. Bring a mandatory towel or rent one for€2.50.",
+      "language": "The booking site is in English; teaching language not stated. Confirm if needed.",
+      "bookingUrl": "https://www.equalyoga.com/reserve/",
+      "sourceUrls": [
+        "https://www.equalyoga.com/reserve/",
+        "https://www.equalyoga.com/pricing",
+        "https://www.equalyoga.com/studios/linnaeusstraat",
+        "https://www.equalyoga.com/faq"
+      ],
+      "dateEvidence": "Exact class, date, teacher, time, duration and Amsterdam Linnaeusstraat location were shown after selecting 2026-10-24 in EQUAL’s public booking calendar.",
+      "evidence": {
+        "schedule": "EQUAL public calendar selected date 2026-10-24: Hot Fusion, 10:00–11:00, Flean Holdert, 60 minutes, Ams - Linnaeusstraat; BOOK NOW button visible.",
+        "beginner": "Class description says it is good for beginners.",
+        "single_visit": "EQUAL pricing page lists a €20 single-class card valid for one year. The €25 three-class first-time offer is a bundle, not the single-class price; towel rental €2.50.",
+        "horizon": "Booking opens14days ahead; only individually observed dates throughNovember1 included.",
+        "temperature": "36°C for this class type."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 20.0,
+        "type": "single class card",
+        "from": false,
+        "note": "€20 single-class card; towel rental €2.50. Separate first-timer offer is three classes for €25.",
+        "caption": "€20; towel rental€2.50 extra if needed"
+      },
+      "arrival": "Arrive 10–15 minutes early."
+    },
+    {
+      "id": "equal-hot-fusion-linnaeusstraat-2026-10-25",
+      "title": "Hot Fusion · EQUAL Linnaeusstraat",
+      "status": "dated",
+      "start": "2026-10-25T08:30:00+01:00",
+      "end": "2026-10-25T09:30:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Yoga & mindful movement",
+      "area": "Amsterdam East / Linnaeusstraat",
+      "venue": "EQUAL Linnaeusstraat",
+      "address": "Linnaeusstraat 30, 1092 CL Amsterdam",
+      "description": "One-hour Hot Fusion session in a 36°C heated room. Independent single-class attendance is available.",
+      "participation": "active",
+      "formatLabel": "Single class · beginner suitable",
+      "socialReason": "Individual practice; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Buy a single-class card and separately reserve this session; a card purchase alone does not reserve a place. Bring a mandatory towel or rent one for€2.50.",
+      "language": "The booking site is in English; teaching language not stated. Confirm if needed.",
+      "bookingUrl": "https://www.equalyoga.com/reserve/",
+      "sourceUrls": [
+        "https://www.equalyoga.com/reserve/",
+        "https://www.equalyoga.com/pricing",
+        "https://www.equalyoga.com/studios/linnaeusstraat",
+        "https://www.equalyoga.com/faq"
+      ],
+      "dateEvidence": "Exact class, date, teacher, time, duration and Amsterdam Linnaeusstraat location were shown after selecting 2026-10-25 in EQUAL’s public booking calendar.",
+      "evidence": {
+        "schedule": "EQUAL public calendar selected date 2026-10-25: Hot Fusion, 08:30–09:30, Robbert van Driel, 60 minutes, Ams - Linnaeusstraat; BOOK NOW button visible.",
+        "beginner": "Class description says it is good for beginners.",
+        "single_visit": "EQUAL pricing page lists a €20 single-class card valid for one year. The €25 three-class first-time offer is a bundle, not the single-class price; towel rental €2.50.",
+        "horizon": "Booking opens14days ahead; only individually observed dates throughNovember1 included.",
+        "temperature": "36°C for this class type."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 20.0,
+        "type": "single class card",
+        "from": false,
+        "note": "€20 single-class card; towel rental €2.50. Separate first-timer offer is three classes for €25.",
+        "caption": "€20; towel rental€2.50 extra if needed"
+      },
+      "arrival": "Arrive 10–15 minutes early."
+    },
+    {
+      "id": "equal-hot-fusion-linnaeusstraat-2026-10-26",
+      "title": "Hot Fusion · EQUAL Linnaeusstraat",
+      "status": "dated",
+      "start": "2026-10-26T07:00:00+01:00",
+      "end": "2026-10-26T08:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Yoga & mindful movement",
+      "area": "Amsterdam East / Linnaeusstraat",
+      "venue": "EQUAL Linnaeusstraat",
+      "address": "Linnaeusstraat 30, 1092 CL Amsterdam",
+      "description": "One-hour Hot Fusion session in a 36°C heated room. Independent single-class attendance is available.",
+      "participation": "active",
+      "formatLabel": "Single class · beginner suitable",
+      "socialReason": "Individual practice; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Buy a single-class card and separately reserve this session; a card purchase alone does not reserve a place. Bring a mandatory towel or rent one for€2.50.",
+      "language": "The booking site is in English; teaching language not stated. Confirm if needed.",
+      "bookingUrl": "https://www.equalyoga.com/reserve/",
+      "sourceUrls": [
+        "https://www.equalyoga.com/reserve/",
+        "https://www.equalyoga.com/pricing",
+        "https://www.equalyoga.com/studios/linnaeusstraat",
+        "https://www.equalyoga.com/faq"
+      ],
+      "dateEvidence": "Exact class, date, teacher, time, duration and Amsterdam Linnaeusstraat location were shown after selecting 2026-10-26 in EQUAL’s public booking calendar.",
+      "evidence": {
+        "schedule": "EQUAL public calendar selected date 2026-10-26: Hot Fusion, 07:00–08:00, Sofia Hinteregger, 60 minutes, Ams - Linnaeusstraat; BOOK NOW button visible.",
+        "beginner": "Class description says it is good for beginners.",
+        "single_visit": "EQUAL pricing page lists a €20 single-class card valid for one year. The €25 three-class first-time offer is a bundle, not the single-class price; towel rental €2.50.",
+        "horizon": "Booking opens14days ahead; only individually observed dates throughNovember1 included.",
+        "temperature": "36°C for this class type."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 20.0,
+        "type": "single class card",
+        "from": false,
+        "note": "€20 single-class card; towel rental €2.50. Separate first-timer offer is three classes for €25.",
+        "caption": "€20; towel rental€2.50 extra if needed"
+      },
+      "arrival": "Arrive 10–15 minutes early."
+    },
+    {
+      "id": "equal-hot-pilates-linnaeusstraat-2026-10-27",
+      "title": "Hot Pilates · EQUAL Linnaeusstraat",
+      "status": "dated",
+      "start": "2026-10-27T07:00:00+01:00",
+      "end": "2026-10-27T08:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Yoga & mindful movement",
+      "area": "Amsterdam East / Linnaeusstraat",
+      "venue": "EQUAL Linnaeusstraat",
+      "address": "Linnaeusstraat 30, 1092 CL Amsterdam",
+      "description": "One-hour Hot Pilates session in a 32°C heated room. Independent single-class attendance is available.",
+      "participation": "active",
+      "formatLabel": "Single class · beginner suitable",
+      "socialReason": "Individual practice; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Buy a single-class card and separately reserve this session; a card purchase alone does not reserve a place. Bring a mandatory towel or rent one for€2.50.",
+      "language": "The booking site is in English; teaching language not stated. Confirm if needed.",
+      "bookingUrl": "https://www.equalyoga.com/reserve/",
+      "sourceUrls": [
+        "https://www.equalyoga.com/reserve/",
+        "https://www.equalyoga.com/pricing",
+        "https://www.equalyoga.com/studios/linnaeusstraat",
+        "https://www.equalyoga.com/faq"
+      ],
+      "dateEvidence": "Exact class, date, teacher, time, duration and Amsterdam Linnaeusstraat location were shown after selecting 2026-10-27 in EQUAL’s public booking calendar.",
+      "evidence": {
+        "schedule": "EQUAL public calendar selected date 2026-10-27: Hot Pilates, 07:00–08:00, Petri Anne van Dijk, 60 minutes, Ams - Linnaeusstraat; BOOK NOW button visible.",
+        "beginner": "Class description welcomes people new to Pilates.",
+        "single_visit": "EQUAL pricing page lists a €20 single-class card valid for one year. The €25 three-class first-time offer is a bundle, not the single-class price; towel rental €2.50.",
+        "horizon": "Booking opens14days ahead; only individually observed dates throughNovember1 included.",
+        "temperature": "32°C for this class type."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 20.0,
+        "type": "single class card",
+        "from": false,
+        "note": "€20 single-class card; towel rental €2.50. Separate first-timer offer is three classes for €25.",
+        "caption": "€20; towel rental€2.50 extra if needed"
+      },
+      "arrival": "Arrive 10–15 minutes early."
+    },
+    {
+      "id": "equal-hot-fusion-linnaeusstraat-2026-10-28",
+      "title": "Hot Fusion · EQUAL Linnaeusstraat",
+      "status": "dated",
+      "start": "2026-10-28T07:00:00+01:00",
+      "end": "2026-10-28T08:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Yoga & mindful movement",
+      "area": "Amsterdam East / Linnaeusstraat",
+      "venue": "EQUAL Linnaeusstraat",
+      "address": "Linnaeusstraat 30, 1092 CL Amsterdam",
+      "description": "One-hour Hot Fusion session in a 36°C heated room. Independent single-class attendance is available.",
+      "participation": "active",
+      "formatLabel": "Single class · beginner suitable",
+      "socialReason": "Individual practice; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Buy a single-class card and separately reserve this session; a card purchase alone does not reserve a place. Bring a mandatory towel or rent one for€2.50.",
+      "language": "The booking site is in English; teaching language not stated. Confirm if needed.",
+      "bookingUrl": "https://www.equalyoga.com/reserve/",
+      "sourceUrls": [
+        "https://www.equalyoga.com/reserve/",
+        "https://www.equalyoga.com/pricing",
+        "https://www.equalyoga.com/studios/linnaeusstraat",
+        "https://www.equalyoga.com/faq"
+      ],
+      "dateEvidence": "Exact class, date, teacher, time, duration and Amsterdam Linnaeusstraat location were shown after selecting 2026-10-28 in EQUAL’s public booking calendar.",
+      "evidence": {
+        "schedule": "EQUAL public calendar selected date 2026-10-28: Hot Fusion, 07:00–08:00, Flean Holdert, 60 minutes, Ams - Linnaeusstraat; BOOK NOW button visible.",
+        "beginner": "Class description says it is good for beginners.",
+        "single_visit": "EQUAL pricing page lists a €20 single-class card valid for one year. The €25 three-class first-time offer is a bundle, not the single-class price; towel rental €2.50.",
+        "horizon": "Booking opens14days ahead; only individually observed dates throughNovember1 included.",
+        "temperature": "36°C for this class type."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 20.0,
+        "type": "single class card",
+        "from": false,
+        "note": "€20 single-class card; towel rental €2.50. Separate first-timer offer is three classes for €25.",
+        "caption": "€20; towel rental€2.50 extra if needed"
+      },
+      "arrival": "Arrive 10–15 minutes early."
+    },
+    {
+      "id": "equal-hot-pilates-linnaeusstraat-2026-10-29",
+      "title": "Hot Pilates · EQUAL Linnaeusstraat",
+      "status": "dated",
+      "start": "2026-10-29T08:30:00+01:00",
+      "end": "2026-10-29T09:30:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Yoga & mindful movement",
+      "area": "Amsterdam East / Linnaeusstraat",
+      "venue": "EQUAL Linnaeusstraat",
+      "address": "Linnaeusstraat 30, 1092 CL Amsterdam",
+      "description": "One-hour Hot Pilates session in a 32°C heated room. Independent single-class attendance is available.",
+      "participation": "active",
+      "formatLabel": "Single class · beginner suitable",
+      "socialReason": "Individual practice; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Buy a single-class card and separately reserve this session; a card purchase alone does not reserve a place. Bring a mandatory towel or rent one for€2.50.",
+      "language": "The booking site is in English; teaching language not stated. Confirm if needed.",
+      "bookingUrl": "https://www.equalyoga.com/reserve/",
+      "sourceUrls": [
+        "https://www.equalyoga.com/reserve/",
+        "https://www.equalyoga.com/pricing",
+        "https://www.equalyoga.com/studios/linnaeusstraat",
+        "https://www.equalyoga.com/faq"
+      ],
+      "dateEvidence": "Exact class, date, teacher, time, duration and Amsterdam Linnaeusstraat location were shown after selecting 2026-10-29 in EQUAL’s public booking calendar.",
+      "evidence": {
+        "schedule": "EQUAL public calendar selected date 2026-10-29: Hot Pilates, 08:30–09:30, Daniel Kemna, 60 minutes, Ams - Linnaeusstraat; BOOK NOW button visible.",
+        "beginner": "Class description welcomes people new to Pilates.",
+        "single_visit": "EQUAL pricing page lists a €20 single-class card valid for one year. The €25 three-class first-time offer is a bundle, not the single-class price; towel rental €2.50.",
+        "horizon": "Booking opens14days ahead; only individually observed dates throughNovember1 included.",
+        "temperature": "32°C for this class type."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 20.0,
+        "type": "single class card",
+        "from": false,
+        "note": "€20 single-class card; towel rental €2.50. Separate first-timer offer is three classes for €25.",
+        "caption": "€20; towel rental€2.50 extra if needed"
+      },
+      "arrival": "Arrive 10–15 minutes early."
+    },
+    {
+      "id": "equal-hot-fusion-linnaeusstraat-2026-10-30",
+      "title": "Hot Fusion · EQUAL Linnaeusstraat",
+      "status": "dated",
+      "start": "2026-10-30T07:00:00+01:00",
+      "end": "2026-10-30T08:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Yoga & mindful movement",
+      "area": "Amsterdam East / Linnaeusstraat",
+      "venue": "EQUAL Linnaeusstraat",
+      "address": "Linnaeusstraat 30, 1092 CL Amsterdam",
+      "description": "One-hour Hot Fusion session in a 36°C heated room. Independent single-class attendance is available.",
+      "participation": "active",
+      "formatLabel": "Single class · beginner suitable",
+      "socialReason": "Individual practice; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Buy a single-class card and separately reserve this session; a card purchase alone does not reserve a place. Bring a mandatory towel or rent one for€2.50.",
+      "language": "The booking site is in English; teaching language not stated. Confirm if needed.",
+      "bookingUrl": "https://www.equalyoga.com/reserve/",
+      "sourceUrls": [
+        "https://www.equalyoga.com/reserve/",
+        "https://www.equalyoga.com/pricing",
+        "https://www.equalyoga.com/studios/linnaeusstraat",
+        "https://www.equalyoga.com/faq"
+      ],
+      "dateEvidence": "Exact class, date, teacher, time, duration and Amsterdam Linnaeusstraat location were shown after selecting 2026-10-30 in EQUAL’s public booking calendar.",
+      "evidence": {
+        "schedule": "EQUAL public calendar selected date 2026-10-30: Hot Fusion, 07:00–08:00, Susanna Sottili, 60 minutes, Ams - Linnaeusstraat; BOOK NOW button visible.",
+        "beginner": "Class description says it is good for beginners.",
+        "single_visit": "EQUAL pricing page lists a €20 single-class card valid for one year. The €25 three-class first-time offer is a bundle, not the single-class price; towel rental €2.50.",
+        "horizon": "Booking opens14days ahead; only individually observed dates throughNovember1 included.",
+        "temperature": "36°C for this class type."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 20.0,
+        "type": "single class card",
+        "from": false,
+        "note": "€20 single-class card; towel rental €2.50. Separate first-timer offer is three classes for €25.",
+        "caption": "€20; towel rental€2.50 extra if needed"
+      },
+      "arrival": "Arrive 10–15 minutes early."
+    },
+    {
+      "id": "equal-hot-fusion-linnaeusstraat-2026-10-31",
+      "title": "Hot Fusion · EQUAL Linnaeusstraat",
+      "status": "dated",
+      "start": "2026-10-31T10:00:00+01:00",
+      "end": "2026-10-31T11:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Yoga & mindful movement",
+      "area": "Amsterdam East / Linnaeusstraat",
+      "venue": "EQUAL Linnaeusstraat",
+      "address": "Linnaeusstraat 30, 1092 CL Amsterdam",
+      "description": "One-hour Hot Fusion session in a 36°C heated room. Independent single-class attendance is available.",
+      "participation": "active",
+      "formatLabel": "Single class · beginner suitable",
+      "socialReason": "Individual practice; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Buy a single-class card and separately reserve this session; a card purchase alone does not reserve a place. Bring a mandatory towel or rent one for€2.50.",
+      "language": "The booking site is in English; teaching language not stated. Confirm if needed.",
+      "bookingUrl": "https://www.equalyoga.com/reserve/",
+      "sourceUrls": [
+        "https://www.equalyoga.com/reserve/",
+        "https://www.equalyoga.com/pricing",
+        "https://www.equalyoga.com/studios/linnaeusstraat",
+        "https://www.equalyoga.com/faq"
+      ],
+      "dateEvidence": "Exact class, date, teacher, time, duration and Amsterdam Linnaeusstraat location were shown after selecting 2026-10-31 in EQUAL’s public booking calendar.",
+      "evidence": {
+        "schedule": "EQUAL public calendar selected date 2026-10-31: Hot Fusion, 10:00–11:00, Flean Holdert, 60 minutes, Ams - Linnaeusstraat; BOOK NOW button visible.",
+        "beginner": "Class description says it is good for beginners.",
+        "single_visit": "EQUAL pricing page lists a €20 single-class card valid for one year. The €25 three-class first-time offer is a bundle, not the single-class price; towel rental €2.50.",
+        "horizon": "Booking opens14days ahead; only individually observed dates throughNovember1 included.",
+        "temperature": "36°C for this class type."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 20.0,
+        "type": "single class card",
+        "from": false,
+        "note": "€20 single-class card; towel rental €2.50. Separate first-timer offer is three classes for €25.",
+        "caption": "€20; towel rental€2.50 extra if needed"
+      },
+      "arrival": "Arrive 10–15 minutes early."
+    },
+    {
+      "id": "equal-hot-fusion-linnaeusstraat-2026-11-01",
+      "title": "Hot Fusion · EQUAL Linnaeusstraat",
+      "status": "dated",
+      "start": "2026-11-01T08:30:00+01:00",
+      "end": "2026-11-01T09:30:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Yoga & mindful movement",
+      "area": "Amsterdam East / Linnaeusstraat",
+      "venue": "EQUAL Linnaeusstraat",
+      "address": "Linnaeusstraat 30, 1092 CL Amsterdam",
+      "description": "One-hour Hot Fusion session in a 36°C heated room. Independent single-class attendance is available.",
+      "participation": "active",
+      "formatLabel": "Single class · beginner suitable",
+      "socialReason": "Individual practice; conversation may happen before or after. No structured introductions are listed. (Assessment.)",
+      "attendance": "Buy a single-class card and separately reserve this session; a card purchase alone does not reserve a place. Bring a mandatory towel or rent one for€2.50.",
+      "language": "The booking site is in English; teaching language not stated. Confirm if needed.",
+      "bookingUrl": "https://www.equalyoga.com/reserve/",
+      "sourceUrls": [
+        "https://www.equalyoga.com/reserve/",
+        "https://www.equalyoga.com/pricing",
+        "https://www.equalyoga.com/studios/linnaeusstraat",
+        "https://www.equalyoga.com/faq"
+      ],
+      "dateEvidence": "Exact class, date, teacher, time, duration and Amsterdam Linnaeusstraat location were shown after selecting 2026-11-01 in EQUAL’s public booking calendar.",
+      "evidence": {
+        "schedule": "EQUAL public calendar selected date 2026-11-01: Hot Fusion, 08:30–09:30, Robbert van Driel, 60 minutes, Ams - Linnaeusstraat; BOOK NOW button visible.",
+        "beginner": "Class description says it is good for beginners.",
+        "single_visit": "EQUAL pricing page lists a €20 single-class card valid for one year. The €25 three-class first-time offer is a bundle, not the single-class price; towel rental €2.50.",
+        "horizon": "Booking opens14days ahead; only individually observed dates throughNovember1 included.",
+        "temperature": "36°C for this class type."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked.",
+        "Teaching language was not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 20.0,
+        "type": "single class card",
+        "from": false,
+        "note": "€20 single-class card; towel rental €2.50. Separate first-timer offer is three classes for €25.",
+        "caption": "€20; towel rental€2.50 extra if needed"
+      },
+      "arrival": "Arrive 10–15 minutes early."
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-adc-public-schedule-2026-10-18",
+      "title": "Amsterdam Dance Centre — public Trainin weekly schedule (selected Oct 26–Nov 29 weeks)",
+      "url": "https://adc.trainin.app/widget/schedule",
+      "type": "Organizer booking calendar",
+      "evidence": "Rendered in installed Chromium. Selected week dates Oct 26, Nov 2, Nov 9, Nov 16, and Nov 23 via the public date picker. Each showed a full 7-day schedule with exact date, time, duration, class title, instructor, studio, and Aanmelden controls. Only listed beginner/basic/open-level classes were selected; intermediate/advanced classes omitted.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "src-adc-single-class-price-2026-10-18",
+      "title": "Amsterdam Dance Centre — adult single class price and first-visit information",
+      "url": "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+      "type": "Organizer FAQ",
+      "evidence": "Adult FAQ lists €22.50 per single class without membership and advises first-time visitors to arrive about 30 minutes early; desk payment is PIN.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "src-equal-public-calendar-2026-10-18",
+      "title": "EQUAL — public Amsterdam booking calendar, dates Oct 20–Nov 1",
+      "url": "https://www.equalyoga.com/reserve/",
+      "type": "Organizer booking calendar",
+      "evidence": "Rendered in installed Chromium. Selected each published date Oct 20–Nov 1 using the visible day selector; cards showed exact class title, instructor, date, start/end time, duration, Amsterdam Linnaeusstraat location and BOOK NOW button. Selected only class types whose public description identified beginner suitability or whose FAQ recommended Core Flow to beginners. Calendar displayed Amsterdam GMT+2 before Oct 25 and GMT+1 from Oct 25 onward.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "src-equal-price-2026-10-18",
+      "title": "EQUAL — current pricing and Linnaeusstraat details",
+      "url": "https://www.equalyoga.com/pricing",
+      "type": "Organizer pricing page",
+      "evidence": "Single-class card €20; towel is required for heated classes and rental is €2.50. A separate €25 first-timer offer covers three classes and is not treated as a single-class price.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "src-equal-beginners-2026-10-18",
+      "title": "EQUAL — class descriptions, FAQ and Linnaeusstraat studio",
+      "url": "https://www.equalyoga.com/studios/linnaeusstraat",
+      "type": "Organizer class and venue information",
+      "evidence": "Rendered schedule descriptions state Hot Fusion is a good class for beginners; Hot Pilates welcomes newcomers to Pilates. EQUAL adult FAQ recommends Hot Fusion/Core Flow for beginners. Linnaeusstraat address is 30, 1092 CL Amsterdam; Hot Fusion is 36°C and Hot Pilates/Core Flow 32°C.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "hundred-movement-policy-5",
+      "title": "EQUAL Linnaeusstraat · supporting policy/location",
+      "url": "https://www.equalyoga.com/faq",
+      "type": "Organizer policy or location",
+      "checkedAt": "2026-10-18",
+      "evidence": "Read alongside the dated calendar. EQUAL policy supports€20singleclass card,separate session reservation,mandatory towel/rental and branch location. Date/time proof is recorded in each event’s schedule evidence."
+    }
+  ],
+  "offers": [],
+  "priceUpdates": [],
+  "ideaReviews": [],
+  "findings": [
+    "Captured 43 additional date-specific movement classes: 30 individually published ADC sessions across five selected weekly calendars and 13 date-selected EQUAL Linnaeusstraat classes from the public Oct 20–Nov 1 horizon. No recurring dates were inferred.",
+    "ADC sessions are exact one-off calendar rows labelled beginner, basic, open level or all levels; intermediate and advanced classes were excluded. Adult single-class price €22.50 without membership.",
+    "EQUAL sessions include a published bookable class row and beginner suitability from the class description or official FAQ; single class is €20. Heated classes need a towel; €2.50 rental.",
+    "All rows are new relative to canonical events.json at capture time; no event was booked and remaining capacity was not checked."
+  ],
+  "gaps": [
+    "ADC public date picker exposed full individually published schedules for Oct 26–Nov 29, but no ADC session was added for Nov 30 in this batch.",
+    "EQUAL public date selector was observed through Nov 1 only; no later EQUAL date was inferred.",
+    "Teaching language and remaining capacity were not shown on the selected class listings."
+  ]
+}

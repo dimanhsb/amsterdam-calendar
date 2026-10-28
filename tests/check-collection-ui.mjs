@@ -1,0 +1,18 @@
+import fs from 'node:fs';
+import vm from 'node:vm';
+import assert from 'node:assert/strict';
+const app=fs.readFileSync(new URL('../app.js',import.meta.url),'utf8');
+const start=app.indexOf('function collectionOutcome('),end=app.indexOf('function renderReport()',start);
+assert.ok(start>=0&&end>start,'collection renderer exists');
+const data=JSON.parse(fs.readFileSync(new URL('../dist/data.json',import.meta.url),'utf8'));
+const elements={collectionStatus:{innerHTML:''},collectionSearch:{value:''},collectionFilter:{value:'all'},collectionCount:{textContent:''}};
+const htmlEsc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const rows=[{dataset:{collectionSearch:'station-west',collectionRoute:'configured',collectionMethod:'web-extraction',collectionAudit:'usable'}},{dataset:{collectionSearch:'other',collectionRoute:'unassessed',collectionMethod:'desktop-browser',collectionAudit:'blocked'}}];
+const ctx={data,$:s=>elements[s.slice(1)],$$:()=>rows,esc:htmlEsc,link:(url,label)=>`<a href="${htmlEsc(url)}">${htmlEsc(label)}</a>`,docLink:(url,label)=>`<a>${htmlEsc(label)}</a>`};
+vm.createContext(ctx);vm.runInContext(app.slice(start,end)+'\nrenderCollection();',ctx);
+const html=elements.collectionStatus.innerHTML;
+assert.match(html,/Research order/);assert.match(html,/Run configured code collectors/);assert.match(html,/Luna fallback candidates/);assert.match(html,/Harder or access-limited cases/);assert.match(html,/Discover new sources/);assert.match(html,/Station West music workshops/);assert.match(html,/Buurtkamer Corantijn activities/);assert.match(html,/Unreviewed source leads/);assert.match(html,/last successful run/);assert.match(html,/Article lead · event date unverified/);assert.match(html,/not assessed for automation/);assert.match(html,/Held:/);
+assert.equal((html.match(/data-collection-search=/g)||[]).length,data.collectionStatus.websites.length);
+elements.collectionFilter.value='configured';vm.runInContext('filterCollection()',ctx);assert.equal(rows[0].hidden,false);assert.equal(rows[1].hidden,true);assert.equal(elements.collectionCount.textContent,'1 website');
+elements.collectionFilter.value='access';vm.runInContext('filterCollection()',ctx);assert.equal(rows[0].hidden,true);assert.equal(rows[1].hidden,false);
+console.log(`PASS: collection page renders ${data.collectionStatus.websites.length} source websites, candidate provenance, held leads and filters.`);

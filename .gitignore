@@ -1,0 +1,19 @@
+node_modules/
+.env*
+*.tar.gz
+*.log
+.DS_Store
+
+__pycache__/
+
+# Public source snapshots are local-only, never deployed or committed.
+.collector-cache/
+
+# Keep private local material out of every checkout.
+.private/
+
+# Local cloud credentials and configuration.
+.aws/
+
+# Separate public-release preparation workspace.
+.public-preparation/

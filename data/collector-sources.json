@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "description": "Explicitly enabled public collection entry points. Evidence URLs and other leads remain in the separate inventory until assessed.",
+  "sources": [
+    {
+      "id": "station-west-music",
+      "name": "Station West music workshops",
+      "url": "https://station-west.amsterdam/msc/",
+      "adapter": "station_west_calendar",
+      "minDelaySeconds": 1,
+      "enabled": true,
+      "note": "Extract dated links and calendar text; verify availability, language and admission before import."
+    },
+    {
+      "id": "buurtkamer-corantijn-activities",
+      "name": "Buurtkamer Corantijn activities",
+      "url": "https://www.buurtkamercorantijn.nl/category/activiteiten/",
+      "adapter": "wordpress_articles",
+      "minDelaySeconds": 1,
+      "enabled": true,
+      "note": "Extract article leads and publication dates; article dates are not event dates."
+    },
+    {
+      "id": "oba-full-agenda",
+      "name": "OBA full agenda",
+      "url": "https://oba.nl/nl/agenda/volledige-agenda",
+      "adapter": "oba_agenda_links",
+      "minDelaySeconds": 1,
+      "enabled": true,
+      "note": "Discover public OBA agenda detail links only. Dates, locations, attendance and prices require individual review; page navigation may limit coverage."
+    },
+    {
+      "id": "pakhuis-agenda",
+      "name": "Pakhuis de Zwijger agenda",
+      "url": "https://dezwijger.nl/agenda",
+      "adapter": "pakhuis_agenda_links",
+      "minDelaySeconds": 1,
+      "enabled": true,
+      "note": "Discover public programme links only; date, language and single-visit details need review."
+    },
+    {
+      "id": "boomsspijker-wijkconnect",
+      "name": "De Boomsspijker on WijkConnect",
+      "url": "https://www.wijkconnect.com/amsterdam/organisaties/8345/huis-van-de-buurt-de-boomsspijker/agenda_items/slides",
+      "adapter": "wijkconnect_agenda_links",
+      "minDelaySeconds": 1,
+      "enabled": true,
+      "note": "Discover agenda-detail links only; check the exact date and drop-in access before use."
+    }
+  ]
+}

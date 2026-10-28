@@ -1,0 +1,194 @@
+{
+  "offline-hangout-2026-11-19": {
+    "title": "Offline Hangout + Speedfriending · GenZ edition",
+    "sourceUrls": [
+      "https://activiteiten.amsterdam.nl/activiteiten/2026/11/offline-hangout-speedfriending-nieuw/",
+      "https://luma.com/offline-hangout-gemeente-amsterdam-2"
+    ],
+    "dateEvidence": "Organizer registration confirms date; stale city body noted",
+    "evidence": {
+      "date_time": "Official municipal event listing explicitly states 19 November 2026, 19:00–22:00.",
+      "schedule": "Me-time 19:30–20:30; connection and speedfriending 20:30–21:45.",
+      "eligibility": "Targeted at young people and young adults; exact age limits not stated.",
+      "date_resolution": "Organizer registration explicitly says Thursday 19 November, 19:00–22:00: https://luma.com/offline-hangout-gemeente-amsterdam-2; municipal body still mentions Nov4."
+    },
+    "uncertainties": [
+      "The listing frames this for young people and young adults; exact age limits are not stated.",
+      "Municipal body text mentions Nov4; organizer registration confirms Nov19.",
+      "€2.50 / Stadspas concession is from municipal listing; confirm checkout total."
+    ],
+    "attendance": "GenZ edition aimed at Amsterdam youth and young adults; exact age limits unstated. Advance registration indicated."
+  },
+  "boom-sketch-workshop-2026-11-22": {
+    "description": "A one-day sketch workshop aimed at improvisers turning existing improv skills into written comedy.",
+    "attendance": "One-day workshop with lunch break; booking required. Intended for improvisers; complete-beginner fit is unconfirmed.",
+    "uncertainties": [
+      "No script or prior sketch experience is required, but the description assumes an improviser audience; check absolute-beginner suitability.",
+      "Fee and delivery language not stated on the opened listing."
+    ],
+    "evidence": {
+      "date": "Organizer lists Sunday, November 22, 11:00–18:00.",
+      "beginner": "No script or previous sketch experience is required, but the description addresses improvisers; absolute-beginner fit is not established.",
+      "single_session": "One-day workshop.",
+      "social_movement": "Exercises translate participant ideas into sketches and build on each other."
+    }
+  },
+  "wildeman-walk-2026-11-02": {
+    "title": "Wandelgroep Wildeman · older-adult neighborhood walk"
+  },
+  "wildeman-walk-2026-11-30": {
+    "title": "Wandelgroep Wildeman · older-adult neighborhood walk"
+  },
+  "tva-improv-trial-2026-11-24": {
+    "price": {
+      "amount": 10.25,
+      "type": "paid",
+      "from": false,
+      "note": "€10 plus €0.25 ticket service fee.",
+      "caption": "€10.25 incl. fee"
+    }
+  },
+  "studio-koekoek-2026-10-28-1830-knitwear": {
+    "evidence": {
+      "browserMethod": "Official product page returned HTTP 403 in Chromium; exact date, time, price and stock shown in organizer listing/indexed page.",
+      "observed_date": "2026-10-28",
+      "observed_start": "18:30 Europe/Amsterdam",
+      "observed_price": "€65",
+      "observed_availability": "Add to cart",
+      "source_url": "https://studio-koekoek.com/product-category/workshops/workshops-with-seats/",
+      "method_clarification": "Full official catalogue accessed via web extraction(crawled18Oct2026); Chromium403. Current inventory could not be checked."
+    },
+    "dateEvidence": "Exact date/time in full official catalogue or product page via web extraction; rendered browser403."
+  },
+  "studio-koekoek-2026-10-31-1000-sashiko": {
+    "evidence": {
+      "browserMethod": "Official product page returned HTTP 403 in Chromium; exact date, time, price and stock shown in organizer listing/indexed page.",
+      "observed_date": "2026-10-31",
+      "observed_start": "10:00 Europe/Amsterdam",
+      "observed_price": "€69",
+      "observed_availability": "Add to cart",
+      "source_url": "https://studio-koekoek.com/product-category/workshops/workshops-with-seats/",
+      "method_clarification": "Full official catalogue accessed via web extraction(crawled18Oct2026); Chromium403. Current inventory could not be checked."
+    },
+    "dateEvidence": "Exact date/time in full official catalogue or product page via web extraction; rendered browser403.",
+    "availability": "sold-out",
+    "uncertainties": [
+      "Chromium navigation to official shop returned HTTP 403.",
+      "Full official catalogue currently marks this exact morning session out of stock."
+    ],
+    "attendance": "Full official catalogue marks this morning session out of stock; recheck organiser for cancellations or a new date."
+  },
+  "studio-koekoek-2026-10-31-1400-ton-sur-ton": {
+    "evidence": {
+      "browserMethod": "Official product page returned HTTP 403 in Chromium; exact date, time, price and stock shown in organizer listing/indexed page.",
+      "observed_date": "2026-10-31",
+      "observed_start": "14:00 Europe/Amsterdam",
+      "observed_price": "€69",
+      "observed_availability": "Add to cart",
+      "source_url": "https://studio-koekoek.com/shop/workshops/31-october-2026-1400-workshop-ton-sur-ton-embroidery-satin-stitch-2-5-hour-workshop-free-hand-embroidery-workshop-in-amsterdam/",
+      "method_clarification": "Full official catalogue accessed via web extraction(crawled18Oct2026); Chromium403. Current inventory could not be checked."
+    },
+    "dateEvidence": "Conflicting event identity: catalogue says Sashiko; separate same-time product says Ton-sur-ton.",
+    "status": "lead",
+    "start": null,
+    "end": null,
+    "proposedDate": "2026-10-31",
+    "uncertainties": [
+      "Chromium navigation to official shop returned HTTP 403.",
+      "Two official listings conflict about the workshop at this time; not counted or exported until resolved."
+    ]
+  },
+  "studio-koekoek-2026-11-13-1400-pimp": {
+    "evidence": {
+      "browserMethod": "Attempted rendered Chromium navigation (403); read exact date/time/price/stock from official organizer indexed product listing.",
+      "observed_date": "2026-11-13",
+      "observed_start": "14:00 Europe/Amsterdam",
+      "source_url": "https://studio-koekoek.com/product-category/workshops/workshops-with-seats/",
+      "observed_price": "€65",
+      "observed_availability": "Add to cart",
+      "method_clarification": "Full official catalogue accessed via web extraction(crawled18Oct2026); Chromium403. Current inventory could not be checked."
+    },
+    "dateEvidence": "Exact date/time in full official catalogue or product page via web extraction; rendered browser403."
+  },
+  "studio-koekoek-2026-11-14-1000-sashiko": {
+    "evidence": {
+      "browserMethod": "Attempted rendered Chromium navigation (403); read exact date/time/price/stock from official organizer indexed product listing.",
+      "observed_date": "2026-11-14",
+      "observed_start": "10:00 Europe/Amsterdam",
+      "source_url": "https://studio-koekoek.com/product-category/workshops/workshops-with-seats/",
+      "observed_price": "€69",
+      "observed_availability": "Add to cart",
+      "method_clarification": "Full official catalogue accessed via web extraction(crawled18Oct2026); Chromium403. Current inventory could not be checked."
+    },
+    "dateEvidence": "Exact date/time in full official catalogue or product page via web extraction; rendered browser403."
+  },
+  "studio-koekoek-2026-11-25-1830-sashiko": {
+    "evidence": {
+      "browserMethod": "Attempted rendered Chromium navigation (403); read exact date/time/price/stock from official organizer indexed product listing.",
+      "observed_date": "2026-11-25",
+      "observed_start": "18:30 Europe/Amsterdam",
+      "source_url": "https://studio-koekoek.com/product-category/workshops/workshops-with-seats/",
+      "observed_price": "€69",
+      "observed_availability": "Add to cart",
+      "method_clarification": "Full official catalogue accessed via web extraction(crawled18Oct2026); Chromium403. Current inventory could not be checked."
+    },
+    "dateEvidence": "Exact occurrence not recovered from the current full catalogue.",
+    "status": "lead",
+    "start": null,
+    "end": null,
+    "proposedDate": "2026-11-25",
+    "uncertainties": [
+      "Chromium navigation to official shop returned HTTP 403; data was visible in official indexed product listing.",
+      "Nov25 date appears in indexed detail but was absent from current opened catalogue; keep as lead until exact product listing is accessible."
+    ]
+  },
+  "studio-koekoek-2026-11-27-1400-ornament": {
+    "evidence": {
+      "browserMethod": "Attempted rendered Chromium navigation (403); read exact date/time/price/stock from official organizer indexed product listing.",
+      "observed_date": "2026-11-27",
+      "observed_start": "14:00 Europe/Amsterdam",
+      "source_url": "https://studio-koekoek.com/product-category/workshops/workshops-with-seats/",
+      "observed_price": "€75",
+      "observed_availability": "Out of stock",
+      "method_clarification": "Full official catalogue accessed via web extraction(crawled18Oct2026); Chromium403. Current inventory could not be checked."
+    },
+    "dateEvidence": "Exact date/time in full official catalogue or product page via web extraction; rendered browser403.",
+    "availability": "conflict",
+    "uncertainties": [
+      "Chromium navigation to official shop returned HTTP 403; data was visible in official indexed product listing.",
+      "Conflicting availability: earlier official product evidence said out of stock; full catalogue now shows Add to cart. Confirm with organizer; excluded from export."
+    ],
+    "attendance": "Availability conflicts: one official listing says out of stock and another shows Add to cart. Confirm with organiser; excluded from calendar export."
+  },
+  "studio-koekoek-2026-11-28-1000-pimp": {
+    "evidence": {
+      "browserMethod": "Attempted rendered Chromium navigation (403); read exact date/time/price/stock from official organizer indexed product listing.",
+      "observed_date": "2026-11-28",
+      "observed_start": "10:00 Europe/Amsterdam",
+      "source_url": "https://studio-koekoek.com/product-category/workshops/workshops-with-seats/",
+      "observed_price": "€65",
+      "observed_availability": "Add to cart",
+      "method_clarification": "Full official catalogue accessed via web extraction(crawled18Oct2026); Chromium403. Current inventory could not be checked."
+    },
+    "dateEvidence": "Exact date/time in full official catalogue or product page via web extraction; rendered browser403."
+  },
+  "studio-koekoek-2026-11-28-1400-sashiko": {
+    "evidence": {
+      "browserMethod": "Attempted rendered Chromium navigation (403); read exact date/time/price/stock from official organizer indexed product listing.",
+      "observed_date": "2026-11-28",
+      "observed_start": "14:00 Europe/Amsterdam",
+      "source_url": "https://studio-koekoek.com/product-category/workshops/workshops-with-seats/",
+      "observed_price": "€69",
+      "observed_availability": "Add to cart",
+      "method_clarification": "Full official catalogue accessed via web extraction(crawled18Oct2026); Chromium403. Current inventory could not be checked."
+    },
+    "dateEvidence": "Exact date/time in full official catalogue or product page via web extraction; rendered browser403."
+  },
+  "mezrab-tell-then-show-2026-11-29": {
+    "attendance": "Bring a song,a short video and a book if sharing,with the story behind each choice. Listening is also welcome; donation entry.",
+    "description": "Open storytelling with the stories behind participants’ songs,clips and books. Sharing is optional; English.",
+    "uncertainties": [
+      "End time not published. Remaining capacity unchecked; food and drinks separate."
+    ]
+  }
+}

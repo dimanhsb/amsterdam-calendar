@@ -1,0 +1,274 @@
+[
+  {
+    "id": "20261028T175204646322Z",
+    "startedAt": "2026-10-28T17:52:04+00:00",
+    "completedAt": "2026-10-28T17:52:07+00:00",
+    "windowStart": "2026-10-28",
+    "windowEnd": "2026-11-24",
+    "preview": true,
+    "outcome": "partial",
+    "sources": [
+      {
+        "sourceId": "station-west-music",
+        "name": "Station West music workshops",
+        "outcome": "fetch_error",
+        "candidateCount": 0,
+        "httpStatus": null,
+        "message": "URLError: <urlopen error [Errno 111] Connection refused>"
+      },
+      {
+        "sourceId": "buurtkamer-corantijn-activities",
+        "name": "Buurtkamer Corantijn activities",
+        "outcome": "success",
+        "candidateCount": 20,
+        "httpStatus": 200,
+        "message": "Fetched and parsed public HTML; candidates require review."
+      },
+      {
+        "sourceId": "oba-full-agenda",
+        "name": "OBA full agenda",
+        "outcome": "robots_unavailable",
+        "candidateCount": 0,
+        "httpStatus": 429,
+        "message": "Could not verify robots.txt (HTTP 429). Retry deferred by server backoff."
+      },
+      {
+        "sourceId": "pakhuis-agenda",
+        "name": "Pakhuis de Zwijger agenda",
+        "outcome": "success",
+        "candidateCount": 19,
+        "httpStatus": 200,
+        "message": "Fetched and parsed public HTML; candidates require review."
+      },
+      {
+        "sourceId": "boomsspijker-wijkconnect",
+        "name": "De Boomsspijker on WijkConnect",
+        "outcome": "success",
+        "candidateCount": 50,
+        "httpStatus": 200,
+        "message": "Fetched and parsed public HTML; candidates require review."
+      }
+    ],
+    "candidateCount": 89,
+    "luna": {
+      "status": "unavailable",
+      "limit": 20,
+      "queued": 20,
+      "skippedByLimit": 69,
+      "message": "No standalone Luna runner is configured; candidates remain unreviewed."
+    },
+    "terra": {
+      "status": "not_run",
+      "limit": 2,
+      "used": 0
+    },
+    "eventsAdded": 0,
+    "eventsUpdated": 0,
+    "publication": "not_attempted",
+    "message": "Collection only: no candidate was imported or published. Site publishing requires the Sites session workflow."
+  },
+  {
+    "id": "20261028T181608524771Z",
+    "startedAt": "2026-10-28T18:16:08+00:00",
+    "completedAt": "2026-10-28T18:16:10+00:00",
+    "windowStart": "2026-10-28",
+    "windowEnd": "2026-11-24",
+    "preview": false,
+    "outcome": "partial",
+    "sources": [
+      {
+        "sourceId": "station-west-music",
+        "name": "Station West music workshops",
+        "outcome": "fetch_error",
+        "candidateCount": 0,
+        "httpStatus": null,
+        "message": "URLError: <urlopen error [Errno 111] Connection refused>"
+      },
+      {
+        "sourceId": "buurtkamer-corantijn-activities",
+        "name": "Buurtkamer Corantijn activities",
+        "outcome": "success",
+        "candidateCount": 20,
+        "httpStatus": 200,
+        "message": "Fetched and parsed public HTML; candidates require review."
+      },
+      {
+        "sourceId": "oba-full-agenda",
+        "name": "OBA full agenda",
+        "outcome": "robots_unavailable",
+        "candidateCount": 0,
+        "httpStatus": 429,
+        "message": "Could not verify robots.txt (HTTP 429). Retry deferred by server backoff."
+      },
+      {
+        "sourceId": "pakhuis-agenda",
+        "name": "Pakhuis de Zwijger agenda",
+        "outcome": "success",
+        "candidateCount": 19,
+        "httpStatus": 200,
+        "message": "Fetched and parsed public HTML; candidates require review."
+      },
+      {
+        "sourceId": "boomsspijker-wijkconnect",
+        "name": "De Boomsspijker on WijkConnect",
+        "outcome": "success",
+        "candidateCount": 50,
+        "httpStatus": 200,
+        "message": "Fetched and parsed public HTML; candidates require review."
+      }
+    ],
+    "candidateCount": 89,
+    "luna": {
+      "status": "unavailable",
+      "limit": 20,
+      "queued": 20,
+      "skippedByLimit": 69,
+      "message": "No standalone Luna runner is configured; candidates remain unreviewed."
+    },
+    "terra": {
+      "status": "not_run",
+      "limit": 2,
+      "used": 0
+    },
+    "eventsAdded": 0,
+    "eventsUpdated": 0,
+    "publication": "not_attempted",
+    "message": "Collection only: no candidate was imported or published. Site publishing requires the Sites session workflow."
+  },
+  {
+    "id": "20261028T181619068842Z",
+    "startedAt": "2026-10-28T18:16:19+00:00",
+    "completedAt": "2026-10-28T18:16:19+00:00",
+    "windowStart": "2026-10-28",
+    "windowEnd": "2026-11-24",
+    "preview": false,
+    "outcome": "partial",
+    "sources": [
+      {
+        "sourceId": "station-west-music",
+        "name": "Station West music workshops",
+        "outcome": "deferred_rate_limit",
+        "candidateCount": 0,
+        "httpStatus": null,
+        "message": "Polite delay: retry after 50 seconds."
+      },
+      {
+        "sourceId": "buurtkamer-corantijn-activities",
+        "name": "Buurtkamer Corantijn activities",
+        "outcome": "success",
+        "candidateCount": 20,
+        "httpStatus": 200,
+        "message": "Fetched and parsed public HTML; candidates require review."
+      },
+      {
+        "sourceId": "oba-full-agenda",
+        "name": "OBA full agenda",
+        "outcome": "deferred_rate_limit",
+        "candidateCount": 0,
+        "httpStatus": null,
+        "message": "Waiting for host request interval before robots check."
+      },
+      {
+        "sourceId": "pakhuis-agenda",
+        "name": "Pakhuis de Zwijger agenda",
+        "outcome": "success",
+        "candidateCount": 19,
+        "httpStatus": 200,
+        "message": "Fetched and parsed public HTML; candidates require review."
+      },
+      {
+        "sourceId": "boomsspijker-wijkconnect",
+        "name": "De Boomsspijker on WijkConnect",
+        "outcome": "success",
+        "candidateCount": 50,
+        "httpStatus": 200,
+        "message": "Fetched and parsed public HTML; candidates require review."
+      }
+    ],
+    "candidateCount": 89,
+    "luna": {
+      "status": "unavailable",
+      "limit": 20,
+      "queued": 20,
+      "skippedByLimit": 69,
+      "message": "No standalone Luna runner is configured; candidates remain unreviewed."
+    },
+    "terra": {
+      "status": "not_run",
+      "limit": 2,
+      "used": 0
+    },
+    "eventsAdded": 0,
+    "eventsUpdated": 0,
+    "publication": "not_attempted",
+    "message": "Collection only: no candidate was imported or published. Site publishing requires the Sites session workflow."
+  },
+  {
+    "id": "20261028T181648206864Z",
+    "startedAt": "2026-10-28T18:16:48+00:00",
+    "completedAt": "2026-10-28T18:16:49+00:00",
+    "windowStart": "2026-10-28",
+    "windowEnd": "2026-11-24",
+    "preview": false,
+    "outcome": "partial",
+    "sources": [
+      {
+        "sourceId": "station-west-music",
+        "name": "Station West music workshops",
+        "outcome": "deferred_rate_limit",
+        "candidateCount": 0,
+        "httpStatus": null,
+        "message": "Polite delay: retry after 21 seconds."
+      },
+      {
+        "sourceId": "buurtkamer-corantijn-activities",
+        "name": "Buurtkamer Corantijn activities",
+        "outcome": "success",
+        "candidateCount": 20,
+        "httpStatus": 200,
+        "message": "Fetched and parsed public HTML; candidates require review."
+      },
+      {
+        "sourceId": "oba-full-agenda",
+        "name": "OBA full agenda",
+        "outcome": "deferred_rate_limit",
+        "candidateCount": 0,
+        "httpStatus": null,
+        "message": "Waiting for host request interval before robots check."
+      },
+      {
+        "sourceId": "pakhuis-agenda",
+        "name": "Pakhuis de Zwijger agenda",
+        "outcome": "success",
+        "candidateCount": 19,
+        "httpStatus": 200,
+        "message": "Fetched and parsed public HTML; candidates require review."
+      },
+      {
+        "sourceId": "boomsspijker-wijkconnect",
+        "name": "De Boomsspijker on WijkConnect",
+        "outcome": "success",
+        "candidateCount": 50,
+        "httpStatus": 200,
+        "message": "Fetched and parsed public HTML; candidates require review."
+      }
+    ],
+    "candidateCount": 89,
+    "luna": {
+      "status": "unavailable",
+      "limit": 20,
+      "queued": 20,
+      "skippedByLimit": 69,
+      "message": "No standalone Luna runner is configured; candidates remain unreviewed."
+    },
+    "terra": {
+      "status": "not_run",
+      "limit": 2,
+      "used": 0
+    },
+    "eventsAdded": 0,
+    "eventsUpdated": 0,
+    "publication": "not_attempted",
+    "message": "Collection only: no candidate was imported or published. Site publishing requires the Sites session workflow."
+  }
+]

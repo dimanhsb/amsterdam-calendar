@@ -1,0 +1,1141 @@
+{
+  "checkedAt": "2026-10-18",
+  "events": [
+    {
+      "id": "deep-amsterdice-2026-11-29",
+      "title": "Amsterdice Board Game Sunday",
+      "status": "dated",
+      "start": "2026-11-29T13:00:00+01:00",
+      "end": "2026-11-29T22:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Board games",
+      "area": "Oost",
+      "venue": "House of Watt",
+      "address": "James Wattstraat 73, 1097 DL Amsterdam",
+      "description": "Hosted board-game day with a library of 300+ games, Play & Win, and tables for newcomers.",
+      "participation": "group",
+      "formatLabel": "Board-game day",
+      "socialReason": "A shared table and organizers who can connect solo visitors make conversation easy. (Editorial assessment.)",
+      "attendance": "Solo visitors explicitly welcome; sign-up link is provided; drop-in at any time is described by organizer.",
+      "language": "Meetup listing and organizer page in English; event language not explicitly guaranteed.",
+      "bookingUrl": "https://www.meetup.com/nl-nl/amsterdice-boardgameclub/events/316179819/",
+      "sourceUrls": [
+        "https://www.meetup.com/nl-nl/amsterdice-boardgameclub/events/316179819/",
+        "https://www.amsterdice.nl/evenementen/"
+      ],
+      "dateEvidence": "Exact date and time on the rendered Meetup event page.",
+      "evidence": "Event page: 29 Nov 13:00–22:00, House of Watt, €10 including two coins. Organizer information page says solo visitors are common and can easily find a table.",
+      "checkedAt": "2026-10-18",
+      "uncertainties": [],
+      "availability": "unchecked",
+      "price": {
+        "amount": 10,
+        "type": "paid",
+        "from": false,
+        "note": "Organizer lists €10 entry, including two coins (one for a drink; one for a drink or food discount).",
+        "caption": "€10 incl. 2 coins"
+      }
+    },
+    {
+      "id": "deep-oba-boardgames-2026-11-28",
+      "title": "Bordspellencafé at OBA Roelof Hartplein",
+      "status": "dated",
+      "start": "2026-11-28T11:00:00+01:00",
+      "end": "2026-11-28T16:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Board games",
+      "area": "Zuid",
+      "venue": "OBA Roelof Hartplein · Het Hart café",
+      "address": null,
+      "description": "Hosted board-game café with games for casual and experienced players; hosts can recommend and explain games.",
+      "participation": "group",
+      "formatLabel": "Board-game café",
+      "socialReason": "Hosts help people choose and learn a game, and the library explicitly says solo visitors can find players. (Editorial assessment.)",
+      "attendance": "Come alone or with a group; no series commitment stated.",
+      "language": "Not stated; event page is in Dutch.",
+      "bookingUrl": "https://oba.nl/nl/agenda/bordspellencafe-2b2b44af-419e-403f-82bd-35ecfacc4bab",
+      "sourceUrls": [
+        "https://oba.nl/nl/agenda/bordspellencafe-2b2b44af-419e-403f-82bd-35ecfacc4bab"
+      ],
+      "dateEvidence": "The OBA page’s upcoming editions list shows Saturday 28 November 2026, 11:00–16:00.",
+      "evidence": "OBA page says hosts can advise/explain; solo play is welcome and there are enough people to join. Fee is not stated.",
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Fee not stated; venue address beyond branch name not confirmed; language not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": null,
+        "type": "unknown",
+        "from": false,
+        "note": "No admission fee is stated on the OBA event page.",
+        "caption": "Fee not stated"
+      }
+    },
+    {
+      "id": "deep-chess-laurierboom-2026-11-14",
+      "title": "Chess at Laurierboom!",
+      "status": "dated",
+      "start": "2026-11-14T11:00:00+01:00",
+      "end": "2026-11-14T13:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Chess & social games",
+      "area": "Centrum",
+      "venue": "Café de Laurierboom",
+      "address": "Laurierstraat 76, 1016 PN Amsterdam",
+      "description": "Casual chess meetup; the organizer usually plays 5+0 blitz but also welcomes other time controls, bughouse, or casual play.",
+      "participation": "group",
+      "formatLabel": "Chess café meetup",
+      "socialReason": "A hosted table creates a simple way to play and chat; the listing explicitly welcomes all levels. (Editorial assessment.)",
+      "attendance": "All levels welcome; Meetup RSVP page available; no club membership requirement stated.",
+      "language": "Event description is in English; spoken language not explicitly guaranteed.",
+      "bookingUrl": "https://www.meetup.com/nl-nl/amsterdam-chess-meetup/events/316779344/",
+      "sourceUrls": [
+        "https://www.meetup.com/nl-nl/amsterdam-chess-meetup/events/316779344/"
+      ],
+      "dateEvidence": "Individual Meetup event page states 14 November 11:00–13:00 CET.",
+      "evidence": "Organizer says all levels are welcome and participation is free.",
+      "checkedAt": "2026-10-18",
+      "uncertainties": [],
+      "availability": "unchecked",
+      "price": {
+        "amount": 0,
+        "type": "free",
+        "from": false,
+        "note": "Organizer explicitly says the event is free.",
+        "caption": "Free"
+      }
+    },
+    {
+      "id": "deep-roode-remise-2026-11-04",
+      "title": "Game Night at Roode Remise!",
+      "status": "dated",
+      "start": "2026-11-04T19:00:00+01:00",
+      "end": "2026-11-04T22:30:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Board games",
+      "area": "West",
+      "venue": "Café De Roode Remise",
+      "address": "Haarlemmerplein 11h, Amsterdam",
+      "description": "Hosted evening of Eurogames and other tabletop games including Ticket to Ride, Concordia, Catan and Codenames; organizers can explain the rules.",
+      "participation": "group",
+      "formatLabel": "Board-game evening",
+      "socialReason": "Shared games and available hosts make it easier to join a table and meet people. (Editorial assessment.)",
+      "attendance": "Newcomers welcomed in the description; RSVP through Meetup.",
+      "language": "Listing and organizer description in English; spoken language not explicitly guaranteed.",
+      "bookingUrl": "https://www.meetup.com/nl-nl/amsterdam-board-gaming-meetup-group/events/tkqsstyjcpbgb/",
+      "sourceUrls": [
+        "https://www.meetup.com/nl-nl/amsterdam-board-gaming-meetup-group/events/tkqsstyjcpbgb/"
+      ],
+      "dateEvidence": "The individual event page enumerates 4 November 2026 at 19:00; 4 Nov page gives end time 22:30.",
+      "evidence": "Organizer says newcomers are welcome, games are available, and hosts can explain rules. Meetup shows Free.",
+      "checkedAt": "2026-10-18",
+      "uncertainties": [],
+      "availability": "unchecked",
+      "price": {
+        "amount": 0,
+        "type": "free",
+        "from": false,
+        "note": "Meetup marks event entry as Free; drinks at the café are not priced on the listing.",
+        "caption": "Free entry"
+      }
+    },
+    {
+      "id": "deep-roode-remise-2026-11-11",
+      "title": "Game Night at Roode Remise!",
+      "status": "dated",
+      "start": "2026-11-11T19:00:00+01:00",
+      "end": null,
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Board games",
+      "area": "West",
+      "venue": "Café De Roode Remise",
+      "address": "Haarlemmerplein 11h, Amsterdam",
+      "description": "Hosted evening of Eurogames and other tabletop games including Ticket to Ride, Concordia, Catan and Codenames; organizers can explain the rules.",
+      "participation": "group",
+      "formatLabel": "Board-game evening",
+      "socialReason": "Shared games and available hosts make it easier to join a table and meet people. (Editorial assessment.)",
+      "attendance": "Newcomers welcomed in the description; RSVP through Meetup.",
+      "language": "Listing and organizer description in English; spoken language not explicitly guaranteed.",
+      "bookingUrl": "https://www.meetup.com/nl-nl/amsterdam-board-gaming-meetup-group/events/tkqsstyjcpbgb/",
+      "sourceUrls": [
+        "https://www.meetup.com/nl-nl/amsterdam-board-gaming-meetup-group/events/tkqsstyjcpbgb/"
+      ],
+      "dateEvidence": "The individual event page enumerates 11 November 2026 at 19:00; 4 Nov page gives end time 22:30.",
+      "evidence": "Organizer says newcomers are welcome, games are available, and hosts can explain rules. Meetup shows Free.",
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Exact end time for this separately enumerated occurrence was not displayed on the checked event page."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 0,
+        "type": "free",
+        "from": false,
+        "note": "Meetup marks event entry as Free; drinks at the café are not priced on the listing.",
+        "caption": "Free entry"
+      }
+    },
+    {
+      "id": "deep-roode-remise-2026-11-18",
+      "title": "Game Night at Roode Remise!",
+      "status": "dated",
+      "start": "2026-11-18T19:00:00+01:00",
+      "end": null,
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Board games",
+      "area": "West",
+      "venue": "Café De Roode Remise",
+      "address": "Haarlemmerplein 11h, Amsterdam",
+      "description": "Hosted evening of Eurogames and other tabletop games including Ticket to Ride, Concordia, Catan and Codenames; organizers can explain the rules.",
+      "participation": "group",
+      "formatLabel": "Board-game evening",
+      "socialReason": "Shared games and available hosts make it easier to join a table and meet people. (Editorial assessment.)",
+      "attendance": "Newcomers welcomed in the description; RSVP through Meetup.",
+      "language": "Listing and organizer description in English; spoken language not explicitly guaranteed.",
+      "bookingUrl": "https://www.meetup.com/nl-nl/amsterdam-board-gaming-meetup-group/events/tkqsstyjcpbgb/",
+      "sourceUrls": [
+        "https://www.meetup.com/nl-nl/amsterdam-board-gaming-meetup-group/events/tkqsstyjcpbgb/"
+      ],
+      "dateEvidence": "The individual event page enumerates 18 November 2026 at 19:00; 4 Nov page gives end time 22:30.",
+      "evidence": "Organizer says newcomers are welcome, games are available, and hosts can explain rules. Meetup shows Free.",
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Exact end time for this separately enumerated occurrence was not displayed on the checked event page."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 0,
+        "type": "free",
+        "from": false,
+        "note": "Meetup marks event entry as Free; drinks at the café are not priced on the listing.",
+        "caption": "Free entry"
+      }
+    },
+    {
+      "id": "deep-roode-remise-2026-11-25",
+      "title": "Game Night at Roode Remise!",
+      "status": "dated",
+      "start": "2026-11-25T19:00:00+01:00",
+      "end": null,
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Board games",
+      "area": "West",
+      "venue": "Café De Roode Remise",
+      "address": "Haarlemmerplein 11h, Amsterdam",
+      "description": "Hosted evening of Eurogames and other tabletop games including Ticket to Ride, Concordia, Catan and Codenames; organizers can explain the rules.",
+      "participation": "group",
+      "formatLabel": "Board-game evening",
+      "socialReason": "Shared games and available hosts make it easier to join a table and meet people. (Editorial assessment.)",
+      "attendance": "Newcomers welcomed in the description; RSVP through Meetup.",
+      "language": "Listing and organizer description in English; spoken language not explicitly guaranteed.",
+      "bookingUrl": "https://www.meetup.com/nl-nl/amsterdam-board-gaming-meetup-group/events/tkqsstyjcpbgb/",
+      "sourceUrls": [
+        "https://www.meetup.com/nl-nl/amsterdam-board-gaming-meetup-group/events/tkqsstyjcpbgb/"
+      ],
+      "dateEvidence": "The individual event page enumerates 25 November 2026 at 19:00; 4 Nov page gives end time 22:30.",
+      "evidence": "Organizer says newcomers are welcome, games are available, and hosts can explain rules. Meetup shows Free.",
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Exact end time for this separately enumerated occurrence was not displayed on the checked event page."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 0,
+        "type": "free",
+        "from": false,
+        "note": "Meetup marks event entry as Free; drinks at the café are not priced on the listing.",
+        "caption": "Free entry"
+      }
+    },
+    {
+      "id": "deep-nl-rpg-guild-2026-11-14",
+      "title": "November RPG Meetup",
+      "status": "dated",
+      "start": "2026-11-14T13:00:00+01:00",
+      "end": "2026-11-14T18:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Tabletop role-playing games",
+      "area": "West",
+      "venue": "2 Klaveren",
+      "address": "De Clercqstraat 136, Amsterdam",
+      "description": "Afternoon of short tabletop role-playing games with several tables; event listing showed first-time-player suitable games. An informal dinner/social hour is listed from 18:00 onward.",
+      "participation": "group",
+      "formatLabel": "Tabletop RPG meetup",
+      "socialReason": "A facilitator assigns attendees to a game, so a newcomer can arrive solo and play with a group. (Editorial assessment.)",
+      "attendance": "18+; RSVP through Meetup; organizer asks participants to request a game in RSVP; event page showed 35 places left at check.",
+      "language": "Event page and game descriptions in English; table language may vary.",
+      "bookingUrl": "https://www.meetup.com/netherlands-roleplaying-guild/events/315627403/",
+      "sourceUrls": [
+        "https://www.meetup.com/netherlands-roleplaying-guild/events/315627403/"
+      ],
+      "dateEvidence": "Individual Meetup event page: 14 November, 13:00–18:00; registration and games start at 13:00.",
+      "evidence": "Free; several listed games say suitable for first-time players and 18+.",
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Game tables and the dinner/social hour may have different end/participation expectations; games listed can change."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 0,
+        "type": "free",
+        "from": false,
+        "note": "Meetup marks event entry as Free; donation box is optional. Food/drink purchases are not included.",
+        "caption": "Free · optional donation"
+      }
+    },
+    {
+      "id": "deep-dd-amsterdam-2026-11-21",
+      "title": "D&D Amsterdam — November Meetup",
+      "status": "dated",
+      "start": "2026-11-21T13:00:00+01:00",
+      "end": "2026-11-21T18:30:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Tabletop role-playing games",
+      "area": "Oost",
+      "venue": "House of Watt",
+      "address": "James Wattstraat 73, Amsterdam",
+      "description": "A hosted Dungeons & Dragons event with organizers assigning unplaced attendees to a game; first-timers are asked to arrive at 13:30 for character-sheet help.",
+      "participation": "group",
+      "formatLabel": "Beginner-friendly D&D meetup",
+      "socialReason": "Organizers help solo visitors find a table and offer first-time support. (Editorial assessment.)",
+      "attendance": "18+; RSVP required; event page showed 55 spots left when checked; sign-up closes 21 Nov at noon.",
+      "language": "Event page in English; spoken language not explicitly guaranteed.",
+      "bookingUrl": "https://www.meetup.com/nl-nl/dungeons-dragons-amsterdam/events/316139338/",
+      "sourceUrls": [
+        "https://www.meetup.com/nl-nl/dungeons-dragons-amsterdam/events/316139338/"
+      ],
+      "dateEvidence": "Individual Meetup event page states 21 November 2026, 13:00–18:30.",
+      "evidence": "No charge; optional donation.",
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Game schedule is posted in the event chat one week before; actual table/system may vary."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 0,
+        "type": "free",
+        "from": false,
+        "note": "Organizer states there is no charge; an optional donation is collected.",
+        "caption": "Free · optional donation"
+      }
+    },
+    {
+      "id": "deep-socrates-oba-2026-11-01",
+      "title": "Socrates Café at OBA — Sunday afternoon",
+      "status": "dated",
+      "start": "2026-11-01T15:00:00+01:00",
+      "end": "2026-11-01T17:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Discussion & reading",
+      "area": "Centrum",
+      "venue": "OBA Oosterdok · café on floor 7",
+      "address": "Oosterdokskade 143, Amsterdam",
+      "description": "Facilitated philosophical conversation; participants suggest questions and choose a topic together. The format is dialogue rather than a lecture.",
+      "participation": "group",
+      "formatLabel": "Facilitated discussion",
+      "socialReason": "The facilitator sets a topic with participants, so conversation is structured and newcomers need not arrive with a prepared presentation. (Editorial assessment.)",
+      "attendance": "Meetup RSVP; organizers ask attendees to sign up only when they can attend and to cancel promptly; no membership requirement stated.",
+      "language": "Event listing and group description in English; basic spoken English is needed to participate. Listening without speaking is allowed.",
+      "bookingUrl": "https://www.meetup.com/socrates-cafe-amsterdam-philosophy-discussions-meetup/events/317013696/",
+      "sourceUrls": [
+        "https://www.meetup.com/socrates-cafe-amsterdam-philosophy-discussions-meetup/events/317013696/",
+        "https://www.meetup.com/socrates-cafe-amsterdam-philosophy-discussions-meetup/events/calendar/"
+      ],
+      "dateEvidence": "Individual event page gives exact Sunday date and 15:00–17:00; November calendar lists every scheduled Sunday.",
+      "evidence": "Free; meetup capacity/availability varies by date. RSVP card displayed 3 places left when checked.",
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Meetup page describes philosophy discussion, not a formal reading group."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 0,
+        "type": "free",
+        "from": false,
+        "note": "Individual Meetup event page shows Free.",
+        "caption": "Free"
+      }
+    },
+    {
+      "id": "deep-socrates-oba-2026-11-08",
+      "title": "Socrates Café at OBA — Sunday afternoon",
+      "status": "dated",
+      "start": "2026-11-08T15:00:00+01:00",
+      "end": "2026-11-08T17:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Discussion & reading",
+      "area": "Centrum",
+      "venue": "OBA Oosterdok · café on floor 7",
+      "address": "Oosterdokskade 143, Amsterdam",
+      "description": "Facilitated philosophical conversation; participants suggest questions and choose a topic together. The format is dialogue rather than a lecture.",
+      "participation": "group",
+      "formatLabel": "Facilitated discussion",
+      "socialReason": "The facilitator sets a topic with participants, so conversation is structured and newcomers need not arrive with a prepared presentation. (Editorial assessment.)",
+      "attendance": "Meetup RSVP; organizers ask attendees to sign up only when they can attend and to cancel promptly; no membership requirement stated.",
+      "language": "Event listing and group description in English; basic spoken English is needed to participate. Listening without speaking is allowed.",
+      "bookingUrl": "https://www.meetup.com/socrates-cafe-amsterdam-philosophy-discussions-meetup/events/316705881/",
+      "sourceUrls": [
+        "https://www.meetup.com/socrates-cafe-amsterdam-philosophy-discussions-meetup/events/316705881/",
+        "https://www.meetup.com/socrates-cafe-amsterdam-philosophy-discussions-meetup/events/calendar/"
+      ],
+      "dateEvidence": "Individual event page gives exact Sunday date and 15:00–17:00; November calendar lists every scheduled Sunday.",
+      "evidence": "Free; meetup capacity/availability varies by date. RSVP card displayed 0 places left; Join waitlist shown when checked.",
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Meetup page describes philosophy discussion, not a formal reading group."
+      ],
+      "availability": "waitlist",
+      "price": {
+        "amount": 0,
+        "type": "free",
+        "from": false,
+        "note": "Individual Meetup event page shows Free.",
+        "caption": "Free"
+      }
+    },
+    {
+      "id": "deep-socrates-oba-2026-11-15",
+      "title": "Socrates Café at OBA — Sunday afternoon",
+      "status": "dated",
+      "start": "2026-11-15T15:00:00+01:00",
+      "end": "2026-11-15T17:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Discussion & reading",
+      "area": "Centrum",
+      "venue": "OBA Oosterdok · café on floor 7",
+      "address": "Oosterdokskade 143, Amsterdam",
+      "description": "Facilitated philosophical conversation; participants suggest questions and choose a topic together. The format is dialogue rather than a lecture.",
+      "participation": "group",
+      "formatLabel": "Facilitated discussion",
+      "socialReason": "The facilitator sets a topic with participants, so conversation is structured and newcomers need not arrive with a prepared presentation. (Editorial assessment.)",
+      "attendance": "Meetup RSVP; organizers ask attendees to sign up only when they can attend and to cancel promptly; no membership requirement stated.",
+      "language": "Event listing and group description in English; basic spoken English is needed to participate. Listening without speaking is allowed.",
+      "bookingUrl": "https://www.meetup.com/socrates-cafe-amsterdam-philosophy-discussions-meetup/events/317013745/",
+      "sourceUrls": [
+        "https://www.meetup.com/socrates-cafe-amsterdam-philosophy-discussions-meetup/events/317013745/",
+        "https://www.meetup.com/socrates-cafe-amsterdam-philosophy-discussions-meetup/events/calendar/"
+      ],
+      "dateEvidence": "Individual event page gives exact Sunday date and 15:00–17:00; November calendar lists every scheduled Sunday.",
+      "evidence": "Free; meetup capacity/availability varies by date. RSVP card displayed 7 places left when checked.",
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Meetup page describes philosophy discussion, not a formal reading group."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 0,
+        "type": "free",
+        "from": false,
+        "note": "Individual Meetup event page shows Free.",
+        "caption": "Free"
+      }
+    },
+    {
+      "id": "deep-socrates-oba-2026-11-22",
+      "title": "Socrates Café at OBA — Sunday afternoon",
+      "status": "dated",
+      "start": "2026-11-22T15:00:00+01:00",
+      "end": "2026-11-22T17:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Discussion & reading",
+      "area": "Centrum",
+      "venue": "OBA Oosterdok · café on floor 7",
+      "address": "Oosterdokskade 143, Amsterdam",
+      "description": "Facilitated philosophical conversation; participants suggest questions and choose a topic together. The format is dialogue rather than a lecture.",
+      "participation": "group",
+      "formatLabel": "Facilitated discussion",
+      "socialReason": "The facilitator sets a topic with participants, so conversation is structured and newcomers need not arrive with a prepared presentation. (Editorial assessment.)",
+      "attendance": "Meetup RSVP; organizers ask attendees to sign up only when they can attend and to cancel promptly; no membership requirement stated.",
+      "language": "Event listing and group description in English; basic spoken English is needed to participate. Listening without speaking is allowed.",
+      "bookingUrl": "https://www.meetup.com/socrates-cafe-amsterdam-philosophy-discussions-meetup/events/317013748/",
+      "sourceUrls": [
+        "https://www.meetup.com/socrates-cafe-amsterdam-philosophy-discussions-meetup/events/317013748/",
+        "https://www.meetup.com/socrates-cafe-amsterdam-philosophy-discussions-meetup/events/calendar/"
+      ],
+      "dateEvidence": "Individual event page gives exact Sunday date and 15:00–17:00; November calendar lists every scheduled Sunday.",
+      "evidence": "Free; meetup capacity/availability varies by date. RSVP card displayed 7 places left when checked.",
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Meetup page describes philosophy discussion, not a formal reading group."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 0,
+        "type": "free",
+        "from": false,
+        "note": "Individual Meetup event page shows Free.",
+        "caption": "Free"
+      }
+    },
+    {
+      "id": "deep-socrates-oba-2026-11-29",
+      "title": "Socrates Café at OBA — Sunday afternoon",
+      "status": "dated",
+      "start": "2026-11-29T15:00:00+01:00",
+      "end": "2026-11-29T17:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Discussion & reading",
+      "area": "Centrum",
+      "venue": "OBA Oosterdok · café on floor 7",
+      "address": "Oosterdokskade 143, Amsterdam",
+      "description": "Facilitated philosophical conversation; participants suggest questions and choose a topic together. The format is dialogue rather than a lecture.",
+      "participation": "group",
+      "formatLabel": "Facilitated discussion",
+      "socialReason": "The facilitator sets a topic with participants, so conversation is structured and newcomers need not arrive with a prepared presentation. (Editorial assessment.)",
+      "attendance": "Meetup RSVP; organizers ask attendees to sign up only when they can attend and to cancel promptly; no membership requirement stated.",
+      "language": "Event listing and group description in English; basic spoken English is needed to participate. Listening without speaking is allowed.",
+      "bookingUrl": "https://www.meetup.com/socrates-cafe-amsterdam-philosophy-discussions-meetup/events/317013750/",
+      "sourceUrls": [
+        "https://www.meetup.com/socrates-cafe-amsterdam-philosophy-discussions-meetup/events/317013750/",
+        "https://www.meetup.com/socrates-cafe-amsterdam-philosophy-discussions-meetup/events/calendar/"
+      ],
+      "dateEvidence": "Individual event page gives exact Sunday date and 15:00–17:00; November calendar lists every scheduled Sunday.",
+      "evidence": "Free; meetup capacity/availability varies by date. RSVP card displayed 7 places left when checked.",
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Meetup page describes philosophy discussion, not a formal reading group."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 0,
+        "type": "free",
+        "from": false,
+        "note": "Individual Meetup event page shows Free.",
+        "caption": "Free"
+      }
+    },
+    {
+      "id": "deep-amsterdam-book-club-2026-11-15-1300",
+      "title": "The Bell Jar by Sylvia Plath — Amsterdam Book Club",
+      "status": "dated",
+      "start": "2026-11-15T13:00:00+01:00",
+      "end": "2026-11-15T15:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Book discussion",
+      "area": "West",
+      "venue": "Café Conrad",
+      "address": "Zocherstraat 10, 1054 LX Amsterdam",
+      "description": "Relaxed social discussion of Sylvia Plath’s The Bell Jar; organizer says there are no formal discussion rules.",
+      "participation": "group",
+      "formatLabel": "English-language book club",
+      "socialReason": "A shared book gives newcomers an easy conversation starting point; many members come alone according to the organizer. (Editorial assessment.)",
+      "attendance": "RSVP and €10 confirmation payment required; book should be read beforehand.",
+      "language": "English, per organizer.",
+      "bookingUrl": "https://www.meetup.com/meetup-group-vjjzqjui/events/316963872/",
+      "sourceUrls": [
+        "https://www.meetup.com/meetup-group-vjjzqjui/events/316963872/",
+        "https://www.amsterdambookclub.com/"
+      ],
+      "dateEvidence": "Individual Meetup event page gives the exact 15 November date, two-hour slot, Café Conrad address and RSVP fee.",
+      "evidence": "€10 RSVP confirmation includes one drink.",
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Requires reading the selected book beforehand; the two slots are separate groups."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 10,
+        "type": "paid",
+        "from": false,
+        "note": "Organizer lists a €10 RSVP contribution including one drink; non-refundable after payment except organizer cancellation/rescheduling.",
+        "caption": "€10 incl. one drink"
+      }
+    },
+    {
+      "id": "deep-amsterdam-book-club-2026-11-15-1600",
+      "title": "The Bell Jar by Sylvia Plath — Amsterdam Book Club",
+      "status": "dated",
+      "start": "2026-11-15T16:00:00+01:00",
+      "end": "2026-11-15T18:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Book discussion",
+      "area": "West",
+      "venue": "Café Conrad",
+      "address": "Zocherstraat 10, 1054 LX Amsterdam",
+      "description": "Relaxed social discussion of Sylvia Plath’s The Bell Jar; organizer says there are no formal discussion rules.",
+      "participation": "group",
+      "formatLabel": "English-language book club",
+      "socialReason": "A shared book gives newcomers an easy conversation starting point; many members come alone according to the organizer. (Editorial assessment.)",
+      "attendance": "RSVP and €10 confirmation payment required; book should be read beforehand.",
+      "language": "English, per organizer.",
+      "bookingUrl": "https://www.meetup.com/meetup-group-vjjzqjui/events/316964318/",
+      "sourceUrls": [
+        "https://www.meetup.com/meetup-group-vjjzqjui/events/316964318/",
+        "https://www.amsterdambookclub.com/"
+      ],
+      "dateEvidence": "Individual Meetup event page gives the exact 15 November date, two-hour slot, Café Conrad address and RSVP fee.",
+      "evidence": "€10 RSVP confirmation includes one drink.",
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Requires reading the selected book beforehand; the two slots are separate groups."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 10,
+        "type": "paid",
+        "from": false,
+        "note": "Organizer lists a €10 RSVP contribution including one drink; non-refundable after payment except organizer cancellation/rescheduling.",
+        "caption": "€10 incl. one drink"
+      }
+    },
+    {
+      "id": "deep-museumnacht-book-club-2026-11-07",
+      "title": "The Book Club · Museumnacht at Grachtenmuseum",
+      "status": "dated",
+      "start": "2026-11-07T19:00:00+01:00",
+      "end": "2026-11-08T00:00:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Book discussion",
+      "area": "Centrum",
+      "venue": "Grachtenmuseum",
+      "address": "Herengracht 386, 1016 CJ Amsterdam",
+      "description": "Literature-inspired hosted table conversations on money and consumer culture, migration and dating, and memory/heritage. No advance reading is required.",
+      "participation": "group",
+      "formatLabel": "Book-club conversation",
+      "socialReason": "Guests can join a table based on curiosity rather than preparation, giving the evening a low-barrier social entry. (Editorial assessment.)",
+      "attendance": "Museumnacht ticket required; no separate reservation requirement stated on the programme page.",
+      "language": "Mostly English; multilingual programme.",
+      "bookingUrl": "https://museumnacht.amsterdam/programma/the-book-club",
+      "sourceUrls": [
+        "https://museumnacht.amsterdam/programma/the-book-club"
+      ],
+      "dateEvidence": "Programme page states 7 November 2026, 19:00–00:00.",
+      "evidence": "The programme page does not state ticket price; whole Museumnacht admission applies.",
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Overall ticket price and remaining availability were not checked; activity runs past midnight."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": null,
+        "type": "unknown",
+        "from": false,
+        "note": "Programme page does not list a price; a Museumnacht admission ticket is required.",
+        "caption": "Museumnacht ticket required"
+      }
+    },
+    {
+      "id": "deep-knnv-photowalk-diemerbos-2026-11-20",
+      "title": "Fotowandeling Diemerbos",
+      "status": "dated",
+      "start": "2026-11-20T10:00:00+01:00",
+      "end": null,
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Nature & photography walk",
+      "area": "Diemen / Diemerbos",
+      "venue": "House of Bird in the Diemerbos",
+      "address": null,
+      "description": "Slow-paced themed nature-photography walk for 2–3 hours with time to photograph and exchange ideas; a phone camera is acceptable.",
+      "participation": "group",
+      "formatLabel": "Nature photography walk",
+      "socialReason": "A shared theme and stops to exchange ideas can support conversation during a gentle outdoor walk. (Editorial assessment.)",
+      "attendance": "Email registration to organizer; max 10 participants; the page says this is a nature-photography working group of KNNV members, so open non-member access is unclear.",
+      "language": "Not explicitly stated; event page is in Dutch.",
+      "bookingUrl": "https://amsterdam.knnv.nl/agenda/fotowandeling-diemerbos/",
+      "sourceUrls": [
+        "https://amsterdam.knnv.nl/agenda/fotowandeling-diemerbos/"
+      ],
+      "dateEvidence": "KNNV page lists Friday 20 November 2026, 10:00; estimated duration 2–3 hours.",
+      "evidence": "No attendance price is listed.",
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Group is described as KNNV members; whether non-members may join is not stated. Theme is shared after registration."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": null,
+        "type": "unknown",
+        "from": false,
+        "note": "Price not stated on event page.",
+        "caption": "Price not stated"
+      }
+    },
+    {
+      "id": "deep-bimhuis-tuesday-jam-2026-11-24",
+      "title": "Tuesday Jam at BIMHUIS Café",
+      "status": "dated",
+      "start": "2026-11-24T22:00:00+01:00",
+      "end": "2026-11-25T00:30:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Music & social",
+      "area": "Centrum / Oostelijk Havengebied",
+      "venue": "BIMHUIS Café",
+      "address": "Piet Heinkade 3, 1019 BR Amsterdam",
+      "description": "Free jazz jam led by saxophonist Jasper Blom; musicians of all ages and levels meet and inspire each other, and jazz lovers are welcome as audience.",
+      "participation": "group",
+      "formatLabel": "Jazz jam",
+      "socialReason": "Live improvised music offers a shared social setting; the organizer welcomes musicians and listeners. (Editorial assessment.)",
+      "attendance": "Free entry; no reservation needed. Café opens 21:30. Musicians and audience welcome.",
+      "language": "Not stated; organizer page is available in English and Dutch.",
+      "bookingUrl": "https://www.bimhuis.nl/en/calendar/tuesday-jam-291",
+      "sourceUrls": [
+        "https://www.bimhuis.nl/en/calendar/tuesday-jam-291"
+      ],
+      "dateEvidence": "Official BIMHUIS page states Tuesday 24 November 2026; jam 22:00–00:30.",
+      "evidence": {
+        "date": "24 Nov 2026 22:00–00:30 explicitly shown on the official venue page.",
+        "entry": "The official page states free admission and no reservation is necessary; page describes musicians of all ages and levels meeting and inspiring each other."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Late finish (00:30); if attending as a performer, no sign-up or instrument policy is described on the page."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 0,
+        "type": "free",
+        "from": false,
+        "note": "BIMHUIS explicitly says entrance is free and reservations are not necessary.",
+        "caption": "Free"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "deep-001",
+      "title": "Amsterdice Board Game Sunday · 29 November",
+      "url": "https://www.meetup.com/nl-nl/amsterdice-boardgameclub/events/316179819/",
+      "type": "Meetup organizer event",
+      "evidence": "Rendered Meetup event page gives Sun 29 Nov 2026 13:00–22:00, House of Watt address, €10 entry including two coins, and event details; organizer says many people attend solo and invites solo play.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-002",
+      "title": "Amsterdice official events and newcomer information",
+      "url": "https://www.amsterdice.nl/evenementen/",
+      "type": "Organizer information page",
+      "evidence": "Rendered organizer page describes beginner and solo participation, collection of over 300 games, drop-in timing and €10 entry with two coins; the current page only advertises 18 Oct, so 29 Nov date is sourced from the dated Meetup event.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-003",
+      "title": "Bordspellencafé · OBA Roelof Hartplein",
+      "url": "https://oba.nl/nl/agenda/bordspellencafe-2b2b44af-419e-403f-82bd-35ecfacc4bab",
+      "type": "Official library event calendar",
+      "evidence": "Rendered OBA event page enumerates the 28 November 2026 session at 11:00–16:00 and says hosts recommend/explain games; solo visitors can join because there are always people to play with. Fee and spoken language are not listed.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-004",
+      "title": "Chess at Laurierboom! · 14 November",
+      "url": "https://www.meetup.com/nl-nl/amsterdam-chess-meetup/events/316779344/",
+      "type": "Meetup organizer event",
+      "evidence": "Rendered event page states Sat 14 Nov 2026 11:00–13:00, all levels welcome, free entry, and Laurierstraat 76; 6 attendees were visible when checked.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-005",
+      "title": "Game Night at Roode Remise! · November date list",
+      "url": "https://www.meetup.com/nl-nl/amsterdam-board-gaming-meetup-group/events/tkqsstyjcpbgb/",
+      "type": "Meetup organizer event",
+      "evidence": "Rendered event page enumerates 4, 11, 18 and 25 November at 19:00, gives 19:00–22:30 for the 4 Nov listing, and describes guided Eurogames and an easy-entry, mellow café setting. Meetup marks event entry Free.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-006",
+      "title": "November RPG Meetup · Netherlands Roleplaying Guild",
+      "url": "https://www.meetup.com/netherlands-roleplaying-guild/events/315627403/",
+      "type": "Meetup organizer event",
+      "evidence": "Rendered event page states 14 Nov 2026 13:00–18:00 at 2 Klaveren, free entry, 35 places left at check, games suitable for first-timers, and 18+ tables; evening dinner/social hour follows.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-007",
+      "title": "D&D Amsterdam · November Meetup at House of Watt",
+      "url": "https://www.meetup.com/nl-nl/dungeons-dragons-amsterdam/events/316139338/",
+      "type": "Meetup organizer event",
+      "evidence": "Rendered event page states 21 Nov 2026 13:00–18:30, 18+, RSVP required, beginner games available, arrival for first-timers by 13:30, no fee with optional donations; page showed 55 spots left.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-008",
+      "title": "Socrates Café Amsterdam · November 2026 calendar",
+      "url": "https://www.meetup.com/socrates-cafe-amsterdam-philosophy-discussions-meetup/events/calendar/",
+      "type": "Meetup organizer calendar",
+      "evidence": "Used the rendered calendar next-month control to display November 2026; it lists Sunday afternoon OBA sessions on 1, 8, 15, 22 and 29 November at 15:00. Individual event pages were opened for 1, 15, 22 and 29 Nov.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-socrates-01",
+      "title": "Socrates Café at OBA · 1 November",
+      "url": "https://www.meetup.com/socrates-cafe-amsterdam-philosophy-discussions-meetup/events/317013696/",
+      "type": "Meetup organizer event",
+      "evidence": "Individual Meetup event page states 1 November 2026, 15:00–17:00 at OBA Oosterdok; the entry is shown as free. The event asks attendees to suggest a philosophical question and to attend at most once per week. RSVP card displayed 3 places left when checked.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-socrates-08",
+      "title": "Socrates Café at OBA · 8 November",
+      "url": "https://www.meetup.com/socrates-cafe-amsterdam-philosophy-discussions-meetup/events/316705881/",
+      "type": "Meetup organizer event",
+      "evidence": "Individual Meetup event page states 8 November 2026, 15:00–17:00 at OBA Oosterdok; the entry is shown as free. The event asks attendees to suggest a philosophical question and to attend at most once per week. RSVP card displayed 0 places left; Join waitlist shown when checked.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-socrates-15",
+      "title": "Socrates Café at OBA · 15 November",
+      "url": "https://www.meetup.com/socrates-cafe-amsterdam-philosophy-discussions-meetup/events/317013745/",
+      "type": "Meetup organizer event",
+      "evidence": "Individual Meetup event page states 15 November 2026, 15:00–17:00 at OBA Oosterdok; the entry is shown as free. The event asks attendees to suggest a philosophical question and to attend at most once per week. RSVP card displayed 7 places left when checked.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-socrates-22",
+      "title": "Socrates Café at OBA · 22 November",
+      "url": "https://www.meetup.com/socrates-cafe-amsterdam-philosophy-discussions-meetup/events/317013748/",
+      "type": "Meetup organizer event",
+      "evidence": "Individual Meetup event page states 22 November 2026, 15:00–17:00 at OBA Oosterdok; the entry is shown as free. The event asks attendees to suggest a philosophical question and to attend at most once per week. RSVP card displayed 7 places left when checked.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-socrates-29",
+      "title": "Socrates Café at OBA · 29 November",
+      "url": "https://www.meetup.com/socrates-cafe-amsterdam-philosophy-discussions-meetup/events/317013750/",
+      "type": "Meetup organizer event",
+      "evidence": "Individual Meetup event page states 29 November 2026, 15:00–17:00 at OBA Oosterdok; the entry is shown as free. The event asks attendees to suggest a philosophical question and to attend at most once per week. RSVP card displayed 7 places left when checked.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-014",
+      "title": "Amsterdam Book Club · overview and solo access",
+      "url": "https://www.amsterdambookclub.com/",
+      "type": "Organizer information page",
+      "evidence": "Rendered organizer page says discussions are in English and many participants come alone; first-step RSVP is required; current book and 25 Oct date visible, with two November events listed on Meetup.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-015",
+      "title": "The Bell Jar · Amsterdam Book Club · 15 November at 13:00",
+      "url": "https://www.meetup.com/meetup-group-vjjzqjui/events/316963872/",
+      "type": "Meetup organizer event",
+      "evidence": "Rendered individual event page states 15 Nov 2026, 13:00–15:00 at Café Conrad, English-language book discussion, €10 RSVP including a drink.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-016",
+      "title": "The Bell Jar · Amsterdam Book Club · 15 November at 16:00",
+      "url": "https://www.meetup.com/meetup-group-vjjzqjui/events/316964318/",
+      "type": "Meetup organizer event",
+      "evidence": "Rendered individual event page states 15 Nov 2026, 16:00–18:00 at Café Conrad, €10 RSVP including a drink; registration closes 12 Nov at 18:00.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-017",
+      "title": "The Book Club · Museumnacht Amsterdam",
+      "url": "https://museumnacht.amsterdam/programma/the-book-club",
+      "type": "Museum-night programme",
+      "evidence": "Rendered programme page lists 7 November 2026, 19:00–00:00 at Grachtenmuseum, says no prior reading is needed, welcomes people curious to meet and discuss, and notes the event is mostly in English; page does not state ticket price.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-018",
+      "title": "Fotowandeling Diemerbos · KNNV Amsterdam",
+      "url": "https://amsterdam.knnv.nl/agenda/fotowandeling-diemerbos/",
+      "type": "Nature association event",
+      "evidence": "Rendered KNNV page lists Fri 20 Nov 2026 at 10:00, 2–3 hours, phone camera is sufficient, group size max 10, registration by email; no fee stated.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-019",
+      "title": "Repair Café Amsterdam · agenda",
+      "url": "https://repaircafe.amsterdam/en",
+      "type": "Citywide repair-café schedule",
+      "evidence": "Rendered English calendar enumerates dated repair cafés, venues, and hours from Oct 19 through November; event detail pages confirm café locations.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-020",
+      "title": "Repair Café Amsterdam · free admission policy",
+      "url": "https://repaircafe.amsterdam/en/repaircafes",
+      "type": "Local organizer fee policy",
+      "evidence": "Official Amsterdam page explicitly says admission including repair help is free, voluntary contribution appreciated; replacement parts may cost extra and a venue may charge for refreshments.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-021",
+      "title": "Tuesday Jam · BIMHUIS · 24 November",
+      "url": "https://www.bimhuis.nl/en/calendar/tuesday-jam-291",
+      "type": "Venue event page",
+      "evidence": "Rendered organizer page states Tuesday 24 Nov 2026, café opens 21:30, jam 22:00–00:30, free entry/no reservation. Jazz musicians of all ages and levels meet and inspire each other; the page welcomes musicians and jazz lovers.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-022",
+      "title": "MAJAM November · MAQAM stale event detail check",
+      "url": "https://www.maqam-amsterdam.nl/projecten/majam-november-warda",
+      "type": "Organizer event detail discrepancy",
+      "evidence": "Current programme calendar lists MAJAM November on 12 Nov 2026 and free, but its linked detail page displays 13.11.2025 and references a 2025 date in its description. Not treated as a verified 2026 event.",
+      "checkedAt": "2026-10-18"
+    }
+  ],
+  "offers": [],
+  "priceUpdates": [
+    {
+      "eventId": "repair-cafe-de-pijp-2026-10-25",
+      "price": {
+        "amount": 0,
+        "type": "free",
+        "from": false,
+        "note": "Repair Café Amsterdam states that admission and help with repairs are free; voluntary contributions are appreciated. Replacement parts and refreshments may cost extra.",
+        "caption": "Free · donations optional"
+      },
+      "sourceUrls": [
+        "https://repaircafe.amsterdam/en/repaircafes",
+        "https://repaircafe.amsterdam/en"
+      ],
+      "evidence": {
+        "price": "Official Amsterdam Repair Café policy explicitly says admission including repair help is free; replacement parts and possibly beverages may cost extra.",
+        "date": "Existing event date is separately listed in the official Repair Café Amsterdam agenda."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Specific replacement-parts and beverage charges vary by venue."
+      ]
+    },
+    {
+      "eventId": "repair-claverhuis-2026-11-05",
+      "price": {
+        "amount": 0,
+        "type": "free",
+        "from": false,
+        "note": "Repair Café Amsterdam states that admission and help with repairs are free; voluntary contributions are appreciated. Replacement parts and refreshments may cost extra.",
+        "caption": "Free · donations optional"
+      },
+      "sourceUrls": [
+        "https://repaircafe.amsterdam/en/repaircafes",
+        "https://repaircafe.amsterdam/en"
+      ],
+      "evidence": {
+        "price": "Official Amsterdam Repair Café policy explicitly says admission including repair help is free; replacement parts and possibly beverages may cost extra.",
+        "date": "Existing event date is separately listed in the official Repair Café Amsterdam agenda."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Specific replacement-parts and beverage charges vary by venue."
+      ]
+    },
+    {
+      "eventId": "repair-oba-java-2026-11-07",
+      "price": {
+        "amount": 0,
+        "type": "free",
+        "from": false,
+        "note": "Repair Café Amsterdam states that admission and help with repairs are free; voluntary contributions are appreciated. Replacement parts and refreshments may cost extra.",
+        "caption": "Free · donations optional"
+      },
+      "sourceUrls": [
+        "https://repaircafe.amsterdam/en/repaircafes",
+        "https://repaircafe.amsterdam/en"
+      ],
+      "evidence": {
+        "price": "Official Amsterdam Repair Café policy explicitly says admission including repair help is free; replacement parts and possibly beverages may cost extra.",
+        "date": "Existing event date is separately listed in the official Repair Café Amsterdam agenda."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Specific replacement-parts and beverage charges vary by venue."
+      ]
+    },
+    {
+      "eventId": "repair-schoon-schip-2026-11-14",
+      "price": {
+        "amount": 0,
+        "type": "free",
+        "from": false,
+        "note": "Repair Café Amsterdam states that admission and help with repairs are free; voluntary contributions are appreciated. Replacement parts and refreshments may cost extra.",
+        "caption": "Free · donations optional"
+      },
+      "sourceUrls": [
+        "https://repaircafe.amsterdam/en/repaircafes",
+        "https://repaircafe.amsterdam/en"
+      ],
+      "evidence": {
+        "price": "Official Amsterdam Repair Café policy explicitly says admission including repair help is free; replacement parts and possibly beverages may cost extra.",
+        "date": "Existing event date is separately listed in the official Repair Café Amsterdam agenda."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Specific replacement-parts and beverage charges vary by venue."
+      ]
+    }
+  ],
+  "ideaReviews": [
+    {
+      "ideaId": "astra-08",
+      "status": "verified",
+      "summary": "Strong fit: Amsterdice on 29 Nov (€10 with two coins), OBA Bordspellencafé on 28 Nov (fee unstated, solo visitors explicitly welcome), plus four dated Wednesday game nights at Roode Remise marked free.",
+      "sourceUrls": [
+        "https://www.meetup.com/nl-nl/amsterdice-boardgameclub/events/316179819/",
+        "https://oba.nl/nl/agenda/bordspellencafe-2b2b44af-419e-403f-82bd-35ecfacc4bab",
+        "https://www.meetup.com/nl-nl/amsterdam-board-gaming-meetup-group/events/tkqsstyjcpbgb/"
+      ],
+      "nextStep": "Prefer OBA for lower cost/clear solo access; Amsterdice for a larger day event."
+    },
+    {
+      "ideaId": "astra-09",
+      "status": "verified",
+      "summary": "Amsterdam Chess Meetup at Café de Laurierboom on 14 Nov, 11:00–13:00, is explicitly free and all levels are welcome.",
+      "sourceUrls": [
+        "https://www.meetup.com/nl-nl/amsterdam-chess-meetup/events/316779344/"
+      ],
+      "nextStep": "Attend as a low-cost, short daytime social session; skill level need not be established."
+    },
+    {
+      "ideaId": "astra-10",
+      "status": "verified",
+      "summary": "Two date-specific beginner-friendly RPG options surfaced: Netherlands Roleplaying Guild 14 Nov (free, 18+, first-time-player games; 13:00–18:00) and D&D Amsterdam 21 Nov (free, 18+, RSVP, beginner help; 13:00–18:30).",
+      "sourceUrls": [
+        "https://www.meetup.com/netherlands-roleplaying-guild/events/315627403/",
+        "https://www.meetup.com/nl-nl/dungeons-dragons-amsterdam/events/316139338/"
+      ],
+      "nextStep": "Check which game tables and places remain before choosing."
+    },
+    {
+      "ideaId": "astra-11",
+      "status": "not-found",
+      "summary": "No dated pub quiz with a clearly stated solo-player joining policy was verified in this research batch.",
+      "sourceUrls": [],
+      "nextStep": "Keep as a lead only; search venue calendars rather than assuming solo team assignment."
+    },
+    {
+      "ideaId": "astra-12",
+      "status": "verified",
+      "summary": "Four already-listed November repair cafés now have an explicit local price policy: free admission and repair help, optional contribution, parts/refreshments may cost extra.",
+      "sourceUrls": [
+        "https://repaircafe.amsterdam/en/repaircafes"
+      ],
+      "nextStep": "Choose based on date and venue fit; confirm whether the specific item can be repaired."
+    },
+    {
+      "ideaId": "astra-13",
+      "status": "lead",
+      "summary": "No separately dated visible-mending circle was verified here. OBA’s sewing atelier is already present as an undated event lead in the main inventory; its one-off November date and entry cost remain unconfirmed.",
+      "sourceUrls": [
+        "https://oba.nl/nl/jeugd-jongeren/maakplaats/oba-naaiatelier"
+      ],
+      "nextStep": "Check OBA calendar for a dated drop-in before treating this as available."
+    },
+    {
+      "ideaId": "astra-16",
+      "status": "lead",
+      "summary": "Serve the City’s current calendar has dated kitchen/serving volunteering shifts through November; these are volunteer roles rather than public meals. Current event pages did not establish a fee or open capacity.",
+      "sourceUrls": [
+        "https://www.stcamsterdam.nl/volunteering/culinary-old/"
+      ],
+      "nextStep": "Check the specific shift details and sign-up availability; do not assume meal participation or zero cost."
+    },
+    {
+      "ideaId": "astra-17",
+      "status": "verified",
+      "summary": "The existing Serve the City November Action Day includes a dated Boterbloem self-harvest garden shift; the STC calendar calls it volunteering, not a general public garden drop-in.",
+      "sourceUrls": [
+        "https://www.stcamsterdam.nl/volunteering/monthly-action-day/"
+      ],
+      "nextStep": "Use the existing Nov 14 event record and verify open capacity."
+    },
+    {
+      "ideaId": "astra-18",
+      "status": "verified",
+      "summary": "The existing STC green-volunteering agenda lists dated November park cleanups; each is a signup-based group activity.",
+      "sourceUrls": [
+        "https://www.stcamsterdam.nl/volunteering/green/",
+        "https://www.stcamsterdam.nl/volunteering/monthly-action-day/"
+      ],
+      "nextStep": "Use the existing Nov 7 or Nov 14 records; suitability depends on travel to the park and remaining places."
+    },
+    {
+      "ideaId": "astra-19",
+      "status": "verified",
+      "summary": "Existing IVN Amsterdam event records provide dated nature walks in October and November. KNNV’s Diemerbos photo walk is also dated 20 Nov but membership access is unclear.",
+      "sourceUrls": [
+        "https://www.ivn.nl/afdeling/amsterdam/natuuractiviteiten/rondwandeling-natuurpark-vrije-geer-2/",
+        "https://www.ivn.nl/afdeling/amsterdam/natuuractiviteiten/winterwandeling-in-het-beatrixpark-winterkenmerken-en-winterbloeiers/",
+        "https://amsterdam.knnv.nl/agenda/fotowandeling-diemerbos/"
+      ],
+      "nextStep": "Prefer IVN’s public dated walks if non-member access is important."
+    },
+    {
+      "ideaId": "astra-20",
+      "status": "not-found",
+      "summary": "No dated public citizen-science observation session was verified in this batch.",
+      "sourceUrls": [],
+      "nextStep": "Keep as an unverified lead."
+    },
+    {
+      "ideaId": "astra-22",
+      "status": "qualified",
+      "summary": "KNNV’s Diemerbos photography walk is dated for 20 Nov, 10:00, but is described as a KNNV member working group and non-member eligibility is unclear. A separate 14 Nov analogue photowalk at Cameranu was sold out when checked.",
+      "sourceUrls": [
+        "https://amsterdam.knnv.nl/agenda/fotowandeling-diemerbos/",
+        "https://www.cameranu.nl/events/1287-photowalk-analoge-fotografie-met-fred-sansone-engelstalig"
+      ],
+      "nextStep": "Confirm KNNV membership access before recommending; do not list the sold-out Cameranu photowalk as available."
+    },
+    {
+      "ideaId": "astra-24",
+      "status": "verified",
+      "summary": "Amsterdam Book Club has two 15 Nov sessions in English at Café Conrad (€10 including one drink); its organizer says many attendees come alone. Reading The Bell Jar beforehand is expected.",
+      "sourceUrls": [
+        "https://www.meetup.com/meetup-group-vjjzqjui/events/316963872/",
+        "https://www.meetup.com/meetup-group-vjjzqjui/events/316964318/",
+        "https://www.amsterdambookclub.com/"
+      ],
+      "nextStep": "Choose a session only if the book preparation and RSVP fee suit."
+    },
+    {
+      "ideaId": "astra-25",
+      "status": "verified",
+      "summary": "Socrates Café has individually listed Sunday OBA discussions throughout November, 15:00–17:00, free. The organizer requires basic spoken English but says listening without speaking is fine.",
+      "sourceUrls": [
+        "https://www.meetup.com/socrates-cafe-amsterdam-philosophy-discussions-meetup/events/calendar/",
+        "https://www.meetup.com/socrates-cafe-amsterdam-philosophy-discussions-meetup/events/317013696/"
+      ],
+      "nextStep": "Best discussion option if English and a structured philosophical conversation appeal."
+    },
+    {
+      "ideaId": "astra-05",
+      "status": "qualified",
+      "summary": "A free, audience-welcome jazz jam is listed at BIMHUIS on 24 Nov 22:00–00:30. It is a live music jam, not a facilitated body-percussion or vocal-improvisation workshop.",
+      "sourceUrls": [
+        "https://www.bimhuis.nl/en/calendar/tuesday-jam-291"
+      ],
+      "nextStep": "Use as a music/social evening if the late finish suits; performer sign-up details are not stated."
+    }
+  ],
+  "findings": [
+    "Best centrally located low-cost social options found in this batch: OBA Roelof Hartplein board games on 28 Nov (solo-friendly, fee unstated), Socrates Café at OBA Oosterdok on five Sundays in November (free; English participation required), and Café de Laurierboom chess on 14 Nov (free, all levels).",
+    "For a structured first-time activity, the Netherlands Roleplaying Guild on 14 Nov and D&D Amsterdam on 21 Nov are both free, adult-only (18+) and explicitly support first-timers.",
+    "Amsterdice is farther east but offers a large all-day board-game event on 29 Nov; organizers explicitly say people attend alone and the €10 fee includes two coins.",
+    "Repair-café fee policy can now be stated from the local Amsterdam organizer: free entry and help, optional donation, replacement parts/refreshments may cost extra.",
+    "BIMHUIS Tuesday Jam on 24 Nov is free, reservation-free, and welcomes musicians of all ages and levels plus jazz listeners; the 00:30 finish is late."
+  ],
+  "gaps": [
+    "No explicit fee or language appeared on OBA Bordspellencafé page.",
+    "No dated public pub quiz with a solo-team policy was verified.",
+    "No dated citizen-science event or separate mending circle was verified.",
+    "KNNV photo-walk access for non-members remains unclear.",
+    "Event capacity is live and can change after 18 Oct; availability is not guaranteed by this snapshot.",
+    "The official Amsterdam municipal site returned an automated block during direct browsing; its page content was still available through previously captured municipal listing/search results, so no additional city-calendar instances were added here.",
+    "MAQAM lists MAJAM November for 12 Nov 2026 as free, but the linked event detail page still displays a 2025 date; excluded pending a corrected event page."
+  ]
+}

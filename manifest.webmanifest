@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "Amsterdam activities",
+  "short_name": "AMS activities",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "en",
+  "description": "Amsterdam drop-in activities, prices and organiser links.",
+  "icons": [
+    {
+      "src": "icons/amsterdam-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/amsterdam-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

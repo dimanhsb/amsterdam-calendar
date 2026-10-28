@@ -1,0 +1,111 @@
+{
+  "checkedAt": "YYYY-MM-DD",
+  "researchRound": "round-N-topic",
+  "sources": [],
+  "events": [],
+  "offers": [],
+  "newIdeas": [],
+  "ideaReviews": [],
+  "findings": [],
+  "attempts": [],
+  "examples": {
+    "source": {
+      "title": "Organizer — exact public page title",
+      "url": "https://example.org/public-page",
+      "type": "organizer event page",
+      "evidence": "Exact observed facts, including which route/page supplied each fact.",
+      "checkedAt": "YYYY-MM-DD"
+    },
+    "datedEvent": {
+      "id": "organizer-descriptive-slug-YYYY-MM-DD",
+      "title": "Exact published event title",
+      "status": "dated",
+      "start": "YYYY-MM-DDTHH:MM:SS+01:00",
+      "end": "YYYY-MM-DDTHH:MM:SS+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Exact activity category",
+      "area": "Amsterdam area",
+      "venue": "Published venue name",
+      "address": null,
+      "description": "Published format and beginner/single-visit details.",
+      "participation": "active",
+      "formatLabel": "Single session",
+      "socialReason": "Observed social format or a clearly labeled assessment.",
+      "attendance": "Single-visit rules and any signup/class-booking requirement.",
+      "language": "Published language or Not stated.",
+      "bookingUrl": "https://example.org/public-page",
+      "sourceUrls": [
+        "https://example.org/public-page"
+      ],
+      "dateEvidence": "Public page explicitly shows this date and start time.",
+      "evidence": {
+        "schedule": "Exact displayed schedule evidence.",
+        "single_visit": "Exact access and price evidence."
+      },
+      "checkedAt": "YYYY-MM-DD",
+      "uncertainties": [
+        "List unresolved facts; do not fill from assumptions."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": null,
+        "type": "unknown",
+        "from": false,
+        "note": "Unknown unless directly published.",
+        "caption": "Price unknown"
+      },
+      "researchRound": "round-N-topic",
+      "researchMethod": "web-extraction",
+      "discoverySource": "https://example.org/public-page",
+      "ideaIds": [],
+      "languages": [],
+      "activityType": null
+    },
+    "undatedOffer": {
+      "id": "organizer-single-visit-offer",
+      "name": "Exact offer name",
+      "venue": "Published venue name",
+      "category": "Activity category",
+      "area": "Amsterdam area",
+      "address": null,
+      "description": "What a single visit includes, with restrictions stated.",
+      "attendance": "One-person access terms; class inclusion only when explicit.",
+      "beginner": null,
+      "language": "Published language or Not stated.",
+      "directPrice": {
+        "amount": null,
+        "type": "unknown",
+        "from": false,
+        "note": "Unknown unless directly published.",
+        "caption": "Price unknown"
+      },
+      "classpass": null,
+      "bookingUrl": "https://example.org/public-page",
+      "sourceUrls": [
+        "https://example.org/public-page"
+      ],
+      "checkedAt": "YYYY-MM-DD",
+      "evidence": {
+        "offer": "Exact visible single-visit and price evidence."
+      },
+      "uncertainties": [
+        "List unresolved facts; do not fill from assumptions."
+      ],
+      "scheduleHorizon": "No exact public date found; do not infer recurrence.",
+      "ideaIds": [],
+      "researchRound": "round-N-topic",
+      "researchMethod": "web-extraction",
+      "discoverySource": "https://example.org/public-page",
+      "languages": [],
+      "activityType": null
+    },
+    "tipBasedPrice": {
+      "amount": null,
+      "type": "tip-based",
+      "from": false,
+      "note": "No fixed entry fee; tips expected. Verify mandatory booking fees separately.",
+      "caption": "Tip-based, not genuinely free"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "blacklist": [],
+  "customKeywords": [],
+  "timeMode": "all",
+  "weekdayEveningStart": "00:00",
+  "weekdayMorningEnd": "00:00",
+  "weekends": true,
+  "timezone": "Europe/Amsterdam",
+  "preferredActivities": []
+}

@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="description" content="Amsterdam drop-in activities: dates, locations, prices and source links.">
+  <meta name="application-name" content="Amsterdam activities">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <link rel="manifest" href="manifest.webmanifest" crossorigin="use-credentials">
+  <link rel="apple-touch-icon" href="icons/amsterdam-touch.png">
+  <link rel="icon" href="icons/amsterdam-calendar.svg" type="image/svg+xml">
+  <link rel="icon" href="icons/amsterdam-32.png" type="image/png" sizes="32x32">
+  <link rel="shortcut icon" href="favicon.ico">
+  <title>Amsterdam activities</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to activities</a>
+<div class="shell">
+  <header class="app-header">
+    <a class="brand" href="#week">Amsterdam activities</a>
+    <nav aria-label="Main">
+      <button data-tab="week" class="nav active">Calendar</button>
+      <button data-tab="offers" class="nav">Drop-ins</button>
+      <button data-tab="ideas" class="nav">Ideas <small id="ideaCount">100</small></button>
+      <details class="more-menu"><summary>More</summary><div class="more-panel">
+      <button data-tab="sources" class="nav">Sources</button>
+      <button data-tab="collection" class="nav">Collection status</button>
+      <button data-tab="report" class="nav">Research report</button>
+      <button data-tab="preferences" class="nav">Preferences</button>
+      <button data-tab="prompt" class="nav">Research prompt</button>
+      <button id="installApp" hidden>Install app</button>
+      </div></details>
+    </nav>
+  </header>
+  <main id="main" tabindex="-1">
+    <p id="connectionStatus" class="connection-status" role="status" hidden></p>
+    <button id="updateApp" hidden>Update available · reload</button>
+    <section id="page-week" class="page">
+      <div class="day-navigation">
+        <button id="prevDay" aria-label="Previous day">←</button>
+        <div class="date-heading"><h1 id="weekTitle">Today</h1><label><span class="sr-only">Choose a day</span><input type="date" id="weekDate"></label></div>
+        <button id="nextDay" aria-label="Next day">→</button>
+      </div>
+      <div class="quick-controls">
+        <button id="today">Today</button><button id="tomorrow">Tomorrow</button>
+        <button id="savedToggle" class="saved-toggle" aria-pressed="false">Saved <b id="savedCount">0</b></button>
+        <details id="calendarOptions" class="calendar-options"><summary>Filters &amp; more</summary><div class="options-panel">
+      <p id="weekMeta" class="muted"></p>
+      <div class="week-jump"><label for="weekJump">Week</label><select id="weekJump" aria-label="Jump to a researched week"></select></div>
+      <div class="week-controls"><button id="prevWeek" aria-label="Previous week">← Week</button><button id="nextWeek" aria-label="Following week">Week →</button><button id="researchedWeek">First week</button></div>
+      <div class="toolbar">
+        <label class="search"><input id="search" placeholder="Search activities or locations" aria-label="Search activities"></label>
+        <label><span class="sr-only">Category</span><select id="category"><option value="all">All categories</option></select></label>
+        <label><span class="sr-only">Price</span><select id="cost"><option value="all">Any price</option><option value="free">Free entry</option><option value="paid">Paid admission</option><option value="tip-based">Tip-based</option><option value="donation">Donation</option><option value="25">Up to €25 listed</option><option value="50">Up to €50 listed</option><option value="unknown">Price unknown / conflicting</option></select></label>
+        <label><span class="sr-only">Activity type</span><select id="activityFilter"><option value="all">All activities</option><option value="walking-tour">Walks &amp; walking tours</option></select></label>
+        <label><span class="sr-only">Spoken language</span><select id="languageFilter"><option value="all">Any language</option><option value="en">English</option><option value="nl">Dutch</option><option value="other">Other / no specific language</option><option value="unknown">Language unconfirmed</option></select></label>
+        <label><span class="sr-only">Participation format</span><select id="participation"><option value="all">Any format</option><option value="active">Participatory / small group</option><option value="audience">Mostly audience</option></select></label>
+        <label><span class="sr-only">Availability</span><select id="availabilityFilter"><option value="open">Open / not checked</option><option value="all">Include unavailable / disputed</option></select></label>
+        <label><span class="sr-only">Time preference</span><select id="timeFilter"><option value="preferred">Preferred times</option><option value="all">All times</option></select></label>
+      </div>
+      <p class="muted filter-note">Language means stated spoken delivery. Tip-based tours are separate from free entry.</p>
+      <p class="preference-note">All activities and times are shown by default. <button data-tab="preferences" class="text-button">Edit blacklist</button></p>
+      <div class="view-controls" role="group" aria-label="Display">
+        <button id="agendaView" class="selected" aria-pressed="true">Agenda</button><button id="calendarView" aria-pressed="false">Calendar</button><button id="exportWeek">Export selection .ics</button><button id="exportRange">Export upcoming .ics</button>
+      </div>
+      <p id="coverageSummary" class="muted"></p>
+      <p class="muted">Checked 21 October 2026. Recheck prices and places with the organiser. Past dates disappear automatically; each publication removes them from the live data.</p><button id="showMethod">Source notes</button>
+      <div id="dayFilters" class="day-filters" aria-label="Filter by day"></div>
+        </div></details>
+      </div>
+      <p id="resultCount" class="compact-count" role="status"></p>
+      <div id="eventList"></div>
+      <div id="scheduleLeads" class="schedule-leads"></div>
+      <p class="week-footnote">Local Amsterdam times. Calendar exports are snapshots and do not receive changes or cancellations.</p>
+    </section>
+
+    <section id="page-offers" class="page" hidden>
+      <h1>Drop-in options</h1>
+      <p class="page-intro">Verified single-visit formats and studio prices. These are not dated calendar entries. Open the organiser’s schedule to choose a session.</p>
+      <div class="toolbar">
+        <label class="search"><input id="offerSearch" placeholder="Search studios, activities or locations" aria-label="Search drop-in options"></label>
+        <label><span class="sr-only">Drop-in category</span><select id="offerCategory"><option value="all">All categories</option></select></label>
+        <label><span class="sr-only">Booking channel</span><select id="offerChannel"><option value="all">All booking channels</option><option value="classpass">ClassPass leads</option><option value="direct">Direct price listed</option></select></label>
+        <label><span class="sr-only">Drop-in price</span><select id="offerCost"><option value="all">Any direct price</option><option value="free">Free entry</option><option value="paid">Paid admission</option><option value="tip-based">Tip-based</option><option value="donation">Donation</option><option value="25">Up to €25 listed</option><option value="50">Up to €50 listed</option><option value="unknown">Direct price unknown</option></select></label>
+        <label><span class="sr-only">Drop-in spoken language</span><select id="offerLanguage"><option value="all">Any language</option><option value="en">English</option><option value="nl">Dutch</option><option value="other">Other / no specific language</option><option value="unknown">Language unconfirmed</option></select></label>
+      </div>
+      <p class="muted">Free entry, tip-based tours and donations are separate. Language means stated spoken delivery; website language is not evidence.</p>
+      <p class="muted offer-note">ClassPass credits and availability depend on the session and account. Credits are shown separately from direct euro prices. No subscription or trial is required to use this calendar.</p>
+      <p id="offerResultCount" class="muted" role="status"></p>
+      <div id="offersList"></div>
+    </section>
+
+    <section id="page-ideas" class="page" hidden>
+      <h1>Ideas</h1>
+      <p class="page-intro">Explore activities and their potential providers, or browse what each provider may offer. Research leads and joining conditions are in the notes.</p>
+      <div class="ideas-controls">
+        <div class="view-controls" role="group" aria-label="Browse ideas by">
+          <button id="ideasByActivity" data-idea-view="activity" class="selected" aria-pressed="true">By activity</button>
+          <button id="ideasByProvider" data-idea-view="provider" aria-pressed="false">By provider</button>
+        </div>
+        <label class="search"><input id="ideaSearch" placeholder="Search activities or providers" aria-label="Search idea library"></label>
+        <label><span class="sr-only">Idea category</span><select id="ideaCategory"><option value="all">All categories</option></select></label>
+        <button id="ideaClearSelection" hidden>Show all activities</button>
+      </div>
+      <p id="ideaResultCount" class="muted" role="status"></p>
+      <div id="ideasGrid" class="ideas-grid"></div>
+    </section>
+
+    <section id="page-sources" class="page" hidden>
+      <h1>Sources</h1>
+      <p class="page-intro">Source links, evidence and verification dates.</p>
+      <details class="method-box">
+        <summary>How events are checked</summary>
+        <p>Exact dates are checked against organizer or official listings. Conflicting details and unknown prices are recorded. Recurring schedules stay as leads until a dated occurrence is verified.</p>
+        <p>A published listing does not guarantee available places. Language, age requirements and beginner access are included when stated.</p>
+      </details>
+      <button id="downloadData">Download research data</button>
+      <label class="search wide source-search"><input id="sourceSearch" placeholder="Search sources" aria-label="Search sources"></label>
+      <div id="sourceList" class="source-list"></div>
+    </section>
+
+    <section id="page-collection" class="page" hidden>
+      <h1>Source collection</h1>
+      <p class="page-intro">Collection runs, candidate leads and the full source inventory. Collected candidates still need review before becoming events.</p>
+      <div id="collectionStatus"></div>
+    </section>
+
+    <section id="page-prompt" class="page" hidden>
+      <h1>Research prompt</h1>
+      <p class="page-intro">Use this brief to find activities and update the calendar.</p>
+      <div class="prompt-actions">
+        <button id="copyPrompt" class="primary">Copy research prompt</button>
+        <a class="button" href="prompts/discover-more.md" download>Download prompt</a>
+        <a class="button" href="prompts/refresh-next-week.md" download>Download refresh brief</a>
+        <a class="button" href="source-guides/README.md" target="_blank">Source guide index</a>
+      </div>
+      <p class="page-intro">The calendar is updated manually. Automatic refresh and notifications are not configured.</p>
+      <details class="prompt-details"><summary>Read full prompt</summary><pre id="promptText">Loading…</pre></details>
+    </section>
+    <section id="page-preferences" class="page" hidden>
+      <h1>Preferences</h1>
+      <p class="page-intro">Blacklisted activities are hidden from the calendar, ideas, drop-in options and calendar exports. Changes are saved in this browser.</p>
+      <fieldset class="preferences-box"><legend>Blacklist</legend><div id="blacklistControls"></div><form id="blacklistForm"><label for="blacklistKeyword">Hide a title or category keyword</label><div class="input-row"><input id="blacklistKeyword" maxlength="80" placeholder="Add a keyword"><button type="submit">Add</button></div></form><div id="customBlacklist"></div></fieldset>
+      <fieldset class="preferences-box"><legend>Install &amp; offline</legend><p>Use your browser’s Install app or Add to Home screen option. Once loaded online, the app keeps the current calendar for offline use. Booking links require internet; offline prices and availability may be outdated.</p><p>Past dates are hidden automatically and removed from the published data whenever this calendar is updated. Research evidence remains in the project archive.</p></fieldset>
+      <fieldset class="preferences-box"><legend>Interests</legend><p>Choose activities using the calendar filters.</p></fieldset>
+      <fieldset class="preferences-box"><legend>Preferred times</legend><p>All times are shown by default. The time setting also applies to period exports.</p></fieldset>
+      <details class="preferences-box"><summary id="blacklistSummary">Hidden activity archive</summary><div id="blacklistArchive"></div></details>
+    </section>
+    <section id="page-report" class="page" hidden>
+      <h1>Research report</h1>
+      <p class="page-intro">Verified occurrences by website, the methods used, and coverage of every idea. Counts are computed from the saved research.</p>
+      <div id="researchReport"></div>
+    </section>
+    <footer>Times: Europe/Amsterdam</footer>
+  </main>
+</div>
+<dialog id="eventDialog" aria-labelledby="eventDialogTitle">
+  <button id="closeDialog" class="dialog-close" aria-label="Close event details">×</button>
+  <div id="dialogContent"></div>
+</dialog>
+<div id="toast" role="status" aria-live="polite"></div>
+<script type="module" src="app.js"></script>
+</body>
+</html>

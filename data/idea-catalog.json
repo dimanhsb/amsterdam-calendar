@@ -1,0 +1,2525 @@
+{
+  "activities": [
+    {
+      "id": "activity-acroyoga",
+      "name": "AcroYoga",
+      "category": "Circus & acrobatics",
+      "description": ""
+    },
+    {
+      "id": "activity-aerial-circus-skills",
+      "name": "Aerial & circus skills",
+      "category": "Circus & acrobatics",
+      "description": ""
+    },
+    {
+      "id": "activity-astronomy",
+      "name": "Astronomy",
+      "category": "Walking & outdoors",
+      "description": ""
+    },
+    {
+      "id": "activity-backgammon",
+      "name": "Backgammon",
+      "category": "Games & community",
+      "description": ""
+    },
+    {
+      "id": "activity-baking-fermentation",
+      "name": "Baking & fermentation",
+      "category": "Food & drink",
+      "description": ""
+    },
+    {
+      "id": "activity-balfolk",
+      "name": "Balfolk",
+      "category": "Dance & movement",
+      "description": ""
+    },
+    {
+      "id": "activity-barre",
+      "name": "Barre",
+      "category": "Fitness & sport",
+      "description": ""
+    },
+    {
+      "id": "activity-bicycle-repair",
+      "name": "Bicycle repair",
+      "category": "Creative & making",
+      "description": ""
+    },
+    {
+      "id": "activity-board-games",
+      "name": "Board games",
+      "category": "Games & community",
+      "description": ""
+    },
+    {
+      "id": "activity-body-percussion",
+      "name": "Body percussion",
+      "category": "Music & performance",
+      "description": ""
+    },
+    {
+      "id": "activity-bouldering",
+      "name": "Bouldering",
+      "category": "Climbing",
+      "description": ""
+    },
+    {
+      "id": "activity-boxing-kickboxing",
+      "name": "Boxing & kickboxing",
+      "category": "Fitness & sport",
+      "description": ""
+    },
+    {
+      "id": "activity-breathwork",
+      "name": "Breathwork",
+      "category": "Fitness & sport",
+      "description": ""
+    },
+    {
+      "id": "activity-calisthenics",
+      "name": "Calisthenics",
+      "category": "Fitness & sport",
+      "description": ""
+    },
+    {
+      "id": "activity-chess-backgammon-go",
+      "name": "Chess",
+      "category": "Games & community",
+      "description": ""
+    },
+    {
+      "id": "activity-citizen-science",
+      "name": "Citizen science",
+      "category": "Walking & outdoors",
+      "description": ""
+    },
+    {
+      "id": "activity-clothing-repair",
+      "name": "Clothing repair",
+      "category": "Creative & making",
+      "description": ""
+    },
+    {
+      "id": "activity-coffee-barista",
+      "name": "Coffee & barista",
+      "category": "Food & drink",
+      "description": ""
+    },
+    {
+      "id": "activity-cold-exposure",
+      "name": "Cold exposure",
+      "category": "Fitness & sport",
+      "description": ""
+    },
+    {
+      "id": "activity-comedy",
+      "name": "Comedy",
+      "category": "Music & performance",
+      "description": ""
+    },
+    {
+      "id": "activity-community-gardening",
+      "name": "Community gardening",
+      "category": "Community & volunteering",
+      "description": ""
+    },
+    {
+      "id": "activity-community-volunteering",
+      "name": "Community volunteering",
+      "category": "Community & volunteering",
+      "description": ""
+    },
+    {
+      "id": "activity-contact-improvisation",
+      "name": "Contact improvisation",
+      "category": "Dance & movement",
+      "description": ""
+    },
+    {
+      "id": "activity-conversation-discussion",
+      "name": "Conversation & discussion",
+      "category": "Conversation & culture",
+      "description": ""
+    },
+    {
+      "id": "activity-cooking",
+      "name": "Cooking",
+      "category": "Food & drink",
+      "description": ""
+    },
+    {
+      "id": "activity-creative-workshops",
+      "name": "Creative workshops",
+      "category": "Creative & making",
+      "description": ""
+    },
+    {
+      "id": "activity-creative-writing",
+      "name": "Creative writing",
+      "category": "Conversation & culture",
+      "description": ""
+    },
+    {
+      "id": "activity-crossfit-functional-training",
+      "name": "CrossFit & functional training",
+      "category": "Fitness & sport",
+      "description": ""
+    },
+    {
+      "id": "activity-dance-classes",
+      "name": "Dance classes",
+      "category": "Dance & movement",
+      "description": ""
+    },
+    {
+      "id": "activity-debate-public-speaking",
+      "name": "Debate & public speaking",
+      "category": "Conversation & culture",
+      "description": ""
+    },
+    {
+      "id": "activity-drawing-painting",
+      "name": "Drawing & painting",
+      "category": "Creative & making",
+      "description": ""
+    },
+    {
+      "id": "activity-ecstatic-free-form-dance",
+      "name": "Ecstatic & free-form dance",
+      "category": "Dance & movement",
+      "description": ""
+    },
+    {
+      "id": "activity-film-community-events",
+      "name": "Film & community events",
+      "category": "Community & volunteering",
+      "description": ""
+    },
+    {
+      "id": "activity-flexibility-chair-dance",
+      "name": "Flexibility & chair dance",
+      "category": "Circus & acrobatics",
+      "description": ""
+    },
+    {
+      "id": "activity-folk-dance",
+      "name": "Folk dance",
+      "category": "Dance & movement",
+      "description": ""
+    },
+    {
+      "id": "activity-go",
+      "name": "Go",
+      "category": "Games & community",
+      "description": ""
+    },
+    {
+      "id": "activity-group-park-canal-cleanups",
+      "name": "Group park & canal cleanups",
+      "category": "Community & volunteering",
+      "description": ""
+    },
+    {
+      "id": "activity-gymnastics",
+      "name": "Gymnastics",
+      "category": "Circus & acrobatics",
+      "description": ""
+    },
+    {
+      "id": "activity-handstands",
+      "name": "Handstands",
+      "category": "Circus & acrobatics",
+      "description": ""
+    },
+    {
+      "id": "activity-hoopdance",
+      "name": "Hoopdance",
+      "category": "Dance & movement",
+      "description": ""
+    },
+    {
+      "id": "activity-ice-skating",
+      "name": "Ice skating",
+      "category": "Fitness & sport",
+      "description": ""
+    },
+    {
+      "id": "activity-improv-comedy",
+      "name": "Improv comedy",
+      "category": "Music & performance",
+      "description": ""
+    },
+    {
+      "id": "activity-indoor-cycling",
+      "name": "Indoor cycling",
+      "category": "Fitness & sport",
+      "description": ""
+    },
+    {
+      "id": "activity-indoor-rowing",
+      "name": "Indoor rowing",
+      "category": "Fitness & sport",
+      "description": ""
+    },
+    {
+      "id": "activity-instrument-drum-circles",
+      "name": "Instrument drum circles",
+      "category": "Music & performance",
+      "description": ""
+    },
+    {
+      "id": "activity-juggling",
+      "name": "Juggling",
+      "category": "Circus & acrobatics",
+      "description": ""
+    },
+    {
+      "id": "activity-karaoke",
+      "name": "Karaoke",
+      "category": "Music & performance",
+      "description": ""
+    },
+    {
+      "id": "activity-live-music",
+      "name": "Live music",
+      "category": "Music & performance",
+      "description": ""
+    },
+    {
+      "id": "activity-maker-activities",
+      "name": "Maker activities",
+      "category": "Creative & making",
+      "description": ""
+    },
+    {
+      "id": "activity-martial-arts-self-defense",
+      "name": "Martial arts & self-defense",
+      "category": "Fitness & sport",
+      "description": ""
+    },
+    {
+      "id": "activity-meditation",
+      "name": "Meditation",
+      "category": "Fitness & sport",
+      "description": ""
+    },
+    {
+      "id": "activity-mobility",
+      "name": "Mobility",
+      "category": "Fitness & sport",
+      "description": ""
+    },
+    {
+      "id": "activity-music-sound-workshops",
+      "name": "Music & sound workshops",
+      "category": "Music & performance",
+      "description": ""
+    },
+    {
+      "id": "activity-nature-walks",
+      "name": "Nature walks",
+      "category": "Walking & outdoors",
+      "description": ""
+    },
+    {
+      "id": "activity-orienteering",
+      "name": "Orienteering",
+      "category": "Walking & outdoors",
+      "description": ""
+    },
+    {
+      "id": "activity-padel",
+      "name": "Padel",
+      "category": "Fitness & sport",
+      "description": ""
+    },
+    {
+      "id": "activity-parkour",
+      "name": "Parkour",
+      "category": "Fitness & sport",
+      "description": ""
+    },
+    {
+      "id": "activity-philosophical-conversation",
+      "name": "Philosophical conversation",
+      "category": "Conversation & culture",
+      "description": ""
+    },
+    {
+      "id": "activity-photo-walks",
+      "name": "Photo walks",
+      "category": "Walking & outdoors",
+      "description": ""
+    },
+    {
+      "id": "activity-photography",
+      "name": "Photography",
+      "category": "Creative & making",
+      "description": ""
+    },
+    {
+      "id": "activity-pilates",
+      "name": "Pilates",
+      "category": "Fitness & sport",
+      "description": ""
+    },
+    {
+      "id": "activity-playfight",
+      "name": "Playfight",
+      "category": "Fitness & sport",
+      "description": ""
+    },
+    {
+      "id": "activity-pole-dance",
+      "name": "Pole dance",
+      "category": "Circus & acrobatics",
+      "description": ""
+    },
+    {
+      "id": "activity-pottery-ceramics",
+      "name": "Pottery & ceramics",
+      "category": "Creative & making",
+      "description": ""
+    },
+    {
+      "id": "activity-printmaking-book-arts",
+      "name": "Printmaking & book arts",
+      "category": "Creative & making",
+      "description": ""
+    },
+    {
+      "id": "activity-pub-quizzes",
+      "name": "Pub quizzes",
+      "category": "Games & community",
+      "description": ""
+    },
+    {
+      "id": "activity-reading-book-discussion",
+      "name": "Reading & book groups",
+      "category": "Conversation & culture",
+      "description": ""
+    },
+    {
+      "id": "activity-resonance-movement",
+      "name": "Resonance movement",
+      "category": "Dance & movement",
+      "description": ""
+    },
+    {
+      "id": "activity-rock-jive-dance",
+      "name": "Rock & jive dance",
+      "category": "Dance & movement",
+      "description": ""
+    },
+    {
+      "id": "activity-roped-climbing",
+      "name": "Roped climbing",
+      "category": "Climbing",
+      "description": ""
+    },
+    {
+      "id": "activity-running-walking",
+      "name": "Running & walking",
+      "category": "Walking & outdoors",
+      "description": ""
+    },
+    {
+      "id": "activity-salsa-bachata-socials",
+      "name": "Salsa & bachata socials",
+      "category": "Dance & movement",
+      "description": ""
+    },
+    {
+      "id": "activity-samba",
+      "name": "Samba",
+      "category": "Dance & movement",
+      "description": ""
+    },
+    {
+      "id": "activity-singing-choir",
+      "name": "Singing & choir",
+      "category": "Music & performance",
+      "description": ""
+    },
+    {
+      "id": "activity-social-dance-evenings",
+      "name": "Social dance evenings",
+      "category": "Dance & movement",
+      "description": ""
+    },
+    {
+      "id": "activity-social-sports",
+      "name": "Social sports",
+      "category": "Fitness & sport",
+      "description": ""
+    },
+    {
+      "id": "activity-songwriting",
+      "name": "Songwriting",
+      "category": "Music & performance",
+      "description": ""
+    },
+    {
+      "id": "activity-sound-baths",
+      "name": "Sound baths",
+      "category": "Fitness & sport",
+      "description": ""
+    },
+    {
+      "id": "activity-squash",
+      "name": "Squash",
+      "category": "Fitness & sport",
+      "description": ""
+    },
+    {
+      "id": "activity-strength-conditioning",
+      "name": "Strength & conditioning",
+      "category": "Fitness & sport",
+      "description": ""
+    },
+    {
+      "id": "activity-swimming-aquatic-fitness",
+      "name": "Swimming & aquatic fitness",
+      "category": "Fitness & sport",
+      "description": ""
+    },
+    {
+      "id": "activity-tabletop-role-playing-games",
+      "name": "Tabletop role-playing games",
+      "category": "Games & community",
+      "description": ""
+    },
+    {
+      "id": "activity-talks-public-discussion",
+      "name": "Talks & public discussion",
+      "category": "Conversation & culture",
+      "description": ""
+    },
+    {
+      "id": "activity-textile-crafts",
+      "name": "Textile crafts",
+      "category": "Creative & making",
+      "description": ""
+    },
+    {
+      "id": "activity-upcycling-repair",
+      "name": "Upcycling & repair",
+      "category": "Creative & making",
+      "description": ""
+    },
+    {
+      "id": "activity-urban-sketching-walks",
+      "name": "Urban sketching walks",
+      "category": "Walking & outdoors",
+      "description": ""
+    },
+    {
+      "id": "activity-vocal-improvisation",
+      "name": "Vocal improvisation",
+      "category": "Music & performance",
+      "description": ""
+    },
+    {
+      "id": "activity-volunteer-cooking-food-rescue",
+      "name": "Volunteer cooking & food rescue",
+      "category": "Community & volunteering",
+      "description": ""
+    },
+    {
+      "id": "activity-walking-tours",
+      "name": "Walking tours",
+      "category": "Walking & outdoors",
+      "description": ""
+    },
+    {
+      "id": "activity-watersports",
+      "name": "Watersports",
+      "category": "Walking & outdoors",
+      "description": ""
+    },
+    {
+      "id": "activity-wine-tasting",
+      "name": "Wine tasting",
+      "category": "Food & drink",
+      "description": ""
+    },
+    {
+      "id": "activity-yoga",
+      "name": "Yoga",
+      "category": "Fitness & sport",
+      "description": ""
+    },
+    {
+      "id": "activity-zumba-dance-fitness",
+      "name": "Zumba & dance fitness",
+      "category": "Fitness & sport",
+      "description": ""
+    }
+  ],
+  "providers": [
+    {
+      "id": "provider-abc-community-bike-repair",
+      "name": "ABC Community bike repair",
+      "url": "https://repaircafe.amsterdam/en",
+      "notes": "Listed as bike repair in the saved directory research; a participatory workshop and current date remain unverified."
+    },
+    {
+      "id": "provider-acroyogaamsterdamsessions",
+      "name": "AcroYoga Amsterdam sessions",
+      "url": null
+    },
+    {
+      "id": "provider-agalab",
+      "name": "AGA LAB",
+      "url": "https://agalab.nl/en/house-rules/"
+    },
+    {
+      "id": "provider-amsterdam-board-gaming-meetup-group",
+      "name": "Amsterdam Board Gaming Meetup Group",
+      "url": "https://www.meetup.com/nl-nl/amsterdam-board-gaming-meetup-group/events/tkqsstyjcpbgb/",
+      "notes": "Saved game nights meet at Roode Remise."
+    },
+    {
+      "id": "provider-amsterdam-book-club",
+      "name": "Amsterdam Book Club",
+      "url": "https://www.amsterdambookclub.com/",
+      "notes": "Saved sessions expect advance reading; they do not establish a text-provided-there format."
+    },
+    {
+      "id": "provider-amsterdam-chess-meetup",
+      "name": "Amsterdam Chess Meetup",
+      "url": "https://www.meetup.com/nl-nl/amsterdam-chess-meetup/events/316779344/",
+      "notes": "The saved session meets at Café de Laurierboom; levels and joining conditions remain in the research notes."
+    },
+    {
+      "id": "provider-amsterdam-dance-centre",
+      "name": "Amsterdam Dance Center",
+      "url": "https://amsterdamdancecentre.nl/adults/"
+    },
+    {
+      "id": "provider-amsterdamhouseofartscrafts",
+      "name": "Amsterdam House of Arts & Crafts",
+      "url": "https://www.amsterdamhouseofartsandcrafts.com/nl/workshops/open-atelier"
+    },
+    {
+      "id": "provider-amsterdamsongwritingguild",
+      "name": "Amsterdam Songwriting Guild",
+      "url": null
+    },
+    {
+      "id": "provider-amsterdamtoastmasters",
+      "name": "Amsterdam Toastmasters",
+      "url": "https://www.toastmasters.org/Find-a-Club/00009210-00009210"
+    },
+    {
+      "id": "provider-amsterdamwineacademy",
+      "name": "Amsterdam Wine Academy",
+      "url": null
+    },
+    {
+      "id": "provider-amsterdamwritingworkshops",
+      "name": "Amsterdam Writing Workshops",
+      "url": null
+    },
+    {
+      "id": "provider-amsterdice",
+      "name": "Amsterdice",
+      "url": "https://www.amsterdice.nl/"
+    },
+    {
+      "id": "provider-artceramicsstudiogilliansmith",
+      "name": "Art Ceramics Studio · Gillian Smith",
+      "url": "https://keramiekatelier.nl/"
+    },
+    {
+      "id": "provider-atelierkleie",
+      "name": "Atelier Kleie",
+      "url": "https://atelierkleie.wordpress.com/workshops/"
+    },
+    {
+      "id": "provider-bakinglabamsterdam",
+      "name": "Baking Lab Amsterdam",
+      "url": null
+    },
+    {
+      "id": "provider-baristacompanyacademy",
+      "name": "Barista Company Academy",
+      "url": "https://www.baristacompany.com/"
+    },
+    {
+      "id": "provider-beestbouldersamsterdam",
+      "name": "Beest Boulders Amsterdam",
+      "url": "https://beestboulders.com/vestigingen/beest-boulders-amsterdam/"
+    },
+    {
+      "id": "provider-beestbouldershetlabamsterdam",
+      "name": "Beest Boulders het Lab Amsterdam",
+      "url": "https://beestboulders.com/vestigingen/het-lab-amsterdam/"
+    },
+    {
+      "id": "provider-betabouldersamsterdam",
+      "name": "Beta Boulders Amsterdam",
+      "url": "https://betaboulders.nl/prices/"
+    },
+    {
+      "id": "provider-bimhuisworkshopstage",
+      "name": "BIMHUIS Workshop Stage",
+      "url": null
+    },
+    {
+      "id": "provider-boogieland",
+      "name": "Boogieland",
+      "url": "https://boogieland.nl/"
+    },
+    {
+      "id": "provider-boomchicago",
+      "name": "Boom Chicago",
+      "url": null
+    },
+    {
+      "id": "provider-buurtteam",
+      "name": "Buurtteam",
+      "url": "https://www.buurtteamamsterdam.nl/serie/groepswandeling-in-de-natuur-amstelpark/"
+    },
+    {
+      "id": "provider-calisthenicsclubamsterdam",
+      "name": "Calisthenics Club Amsterdam",
+      "url": null
+    },
+    {
+      "id": "provider-cameranu",
+      "name": "Cameranu",
+      "url": "https://www.cameranu.nl/events/1287-photowalk-analoge-fotografie-met-fred-sansone-engelstalig",
+      "notes": "The recorded analogue photowalk was sold out. This is a potential provider for future dates."
+    },
+    {
+      "id": "provider-canalsupamsterdam",
+      "name": "Canal SUP Amsterdam",
+      "url": null
+    },
+    {
+      "id": "provider-chassedancestudios",
+      "name": "Chassé Dance Studios",
+      "url": null
+    },
+    {
+      "id": "provider-circuslabamsterdam",
+      "name": "CircusLab Amsterdam",
+      "url": null
+    },
+    {
+      "id": "provider-clubcuisine",
+      "name": "ClubCuisine",
+      "url": "https://clubcuisine.nl/events/"
+    },
+    {
+      "id": "provider-common-ground",
+      "name": "Common Ground",
+      "url": null
+    },
+    {
+      "id": "provider-consciousnessclubamsterdam",
+      "name": "Consciousness Club Amsterdam",
+      "url": null
+    },
+    {
+      "id": "provider-crea",
+      "name": "CREA",
+      "url": "https://www.crea.nl/"
+    },
+    {
+      "id": "provider-d-d-amsterdam",
+      "name": "D&D Amsterdam",
+      "url": "https://www.meetup.com/nl-nl/dungeons-dragons-amsterdam/events/316139338/"
+    },
+    {
+      "id": "provider-damhoops",
+      "name": "Dam Hoops",
+      "url": null
+    },
+    {
+      "id": "provider-debalie",
+      "name": "De Balie",
+      "url": "https://debalie.nl/programma/arnon-grunberg-meets-adania-shibli-05-11-2026/"
+    },
+    {
+      "id": "provider-deboomsspijker",
+      "name": "De Boomsspijker",
+      "url": null
+    },
+    {
+      "id": "provider-dekookfabriekamsterdam",
+      "name": "De Kookfabriek Amsterdam",
+      "url": "https://www.kookfabriek.nl/"
+    },
+    {
+      "id": "provider-delokatieupcyclinglab",
+      "name": "De Lokatie Upcycling Lab",
+      "url": "https://www.delokatie.org/"
+    },
+    {
+      "id": "provider-demirandabad",
+      "name": "De Mirandabad",
+      "url": null
+    },
+    {
+      "id": "provider-deoudekerkopenstudio",
+      "name": "De Oude Kerk open studio",
+      "url": "https://oudekerk.nl/"
+    },
+    {
+      "id": "provider-derooij",
+      "name": "De Rooij",
+      "url": "https://www.derooijfotografie.nl/fotocursus/fotografie-cursus-amsterdam/"
+    },
+    {
+      "id": "provider-desteekrepaircafeamsterdam",
+      "name": "De Steek / Repair Café Amsterdam",
+      "url": "https://repaircafe.amsterdam/cafe/de-steek"
+    },
+    {
+      "id": "provider-debateclubamsterdam",
+      "name": "Debate Club Amsterdam",
+      "url": null
+    },
+    {
+      "id": "provider-eastboundgym",
+      "name": "Eastbound Gym",
+      "url": "https://eastboundgym.nl/en/word-lid"
+    },
+    {
+      "id": "provider-equalyoga",
+      "name": "Equal Yoga",
+      "url": "https://www.equalyoga.com/reserve/"
+    },
+    {
+      "id": "provider-femmegymdesmederij",
+      "name": "FemmeGym De Smederij",
+      "url": "https://www.femmegym.nl/femmegym-de-smederij/"
+    },
+    {
+      "id": "provider-flyinvertedaerialstudio",
+      "name": "Fly Inverted Aerial Studio",
+      "url": null
+    },
+    {
+      "id": "provider-foam",
+      "name": "Foam",
+      "url": null
+    },
+    {
+      "id": "provider-freewalkingtoursamsterdam",
+      "name": "Free Walking Tours Amsterdam",
+      "url": "https://freewalkingtoursamsterdam.com/tours/free-classic-tour/"
+    },
+    {
+      "id": "provider-freedamtours",
+      "name": "FreeDam Tours",
+      "url": "https://freedamtours.com/"
+    },
+    {
+      "id": "provider-heart-soul-studio",
+      "name": "Heart & Soul Pottery Studio",
+      "url": "https://www.heartandsoulstudio.nl/service-page/the-cozy-cup-autumn-mug-workshop"
+    },
+    {
+      "id": "provider-hetgymlokaalwest",
+      "name": "Het Gymlokaal West",
+      "url": "https://www.hetgymlokaal.nl/en/credits/"
+    },
+    {
+      "id": "provider-ivnamsterdam",
+      "name": "IVN Amsterdam",
+      "url": "https://www.ivn.nl/afdeling/amsterdam/excursies/"
+    },
+    {
+      "id": "provider-jaap-eden-icebaan",
+      "name": "Jaap Eden Ice Rink",
+      "url": "https://www.jaapeden.nl/praktische-informatie/tarieven/"
+    },
+    {
+      "id": "provider-kaap",
+      "name": "Kaap",
+      "url": null
+    },
+    {
+      "id": "provider-klimmuuramsterdamcentraal",
+      "name": "Klimmuur Amsterdam Centraal",
+      "url": "https://www.iamsterdam.com/uit/agenda/attracties-en-bezienswaardigheden/attracties/klimmuur-centraal"
+    },
+    {
+      "id": "provider-knnv-amsterdam",
+      "name": "KNNV Amsterdam",
+      "url": "https://amsterdam.knnv.nl/agenda/fotowandeling-diemerbos/",
+      "notes": "Saved photography walk has uncertain non-member eligibility; do not assume a public beginner place."
+    },
+    {
+      "id": "provider-krachtamsterdam",
+      "name": "Kracht Amsterdam",
+      "url": null
+    },
+    {
+      "id": "provider-kravmagaamsterdam",
+      "name": "Krav Maga Amsterdam",
+      "url": null
+    },
+    {
+      "id": "provider-luciamarthasinstitute",
+      "name": "Lucia Marthas Institute",
+      "url": null
+    },
+    {
+      "id": "provider-mezrabbalfolkamsterdam",
+      "name": "Mezrab / Balfolk Amsterdam",
+      "url": null
+    },
+    {
+      "id": "provider-mkateliersmk24",
+      "name": "MK Ateliers / MK24",
+      "url": "https://www.mkateliers.nl/cursussen/"
+    },
+    {
+      "id": "provider-monkbouldergymamsterdam",
+      "name": "Monk Bouldergym Amsterdam",
+      "url": "https://monk.nl/amsterdam/"
+    },
+    {
+      "id": "provider-movementscity",
+      "name": "Movements City",
+      "url": "https://movementsyoga.com/our-locations/city/"
+    },
+    {
+      "id": "provider-movementsvondelpark",
+      "name": "Movements Vondelpark",
+      "url": null
+    },
+    {
+      "id": "provider-movingsparkles",
+      "name": "Moving Sparkles",
+      "url": null
+    },
+    {
+      "id": "provider-muziekgebouwaantijsoundlab",
+      "name": "Muziekgebouw aan ’t IJ Sound Lab",
+      "url": null
+    },
+    {
+      "id": "provider-netherlands-roleplaying-guild",
+      "name": "Netherlands Roleplaying Guild",
+      "url": "https://www.meetup.com/netherlands-roleplaying-guild/events/315627403/"
+    },
+    {
+      "id": "provider-noorderparkbad",
+      "name": "Noorderparkbad",
+      "url": "https://www.amsterdam.nl/noorderparkbad/prijzen-noorderparkbad/"
+    },
+    {
+      "id": "provider-obaoosterdok",
+      "name": "OBA Oosterdok",
+      "url": "https://oba.nl/nl/agenda/volledige-agenda?Wanneer=d_thismonth&page=6&query=Oosterdok"
+    },
+    {
+      "id": "provider-olvminor",
+      "name": "OLV MINOR",
+      "url": "https://www.olvminor.nl/"
+    },
+    {
+      "id": "provider-oostenburgboardgameclub",
+      "name": "Oostenburg Board Game Club",
+      "url": "https://overdebrug-oostenburg.nl/agenda/board-game-club-3/"
+    },
+    {
+      "id": "provider-padelclubmetropolitain",
+      "name": "Padel Club Metropolitain",
+      "url": null
+    },
+    {
+      "id": "provider-pakhuisdezwijger",
+      "name": "Pakhuis de Zwijger",
+      "url": "https://dezwijger.nl/programma/grenzen-zegen-of-vloek"
+    },
+    {
+      "id": "provider-parkourdisciplinestudio",
+      "name": "Parkour Discipline Studio",
+      "url": null
+    },
+    {
+      "id": "provider-parkrunamsterdamsebos",
+      "name": "parkrun Amsterdamse Bos",
+      "url": "https://www.parkrun.co.nl/amsterdamsebos/"
+    },
+    {
+      "id": "provider-poledancefactoryamsterdam",
+      "name": "Pole Dance Factory Amsterdam",
+      "url": null
+    },
+    {
+      "id": "provider-saintsstarsoudwest",
+      "name": "Saints & Stars Oud-West",
+      "url": null
+    },
+    {
+      "id": "provider-saintsstarsoudzuid",
+      "name": "Saints & Stars Oud-Zuid",
+      "url": null
+    },
+    {
+      "id": "provider-sambaschoolfidelinas",
+      "name": "Samba School Fidelinas",
+      "url": "https://www.sambaschoolfidelinas.nl/lessen/samba-beginners"
+    },
+    {
+      "id": "provider-serve-the-city-amsterdam",
+      "name": "Serve the City Amsterdam",
+      "url": "https://www.stcamsterdam.nl/?lang=nl",
+      "notes": "Volunteer shifts; check signup, physical demands and the individual task before attending."
+    },
+    {
+      "id": "provider-sing-sing",
+      "name": "Sing Sing",
+      "url": "https://singsing.nl/en/open-karaoke/",
+      "notes": "Public karaoke is a saved lead; hosted introductions and admission cost remain unverified."
+    },
+    {
+      "id": "provider-sloterpaswatersportscenter",
+      "name": "Sloterpas Watersports Center",
+      "url": null
+    },
+    {
+      "id": "provider-smaakcultuur",
+      "name": "Smaak & Cultuur",
+      "url": "https://www.smaakcultuur.nl/workshop-zuurdesembrood"
+    },
+    {
+      "id": "provider-sobamsterdam",
+      "name": "SOB Amsterdam",
+      "url": "https://www.sobamsterdam.nl/taalcafe/"
+    },
+    {
+      "id": "provider-socrates-cafe-amsterdam",
+      "name": "Socrates Café Amsterdam",
+      "url": "https://www.meetup.com/socrates-cafe-amsterdam-philosophy-discussions-meetup/events/calendar/",
+      "notes": "Saved philosophical discussions at OBA; language and participation conditions are in the research notes."
+    },
+    {
+      "id": "provider-soozamsterdam",
+      "name": "SOOZ Amsterdam",
+      "url": "https://soozamsterdam.nl/meedoen/helpend-handje/"
+    },
+    {
+      "id": "provider-soundbathamsterdam",
+      "name": "Sound Bath Amsterdam",
+      "url": null
+    },
+    {
+      "id": "provider-squashcity",
+      "name": "Squash City",
+      "url": null
+    },
+    {
+      "id": "provider-stadswandelkantoor",
+      "name": "Stadswandelkantoor",
+      "url": "https://www.stadswandelkantoor.nl/nieuw"
+    },
+    {
+      "id": "provider-stationwest",
+      "name": "Station West",
+      "url": "https://station-west.amsterdam/creatieve-workshops-in-amsterdam/"
+    },
+    {
+      "id": "provider-stretchfold",
+      "name": "Stretch & Fold",
+      "url": "https://www.stretchandfold.nl/events"
+    },
+    {
+      "id": "provider-studio191amsterdam",
+      "name": "Studio 191 Amsterdam",
+      "url": "https://studio191.nl/schedule/"
+    },
+    {
+      "id": "provider-studiokleiamsterdam",
+      "name": "Studio Klei Amsterdam",
+      "url": null,
+      "notes": "Identity unresolved; separate from Atelier Kleie. A current venue and booking route need verification."
+    },
+    {
+      "id": "provider-studiokoekoek",
+      "name": "Studio Koekoek",
+      "url": "https://studio-koekoek.com/product-category/workshops/workshops-with-seats/"
+    },
+    {
+      "id": "provider-svahayoga",
+      "name": "Svaha Yoga",
+      "url": null
+    },
+    {
+      "id": "provider-theartcafe",
+      "name": "The Art Café",
+      "url": "https://www.theartcafe.nl/nl/workshops"
+    },
+    {
+      "id": "provider-thebreathworkmovementstudio",
+      "name": "The Breathwork Movement Studio",
+      "url": null
+    },
+    {
+      "id": "provider-theclayroomamsterdam",
+      "name": "The Clay Room Amsterdam",
+      "url": "https://www.theclayroomamsterdam.com/service-page/festive-fun-afternoon-workshop"
+    },
+    {
+      "id": "provider-tolhuistuin",
+      "name": "Tolhuistuin",
+      "url": "https://tolhuistuin.nl/agenda"
+    },
+    {
+      "id": "provider-tribejiujitsuamsterdam",
+      "name": "Tribe Jiu-Jitsu Amsterdam",
+      "url": null
+    },
+    {
+      "id": "provider-upclubrowride",
+      "name": "Upclub ROW & RIDE",
+      "url": "https://upclubstudios.com/"
+    },
+    {
+      "id": "provider-volkssterrenwachtamsterdam",
+      "name": "Volkssterrenwacht Amsterdam",
+      "url": "https://www.volkssterrenwachtamsterdam.nl/index.php/outreach"
+    },
+    {
+      "id": "provider-volksuniversiteitamsterdam",
+      "name": "Volksuniversiteit Amsterdam",
+      "url": "https://www.volksuniversiteitamsterdam.nl/"
+    },
+    {
+      "id": "provider-vondelgymoost",
+      "name": "Vondelgym Oost",
+      "url": "https://www.vondelgym.nl/gyms/vondelgym-oost"
+    },
+    {
+      "id": "provider-vondelgymwest",
+      "name": "Vondelgym West",
+      "url": "https://www.vondelgym.nl/gyms/vondelgym-west"
+    },
+    {
+      "id": "provider-vondelgymzuid",
+      "name": "Vondelgym Zuid",
+      "url": "https://www.vondelgym.nl/gyms/vondelgym-zuid"
+    },
+    {
+      "id": "provider-vosgymamsterdam",
+      "name": "Vos Gym Amsterdam",
+      "url": null
+    },
+    {
+      "id": "provider-waag",
+      "name": "Waag",
+      "url": "https://waag.org/en/lab/open-wetlab/",
+      "notes": "Saved Open Wetlab and FabLab leads; verify the individual public activity and entry terms."
+    },
+    {
+      "id": "provider-watersportverenigingijburg",
+      "name": "Watersportvereniging IJburg",
+      "url": null
+    },
+    {
+      "id": "provider-wimhofmethodexperiencecenter",
+      "name": "Wim Hof Method Experience Center",
+      "url": null
+    },
+    {
+      "id": "provider-wolftaenzerin",
+      "name": "Wolftaenzerin",
+      "url": null
+    },
+    {
+      "id": "provider-yagoy",
+      "name": "Yagoy",
+      "url": "https://yagoy.nl/"
+    },
+    {
+      "id": "provider-zuiderbad",
+      "name": "Zuiderbad",
+      "url": "https://www.amsterdam.nl/zuiderbad/activiteiten/recreatiezwemmen/"
+    },
+    {
+      "id": "provider-heartfire",
+      "name": "HeartFire",
+      "url": "https://hipsy.nl/event/249752-ura-tsur-singing-circle-xl",
+      "notes": "Saved source identifies HeartFire for the Ura Tsur public singing circle. Oosterkerk is its recorded venue; check the individual event terms."
+    },
+    {
+      "id": "provider-round10-astra-01-meetup-provider-spellenmaakgilde",
+      "name": "Spellenmaakgilde — prototype playtesting",
+      "url": "https://www.meetup.com/nl-nl/prototype-testing-meetup/",
+      "notes": "Playtest board/card game prototypes and give feedback without bringing a design. OBA sixth-floor location. Check an actual public future date, price and single-visit conditions."
+    },
+    {
+      "id": "provider-round10-astra-01-meetup-provider-writing-influence",
+      "name": "Writing Under the Influence AMS",
+      "url": "https://www.meetup.com/nl-nl/writing-under-the-influence-ams/",
+      "notes": "Twenty-minute writing sprints alternate with social breaks at Vice Versa. Check an actual public future date, price and single-visit conditions."
+    },
+    {
+      "id": "provider-round10-astra-01-meetup-provider-creative-writers",
+      "name": "The Amsterdam Creative Writers Club",
+      "url": "https://www.meetup.com/nl-nl/the-amsterdam-creative-writers-club/",
+      "notes": "Shared writing at OBA followed by drinks; beginners welcome. Check an actual public future date, price and single-visit conditions."
+    },
+    {
+      "id": "provider-round10-astra-01-meetup-provider-shutupwrite",
+      "name": "Shut Up & Write! Amsterdam centre",
+      "url": "https://www.meetup.com/nl-nl/shutupandwriteamsterdam/events/fxjtvsyjcnbjc/",
+      "notes": "Introductions, quiet writing, then optional socializing at OBA. Check an actual public future date, price and single-visit conditions."
+    },
+    {
+      "id": "provider-round10-astra-01-meetup-provider-sidequest",
+      "name": "Side Quest Gaming Community",
+      "url": "https://www.meetup.com/nl-nl/armoury-bar-gaming-community/",
+      "notes": "Beginner-friendly board games and storyteller-led social deduction. Check an actual public future date, price and single-visit conditions."
+    },
+    {
+      "id": "provider-round10-astra-01-meetup-provider-cosmology",
+      "name": "Discussing about the Universe, Life and Everything",
+      "url": "https://www.meetup.com/nl-nl/discussing-about-the-universe-life-and-everything/events/rgvrztyjcnbfc/",
+      "notes": "Informal science discussions for non-specialists with introductions and participant-selected topics. Check an actual public future date, price and single-visit conditions."
+    },
+    {
+      "id": "provider-round10-astra-01-meetup-provider-drawing",
+      "name": "Drawing Amsterdam",
+      "url": "https://www.meetup.com/nl-nl/drawing-amsterdam/",
+      "notes": "All skill levels can bring sketching materials, draw and chat; peer support rather than a taught course. Check an actual public future date, price and single-visit conditions."
+    },
+    {
+      "id": "provider-round10-astra-05-gyms-basic-fit-ladies",
+      "name": "Basic-Fit Europaboulevard Ladies — live Zumba and Steps with ordinary day pass",
+      "url": "https://www.basic-fit.com/en-nl/clubs/basic-fit-amsterdam-europaboulevard-ladies-65152669510f4e0aa6c0ea11bd3bf2c8.html",
+      "notes": "New provider not found in canonical ideas/offers. Women-only eligibility must be shown prominently. Exact dated Zumba Thursday 29 October 09:00–10:00 and Steps evenings observed. Check an actual public future date, price and single-visit conditions."
+    },
+    {
+      "id": "provider-round10-astra-05-gyms-mercator-aqua",
+      "name": "Sportplaza / Sportfondsen Mercator — single aqua fitness class",
+      "url": "https://mercator.sportfondsen.nl/tijden-tarieven-van-mercator/",
+      "notes": "Aquarobics, Aquacycling and AquaFit each have a €13 loose-class tariff. Weekday-evening slots exist in a generic weekday timetable, but no exact date was verified. Official fitness page also confirms a whole-day pass includes fitness and water group classes, excluding swimming lessons/adapted sport; current ordinary day-pass price is €20, independently verified on the official Mercator Fitness tariff page. Check an actual public future date, price and single-visit conditions."
+    },
+    {
+      "id": "provider-round10-astra-10-talk-writing-huis-de-pinto",
+      "name": "Huis de Pinto · literary and neighbourhood conversations",
+      "url": "https://huisdepinto.nl/programma/",
+      "notes": "Near Waterlooplein: individual literary interviews, city-history talks and occasional practical workshops. Ordinary talk admission €7 on checked details. Verify each date and language separately; avoid course commitments."
+    },
+    {
+      "id": "provider-round10-astra-10-talk-writing-spui25",
+      "name": "SPUI25 · public author and research conversations",
+      "url": "https://www.spui25.nl/agenda",
+      "notes": "Central venue with standalone moderated literary and research discussions. Many listings start 17:00 and fail user timing. Use unfiltered agenda as well as location-specific page; the latter omitted eligible events. Recheck cancellations; language and free entry cannot be inferred."
+    },
+    {
+      "id": "provider-round10-astra-10-talk-writing-perdu",
+      "name": "Perdu · literary experiments and community debates",
+      "url": "https://perdu.nl/en/agenda/",
+      "notes": "Literary venue close to Waterlooplein with individual talks, debates and occasional writing workshops. Current agenda omits years; corroborate year explicitly. News sidebar includes older workshops and paid-programme dependencies; never shift them to 2026."
+    },
+    {
+      "id": "provider-round10-astra-10-talk-writing-funny-women",
+      "name": "Funny Women Amsterdam · audience comedy games at Volta",
+      "url": "https://www.eventbrite.nl/e/stand-up-comedy-games-night-funny-women-amsterdam-tickets-1985368423399",
+      "notes": "English 18+ stand-up and host-led games with optional audience participation; organizer says all are welcome. Performance platform emphasizes women and nonbinary comedians; audience participation is open to all. Check each listed date and ticket price."
+    },
+    {
+      "id": "provider-round10-astra-10-talk-writing-framer-reading",
+      "name": "Framer Framed · facilitated collage and collective reading",
+      "url": "https://framerframed.nl/projecten/workshop-fragments-of-time-otherwise/",
+      "notes": "English collage, reading and conversation workshop format with optional contribution to a collective zine. Observed 1 November session is specifically for Black women with ADHD/autism, with or without formal diagnosis. Held rather than presumed suitable. Free admission with optional pay-what-you-can donation."
+    },
+    {
+      "id": "provider-round10-sol-01-oba-avondmakers-provider",
+      "name": "OBA Avondmakers Oost / West",
+      "url": "https://oba.nl/nl/agenda/oba-avondmakers-oost-a60bd967-3886-4ca3-993c-0dedc74aee8c",
+      "notes": "Standalone evening maker gatherings explicitly welcome solo visitors and knowledge exchange. Work on your own creative project and bring materials/tools. New distinct format beyond generic OBA venue idea. Exact 28 Oct / 19 Nov editions retained. Fee, registration and delivery language unknown."
+    },
+    {
+      "id": "provider-round10-sol-01-oba-zinnenzetten-provider",
+      "name": "Zinnen Zetten one-off pop-up writing workshops",
+      "url": "https://zinnenzetten.com/",
+      "notes": "Creative writing and shared exploration of personal voice; distinguish one-off workshops from multi-week trajectories. Official OBA Javaplein page explicitly describes 1 Nov as one-off and beginner friendly. Other organizer programmes may have age/local-connection restrictions. Fee and language unknown."
+    },
+    {
+      "id": "provider-round10-sol-01-oba-staats-workshops-provider",
+      "name": "OBA Staatsliedenbuurt · Baukje drawing and Annemieke bookbinding",
+      "url": "https://oba.nl/nl/locaties/oba-staatsliedenbuurt",
+      "notes": "Branch page publicly lists 5 Nov model drawing 19:00–20:30, 7 Nov raffia bookbinding 12:00–13:30 and 19 Nov ink/bister drawing 19:00–20:30. Held as provider lead because detailed single-ticket terms/price were not reviewed before hard stop. Capture location-staats.json; links are in that evidence file."
+    },
+    {
+      "id": "provider-round10-sol-02-neighbourhood-civic-ballroom",
+      "name": "Civic / Waterlandplein · solo-friendly ballroom",
+      "url": "https://civicamsterdam.nl/activiteiten/ballroom-dansen-bij-wijkservicepunt-flevopoort/",
+      "notes": "Monday evening ballroom lesson 19:30–20:30; partner not required. Published €2 per lesson / €4 both lessons. Official page supplies weekly format only; no in-window date inferred. Exact date, meaning of both lessons, newcomer access and spoken language still need confirmation. Actual venue Waterlandplein; Flevopoort address in footer is organization contact, not this event venue."
+    },
+    {
+      "id": "provider-round10-sol-02-neighbourhood-civic-relax",
+      "name": "Civic / Yoga met Iona · Flevopoort Relaxles",
+      "url": "https://civicamsterdam.nl/activiteiten/relaxlessen-in-de-flevopoort/",
+      "notes": "Simple breathing, movement and meditation class for ages 15+, €3.50 ordinary class / €1 Stadspas, 19:30–20:30 at Kramatplantsoen 101h. Detail says monthly Friday; agenda initially shows Wednesday. Follow teacher link yogametiona.nl/relaxles-oost for dated verification. No dates expanded."
+    },
+    {
+      "id": "provider-round10-sol-02-neighbourhood-podium-genieten",
+      "name": "Podium Genieten · neighbourhood creative/social programme",
+      "url": "https://oost-online.nl/locatie/podium-genieten/",
+      "notes": "Dynamo/Civic venue with exact-dated live-music dance, jam sessions, story circles and printmaking; these formats offer strong shared participation. Open individual listings. Some meals start too early on weekdays; several duplicate dance listings represent the same occurrence."
+    },
+    {
+      "id": "provider-round10-sol-02-neighbourhood-brinkhuis",
+      "name": "Het Brinkhuis · community games afternoons",
+      "url": "https://hetbrinkhuis.nl/agenda/tabel/spelletjes",
+      "notes": "Brinks games afternoon has explicit current dates and broad age access in Betondorp. Check price, current booking terms and actual occurrence rather than expanding the monthly timetable."
+    },
+    {
+      "id": "provider-round10-sol-02-neighbourhood-esther-games",
+      "name": "Civic / Waterlandplein · games with Esther",
+      "url": "https://civicamsterdam.nl/activiteiten/spelletjesmiddag-met-esther-iedere-3e-zaterdag/",
+      "notes": "Community games session17:00–21:00, third Saturday monthly; explicitly free and no signup required. No current full dated occurrence observed. Do not infer November21 from third-Saturday timetable. Venue in Noord, farther than Centrum/Oost."
+    },
+    {
+      "id": "provider-round10-sol-03-walking-sandemans",
+      "name": "SANDEMANs · Amsterdam public English tour",
+      "url": "https://www.neweuropetours.eu/sandemans-tours/amsterdam/free-tour-of-amsterdam/",
+      "notes": "Tip-based, English explicitly offered, National Monument meeting point; solo travelers welcome. Exact dated departures not extracted. Use visible See more dates calendar; retain only selected exact departure."
+    },
+    {
+      "id": "provider-round10-sol-03-walking-dominika",
+      "name": "Dominika · Along the medieval city walls",
+      "url": "https://www.guruwalk.com/walks/58739-along-the-medieval-city-walls",
+      "notes": "English explicitly listed; 90-minute tour along Kloveniersburgwal near Waterlooplein, starting Centraal Station. No exact occurrence observed. Inspect public Check availability date picker without entering guest details."
+    },
+    {
+      "id": "provider-round10-sol-03-walking-friendly-tours",
+      "name": "Friendly Tours Amsterdam · Red Light District Uncovered",
+      "url": "https://www.guruwalk.com/walks/48487-amsterdam-s-red-light-district-uncovered-the-untold-story",
+      "notes": "English offered; tip-based; 90 minutes; Barbizon hotel entrance meeting point; minimum five participants. Exact dated occurrence unverified. Select exact date and English departure; verify minimum group and meeting point."
+    },
+    {
+      "id": "provider-round10-sol-03-walking-museum-het-schip",
+      "name": "Museum Het Schip / De Dageraad · public themed walks",
+      "url": "https://www.hetschip.nl/tickets/categorie/87-wandelingen",
+      "notes": "Five exact weekend walks found. Architecture activities require activity and museum entrance tickets; total unresolved. Useful future source. Read dated cards, then public ticket products; do not treat supplement as total."
+    },
+    {
+      "id": "provider-round10-sol-03-walking-getevents",
+      "name": "GET Events · Van Twee Walletjes solo joining tour",
+      "url": "https://getevents.nl/uitje/inschrijftour-amsterdam/",
+      "notes": "Dutch explicitly stated; body allows solo registration. Central start and café stop. Four dates retained from attributed secondary calendar. Resolve generic header minimum-four wording and confirm exact occurrence with a public calendar."
+    },
+    {
+      "id": "provider-round10-sol-04-games-provider-lorcana",
+      "name": "Friends & Foes / Lorcana organized play",
+      "url": "https://www.lorcana-amsterdam.nl/organized-play",
+      "notes": "Card-game community at 2 Klaveren; all skill levels welcomed on Lorcana homepage. Thursday19:00 gameplay,18:30 registration; De Clercqstraat136. Generic schedule only. Upcoming special events17Oct2026 and23Jan2027 outside window. Price, borrowing decks and spoken language unknown."
+    },
+    {
+      "id": "provider-round10-sol-04-games-provider-barblitz",
+      "name": "Bar Blitz café chess",
+      "url": "https://www.barblitz.co/",
+      "notes": "Strong solo-entry source with exact dated café chess and public calendar links encoding full year. Public detail then venue link/calendar href. Stop at Log in to register. Near Waterlooplein Café Katoen28Oct; Screaming Beans13Dec lies outside window. Prices mostly hidden or absent."
+    },
+    {
+      "id": "provider-round10-sol-04-games-provider-quizitive",
+      "name": "Quizitive solo quiz tickets",
+      "url": "https://www.quizitive.nl/",
+      "notes": "English House of Watt quiz explicitly matches individual ticket holders into teams. Open visible dated cards. Regular solo€7 inclVAT, team€20up to5.28Oct team tier sold out while solo tier remained displayed; inventory unchecked."
+    },
+    {
+      "id": "provider-round10-sol-04-games-provider-quizchris",
+      "name": "QuizChris solo-friendly English quizzes",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSecg8ymY6LtObXfRmeWvRSDI-OkbQMBapVG1XxcUBjferttFg/viewform",
+      "notes": "Free English EDN quiz with explicit solo/small-team merging. Public organizer form supplies25Nov2026,date/time,address,free entry and confirmation policy. Read title carefully: separate28Oct SideQuest form now WAITLIST ONLY."
+    },
+    {
+      "id": "provider-round10-sol-04-games-provider-braincandy",
+      "name": "Brain Candy lucky-spin pub quiz",
+      "url": "https://fienta.com/brain-candy-oct-2026",
+      "notes": "English trivia with a dedicated table for solos/pairs,€7.50 per person. 27Oct event sold out on live public page despite cached ticket choices. Future exact edition needs a new public listing; no recurrence inferred."
+    },
+    {
+      "id": "provider-round10-sol-04-games-provider-twoklaveren",
+      "name": "Spelletjescafé 2 Klaveren",
+      "url": "https://www.2klaveren.nl/",
+      "notes": "Established café for chess,bridge,backgammon,Magic and other games. No exact eligible dated agenda found. Organized Lorcana route gives location; solo matching, ordinary play fee and minimum spend unverified."
+    },
+    {
+      "id": "provider-round10-sol-04-games-provider-geinig",
+      "name": "Bordspellenclub Geinig",
+      "url": "https://www.bordspellenclubgeinig.nl/",
+      "notes": "Amsterdam Zuidoost casual board games; organizer says no obligations and welcomes beginners. Dates/location organized through an app group after initial email. No public dated agenda or ordinary price. Research stopped without contacting or joining."
+    },
+    {
+      "id": "provider-round10-sol-08-volunteer-kaskantine-dropin-mending",
+      "name": "Kaskantine Clothes Swap & Repair Sunday · drop-in volunteer making table",
+      "url": "https://www.kaskantine.nl/volunteering.html",
+      "notes": "Mend clothes, support sewing machines, work on personal projects and help others. Organizer explicitly welcomes drop-in volunteers without commitment. Programme /program.html embeds a public Tockify calendar; verify an actual November date, start, location and price."
+    },
+    {
+      "id": "provider-round10-sol-08-volunteer-natuurwerkdag-provider",
+      "name": "Nationale Natuurwerkdagen · individual garden and wildlife-habitat tasks",
+      "url": "https://www.natuurwerkdag.nl/",
+      "notes": "New provider route for one-day, supervised practical nature work. Individual public signup and no experience requirement established by organizer FAQ. One qualifying Amsteldijk occurrence saved. Use Vind een klus, Amsterdam, Saturday 7 November. Check date/body agreement, meeting point, current full labels and whether English is explicitly supported."
+    },
+    {
+      "id": "provider-round11-luna-03-dance-afrodrip-camp",
+      "name": "AfroDrip",
+      "url": "https://www.afro-drip.com/",
+      "notes": "Three-day African and diaspora dance camp at CanDance Studios, with workshops, cultural education, parties, shows, battles and jams; beginner and solo attendance are explicitly welcome. Organizer lists 20–22 November 2026 at Isolatorweg 28, but no individual session schedule or readable ticket price was available. Avoid treating the full multi-day camp as a single dated event until pass terms and exact session times are confirmed."
+    }
+  ],
+  "links": [
+    {
+      "ideaId": "seed-001",
+      "activityId": "activity-creative-workshops",
+      "providerId": "provider-crea"
+    },
+    {
+      "ideaId": "seed-001",
+      "activityId": "activity-music-sound-workshops",
+      "providerId": "provider-crea"
+    },
+    {
+      "ideaId": "seed-002",
+      "activityId": "activity-drawing-painting",
+      "providerId": "provider-mkateliersmk24"
+    },
+    {
+      "ideaId": "seed-003",
+      "activityId": "activity-pottery-ceramics",
+      "providerId": "provider-heart-soul-studio"
+    },
+    {
+      "ideaId": "seed-004",
+      "activityId": "activity-pottery-ceramics",
+      "providerId": "provider-artceramicsstudiogilliansmith"
+    },
+    {
+      "ideaId": "seed-005",
+      "activityId": "activity-pottery-ceramics",
+      "providerId": "provider-theclayroomamsterdam"
+    },
+    {
+      "ideaId": "seed-006",
+      "activityId": "activity-printmaking-book-arts",
+      "providerId": "provider-agalab"
+    },
+    {
+      "ideaId": "seed-008",
+      "activityId": "activity-creative-workshops",
+      "providerId": "provider-amsterdamhouseofartscrafts"
+    },
+    {
+      "ideaId": "seed-008",
+      "activityId": "activity-textile-crafts",
+      "providerId": "provider-amsterdamhouseofartscrafts"
+    },
+    {
+      "ideaId": "seed-008",
+      "activityId": "activity-printmaking-book-arts",
+      "providerId": "provider-amsterdamhouseofartscrafts"
+    },
+    {
+      "ideaId": "seed-009",
+      "activityId": "activity-drawing-painting",
+      "providerId": "provider-deoudekerkopenstudio"
+    },
+    {
+      "ideaId": "seed-009",
+      "activityId": "activity-music-sound-workshops",
+      "providerId": "provider-deoudekerkopenstudio"
+    },
+    {
+      "ideaId": "seed-010",
+      "activityId": "activity-pottery-ceramics",
+      "providerId": "provider-studiokleiamsterdam"
+    },
+    {
+      "ideaId": "seed-011",
+      "activityId": "activity-textile-crafts",
+      "providerId": "provider-delokatieupcyclinglab"
+    },
+    {
+      "ideaId": "seed-011",
+      "activityId": "activity-upcycling-repair",
+      "providerId": "provider-delokatieupcyclinglab"
+    },
+    {
+      "ideaId": "seed-012",
+      "activityId": "activity-maker-activities",
+      "providerId": "provider-waag"
+    },
+    {
+      "ideaId": "seed-013",
+      "activityId": "activity-maker-activities",
+      "providerId": "provider-waag"
+    },
+    {
+      "ideaId": "seed-014",
+      "activityId": "activity-photography",
+      "providerId": "provider-foam"
+    },
+    {
+      "ideaId": "seed-017",
+      "activityId": "activity-boxing-kickboxing",
+      "providerId": "provider-saintsstarsoudzuid"
+    },
+    {
+      "ideaId": "seed-017",
+      "activityId": "activity-strength-conditioning",
+      "providerId": "provider-saintsstarsoudzuid"
+    },
+    {
+      "ideaId": "seed-018",
+      "activityId": "activity-strength-conditioning",
+      "providerId": "provider-saintsstarsoudwest"
+    },
+    {
+      "ideaId": "seed-020",
+      "activityId": "activity-strength-conditioning",
+      "providerId": "provider-krachtamsterdam"
+    },
+    {
+      "ideaId": "seed-020",
+      "activityId": "activity-crossfit-functional-training",
+      "providerId": "provider-krachtamsterdam"
+    },
+    {
+      "ideaId": "seed-021",
+      "activityId": "activity-boxing-kickboxing",
+      "providerId": "provider-vondelgymwest"
+    },
+    {
+      "ideaId": "seed-021",
+      "activityId": "activity-running-walking",
+      "providerId": "provider-vondelgymwest"
+    },
+    {
+      "ideaId": "seed-021",
+      "activityId": "activity-strength-conditioning",
+      "providerId": "provider-vondelgymwest"
+    },
+    {
+      "ideaId": "seed-022",
+      "activityId": "activity-strength-conditioning",
+      "providerId": "provider-vondelgymzuid"
+    },
+    {
+      "ideaId": "seed-022",
+      "activityId": "activity-crossfit-functional-training",
+      "providerId": "provider-vondelgymzuid"
+    },
+    {
+      "ideaId": "seed-023",
+      "activityId": "activity-boxing-kickboxing",
+      "providerId": "provider-eastboundgym"
+    },
+    {
+      "ideaId": "seed-024",
+      "activityId": "activity-martial-arts-self-defense",
+      "providerId": "provider-tribejiujitsuamsterdam"
+    },
+    {
+      "ideaId": "seed-025",
+      "activityId": "activity-martial-arts-self-defense",
+      "providerId": "provider-kravmagaamsterdam"
+    },
+    {
+      "ideaId": "seed-026",
+      "activityId": "activity-parkour",
+      "providerId": "provider-parkourdisciplinestudio"
+    },
+    {
+      "ideaId": "seed-027",
+      "activityId": "activity-calisthenics",
+      "providerId": "provider-calisthenicsclubamsterdam"
+    },
+    {
+      "ideaId": "seed-028",
+      "activityId": "activity-padel",
+      "providerId": "provider-padelclubmetropolitain"
+    },
+    {
+      "ideaId": "seed-029",
+      "activityId": "activity-squash",
+      "providerId": "provider-squashcity"
+    },
+    {
+      "ideaId": "seed-030",
+      "activityId": "activity-boxing-kickboxing",
+      "providerId": "provider-boogieland"
+    },
+    {
+      "ideaId": "seed-030",
+      "activityId": "activity-strength-conditioning",
+      "providerId": "provider-boogieland"
+    },
+    {
+      "ideaId": "seed-031",
+      "activityId": "activity-boxing-kickboxing",
+      "providerId": "provider-vosgymamsterdam"
+    },
+    {
+      "ideaId": "seed-032",
+      "activityId": "activity-yoga",
+      "providerId": "provider-svahayoga"
+    },
+    {
+      "ideaId": "seed-033",
+      "activityId": "activity-yoga",
+      "providerId": "provider-movementscity"
+    },
+    {
+      "ideaId": "seed-034",
+      "activityId": "activity-yoga",
+      "providerId": "provider-equalyoga"
+    },
+    {
+      "ideaId": "seed-035",
+      "activityId": "activity-yoga",
+      "providerId": "provider-studio191amsterdam"
+    },
+    {
+      "ideaId": "seed-036",
+      "activityId": "activity-yoga",
+      "providerId": "provider-yagoy"
+    },
+    {
+      "ideaId": "seed-037",
+      "activityId": "activity-yoga",
+      "providerId": "provider-movementsvondelpark"
+    },
+    {
+      "ideaId": "seed-038",
+      "activityId": "activity-sound-baths",
+      "providerId": "provider-soundbathamsterdam"
+    },
+    {
+      "ideaId": "seed-039",
+      "activityId": "activity-cold-exposure",
+      "providerId": "provider-wimhofmethodexperiencecenter"
+    },
+    {
+      "ideaId": "seed-042",
+      "activityId": "activity-roped-climbing",
+      "providerId": "provider-klimmuuramsterdamcentraal"
+    },
+    {
+      "ideaId": "seed-043",
+      "activityId": "activity-bouldering",
+      "providerId": "provider-beestbouldershetlabamsterdam"
+    },
+    {
+      "ideaId": "seed-044",
+      "activityId": "activity-bouldering",
+      "providerId": "provider-beestbouldersamsterdam"
+    },
+    {
+      "ideaId": "seed-045",
+      "activityId": "activity-bouldering",
+      "providerId": "provider-betabouldersamsterdam"
+    },
+    {
+      "ideaId": "seed-046",
+      "activityId": "activity-bouldering",
+      "providerId": "provider-monkbouldergymamsterdam"
+    },
+    {
+      "ideaId": "seed-047",
+      "activityId": "activity-balfolk",
+      "providerId": "provider-mezrabbalfolkamsterdam"
+    },
+    {
+      "ideaId": "seed-048",
+      "activityId": "activity-folk-dance",
+      "providerId": null
+    },
+    {
+      "ideaId": "seed-049",
+      "activityId": "activity-dance-classes",
+      "providerId": "provider-amsterdam-dance-centre"
+    },
+    {
+      "ideaId": "seed-050",
+      "activityId": "activity-dance-classes",
+      "providerId": "provider-chassedancestudios"
+    },
+    {
+      "ideaId": "seed-051",
+      "activityId": "activity-dance-classes",
+      "providerId": "provider-luciamarthasinstitute"
+    },
+    {
+      "ideaId": "seed-052",
+      "activityId": "activity-salsa-bachata-socials",
+      "providerId": null
+    },
+    {
+      "ideaId": "seed-053",
+      "activityId": "activity-rock-jive-dance",
+      "providerId": null
+    },
+    {
+      "ideaId": "seed-054",
+      "activityId": "activity-aerial-circus-skills",
+      "providerId": "provider-flyinvertedaerialstudio"
+    },
+    {
+      "ideaId": "seed-055",
+      "activityId": "activity-pole-dance",
+      "providerId": "provider-poledancefactoryamsterdam"
+    },
+    {
+      "ideaId": "seed-055",
+      "activityId": "activity-flexibility-chair-dance",
+      "providerId": "provider-poledancefactoryamsterdam"
+    },
+    {
+      "ideaId": "seed-056",
+      "activityId": "activity-acroyoga",
+      "providerId": "provider-acroyogaamsterdamsessions"
+    },
+    {
+      "ideaId": "seed-057",
+      "activityId": "activity-cooking",
+      "providerId": "provider-dekookfabriekamsterdam"
+    },
+    {
+      "ideaId": "seed-058",
+      "activityId": "activity-wine-tasting",
+      "providerId": "provider-amsterdamwineacademy"
+    },
+    {
+      "ideaId": "seed-059",
+      "activityId": "activity-coffee-barista",
+      "providerId": "provider-baristacompanyacademy"
+    },
+    {
+      "ideaId": "seed-060",
+      "activityId": "activity-baking-fermentation",
+      "providerId": "provider-bakinglabamsterdam"
+    },
+    {
+      "ideaId": "seed-061",
+      "activityId": "activity-swimming-aquatic-fitness",
+      "providerId": "provider-zuiderbad"
+    },
+    {
+      "ideaId": "seed-062",
+      "activityId": "activity-swimming-aquatic-fitness",
+      "providerId": "provider-demirandabad"
+    },
+    {
+      "ideaId": "seed-063",
+      "activityId": "activity-swimming-aquatic-fitness",
+      "providerId": "provider-noorderparkbad"
+    },
+    {
+      "ideaId": "seed-064",
+      "activityId": "activity-ice-skating",
+      "providerId": "provider-jaap-eden-icebaan"
+    },
+    {
+      "ideaId": "seed-065",
+      "activityId": "activity-watersports",
+      "providerId": "provider-canalsupamsterdam"
+    },
+    {
+      "ideaId": "seed-065",
+      "activityId": "activity-yoga",
+      "providerId": "provider-canalsupamsterdam"
+    },
+    {
+      "ideaId": "seed-066",
+      "activityId": "activity-watersports",
+      "providerId": "provider-sloterpaswatersportscenter"
+    },
+    {
+      "ideaId": "seed-067",
+      "activityId": "activity-watersports",
+      "providerId": "provider-watersportverenigingijburg"
+    },
+    {
+      "ideaId": "seed-068",
+      "activityId": "activity-improv-comedy",
+      "providerId": "provider-boomchicago"
+    },
+    {
+      "ideaId": "seed-069",
+      "activityId": "activity-music-sound-workshops",
+      "providerId": "provider-muziekgebouwaantijsoundlab"
+    },
+    {
+      "ideaId": "seed-070",
+      "activityId": "activity-music-sound-workshops",
+      "providerId": "provider-bimhuisworkshopstage"
+    },
+    {
+      "ideaId": "seed-071",
+      "activityId": "activity-songwriting",
+      "providerId": "provider-amsterdamsongwritingguild"
+    },
+    {
+      "ideaId": "seed-072",
+      "activityId": "activity-talks-public-discussion",
+      "providerId": "provider-pakhuisdezwijger"
+    },
+    {
+      "ideaId": "seed-072",
+      "activityId": "activity-creative-workshops",
+      "providerId": "provider-pakhuisdezwijger"
+    },
+    {
+      "ideaId": "seed-074",
+      "activityId": "activity-debate-public-speaking",
+      "providerId": "provider-debateclubamsterdam"
+    },
+    {
+      "ideaId": "astra-02",
+      "activityId": "activity-folk-dance",
+      "providerId": null
+    },
+    {
+      "ideaId": "astra-03",
+      "activityId": "activity-folk-dance",
+      "providerId": null
+    },
+    {
+      "ideaId": "astra-05",
+      "activityId": "activity-body-percussion",
+      "providerId": null
+    },
+    {
+      "ideaId": "astra-05",
+      "activityId": "activity-vocal-improvisation",
+      "providerId": null
+    },
+    {
+      "ideaId": "astra-11",
+      "activityId": "activity-pub-quizzes",
+      "providerId": null
+    },
+    {
+      "ideaId": "astra-19",
+      "activityId": "activity-nature-walks",
+      "providerId": "provider-ivnamsterdam"
+    },
+    {
+      "ideaId": "astra-20",
+      "activityId": "activity-citizen-science",
+      "providerId": null
+    },
+    {
+      "ideaId": "astra-23",
+      "activityId": "activity-printmaking-book-arts",
+      "providerId": null
+    },
+    {
+      "ideaId": "astra-26",
+      "activityId": "activity-social-sports",
+      "providerId": null
+    },
+    {
+      "ideaId": "studio-koekoek",
+      "activityId": "activity-textile-crafts",
+      "providerId": "provider-studiokoekoek"
+    },
+    {
+      "ideaId": "atelier-kleie",
+      "activityId": "activity-pottery-ceramics",
+      "providerId": "provider-atelierkleie"
+    },
+    {
+      "ideaId": "astra-deep-01",
+      "activityId": "activity-conversation-discussion",
+      "providerId": "provider-sobamsterdam"
+    },
+    {
+      "ideaId": "astra-deep-02",
+      "activityId": "activity-astronomy",
+      "providerId": "provider-volkssterrenwachtamsterdam"
+    },
+    {
+      "ideaId": "astra-deep-03",
+      "activityId": "activity-debate-public-speaking",
+      "providerId": "provider-amsterdamtoastmasters"
+    },
+    {
+      "ideaId": "astra-deep-04",
+      "activityId": "activity-juggling",
+      "providerId": "provider-circuslabamsterdam"
+    },
+    {
+      "ideaId": "astra-deep-05",
+      "activityId": "activity-orienteering",
+      "providerId": "provider-olvminor"
+    },
+    {
+      "ideaId": "astra-deep-06",
+      "activityId": "activity-running-walking",
+      "providerId": "provider-parkrunamsterdamsebos"
+    },
+    {
+      "ideaId": "astra-deep-06",
+      "activityId": "activity-community-volunteering",
+      "providerId": "provider-parkrunamsterdamsebos"
+    },
+    {
+      "ideaId": "more-001",
+      "activityId": "activity-drawing-painting",
+      "providerId": "provider-stationwest"
+    },
+    {
+      "ideaId": "more-001",
+      "activityId": "activity-music-sound-workshops",
+      "providerId": "provider-stationwest"
+    },
+    {
+      "ideaId": "more-002",
+      "activityId": "activity-cooking",
+      "providerId": "provider-clubcuisine"
+    },
+    {
+      "ideaId": "more-003",
+      "activityId": "activity-textile-crafts",
+      "providerId": "provider-stretchfold"
+    },
+    {
+      "ideaId": "more-003",
+      "activityId": "activity-baking-fermentation",
+      "providerId": "provider-stretchfold"
+    },
+    {
+      "ideaId": "more-003",
+      "activityId": "activity-drawing-painting",
+      "providerId": "provider-stretchfold"
+    },
+    {
+      "ideaId": "more-004",
+      "activityId": "activity-creative-workshops",
+      "providerId": "provider-theartcafe"
+    },
+    {
+      "ideaId": "more-005",
+      "activityId": "activity-baking-fermentation",
+      "providerId": "provider-smaakcultuur"
+    },
+    {
+      "ideaId": "more-006",
+      "activityId": "activity-hoopdance",
+      "providerId": "provider-damhoops"
+    },
+    {
+      "ideaId": "more-007",
+      "activityId": "activity-ecstatic-free-form-dance",
+      "providerId": "provider-movingsparkles"
+    },
+    {
+      "ideaId": "more-008",
+      "activityId": "activity-resonance-movement",
+      "providerId": "provider-common-ground"
+    },
+    {
+      "ideaId": "more-009",
+      "activityId": "activity-conversation-discussion",
+      "providerId": "provider-common-ground"
+    },
+    {
+      "ideaId": "more-010",
+      "activityId": "activity-ecstatic-free-form-dance",
+      "providerId": "provider-kaap"
+    },
+    {
+      "ideaId": "more-011",
+      "activityId": "activity-board-games",
+      "providerId": "provider-oostenburgboardgameclub"
+    },
+    {
+      "ideaId": "more-012",
+      "activityId": "activity-nature-walks",
+      "providerId": "provider-buurtteam"
+    },
+    {
+      "ideaId": "more-013",
+      "activityId": "activity-photography",
+      "providerId": "provider-derooij"
+    },
+    {
+      "ideaId": "round4-oba-oosterdok-adult-sessions",
+      "activityId": "activity-talks-public-discussion",
+      "providerId": "provider-obaoosterdok"
+    },
+    {
+      "ideaId": "round4-oba-oosterdok-adult-sessions",
+      "activityId": "activity-maker-activities",
+      "providerId": "provider-obaoosterdok"
+    },
+    {
+      "ideaId": "round4-oba-oosterdok-adult-sessions",
+      "activityId": "activity-board-games",
+      "providerId": "provider-obaoosterdok"
+    },
+    {
+      "ideaId": "round4-oba-oosterdok-adult-sessions",
+      "activityId": "activity-reading-book-discussion",
+      "providerId": "provider-obaoosterdok"
+    },
+    {
+      "ideaId": "round4-de-boomsspijker-film-dinner",
+      "activityId": "activity-film-community-events",
+      "providerId": "provider-deboomsspijker"
+    },
+    {
+      "ideaId": "round4-samba-school-fidelinas-solo-dropin",
+      "activityId": "activity-samba",
+      "providerId": "provider-sambaschoolfidelinas"
+    },
+    {
+      "ideaId": "round4-femmegym-intro-conditional",
+      "activityId": "activity-zumba-dance-fitness",
+      "providerId": "provider-femmegymdesmederij"
+    },
+    {
+      "ideaId": "round4-instrument-drum-circle",
+      "activityId": "activity-instrument-drum-circles",
+      "providerId": "provider-wolftaenzerin"
+    },
+    {
+      "ideaId": "round4-playfight-introduction",
+      "activityId": "activity-playfight",
+      "providerId": null
+    },
+    {
+      "ideaId": "round4-debalie-author-conversations",
+      "activityId": "activity-talks-public-discussion",
+      "providerId": "provider-debalie"
+    },
+    {
+      "ideaId": "round5-amsterdam-public-walking-tours",
+      "activityId": "activity-walking-tours",
+      "providerId": "provider-freewalkingtoursamsterdam"
+    },
+    {
+      "ideaId": "round5-amsterdam-public-walking-tours",
+      "activityId": "activity-walking-tours",
+      "providerId": "provider-freedamtours"
+    },
+    {
+      "ideaId": "round5-amsterdam-public-walking-tours",
+      "activityId": "activity-walking-tours",
+      "providerId": "provider-stadswandelkantoor"
+    },
+    {
+      "ideaId": "seed-017",
+      "activityId": "activity-pilates",
+      "providerId": "provider-saintsstarsoudzuid"
+    },
+    {
+      "ideaId": "seed-033",
+      "activityId": "activity-pilates",
+      "providerId": "provider-movementscity"
+    },
+    {
+      "ideaId": "seed-034",
+      "activityId": "activity-pilates",
+      "providerId": "provider-equalyoga"
+    },
+    {
+      "ideaId": "seed-035",
+      "activityId": "activity-pilates",
+      "providerId": "provider-studio191amsterdam"
+    },
+    {
+      "ideaId": "seed-035",
+      "activityId": "activity-barre",
+      "providerId": "provider-studio191amsterdam"
+    },
+    {
+      "ideaId": "seed-036",
+      "activityId": "activity-pilates",
+      "providerId": "provider-yagoy"
+    },
+    {
+      "ideaId": "seed-037",
+      "activityId": "activity-pilates",
+      "providerId": "provider-movementsvondelpark"
+    },
+    {
+      "ideaId": "seed-015",
+      "activityId": "activity-indoor-rowing",
+      "providerId": "provider-upclubrowride"
+    },
+    {
+      "ideaId": "seed-015",
+      "activityId": "activity-indoor-cycling",
+      "providerId": "provider-upclubrowride"
+    },
+    {
+      "ideaId": "seed-016",
+      "activityId": "activity-crossfit-functional-training",
+      "providerId": "provider-vondelgymoost"
+    },
+    {
+      "ideaId": "seed-016",
+      "activityId": "activity-boxing-kickboxing",
+      "providerId": "provider-vondelgymoost"
+    },
+    {
+      "ideaId": "seed-016",
+      "activityId": "activity-gymnastics",
+      "providerId": "provider-vondelgymoost"
+    },
+    {
+      "ideaId": "seed-019",
+      "activityId": "activity-mobility",
+      "providerId": "provider-hetgymlokaalwest"
+    },
+    {
+      "ideaId": "seed-019",
+      "activityId": "activity-handstands",
+      "providerId": "provider-hetgymlokaalwest"
+    },
+    {
+      "ideaId": "seed-019",
+      "activityId": "activity-crossfit-functional-training",
+      "providerId": "provider-hetgymlokaalwest"
+    },
+    {
+      "ideaId": "seed-036",
+      "activityId": "activity-breathwork",
+      "providerId": "provider-yagoy"
+    },
+    {
+      "ideaId": "seed-039",
+      "activityId": "activity-breathwork",
+      "providerId": "provider-wimhofmethodexperiencecenter"
+    },
+    {
+      "ideaId": "seed-040",
+      "activityId": "activity-breathwork",
+      "providerId": "provider-consciousnessclubamsterdam"
+    },
+    {
+      "ideaId": "seed-040",
+      "activityId": "activity-meditation",
+      "providerId": "provider-consciousnessclubamsterdam"
+    },
+    {
+      "ideaId": "seed-041",
+      "activityId": "activity-breathwork",
+      "providerId": "provider-thebreathworkmovementstudio"
+    },
+    {
+      "ideaId": "astra-01",
+      "activityId": "activity-balfolk",
+      "providerId": "provider-mezrabbalfolkamsterdam"
+    },
+    {
+      "ideaId": "astra-04",
+      "activityId": "activity-contact-improvisation",
+      "providerId": "provider-common-ground"
+    },
+    {
+      "ideaId": "astra-07",
+      "activityId": "activity-karaoke",
+      "providerId": "provider-sing-sing"
+    },
+    {
+      "ideaId": "astra-08",
+      "activityId": "activity-board-games",
+      "providerId": "provider-amsterdice"
+    },
+    {
+      "ideaId": "astra-08",
+      "activityId": "activity-board-games",
+      "providerId": "provider-obaoosterdok"
+    },
+    {
+      "ideaId": "astra-08",
+      "activityId": "activity-board-games",
+      "providerId": "provider-amsterdam-board-gaming-meetup-group"
+    },
+    {
+      "ideaId": "astra-09",
+      "activityId": "activity-chess-backgammon-go",
+      "providerId": "provider-amsterdam-chess-meetup"
+    },
+    {
+      "ideaId": "astra-10",
+      "activityId": "activity-tabletop-role-playing-games",
+      "providerId": "provider-netherlands-roleplaying-guild"
+    },
+    {
+      "ideaId": "astra-10",
+      "activityId": "activity-tabletop-role-playing-games",
+      "providerId": "provider-d-d-amsterdam"
+    },
+    {
+      "ideaId": "astra-12",
+      "activityId": "activity-clothing-repair",
+      "providerId": "provider-desteekrepaircafeamsterdam"
+    },
+    {
+      "ideaId": "astra-13",
+      "activityId": "activity-textile-crafts",
+      "providerId": "provider-desteekrepaircafeamsterdam"
+    },
+    {
+      "ideaId": "astra-13",
+      "activityId": "activity-textile-crafts",
+      "providerId": "provider-obaoosterdok"
+    },
+    {
+      "ideaId": "astra-14",
+      "activityId": "activity-bicycle-repair",
+      "providerId": "provider-abc-community-bike-repair"
+    },
+    {
+      "ideaId": "astra-15",
+      "activityId": "activity-volunteer-cooking-food-rescue",
+      "providerId": "provider-serve-the-city-amsterdam"
+    },
+    {
+      "ideaId": "astra-16",
+      "activityId": "activity-volunteer-cooking-food-rescue",
+      "providerId": "provider-soozamsterdam"
+    },
+    {
+      "ideaId": "astra-16",
+      "activityId": "activity-volunteer-cooking-food-rescue",
+      "providerId": "provider-serve-the-city-amsterdam"
+    },
+    {
+      "ideaId": "astra-17",
+      "activityId": "activity-community-gardening",
+      "providerId": "provider-serve-the-city-amsterdam"
+    },
+    {
+      "ideaId": "astra-18",
+      "activityId": "activity-group-park-canal-cleanups",
+      "providerId": "provider-serve-the-city-amsterdam"
+    },
+    {
+      "ideaId": "astra-21",
+      "activityId": "activity-urban-sketching-walks",
+      "providerId": null
+    },
+    {
+      "ideaId": "astra-22",
+      "activityId": "activity-photo-walks",
+      "providerId": "provider-knnv-amsterdam"
+    },
+    {
+      "ideaId": "astra-22",
+      "activityId": "activity-photo-walks",
+      "providerId": "provider-cameranu"
+    },
+    {
+      "ideaId": "astra-24",
+      "activityId": "activity-reading-book-discussion",
+      "providerId": "provider-amsterdam-book-club"
+    },
+    {
+      "ideaId": "astra-25",
+      "activityId": "activity-philosophical-conversation",
+      "providerId": "provider-socrates-cafe-amsterdam"
+    },
+    {
+      "ideaId": "round4-tolhuistuin-community-programme",
+      "activityId": "activity-comedy",
+      "providerId": "provider-tolhuistuin"
+    },
+    {
+      "ideaId": "round4-tolhuistuin-community-programme",
+      "activityId": "activity-talks-public-discussion",
+      "providerId": "provider-tolhuistuin"
+    },
+    {
+      "ideaId": "round4-tolhuistuin-community-programme",
+      "activityId": "activity-live-music",
+      "providerId": "provider-tolhuistuin"
+    },
+    {
+      "ideaId": "round4-tolhuistuin-community-programme",
+      "activityId": "activity-social-dance-evenings",
+      "providerId": "provider-tolhuistuin"
+    },
+    {
+      "ideaId": "seed-073",
+      "activityId": "activity-creative-writing",
+      "providerId": "provider-amsterdamwritingworkshops"
+    },
+    {
+      "ideaId": "seed-007",
+      "activityId": "activity-talks-public-discussion",
+      "providerId": "provider-volksuniversiteitamsterdam"
+    },
+    {
+      "ideaId": "seed-007",
+      "activityId": "activity-photography",
+      "providerId": "provider-volksuniversiteitamsterdam"
+    },
+    {
+      "ideaId": "seed-007",
+      "activityId": "activity-creative-writing",
+      "providerId": "provider-volksuniversiteitamsterdam"
+    },
+    {
+      "ideaId": "seed-007",
+      "activityId": "activity-conversation-discussion",
+      "providerId": "provider-volksuniversiteitamsterdam"
+    },
+    {
+      "ideaId": "astra-06",
+      "activityId": "activity-singing-choir",
+      "providerId": "provider-heartfire"
+    },
+    {
+      "ideaId": "astra-09",
+      "activityId": "activity-backgammon",
+      "providerId": null
+    },
+    {
+      "ideaId": "astra-09",
+      "activityId": "activity-go",
+      "providerId": null
+    },
+    {
+      "ideaId": "round10-astra-01-meetup-provider-spellenmaakgilde",
+      "activityId": "activity-board-games",
+      "providerId": "provider-round10-astra-01-meetup-provider-spellenmaakgilde"
+    },
+    {
+      "ideaId": "round10-astra-01-meetup-provider-writing-influence",
+      "activityId": "activity-creative-writing",
+      "providerId": "provider-round10-astra-01-meetup-provider-writing-influence"
+    },
+    {
+      "ideaId": "round10-astra-01-meetup-provider-creative-writers",
+      "activityId": "activity-creative-writing",
+      "providerId": "provider-round10-astra-01-meetup-provider-creative-writers"
+    },
+    {
+      "ideaId": "round10-astra-01-meetup-provider-shutupwrite",
+      "activityId": "activity-creative-writing",
+      "providerId": "provider-round10-astra-01-meetup-provider-shutupwrite"
+    },
+    {
+      "ideaId": "round10-astra-01-meetup-provider-sidequest",
+      "activityId": "activity-board-games",
+      "providerId": "provider-round10-astra-01-meetup-provider-sidequest"
+    },
+    {
+      "ideaId": "round10-astra-01-meetup-provider-cosmology",
+      "activityId": "activity-astronomy",
+      "providerId": "provider-round10-astra-01-meetup-provider-cosmology"
+    },
+    {
+      "ideaId": "round10-astra-01-meetup-provider-cosmology",
+      "activityId": "activity-philosophical-conversation",
+      "providerId": "provider-round10-astra-01-meetup-provider-cosmology"
+    },
+    {
+      "ideaId": "round10-astra-01-meetup-provider-drawing",
+      "activityId": "activity-drawing-painting",
+      "providerId": "provider-round10-astra-01-meetup-provider-drawing"
+    },
+    {
+      "ideaId": "round10-astra-05-gyms-basic-fit-ladies",
+      "activityId": "activity-zumba-dance-fitness",
+      "providerId": "provider-round10-astra-05-gyms-basic-fit-ladies"
+    },
+    {
+      "ideaId": "round10-astra-05-gyms-mercator-aqua",
+      "activityId": "activity-swimming-aquatic-fitness",
+      "providerId": "provider-round10-astra-05-gyms-mercator-aqua"
+    },
+    {
+      "ideaId": "round10-astra-10-talk-writing-huis-de-pinto",
+      "activityId": "activity-talks-public-discussion",
+      "providerId": "provider-round10-astra-10-talk-writing-huis-de-pinto"
+    },
+    {
+      "ideaId": "round10-astra-10-talk-writing-huis-de-pinto",
+      "activityId": "activity-reading-book-discussion",
+      "providerId": "provider-round10-astra-10-talk-writing-huis-de-pinto"
+    },
+    {
+      "ideaId": "round10-astra-10-talk-writing-spui25",
+      "activityId": "activity-talks-public-discussion",
+      "providerId": "provider-round10-astra-10-talk-writing-spui25"
+    },
+    {
+      "ideaId": "round10-astra-10-talk-writing-spui25",
+      "activityId": "activity-reading-book-discussion",
+      "providerId": "provider-round10-astra-10-talk-writing-spui25"
+    },
+    {
+      "ideaId": "round10-astra-10-talk-writing-perdu",
+      "activityId": "activity-talks-public-discussion",
+      "providerId": "provider-round10-astra-10-talk-writing-perdu"
+    },
+    {
+      "ideaId": "round10-astra-10-talk-writing-perdu",
+      "activityId": "activity-reading-book-discussion",
+      "providerId": "provider-round10-astra-10-talk-writing-perdu"
+    },
+    {
+      "ideaId": "round10-astra-10-talk-writing-funny-women",
+      "activityId": "activity-comedy",
+      "providerId": "provider-round10-astra-10-talk-writing-funny-women"
+    },
+    {
+      "ideaId": "round10-astra-10-talk-writing-framer-reading",
+      "activityId": "activity-creative-workshops",
+      "providerId": "provider-round10-astra-10-talk-writing-framer-reading"
+    },
+    {
+      "ideaId": "round10-astra-10-talk-writing-framer-reading",
+      "activityId": "activity-reading-book-discussion",
+      "providerId": "provider-round10-astra-10-talk-writing-framer-reading"
+    },
+    {
+      "ideaId": "round10-sol-01-oba-avondmakers-provider",
+      "activityId": "activity-maker-activities",
+      "providerId": "provider-round10-sol-01-oba-avondmakers-provider"
+    },
+    {
+      "ideaId": "round10-sol-01-oba-zinnenzetten-provider",
+      "activityId": "activity-creative-writing",
+      "providerId": "provider-round10-sol-01-oba-zinnenzetten-provider"
+    },
+    {
+      "ideaId": "round10-sol-01-oba-staats-workshops-provider",
+      "activityId": "activity-drawing-painting",
+      "providerId": "provider-round10-sol-01-oba-staats-workshops-provider"
+    },
+    {
+      "ideaId": "round10-sol-01-oba-staats-workshops-provider",
+      "activityId": "activity-printmaking-book-arts",
+      "providerId": "provider-round10-sol-01-oba-staats-workshops-provider"
+    },
+    {
+      "ideaId": "round10-sol-02-neighbourhood-civic-ballroom",
+      "activityId": "activity-dance-classes",
+      "providerId": "provider-round10-sol-02-neighbourhood-civic-ballroom"
+    },
+    {
+      "ideaId": "round10-sol-02-neighbourhood-civic-relax",
+      "activityId": "activity-yoga",
+      "providerId": "provider-round10-sol-02-neighbourhood-civic-relax"
+    },
+    {
+      "ideaId": "round10-sol-02-neighbourhood-podium-genieten",
+      "activityId": "activity-creative-workshops",
+      "providerId": "provider-round10-sol-02-neighbourhood-podium-genieten"
+    },
+    {
+      "ideaId": "round10-sol-02-neighbourhood-podium-genieten",
+      "activityId": "activity-conversation-discussion",
+      "providerId": "provider-round10-sol-02-neighbourhood-podium-genieten"
+    },
+    {
+      "ideaId": "round10-sol-02-neighbourhood-brinkhuis",
+      "activityId": "activity-board-games",
+      "providerId": "provider-round10-sol-02-neighbourhood-brinkhuis"
+    },
+    {
+      "ideaId": "round10-sol-02-neighbourhood-esther-games",
+      "activityId": "activity-board-games",
+      "providerId": "provider-round10-sol-02-neighbourhood-esther-games"
+    },
+    {
+      "ideaId": "round10-sol-03-walking-sandemans",
+      "activityId": "activity-walking-tours",
+      "providerId": "provider-round10-sol-03-walking-sandemans"
+    },
+    {
+      "ideaId": "round10-sol-03-walking-dominika",
+      "activityId": "activity-walking-tours",
+      "providerId": "provider-round10-sol-03-walking-dominika"
+    },
+    {
+      "ideaId": "round10-sol-03-walking-friendly-tours",
+      "activityId": "activity-walking-tours",
+      "providerId": "provider-round10-sol-03-walking-friendly-tours"
+    },
+    {
+      "ideaId": "round10-sol-03-walking-museum-het-schip",
+      "activityId": "activity-walking-tours",
+      "providerId": "provider-round10-sol-03-walking-museum-het-schip"
+    },
+    {
+      "ideaId": "round10-sol-03-walking-getevents",
+      "activityId": "activity-walking-tours",
+      "providerId": "provider-round10-sol-03-walking-getevents"
+    },
+    {
+      "ideaId": "round10-sol-04-games-provider-lorcana",
+      "activityId": "activity-board-games",
+      "providerId": "provider-round10-sol-04-games-provider-lorcana"
+    },
+    {
+      "ideaId": "round10-sol-04-games-provider-barblitz",
+      "activityId": "activity-chess-backgammon-go",
+      "providerId": "provider-round10-sol-04-games-provider-barblitz"
+    },
+    {
+      "ideaId": "round10-sol-04-games-provider-quizitive",
+      "activityId": "activity-pub-quizzes",
+      "providerId": "provider-round10-sol-04-games-provider-quizitive"
+    },
+    {
+      "ideaId": "round10-sol-04-games-provider-quizchris",
+      "activityId": "activity-pub-quizzes",
+      "providerId": "provider-round10-sol-04-games-provider-quizchris"
+    },
+    {
+      "ideaId": "round10-sol-04-games-provider-braincandy",
+      "activityId": "activity-pub-quizzes",
+      "providerId": "provider-round10-sol-04-games-provider-braincandy"
+    },
+    {
+      "ideaId": "round10-sol-04-games-provider-twoklaveren",
+      "activityId": "activity-board-games",
+      "providerId": "provider-round10-sol-04-games-provider-twoklaveren"
+    },
+    {
+      "ideaId": "round10-sol-04-games-provider-geinig",
+      "activityId": "activity-board-games",
+      "providerId": "provider-round10-sol-04-games-provider-geinig"
+    },
+    {
+      "ideaId": "round10-sol-08-volunteer-kaskantine-dropin-mending",
+      "activityId": "activity-community-volunteering",
+      "providerId": "provider-round10-sol-08-volunteer-kaskantine-dropin-mending"
+    },
+    {
+      "ideaId": "round10-sol-08-volunteer-kaskantine-dropin-mending",
+      "activityId": "activity-clothing-repair",
+      "providerId": "provider-round10-sol-08-volunteer-kaskantine-dropin-mending"
+    },
+    {
+      "ideaId": "round10-sol-08-volunteer-natuurwerkdag-provider",
+      "activityId": "activity-community-gardening",
+      "providerId": "provider-round10-sol-08-volunteer-natuurwerkdag-provider"
+    },
+    {
+      "ideaId": "round10-sol-08-volunteer-natuurwerkdag-provider",
+      "activityId": "activity-community-volunteering",
+      "providerId": "provider-round10-sol-08-volunteer-natuurwerkdag-provider"
+    },
+    {
+      "ideaId": "round11-luna-03-dance-afrodrip-camp",
+      "activityId": "activity-dance-classes",
+      "providerId": "provider-round11-luna-03-dance-afrodrip-camp"
+    }
+  ]
+}

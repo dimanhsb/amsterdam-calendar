@@ -1,0 +1,779 @@
+{
+  "checkedAt": "2026-10-18",
+  "events": [],
+  "sources": [
+    {
+      "id": "fitness-src-001",
+      "title": "Beest Boulders — adult tariffs",
+      "url": "https://beestboulders.com/tarieven/",
+      "type": "Organizer price page",
+      "evidence": "Rendered public page: first-visit adult day entry €19.70; registration + member card €5; shoe hire €4.50; chalk bag hire €3.00; student €11.25 during off-peak. Registration required; tariff applies to Beest and Klimmuur branches.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "fitness-src-002",
+      "title": "Beest Boulders Amsterdam",
+      "url": "https://beestboulders.com/vestigingen/beest-boulders-amsterdam/",
+      "type": "Organizer branch page",
+      "evidence": "Current branch name and address Willem de Zwijgerlaan 338B, 1055 RD Amsterdam; 3,400m², restaurant, weekly route resets; autumn-break opening hours.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "fitness-src-003",
+      "title": "Beest Boulders Het Lab Amsterdam",
+      "url": "https://beestboulders.com/vestigingen/het-lab-amsterdam/",
+      "type": "Organizer branch page",
+      "evidence": "Current branch name and address Transformatorweg 32, 1014 AK Amsterdam; pool table, foosball and board games; first visit receives a short safety briefing; no experience required for children at least 8 years old.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "fitness-src-004",
+      "title": "Beest Boulders — rules and conditions",
+      "url": "https://beestboulders.com/voorwaarden-en-regels/",
+      "type": "Organizer rules",
+      "evidence": "Current bouldering safety rules and requirement to check in; climbing shoes required; under-12s supervised.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "fitness-src-005",
+      "title": "Beta Boulders — prices",
+      "url": "https://betaboulders.nl/prices/",
+      "type": "Organizer price page",
+      "evidence": "Current day pass €14.90 peak / €13.50 off-peak; shoe rental €5; single pass can be bought at reception and no booking is required for unguided climbing. Peak is weekdays after 14:00 and weekends/holidays before 17:00.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "fitness-src-006",
+      "title": "Beta Boulders — Intro to Bouldering",
+      "url": "https://betaboulders.nl/product/intro-to-bouldering/",
+      "type": "Organizer one-off class product",
+      "evidence": "Single 1–1.5-hour intro class €19.90; aimed at first-time climbers with no prior experience; entrance and shoes included; independent climbing allowed until closing after class. Calendar showed October 2026 but no date was added as an event because a specific selected slot was not confirmed.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "fitness-src-007",
+      "title": "Beta Boulders — homepage and location",
+      "url": "https://betaboulders.nl/",
+      "type": "Organizer homepage",
+      "evidence": "Current brand Beta Boulders Amsterdam; location Stadionplein 18, 1076 CM Amsterdam; coworking included with every entry.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "fitness-src-008",
+      "title": "Monk Amsterdam",
+      "url": "https://monk.nl/amsterdam/",
+      "type": "Organizer branch page",
+      "evidence": "Current Amsterdam Noord address Aambeeldstraat 26, 1021 KB; 500m²+ and beginner boulders; Boulder Basics is a beginner introduction; LOCO #1 stated for 14 Nov with fresh problems and DJ, free participation beyond entry; event start time not shown.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "fitness-src-009",
+      "title": "Monk — access prices and memberships",
+      "url": "https://monk.nl/amsterdam/lid-worden/",
+      "type": "Organizer price page",
+      "evidence": "Adult day entry €14.50 (25+), €13.50 (18–24), €12.50 (6–17); shoe rental €5; one visit covers the whole day. Student discount €9.50 on Sat/Sun 18:00–00:00 with valid student card.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "fitness-src-010",
+      "title": "Monk — first bouldering visit",
+      "url": "https://monk.nl/hulp/veelgestelde-vragen/eerste-keer-boulderen/",
+      "type": "Organizer FAQ",
+      "evidence": "No prior experience needed; first visit includes quick rules/safety orientation; booking not required for general entry (new visitors should create an account); shoes are mandatory and can be rented for €5.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "fitness-src-011",
+      "title": "De Klimmuur Centraal — I amsterdam profile",
+      "url": "https://www.iamsterdam.com/uit/agenda/attracties-en-bezienswaardigheden/attracties/klimmuur-centraal",
+      "type": "City tourism venue page",
+      "evidence": "Current venue/address Dijksgracht 2, 1019 BS Amsterdam and opening hours; describes the climbing hall. No current direct EUR tariff captured on the venue page.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "fitness-src-012",
+      "title": "De Klimmuur Centraal — indicative fee listing",
+      "url": "https://www.dagjeweg.nl/tip/9296/De-Klimmuur-Amsterdam-Centraal",
+      "type": "Venue directory",
+      "evidence": "Adult price listed as €18.70, materials rented separately; page says data checked 27 Apr 2026 and warns rates are indicative/from and subject to change. No rental fee verified.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "fitness-src-013",
+      "title": "Vondelgym — Zuid FAQ and day pass",
+      "url": "https://www.vondelgym.nl/gyms/vondelgym-zuid",
+      "type": "Organizer FAQ/location page",
+      "evidence": "€19.50 day pass allows either self-training or one group lesson; group class may be reserved via the schedule widget or purchased at desk. The price can be credited as bar credit if an annual/other membership is purchased within 24 hours.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "fitness-src-014",
+      "title": "Vondelgym — Oost location",
+      "url": "https://www.vondelgym.nl/gyms/vondelgym-oost",
+      "type": "Organizer branch page",
+      "evidence": "Confirms current Amsterdam East branch at Wibautstraat 131 (former Trouw building); day-pass FAQ states entry can be bought at any gym desk.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "fitness-src-015",
+      "title": "Vondelgym — West location",
+      "url": "https://www.vondelgym.nl/gyms/vondelgym-west",
+      "type": "Organizer branch page",
+      "evidence": "Confirms Vondelgym’s West location, one of the existing idea branches.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "fitness-src-016",
+      "title": "Het Gymlokaal — passes and credits",
+      "url": "https://www.hetgymlokaal.nl/en/credits/",
+      "type": "Organizer single-class price page",
+      "evidence": "One credit is €17.50 and reserves one group class or gives one gym-facility visit; valid one month at West and Noord branches.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "fitness-src-017",
+      "title": "Het Gymlokaal — locations and prices",
+      "url": "https://www.hetgymlokaal.nl/info/",
+      "type": "Organizer price/location page",
+      "evidence": "West at Dr Jan van Breemenstraat 3, 1056 AB; Noord at Grasweg 53-a, 1031 HX. Supports current branch names and one-credit rate.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "fitness-src-018",
+      "title": "Eastbound Gym — single classes",
+      "url": "https://eastboundgym.nl/en/word-lid",
+      "type": "Organizer price page",
+      "evidence": "Single lesson from €16.50, valid 365 days. Three-class intro is a separate offer and is not presented as a single visit. Community is described as welcoming; classes include boxing, kickboxing, Muay Thai, BJJ and strength.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "fitness-src-019",
+      "title": "Eastbound Gym — location and classes",
+      "url": "https://eastboundgym.nl/en/",
+      "type": "Organizer homepage",
+      "evidence": "Current Eastbound Gym at Tweede van Swindenstraat 1, Amsterdam East; lists boxing, kickboxing, Muay Thai, BJJ, strength and bag training.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "fitness-src-020",
+      "title": "Boogieland — first-timer FAQ",
+      "url": "https://boogieland.nl/",
+      "type": "Organizer homepage and FAQ",
+      "evidence": "Current address Gedempt Hamerkanaal 38, 1021 KM Amsterdam; first-time/low-experience visitors are directed to bag training or a four-class beginner basics course; technique class requires some experience; group-class reservation is required.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "fitness-src-021",
+      "title": "Boogieland — webshop single group lesson",
+      "url": "https://boogieland.virtuagym.com/webshop",
+      "type": "Organizer checkout/catalog listing",
+      "evidence": "Single group lesson €15.00; it is a one-time group lesson credit and requires reserving a place in the timetable.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "fitness-src-022",
+      "title": "Noorderparkbad — public prices",
+      "url": "https://www.amsterdam.nl/noorderparkbad/prijzen-noorderparkbad/",
+      "type": "Municipality price page",
+      "evidence": "Single recreational/lane-swim entry €6.40; one Aquasport class €9.60 (45 minutes); pool pass €5.80 may be needed for classes and multi-visit passes. Current schedule is linked separately.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "fitness-src-023",
+      "title": "Zuiderbad — recreational swim and prices",
+      "url": "https://www.amsterdam.nl/zuiderbad/activiteiten/recreatiezwemmen/",
+      "type": "Municipality price/activity page",
+      "evidence": "Single recreation-swim ticket €6.40 from age 3; pool address Hobbemastraat 26, 1071 ZC; recreational swim allows play equipment; current session times are on the linked timetable.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "fitness-src-024",
+      "title": "De Mirandabad — renovation status",
+      "url": "https://www.amsterdam.nl/demirandabad/renovatie-verduurzaming-mirandabad/",
+      "type": "Municipality facility update",
+      "evidence": "Renovation starts early 2027; 2026 effects on swim facilities described as very limited. Adult swim lesson waitlist is closed; current prices/session times were not researched in this pass.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "fitness-src-025",
+      "title": "Jaap Eden — tariffs 2026–27",
+      "url": "https://www.jaapeden.nl/praktische-informatie/tarieven/",
+      "type": "Organizer seasonal price page",
+      "evidence": "2026–27 adult single visit €10.60; prices exclude skate rental; youth €6.50, adult/student/senior off-peak discount is 25%. Public skating season is 10 Oct 2026–21 Mar 2027.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "fitness-src-026",
+      "title": "Jaap Eden — rental and first-visit FAQ",
+      "url": "https://www.jaapeden.nl/praktische-informatie/veelgesteldevragen/",
+      "type": "Organizer FAQ",
+      "evidence": "Skate hire available from €7 per day; Waterman Sport operates rental on site. FAQ indicates public skating hours and continuation across adjacent public blocks depends on the timetable.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "fitness-src-027",
+      "title": "Jaap Eden Ice Rink",
+      "url": "https://www.jaapeden.nl/",
+      "type": "Organizer homepage",
+      "evidence": "Season 2026–27 outdoor 400m track, public skating and ticket purchase; Radioweg 64, 1098 NJ Amsterdam.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "fitness-src-028",
+      "title": "I amsterdam — climbing venue overview",
+      "url": "https://www.iamsterdam.com/en/see-and-do/nature-and-active/climbing-and-bouldering-in-amsterdam",
+      "type": "City tourism venue overview",
+      "evidence": "Current branch identities and descriptions for Het Lab, Beta Boulders, Klimmuur Centraal, Beest Boulders and Monk; highlights community/catering at some locations and suitability across levels.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "extra-fitness-28",
+      "title": "Het Gymlokaal · official venue",
+      "url": "https://www.hetgymlokaal.nl/",
+      "type": "Organizer venue",
+      "evidence": "Official venue read alongside its price page; Organizer page explicitly says one €17.50 credit reserves one group class or grants a gym-facility visit and is valid for one month at West and Noord.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "extra-fitness-29",
+      "title": "Noorderparkbad · official venue",
+      "url": "https://www.amsterdam.nl/noorderparkbad/faciliteiten/",
+      "type": "Organizer venue",
+      "evidence": "Official venue read alongside its price page; Official city tariff page lists one 45-minute Aquasport class at €9.60 and single swim entry at €6.40.",
+      "checkedAt": "2026-10-18"
+    }
+  ],
+  "offers": [
+    {
+      "id": "fitness-offer-beest-amsterdam",
+      "name": "Beest Boulders Amsterdam",
+      "venue": "Beest Boulders",
+      "category": "Bouldering",
+      "area": "West / Bos en Lommer",
+      "address": "Willem de Zwijgerlaan 338B, 1055 RD Amsterdam",
+      "description": "Large bouldering hall with café/restaurant, seating and weekly route resets. A first visit can include a short safety orientation; bouldering is self-paced and offers a social setting between attempts.",
+      "attendance": "Single-entry access is available; check the linked current timetable for opening/session times.",
+      "beginner": true,
+      "language": "Independent visits need little spoken language; instruction language for coached classes is not verified.",
+      "directPrice": {
+        "amount": 19.7,
+        "type": "first-visit adult day entry",
+        "from": false,
+        "note": "The public tariff lists first-time adult day entry at €19.70, regular entry with member card at €14.70, and registration/member card at €5. This strongly indicates €19.70 is the combined first-visit total (€14.70 + €5), not €19.70 plus another €5; the page does not explicitly say “including” beside the first-visit line. Shoe rental €4.50 and chalk bag €3 are separately listed add-ons; student off-peak entry €11.25.",
+        "caption": "First-entry tariff; shoe rental €4.50 extra"
+      },
+      "classpass": null,
+      "bookingUrl": "https://beestboulders.com/vestigingen/beest-boulders-amsterdam/",
+      "sourceUrls": [
+        "https://beestboulders.com/tarieven/",
+        "https://beestboulders.com/vestigingen/beest-boulders-amsterdam/",
+        "https://beestboulders.com/voorwaarden-en-regels/"
+      ],
+      "checkedAt": "2026-10-18",
+      "evidence": [
+        "Live rendered official tariff (HTTP 200, 2026-10-18): ‘Dagentree eerste keer 19,70’, ‘Dagentree (met ledenpas) 14,70’, and separately under ‘Huur en registratie’, ‘Registratiekosten (inclusief ledenpas) 5,00’. Their arithmetic indicates the €5 registration is already represented in the €19.70 first-visit total; no second €5 was added. Shoes (€4.50) and chalk bag (€3) are separate."
+      ],
+      "uncertainties": [
+        "Tariff page does not explicitly state next to the €19.70 first-visit line that it includes the €5 registration; this is inferred from the listed €14.70 registered day entry plus €5 registration equaling €19.70. Ask venue if certainty is needed. First-visit rate applies only if you have not previously registered at Beest/De Klimmuur. Orientation is a safety briefing, not a coached lesson."
+      ],
+      "scheduleHorizon": "Public single-visit admission; no specific dated class was verified.",
+      "ideaIds": [
+        "seed-044"
+      ]
+    },
+    {
+      "id": "fitness-offer-beest-het-lab",
+      "name": "Beest Boulders Het Lab",
+      "venue": "Beest Boulders",
+      "category": "Bouldering",
+      "area": "Westpoort / Transformatorweg",
+      "address": "Transformatorweg 32, 1014 AK Amsterdam",
+      "description": "Smaller branch with pool table, foosball, board games, seating and food. Good option for a relaxed climb with a social break. First timers get a short safety orientation; no prior experience needed for entry.",
+      "attendance": "Single-entry access is available; check the linked current timetable for opening/session times.",
+      "beginner": true,
+      "language": "Independent visits need little spoken language; instruction language for coached classes is not verified.",
+      "directPrice": {
+        "amount": 19.7,
+        "type": "first-visit adult day entry",
+        "from": false,
+        "note": "The public tariff lists first-time adult day entry at €19.70, regular entry with member card at €14.70, and registration/member card at €5. This strongly indicates €19.70 is the combined first-visit total (€14.70 + €5), not €19.70 plus another €5; the page does not explicitly say “including” beside the first-visit line. Shoe rental €4.50 and chalk bag €3 are separately listed add-ons; student off-peak entry €11.25.",
+        "caption": "First-entry tariff; shoe rental €4.50 extra"
+      },
+      "classpass": null,
+      "bookingUrl": "https://beestboulders.com/vestigingen/het-lab-amsterdam/",
+      "sourceUrls": [
+        "https://beestboulders.com/tarieven/",
+        "https://beestboulders.com/vestigingen/het-lab-amsterdam/",
+        "https://beestboulders.com/voorwaarden-en-regels/"
+      ],
+      "checkedAt": "2026-10-18",
+      "evidence": [
+        "Live rendered official tariff (HTTP 200, 2026-10-18): ‘Dagentree eerste keer 19,70’, ‘Dagentree (met ledenpas) 14,70’, and separately under ‘Huur en registratie’, ‘Registratiekosten (inclusief ledenpas) 5,00’. Their arithmetic indicates the €5 registration is already represented in the €19.70 first-visit total; no second €5 was added. Shoes (€4.50) and chalk bag (€3) are separate."
+      ],
+      "uncertainties": [
+        "Tariff page does not explicitly state next to the €19.70 first-visit line that it includes the €5 registration; this is inferred from the listed €14.70 registered day entry plus €5 registration equaling €19.70. Ask venue if certainty is needed. First-visit rate applies only if you have not previously registered at Beest/De Klimmuur. Orientation is a safety briefing, not a coached lesson."
+      ],
+      "scheduleHorizon": "Public single-visit admission; no specific dated class was verified.",
+      "ideaIds": [
+        "seed-043"
+      ]
+    },
+    {
+      "id": "fitness-offer-beta",
+      "name": "Beta Boulders Amsterdam",
+      "venue": "Beta Boulders",
+      "category": "Bouldering",
+      "area": "Amsterdam Zuid / Stadionplein",
+      "address": "Stadionplein 18, 1076 CM Amsterdam",
+      "description": "Bouldering gym plus café and workspace; workspace is included with every entry. New climbers can book a 1–1.5 hour Intro to Bouldering class for €19.90 including entry and shoes; the description explicitly says no prior experience.",
+      "attendance": "Single-entry access is available; check the linked current timetable for opening/session times.",
+      "beginner": true,
+      "language": "Independent visits need little spoken language; instruction language for coached classes is not verified.",
+      "directPrice": {
+        "amount": 19.9,
+        "type": "single beginner intro lesson",
+        "from": false,
+        "note": "1–1.5 hours; entry and climbing shoes included, and you can continue climbing independently until close. Unguided day entry alone is €13.50 off-peak or €14.90 peak; shoe rental alone €5.",
+        "caption": "Single intro includes entry and shoes"
+      },
+      "classpass": null,
+      "bookingUrl": "https://betaboulders.nl/product/intro-to-bouldering/",
+      "sourceUrls": [
+        "https://betaboulders.nl/prices/",
+        "https://betaboulders.nl/product/intro-to-bouldering/",
+        "https://betaboulders.nl/"
+      ],
+      "checkedAt": "2026-10-18",
+      "evidence": [
+        "Official Beta pricing page lists day-pass price bands and shoe rent; its separate public Intro to Bouldering product states €19.90 with entry and shoes included and no experience required."
+      ],
+      "uncertainties": [
+        "The intro lesson has bookable dates/times on its public product page, but no specific slot was verified here. Adult day-entry prices vary by peak/off-peak."
+      ],
+      "scheduleHorizon": "Public single-visit admission; no specific dated class was verified.",
+      "ideaIds": [
+        "seed-045"
+      ]
+    },
+    {
+      "id": "fitness-offer-monk",
+      "name": "Monk Bouldergym Amsterdam",
+      "venue": "Monk",
+      "category": "Bouldering",
+      "area": "Amsterdam Noord / Aambeeldstraat",
+      "address": "Aambeeldstraat 26, 1021 KB Amsterdam",
+      "description": "Large bouldering hall with café and beginner routes. No experience is required; first-time visitors receive a short rules/safety introduction. The venue lists a beginner Boulder Basics course, but a course fee/date was not established.",
+      "attendance": "Single-entry access is available; check the linked current timetable for opening/session times.",
+      "beginner": true,
+      "language": "Independent visits need little spoken language; instruction language for coached classes is not verified.",
+      "directPrice": {
+        "amount": 14.5,
+        "type": "adult day entry (age 25+)",
+        "from": false,
+        "note": "Ages 18–24 €13.50; ages 6–17 €12.50. Shoe rental €5. Student discount €9.50 Saturday/Sunday 18:00–00:00 with valid ID. Entry valid for the day.",
+        "caption": "Age25+ tariff; shoe rental €5 extra"
+      },
+      "classpass": null,
+      "bookingUrl": "https://monk.nl/amsterdam/",
+      "sourceUrls": [
+        "https://monk.nl/amsterdam/",
+        "https://monk.nl/amsterdam/lid-worden/",
+        "https://monk.nl/hulp/veelgestelde-vragen/eerste-keer-boulderen/"
+      ],
+      "checkedAt": "2026-10-18",
+      "evidence": [
+        "Official Monk access page lists adult/age-bracket day-entry fees and €5 rental; official FAQ confirms no experience needed and safety briefing."
+      ],
+      "uncertainties": [
+        "New visitors should create an account online to avoid delay; no booking is required for general entry. Student rate requires a current student card."
+      ],
+      "scheduleHorizon": "Public single-visit admission; no specific dated class was verified.",
+      "ideaIds": [
+        "seed-046"
+      ]
+    },
+    {
+      "id": "fitness-offer-klimmuur-centraal",
+      "name": "De Klimmuur Amsterdam Centraal",
+      "venue": "De Klimmuur",
+      "category": "Roped climbing and bouldering",
+      "area": "Centrum / Dijksgracht",
+      "address": "Dijksgracht 2, 1019 BS Amsterdam",
+      "description": "Central climbing hall a short walk from Centraal Station, with both ropes and bouldering. City venue information says it suits beginners and offers introduction lessons. A bouldering day visit is a social self-paced option; roped climbing needs suitable belay knowledge or instruction.",
+      "attendance": "Single-entry access is available; check the linked current timetable for opening/session times.",
+      "beginner": "Roped climbing requires suitable skills/partner or an independently booked intro; general entry is not a beginner lesson.",
+      "language": "Independent visits need little spoken language; instruction language for coached classes is not verified.",
+      "directPrice": {
+        "amount": null,
+        "type": "current direct single-visit price unverified",
+        "from": false,
+        "note": "The €18.70 adult entry is only a secondary, indicative directory listing (checked there 27 Apr 2026), not a current primary tariff. Beest’s official €14.70/€19.70 tariff is explicitly for bouldering and does not verify De Klimmuur Centraal’s roped-climbing entry. Rental fees also unverified."
+      },
+      "classpass": null,
+      "bookingUrl": "https://www.iamsterdam.com/uit/agenda/attracties-en-bezienswaardigheden/attracties/klimmuur-centraal",
+      "sourceUrls": [
+        "https://www.iamsterdam.com/uit/agenda/attracties-en-bezienswaardigheden/attracties/klimmuur-centraal",
+        "https://www.dagjeweg.nl/tip/9296/De-Klimmuur-Amsterdam-Centraal",
+        "https://beestboulders.com/tarieven/"
+      ],
+      "checkedAt": "2026-10-18",
+      "evidence": [
+        "I amsterdam confirms current address and beginner-intro availability; a secondary venue directory lists €18.70 but marks rates indicative (checked 27 Apr 2026). The live Beest tariff page checked 2026-10-18 explicitly describes bouldering, so it does not establish the rope-climbing entry fee at Klimmuur Centraal."
+      ],
+      "uncertainties": [
+        "Current primary single-visit price and rental fees for roped climbing were not verified; treat the secondary €18.70 as indicative only. First-time rope climbers need an intro, belayer or other approved arrangement; do not assume independent top-rope access."
+      ],
+      "scheduleHorizon": "Public single-visit admission; no specific dated class was verified.",
+      "ideaIds": [
+        "seed-042"
+      ]
+    },
+    {
+      "id": "fitness-offer-vondelgym-oost",
+      "name": "Vondelgym Oost — day pass",
+      "venue": "Vondelgym",
+      "category": "Gym and group fitness",
+      "area": "Amsterdam Oost / Wibautstraat",
+      "address": "Wibautstraat 131, 1091 GL Amsterdam",
+      "description": "Day pass covers self-training or one group lesson; class attendance can be booked in the schedule widget or the pass bought at reception. Gym describes a club atmosphere and group classes, but listed classes vary by skill and intensity.",
+      "attendance": "Single-entry access is available; check the linked current timetable for opening/session times.",
+      "beginner": false,
+      "language": "Independent visits need little spoken language; instruction language for coached classes is not verified.",
+      "directPrice": {
+        "amount": 19.5,
+        "type": "day pass",
+        "from": false,
+        "note": "Allows self-training or one class. Day pass price can be credited as bar credit if you start a membership within 24 hours; membership is optional."
+      },
+      "classpass": null,
+      "bookingUrl": "https://www.vondelgym.nl/gyms/vondelgym-oost",
+      "sourceUrls": [
+        "https://www.vondelgym.nl/gyms/vondelgym-oost",
+        "https://www.vondelgym.nl/gyms/vondelgym-zuid",
+        "https://www.vondelgym.nl/gyms/vondelgym-west"
+      ],
+      "checkedAt": "2026-10-18",
+      "evidence": [
+        "Official FAQ says day pass €19.50 covers one group class or self-training and can be bought at a gym desk; Oost address is on official branch page."
+      ],
+      "uncertainties": [
+        "No class level is guaranteed by the day pass; check class description and reserve a place. This is gym access, not a coached beginner session."
+      ],
+      "scheduleHorizon": "Public single-visit admission; no specific dated class was verified.",
+      "ideaIds": [
+        "seed-016",
+        "seed-021",
+        "seed-022"
+      ]
+    },
+    {
+      "id": "fitness-offer-het-gymlokaal",
+      "name": "Het Gymlokaal West & Noord — single credit",
+      "venue": "Het Gymlokaal",
+      "category": "Mobility, Pilates, strength, yoga, boxing and fitness",
+      "area": "Amsterdam West and Noord",
+      "address": "West: Dr Jan van Breemenstraat 3, 1056 AB; Noord: Grasweg 53-a, 1031 HX Amsterdam",
+      "description": "A single credit reserves one group class or gives access to gym facilities at either branch. Current class styles include mobility, Pilates, yoga, barre, gymnastics, boxing, strength and Hyrox.",
+      "attendance": "Single-entry access is available; check the linked current timetable for opening/session times.",
+      "beginner": true,
+      "language": "Independent visits need little spoken language; instruction language for coached classes is not verified.",
+      "directPrice": {
+        "amount": 17.5,
+        "type": "one credit for one group class or gym visit",
+        "from": false,
+        "note": "Credit is valid one month at both West and Noord. Trial week is separate and not used as the single-visit price."
+      },
+      "classpass": null,
+      "bookingUrl": "https://www.hetgymlokaal.nl/en/credits/",
+      "sourceUrls": [
+        "https://www.hetgymlokaal.nl/en/credits/",
+        "https://www.hetgymlokaal.nl/info/",
+        "https://www.hetgymlokaal.nl/"
+      ],
+      "checkedAt": "2026-10-18",
+      "evidence": [
+        "Organizer page explicitly says one €17.50 credit reserves one group class or grants a gym-facility visit and is valid for one month at West and Noord."
+      ],
+      "uncertainties": [
+        "Choose a beginner-friendly class from the current schedule; individual class language/intensity is not confirmed."
+      ],
+      "scheduleHorizon": "Public single-visit admission; no specific dated class was verified.",
+      "ideaIds": [
+        "seed-019"
+      ]
+    },
+    {
+      "id": "fitness-offer-eastbound",
+      "name": "Eastbound Gym — single group lesson",
+      "venue": "Eastbound Gym",
+      "category": "Boxing, kickboxing, Muay Thai, BJJ, strength & bag training",
+      "area": "Amsterdam Oost / Tweede van Swindenstraat",
+      "address": "Tweede van Swindenstraat 1, Amsterdam Oost",
+      "description": "Friendly community gym with group classes and bag training. Single class ticket starts at €16.50 and is valid for 365 days. Newcomers should check the class format and choose bag training or a listed beginner class if they have no martial-arts experience.",
+      "attendance": "Single-entry access is available; check the linked current timetable for opening/session times.",
+      "beginner": false,
+      "language": "Independent visits need little spoken language; instruction language for coached classes is not verified.",
+      "directPrice": {
+        "amount": 16.5,
+        "type": "single group lesson credit",
+        "from": true,
+        "note": "Organizer labels the single lesson “from €16.50”; options may vary by lesson type. Separate 3-class trial package is excluded here."
+      },
+      "classpass": null,
+      "bookingUrl": "https://eastboundgym.nl/en/word-lid",
+      "sourceUrls": [
+        "https://eastboundgym.nl/en/word-lid",
+        "https://eastboundgym.nl/en/"
+      ],
+      "checkedAt": "2026-10-18",
+      "evidence": [
+        "Official membership and single-class page lists a single lesson from €16.50 valid 365 days; current East branch lists boxing, bag training and other group formats."
+      ],
+      "uncertainties": [
+        "Exact class type and one-off newcomer eligibility depend on the timetable; contact page suggests an intro kickboxing course, which is a separate multi-session option."
+      ],
+      "scheduleHorizon": "Public single-visit admission; no specific dated class was verified.",
+      "ideaIds": [
+        "seed-023"
+      ]
+    },
+    {
+      "id": "fitness-offer-boogieland",
+      "name": "Boogieland — single group class",
+      "venue": "Boogieland",
+      "category": "Boxing, kickboxing and bag training",
+      "area": "Amsterdam Noord / Gedempt Hamerkanaal",
+      "address": "Gedempt Hamerkanaal 38, 1021 KM Amsterdam",
+      "description": "Single group lesson is €15 and requires reserving a place in the schedule. For little/no experience, organizer recommends bag training or its separate four-class basics course; technique lessons require prior experience.",
+      "attendance": "Single-entry access is available; check the linked current timetable for opening/session times.",
+      "beginner": true,
+      "language": "Independent visits need little spoken language; instruction language for coached classes is not verified.",
+      "directPrice": {
+        "amount": 15,
+        "type": "single group lesson",
+        "from": false,
+        "note": "One group class credit; course and trial-week bundles are separate. Reserve before arrival."
+      },
+      "classpass": null,
+      "bookingUrl": "https://boogieland.virtuagym.com/webshop",
+      "sourceUrls": [
+        "https://boogieland.nl/",
+        "https://boogieland.virtuagym.com/webshop"
+      ],
+      "checkedAt": "2026-10-18",
+      "evidence": [
+        "Official webshop lists one group class for €15; official FAQ states reservation is required and steers newcomers toward bag training."
+      ],
+      "uncertainties": [
+        "The exact class selection matters: first-timers should use bag training or a beginner basics course; technique classes require experience."
+      ],
+      "scheduleHorizon": "Public single-visit admission; no specific dated class was verified.",
+      "ideaIds": [
+        "seed-030"
+      ]
+    },
+    {
+      "id": "fitness-offer-noorderparkbad",
+      "name": "Noorderparkbad — Aquasport / public swim",
+      "venue": "Noorderparkbad",
+      "category": "Swimming and Aquasport",
+      "area": "Amsterdam Noord / Sneeuwbalweg",
+      "address": "Sneeuwbalweg 5, 1032 VS Amsterdam",
+      "description": "Municipal pool with public recreational/lane swimming and coached Aquasport. One Aquasport class lasts 45 minutes; this is a modest-movement option, though public swim itself is mostly independent.",
+      "attendance": "Single-entry access is available; check the linked current timetable for opening/session times.",
+      "beginner": true,
+      "language": "Independent visits need little spoken language; instruction language for coached classes is not verified.",
+      "directPrice": {
+        "amount": 9.6,
+        "type": "single 45-minute Aquasport class",
+        "from": false,
+        "note": "Regular single recreational/lane-swim ticket is €6.40. A €5.80 zwempas is required for lessons and multi-visit cards; verify whether it applies to a single Aquasport booking.",
+        "caption": "Check whether a €5.80 swim card is required"
+      },
+      "classpass": null,
+      "bookingUrl": "https://www.amsterdam.nl/noorderparkbad/prijzen-noorderparkbad/",
+      "sourceUrls": [
+        "https://www.amsterdam.nl/noorderparkbad/prijzen-noorderparkbad/",
+        "https://www.amsterdam.nl/noorderparkbad/faciliteiten/"
+      ],
+      "checkedAt": "2026-10-18",
+      "evidence": [
+        "Official city tariff page lists one 45-minute Aquasport class at €9.60 and single swim entry at €6.40."
+      ],
+      "uncertainties": [
+        "Exact Aquasport date/time and remaining capacity were not checked; current timetable is separate."
+      ],
+      "scheduleHorizon": "Public single-visit admission; no specific dated class was verified.",
+      "ideaIds": [
+        "seed-063"
+      ]
+    },
+    {
+      "id": "fitness-offer-zuiderbad",
+      "name": "Zuiderbad — recreational swim",
+      "venue": "Zuiderbad",
+      "category": "Swimming",
+      "area": "Amsterdam Zuid / Museumplein",
+      "address": "Hobbemastraat 26, 1071 ZC Amsterdam",
+      "description": "Single recreational-swim ticket includes use of the pool’s play equipment; a low-cost independent movement option in a historic indoor bath. The venue’s current timetable controls session access.",
+      "attendance": "Single-entry access is available; check the linked current timetable for opening/session times.",
+      "beginner": "Public swimming; no beginner instruction included. Swimming ability required.",
+      "language": "Independent visits need little spoken language; instruction language for coached classes is not verified.",
+      "directPrice": {
+        "amount": 6.4,
+        "type": "single recreational swim ticket",
+        "from": false,
+        "note": "Adult single entry from age 3; Stadspas ticket €1 for eligible holders. No instruction/session is included."
+      },
+      "classpass": null,
+      "bookingUrl": "https://www.amsterdam.nl/zuiderbad/activiteiten/recreatiezwemmen/",
+      "sourceUrls": [
+        "https://www.amsterdam.nl/zuiderbad/activiteiten/recreatiezwemmen/"
+      ],
+      "checkedAt": "2026-10-18",
+      "evidence": [
+        "Official city activity and tariff page lists the single recreation-swim ticket at €6.40 and address."
+      ],
+      "uncertainties": [
+        "Not a class or social session; check timetable for public recreational-swim hours."
+      ],
+      "scheduleHorizon": "Public single-visit admission; no specific dated class was verified.",
+      "ideaIds": [
+        "seed-061"
+      ]
+    },
+    {
+      "id": "fitness-offer-jaap-eden",
+      "name": "Jaap Eden Ice Rink — public skating",
+      "venue": "Jaap Eden IJsbaan",
+      "category": "Ice skating",
+      "area": "Amsterdam Oost / Radioweg",
+      "address": "Radioweg 64, 1098 NJ Amsterdam",
+      "description": "Public outdoor 400m rink is open for the 2026–27 season from 10 Oct 2026 to 21 Mar 2027. A single adult entry is available; skate rental starts at €7/day. Skating can be social, but this offer is public skating rather than an instructed beginner lesson.",
+      "attendance": "Single-entry access is available; check the linked current timetable for opening/session times.",
+      "beginner": false,
+      "language": "Independent visits need little spoken language; instruction language for coached classes is not verified.",
+      "directPrice": {
+        "amount": 10.6,
+        "type": "adult single skating entry (2026–27)",
+        "from": false,
+        "note": "Skate hire starts at €7/day; adult entry excludes rental. Off-peak discount is 25% for adults, students and 65+.",
+        "caption": "Entry only; skate rental from €7 extra"
+      },
+      "classpass": null,
+      "bookingUrl": "https://www.jaapeden.nl/praktische-informatie/tarieven/",
+      "sourceUrls": [
+        "https://www.jaapeden.nl/praktische-informatie/tarieven/",
+        "https://www.jaapeden.nl/praktische-informatie/veelgesteldevragen/",
+        "https://www.jaapeden.nl/"
+      ],
+      "checkedAt": "2026-10-18",
+      "evidence": [
+        "Official 2026–27 tariff page lists an adult visit €10.60; official FAQ lists skate rental from €7/day and season dates."
+      ],
+      "uncertainties": [
+        "Public timetable has session blocks; check the specific date/time before travelling. No beginner lesson session was date-verified in this pass."
+      ],
+      "scheduleHorizon": "Public single-visit admission; no specific dated class was verified.",
+      "ideaIds": [
+        "seed-064"
+      ]
+    }
+  ],
+  "ideaReviews": [
+    {
+      "ideaId": "seed-042",
+      "status": "reviewed_with_caveat",
+      "finding": "Klimmuur Centraal remains a current venue at Dijksgracht 2, 1019 BS. I amsterdam says it suits beginners and has intro lessons; entry €18.70 is only an indicative third-party listing last checked Apr 27 2026. Current equipment rental price was not verified; rope climbing needs suitable belay arrangement."
+    },
+    {
+      "ideaId": "seed-043",
+      "status": "verified_offer",
+      "finding": "Beest Boulders Het Lab is current at Transformatorweg 32; branch and first-visit orientation verified. First-time adult entry €19.70; €5 registration, €4.50 shoes and optional €3 chalk bag are separate."
+    },
+    {
+      "ideaId": "seed-044",
+      "status": "verified_offer",
+      "finding": "Beest Boulders Amsterdam is current at Willem de Zwijgerlaan 338B. Shared Beest tariff applies; weekly route resets and café/restaurant create social opportunities."
+    },
+    {
+      "ideaId": "seed-045",
+      "status": "verified_offer",
+      "finding": "Current brand remains Beta Boulders Amsterdam at Stadionplein 18 (not Stadionplein elsewhere as prior note questioned). Adult single entry €13.50 off-peak/€14.90 peak, rental shoes €5; one-off novice intro €19.90 includes shoes and entry."
+    },
+    {
+      "ideaId": "seed-046",
+      "status": "verified_offer",
+      "finding": "Monk Amsterdam is current in Noord at Aambeeldstraat 26. Adult day entry €14.50 (25+), rental shoes €5; no experience needed and first-time safety briefing is provided. Official page notes LOCO #1 on Nov 14, but no start time is shown."
+    },
+    {
+      "ideaId": "seed-016",
+      "status": "verified_offer",
+      "finding": "Vondelgym Oost is current at Wibautstraat 131. €19.50 day pass covers own training or one group class."
+    },
+    {
+      "ideaId": "seed-021",
+      "status": "verified_offer",
+      "finding": "Vondelgym West uses the same published network day pass price and class/self-training entitlement."
+    },
+    {
+      "ideaId": "seed-022",
+      "status": "verified_offer",
+      "finding": "Vondelgym Zuid uses the same published network day pass price and class/self-training entitlement."
+    },
+    {
+      "ideaId": "seed-019",
+      "status": "verified_offer",
+      "finding": "Het Gymlokaal West and Noord sell one €17.50 credit for one group class or gym visit, valid one month; classes include mobility, Pilates, yoga, barre and strength."
+    },
+    {
+      "ideaId": "seed-023",
+      "status": "verified_offer_with_level_caveat",
+      "finding": "Eastbound Gym Amsterdam Oost lists a single lesson from €16.50, valid 365 days. For a novice, select bag training or confirm the class welcomes beginners."
+    },
+    {
+      "ideaId": "seed-030",
+      "status": "verified_offer_with_level_caveat",
+      "finding": "Boogieland lists one group-class credit for €15. First-time visitors should choose bag training; technique classes require prior experience. Book a place."
+    },
+    {
+      "ideaId": "seed-031",
+      "status": "lead_unverified_single_visit",
+      "finding": "Vos Gym is active and its webshop lists ongoing memberships, but no current public standalone one-visit price was verified in this pass."
+    },
+    {
+      "ideaId": "seed-061",
+      "status": "verified_offer",
+      "finding": "Zuiderbad offers a single recreation-swim entry for €6.40; it is independent swimming rather than an instructed social session."
+    },
+    {
+      "ideaId": "seed-062",
+      "status": "not_fully_reviewed",
+      "finding": "De Mirandabad remains active; official municipal update says 2026 swim impacts are limited, with major building works beginning early 2027. No single visit rate was captured in this pass."
+    },
+    {
+      "ideaId": "seed-063",
+      "status": "verified_offer",
+      "finding": "Noorderparkbad lists single public swim entry €6.40 and single Aquasport class €9.60/45 minutes; no session date/time harvested."
+    },
+    {
+      "ideaId": "seed-064",
+      "status": "verified_offer",
+      "finding": "Jaap Eden 2026–27 public outdoor skating season is Oct 10–Mar 21. Adult ticket €10.60; rental from €7/day; specific public block times must be checked."
+    }
+  ],
+  "findings": [
+    "Public single-visit offer count: 12 (Beest Amsterdam, Het Lab, Beta, Monk, Klimmuur Centraal, Vondelgym Oost, Het Gymlokaal, Eastbound, Boogieland, Noorderparkbad, Zuiderbad, Jaap Eden). Direct tariff is distinguished from memberships and multi-class intro offers.",
+    "Best one-off beginner bouldering fits: Beta’s €19.90 Intro to Bouldering includes shoes and entry and is explicitly designed for first-time climbers; Beest gives a short safety introduction but its €19.70 day entry is self-directed; Monk gives a short orientation and has no-experience-needed entry.",
+    "Public schedule-specific date note: Monk’s official page says LOCO #1 is 14 Nov 2026 with new problems and a DJ; page does not show a start time, so no event row was added. Beta’s intro product calendar showed October 2026 and a time label, but a date-specific booking slot was not selected/verified.",
+    "No standalone ClassPass credit values were retrieved in this pass. Offers include no ClassPass price and make no credit conversion.",
+    "Swimming ticket prices are for access, not a class: Zuiderbad and Noorderparkbad public swim entries are €6.40; Noorderparkbad separately lists one 45-minute Aquasport class at €9.60.",
+    "Jaap Eden adult single ticket for 2026–27 is €10.60, with skate rental from €7/day. The season is open Oct 10, 2026 through Mar 21, 2027; day tickets follow public skating blocks."
+  ],
+  "gaps": [
+    "No exact-start-time session was verified for Oct 19–Nov 30 in this pass; event rows remain empty.",
+    "Current primary rope-climbing fee and rental price at Klimmuur Centraal not found; €18.70 from a secondary directory is indicative only and should not be shown as a verified current price. Beest's shared official tariff is explicitly for bouldering.",
+    "Vos Gym single-visit price was not located; De Mirandabad rate was not collected.",
+    "Specific opening/class timetable availability for gyms, pools, climbing halls and Jaap Eden should be checked against the booking calendar before attending."
+  ]
+}

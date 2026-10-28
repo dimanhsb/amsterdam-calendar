@@ -1,0 +1,2722 @@
+[
+  {
+    "id": "seed-001",
+    "name": "CREA",
+    "category": "Creative",
+    "description": "Short workshops, arts, music jams",
+    "notes": "Course catalog may require a full term; do not assume a five-minute walk.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-001",
+      "status": "course-heavy",
+      "summary": "CREA is a current arts venue, but no dated standalone beginner making/cooking event in this target range was verified.",
+      "sourceUrls": [
+        "https://www.crea.nl/"
+      ],
+      "nextStep": "Check current short-workshop calendar.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-002",
+    "name": "MK Ateliers / MK24",
+    "category": "Creative",
+    "description": "Drawing, painting, open studio",
+    "notes": "Verify current identity, open access and individual-session bookings.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-002",
+      "status": "course-heavy",
+      "summary": "MK Ateliers at Mauritskade 24 publishes courses and workshops; no adult one-session target-date event verified.",
+      "sourceUrls": [
+        "https://www.mkateliers.nl/cursussen/"
+      ],
+      "nextStep": "Check current workshop calendar for single-seat tasters.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-003",
+    "name": "Heart & Soul Pottery Studio",
+    "category": "Creative",
+    "description": "Wheel throwing, handbuilding tasters",
+    "notes": "Check that each workshop is standalone and firing/collection terms.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-003",
+      "status": "verified-dated-options",
+      "summary": "Android Firefox displayed two Cozy Cup Upcoming Sessions: 25 Oct 10:30 and 6 Nov 18:00, duration 2h30, €85 including firing. Cards omit year; 2026 is contextual and explicitly qualified. Pickup about four weeks later, within three months of notification.",
+      "sourceUrls": [
+        "https://www.heartandsoulstudio.nl/service-page/the-cozy-cup-autumn-mug-workshop"
+      ],
+      "nextStep": "Inspect other service-page Upcoming Sessions; verify year context, actual dates, inventory and collection conditions.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-004",
+    "name": "Art Ceramics Studio · Gillian Smith",
+    "category": "Creative",
+    "description": "Ceramics and glazing",
+    "notes": "Check current workshop listings and actual address.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-004",
+      "status": "not-standalone",
+      "summary": "Gillian Smith’s official general ceramics course is 10 classes; no dated one-session offer verified.",
+      "sourceUrls": [
+        "https://keramiekatelier.nl/"
+      ],
+      "nextStep": "Look for separately named public workshops.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-005",
+    "name": "The Clay Room Amsterdam",
+    "category": "Creative",
+    "description": "Handbuilding pottery",
+    "notes": "Verify current studio, format and all-in price.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-005",
+      "status": "verified-dated-event",
+      "summary": "The Clay Room offers beginner English Festive Fun ceramics on Nov 22, 13:30–16:00 for €75 with materials/firing.",
+      "sourceUrls": [
+        "https://www.theclayroomamsterdam.com/service-page/festive-fun-afternoon-workshop"
+      ],
+      "nextStep": "Check changing seat inventory.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-006",
+    "name": "AGA LAB",
+    "category": "Creative",
+    "description": "Screen printing, etching, risograph",
+    "notes": "Open lab may require induction or prior technical skills.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-006",
+      "status": "not-beginner-drop-in",
+      "summary": "AGA LAB is a DIY print workshop for professionals; first-time users book a phone introduction and bring materials.",
+      "sourceUrls": [
+        "https://agalab.nl/en/house-rules/"
+      ],
+      "nextStep": "Keep only instructor-led beginner dates as social workshops.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-007",
+    "name": "Volksuniversiteit Amsterdam",
+    "category": "Creative",
+    "description": "Lectures, photography, writing, conversation",
+    "notes": "Many offers are courses; look specifically for one-session events.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-007",
+      "status": "not-verified",
+      "summary": "No individually bookable target-window Volksuniversiteit session verified.",
+      "sourceUrls": [
+        "https://www.volksuniversiteitamsterdam.nl/"
+      ],
+      "nextStep": "Search current one-evening taster catalog.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-008",
+    "name": "Amsterdam House of Arts & Crafts",
+    "category": "Creative",
+    "description": "Leather, paint pouring, screen printing, mosaics",
+    "notes": "Verify public individual bookings and travel details.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-008",
+      "status": "verified-dated-options",
+      "summary": "Android Firefox individually selected six Open Atelier dates: 23/25 Oct and 1/8/15/22 Nov. Exact times and regular quantity-one €59 tariff observed, before checkout. Existing 23 Oct lead promoted, five new occurrences.",
+      "sourceUrls": [
+        "https://www.amsterdamhouseofartsandcrafts.com/nl/workshops/open-atelier",
+        "https://booking.leisureking.eu/bm/ab3fc530c18df81c3718b7129276caac/assortiment/88905?lang=NL"
+      ],
+      "nextStep": "Individually select remaining available dates, especially 29 Nov; verify the blue selected card, time and quantity-one regular tariff. Checkout fees remain unknown.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-009",
+    "name": "De Oude Kerk open studio",
+    "category": "Creative",
+    "description": "Drawing, acoustic jams, architecture sketching",
+    "notes": "Specific open studio claim unverified; museum access is not a workshop.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-009",
+      "status": "not-verified",
+      "summary": "No Oude Kerk open-studio making session was found for the period.",
+      "sourceUrls": [
+        "https://oudekerk.nl/"
+      ],
+      "nextStep": "Require a dated active-making workshop.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-010",
+    "name": "Studio Klei Amsterdam",
+    "category": "Creative",
+    "description": "Pottery tasters and decoration",
+    "notes": "Exact venue, booking model and existence of these sessions need checking.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-010",
+      "status": "identity-unclear",
+      "summary": "No distinct active public venue called Studio Klei Amsterdam resolved; do not conflate with Atelier Kleie.",
+      "sourceUrls": [
+        "https://atelierkleie.wordpress.com/workshops/"
+      ],
+      "nextStep": "Need exact URL/name to investigate.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-011",
+    "name": "De Lokatie Upcycling Lab",
+    "category": "Creative",
+    "description": "Textile repair and furniture upcycling",
+    "notes": "A thrift shop is not evidence of an open workshop; verify lab claim.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-011",
+      "status": "unverified",
+      "summary": "No public scheduled upcycling lab session evidence captured for De Lokatie.",
+      "sourceUrls": [
+        "https://www.delokatie.org/"
+      ],
+      "nextStep": "Treat as reuse shop unless dated class appears.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-012",
+    "name": "Waag Open Wetlab",
+    "category": "Creative",
+    "description": "Bio-art, DIY biology, biomaterials",
+    "notes": "Historical lab name does not prove current public drop-in access.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-012",
+      "status": "not-verified",
+      "summary": "No current target-range public Open Wetlab session verified.",
+      "sourceUrls": [
+        "https://waag.org/en/lab/open-wetlab/"
+      ],
+      "nextStep": "Verify current program before recommending.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-013",
+    "name": "Fablab Amsterdam at Waag",
+    "category": "Creative",
+    "description": "Laser cutting, 3D printing, maker nights",
+    "notes": "Check current operation, inductions and supervised access.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-013",
+      "status": "not-verified",
+      "summary": "No target-window public FabLab induction/open session verified.",
+      "sourceUrls": [
+        "https://waag.org/en/lab/fablab/"
+      ],
+      "nextStep": "Look for dated novice induction and fee.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-014",
+    "name": "Foam",
+    "category": "Creative",
+    "description": "Photography workshops and walks",
+    "notes": "Check dates, level and whether exhibition admission is included.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-015",
+    "name": "Upclub ROW & RIDE",
+    "category": "Fitness",
+    "description": "Indoor rowing and cycling",
+    "notes": "Verify current Weesperstraat venue and pay-per-session access.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-015",
+      "status": "offer-researched",
+      "summary": "Team-based rowing intervals plus strength, or cycling plus strength; high-energy workout format. Intro deal is two workouts for €19, with the first workout free. ClassPass profile places the studio about 250 m from Waterlooplein. Direct price: Only the €19 intro two-workout deal was verified; standalone EUR price not established.",
+      "sourceUrls": [
+        "https://upclubstudios.com/"
+      ],
+      "nextStep": "Reopen the current booking window and select the exact branch, level and session. ClassPass credits and remaining availability are unverified.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-016",
+    "name": "Vondelgym Oost",
+    "category": "Fitness",
+    "description": "CrossFit, bag training, gymnastics",
+    "notes": "Single tickets may have experience or membership conditions.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-016",
+      "status": "verified_offer",
+      "finding": "Vondelgym Oost is current at Wibautstraat 131. €19.50 day pass covers own training or one group class.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-017",
+    "name": "Saints & Stars Oud-Zuid",
+    "category": "Fitness",
+    "description": "Boxing, strength, reformer classes",
+    "notes": "Check location-specific timetable and total single-session cost.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-018",
+    "name": "Saints & Stars Oud-West",
+    "category": "Fitness",
+    "description": "Bootcamp and strength classes",
+    "notes": "Check current branch and one-off access.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-019",
+    "name": "Het Gymlokaal West",
+    "category": "Fitness",
+    "description": "Handstands, mobility, functional movement",
+    "notes": "Verify beginner entry and one-off ticket.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-019",
+      "status": "verified_offer",
+      "finding": "Het Gymlokaal West and Noord sell one €17.50 credit for one group class or gym visit, valid one month; classes include mobility, Pilates, yoga, barre and strength.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-020",
+    "name": "Kracht Amsterdam",
+    "category": "Fitness",
+    "description": "Functional strength and CrossFit",
+    "notes": "CrossFit visitor drop-in may require prior experience.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-021",
+    "name": "Vondelgym West",
+    "category": "Fitness",
+    "description": "Kickboxing, running and strength",
+    "notes": "Distinguish club access from group class entitlement.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-021",
+      "status": "verified_offer",
+      "finding": "Vondelgym West uses the same published network day pass price and class/self-training entitlement.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-022",
+    "name": "Vondelgym Zuid",
+    "category": "Fitness",
+    "description": "Functional workouts",
+    "notes": "Verify class level and independent ticket.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-022",
+      "status": "verified_offer",
+      "finding": "Vondelgym Zuid uses the same published network day pass price and class/self-training entitlement.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-023",
+    "name": "Eastbound Gym",
+    "category": "Fitness",
+    "description": "Boxing and Muay Thai",
+    "notes": "Equipment rental and beginner single-session access need checking.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-023",
+      "status": "verified_offer_with_level_caveat",
+      "finding": "Eastbound Gym Amsterdam Oost lists a single lesson from €16.50, valid 365 days. For a novice, select bag training or confirm the class welcomes beginners.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-024",
+    "name": "Tribe Jiu-Jitsu Amsterdam",
+    "category": "Fitness",
+    "description": "BJJ fundamentals and open mats",
+    "notes": "Open mat is often for experienced practitioners; check beginner instruction.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-025",
+    "name": "Krav Maga Amsterdam",
+    "category": "Fitness",
+    "description": "Self-defense",
+    "notes": "Exact organizer and one-off beginner policy unverified.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-026",
+    "name": "Parkour Discipline Studio",
+    "category": "Fitness",
+    "description": "Parkour and freerunning",
+    "notes": "Exact named venue and adult beginner availability unverified.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-027",
+    "name": "Calisthenics Club Amsterdam",
+    "category": "Fitness",
+    "description": "Bodyweight classes and handstands",
+    "notes": "Identify exact organizer; avoid assuming advanced skills are beginner suitable.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-028",
+    "name": "Padel Club Metropolitain",
+    "category": "Fitness",
+    "description": "Beginner clinics and social play",
+    "notes": "Check exact club and group-matching rather than court rental alone.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-029",
+    "name": "Squash City",
+    "category": "Fitness",
+    "description": "Squash and fitness",
+    "notes": "Court rental requires a playing partner unless a social session is explicit.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-030",
+    "name": "Boogieland",
+    "category": "Fitness",
+    "description": "Boxing and conditioning",
+    "notes": "Verify first-timer welcome, equipment and single ticket.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-030",
+      "status": "verified_offer_with_level_caveat",
+      "finding": "Boogieland lists one group-class credit for €15. First-time visitors should choose bag training; technique classes require prior experience. Book a place.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-031",
+    "name": "Vos Gym Amsterdam",
+    "category": "Fitness",
+    "description": "Kickboxing and bag training",
+    "notes": "Check current location and beginner class requirements.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-031",
+      "status": "lead_unverified_single_visit",
+      "finding": "Vos Gym is active and its webshop lists ongoing memberships, but no current public standalone one-visit price was verified in this pass.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-032",
+    "name": "Svaha Yoga",
+    "category": "Yoga & mindful movement",
+    "description": "Yoga and tea afterwards",
+    "notes": "Social tea and language claims require verification.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-032",
+      "status": "offer-researched",
+      "summary": "Central studio with Vinyasa levels 1–3, Kundalini, Yin and guided meditation; ClassPass profile says studio mats may be borrowed free. ClassPass indexed schedule is stale (Oct 14), so use its live booking view to check current times. Direct price: Standalone direct EUR price not verified in this research.",
+      "sourceUrls": [],
+      "nextStep": "Reopen the current booking window and select the exact branch, level and session. ClassPass credits and remaining availability are unverified.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-033",
+    "name": "Movements City",
+    "category": "Yoga & mindful movement",
+    "description": "Hot yoga and Pilates",
+    "notes": "Check exact address, heat level and single-class terms.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-033",
+      "status": "offer-researched",
+      "summary": "Hot yoga and Pilates in a studio heated up to 40°C. Public pricing lists a €25 single Hot Yoga or Hot Pilates class. Indexed pricing also showed €10 first-class trial subject to first-timer and Amsterdam/Haarlem-resident eligibility. Direct price: Hot Yoga or Hot Pilates. Separate trial price may be eligibility-restricted.",
+      "sourceUrls": [
+        "https://movementsyoga.com/our-locations/city/",
+        "https://movementsyoga.com/pricing/"
+      ],
+      "nextStep": "Reopen the current booking window and select the exact branch, level and session. ClassPass credits and remaining availability are unverified.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-034",
+    "name": "Equal Yoga",
+    "category": "Yoga & mindful movement",
+    "description": "Hot yoga and core workouts",
+    "notes": "Verify beginner level and mat costs.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-034",
+      "status": "offer-researched",
+      "summary": "Hot and non-hot yoga/Pilates, Yin, mobility and sculpt. Single-class card €20; first-timer offer €25 for three classes in 15 days. Mats free; towel on mat is required (bring or rent). Direct price: One class card valid one year; separate intro €25 / 3 classes in 15 days for new customers. A mat towel is required: bring one or rent for €2.50; buying a card does not reserve a class.",
+      "sourceUrls": [
+        "https://www.equalyoga.com/reserve/",
+        "https://www.equalyoga.com/pricing"
+      ],
+      "nextStep": "Reopen the current booking window and select the exact branch, level and session. ClassPass credits and remaining availability are unverified.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-035",
+    "name": "Studio 191 Amsterdam",
+    "category": "Yoga & mindful movement",
+    "description": "Barre, yoga and Pilates",
+    "notes": "Check branch, equipment and one-off booking.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-035",
+      "status": "offer-researched",
+      "summary": "Drop-in classes include barre, Pilates, sculpt and yoga. One class €20, valid one month. First-time Intro 3 is €40; non-Reformer class cards can be used across Studio 191 / The Cosmos. Schedule page showed Oct 18–24 and says walk-ins are possible, with advance booking recommended. Direct price: Valid one month; separate Intro 3 for first-time guests costs €40. Reformer excluded.",
+      "sourceUrls": [
+        "https://studio191.nl/schedule/",
+        "https://studio191.nl/prices/"
+      ],
+      "nextStep": "Reopen the current booking window and select the exact branch, level and session. ClassPass credits and remaining availability are unverified.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-036",
+    "name": "Yagoy",
+    "category": "Yoga & mindful movement",
+    "description": "Yin, restorative yoga and breathwork",
+    "notes": "Verify current schedule and beginner suitability.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-036",
+      "status": "offer-researched",
+      "summary": "Teacher-owned studio with creative Vinyasa, Yin, prenatal yoga and Pilates. Single class €18 (valid one month); two classes €30. A first-timer can try one month unlimited for €50. Direct price: Single pass valid one month; separate first-timer one-month unlimited offer costs €50.",
+      "sourceUrls": [
+        "https://yagoy.nl/",
+        "https://yagoy.nl/contact/"
+      ],
+      "nextStep": "Reopen the current booking window and select the exact branch, level and session. ClassPass credits and remaining availability are unverified.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-037",
+    "name": "Movements Vondelpark",
+    "category": "Yoga & mindful movement",
+    "description": "Hot Pilates and Vinyasa",
+    "notes": "Check single entry and heat/intensity details.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-038",
+    "name": "Sound Bath Amsterdam",
+    "category": "Yoga & mindful movement",
+    "description": "Gong and singing-bowl sessions",
+    "notes": "Identify actual organizer; social contact may be limited.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-039",
+    "name": "Wim Hof Method Experience Center",
+    "category": "Yoga & mindful movement",
+    "description": "Breathwork and cold exposure",
+    "notes": "Exact center unverified; do not repeat health benefit claims.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-040",
+    "name": "Consciousness Club Amsterdam",
+    "category": "Yoga & mindful movement",
+    "description": "Breathwork, meditation and tea",
+    "notes": "Exact venue/location and current public program unverified.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-041",
+    "name": "The Breathwork Movement Studio",
+    "category": "Yoga & mindful movement",
+    "description": "Guided breathwork",
+    "notes": "Verify exact business and format; no medical benefit claims.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-042",
+    "name": "Klimmuur Amsterdam Centraal",
+    "category": "Climbing",
+    "description": "Roped climbing and bouldering",
+    "notes": "Roped climbing needs training/belay arrangements; day entry is not a social class.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-042",
+      "status": "reviewed_with_caveat",
+      "finding": "Klimmuur Centraal remains a current venue at Dijksgracht 2, 1019 BS. I amsterdam says it suits beginners and has intro lessons; entry €18.70 is only an indicative third-party listing last checked Apr 27 2026. Current equipment rental price was not verified; rope climbing needs suitable belay arrangement.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-043",
+    "name": "Beest Boulders het Lab Amsterdam",
+    "category": "Climbing",
+    "description": "Bouldering",
+    "notes": "Verify branch naming, entry and shoe hire.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-043",
+      "status": "verified_offer",
+      "finding": "Beest Boulders Het Lab is current at Transformatorweg 32; branch and first-visit orientation verified. First-time adult entry €19.70; €5 registration, €4.50 shoes and optional €3 chalk bag are separate.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-044",
+    "name": "Beest Boulders Amsterdam",
+    "category": "Climbing",
+    "description": "Bouldering",
+    "notes": "Look for coached beginner sessions or hosted social nights.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-044",
+      "status": "verified_offer",
+      "finding": "Beest Boulders Amsterdam is current at Willem de Zwijgerlaan 338B. Shared Beest tariff applies; weekly route resets and café/restaurant create social opportunities.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-045",
+    "name": "Beta Boulders Amsterdam",
+    "category": "Climbing",
+    "description": "Bouldering and coworking",
+    "notes": "Check the branch and address.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-045",
+      "status": "verified_offer",
+      "finding": "Current brand remains Beta Boulders Amsterdam at Stadionplein 18 (not Stadionplein elsewhere as prior note questioned). Adult single entry €13.50 off-peak/€14.90 peak, rental shoes €5; one-off novice intro €19.90 includes shoes and entry.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-046",
+    "name": "Monk Bouldergym Amsterdam",
+    "category": "Climbing",
+    "description": "Bouldering in Noord",
+    "notes": "Check introductory session and hosted community activities.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-046",
+      "status": "verified_offer",
+      "finding": "Monk Amsterdam is current in Noord at Aambeeldstraat 26. Adult day entry €14.50 (25+), rental shoes €5; no experience needed and first-time safety briefing is provided. Official page notes LOCO #1 on Nov 14, but no start time is shown.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-047",
+    "name": "Balfolk at Mezrab / Balfolk Amsterdam",
+    "category": "Dance",
+    "description": "European folk social dance",
+    "notes": "Verify dates, introductory workshops, and whether a partner is needed.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-048",
+    "name": "Dutch traditional folk dance",
+    "category": "Dance",
+    "description": "Dutch regional dances",
+    "notes": "Distinguish Dutch dances from pan-European Balfolk.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-049",
+    "name": "Amsterdam Dance Center",
+    "category": "Dance",
+    "description": "Open ballet, hip-hop, contemporary, jazz, heels",
+    "notes": "Open class may still require level-specific experience.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-049",
+      "status": "offer-researched",
+      "summary": "Large adult timetable seven days a week, with open-level and beginner Pilates, barre, stretching, contemporary, hip-hop and other styles. Single class costs €22.50 without membership; signup is optional, and helpful to ensure a place. Direct price: No membership required; ADC adult FAQ says signup is optional but helps ensure a place.",
+      "sourceUrls": [
+        "https://amsterdamdancecentre.nl/adults/",
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en"
+      ],
+      "nextStep": "Reopen the current booking window and select the exact branch, level and session. ClassPass credits and remaining availability are unverified.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-050",
+    "name": "Chassé Dance Studios",
+    "category": "Dance",
+    "description": "Afrohouse, street and commercial dance",
+    "notes": "Check true beginner open classes, not sequential courses.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-051",
+    "name": "Lucia Marthas Institute",
+    "category": "Dance",
+    "description": "Musical, pop/show and technique dance",
+    "notes": "Adult public one-off entry not established by school existence.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-052",
+    "name": "Salsa, bachata, merengue beginner socials",
+    "category": "Dance",
+    "description": "Intro plus social dancing",
+    "notes": "Conditional interest only: must work as a first standalone visit with no partner.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-053",
+    "name": "Rock and roll / jive",
+    "category": "Dance",
+    "description": "Social rock dancing",
+    "notes": "User explicitly declined; retain as excluded, do not recommend.",
+    "status": "excluded",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-054",
+    "name": "Fly Inverted Aerial Studio",
+    "category": "Circus & acrobatics",
+    "description": "Silks, hoop and aerial hammocks",
+    "notes": "Exact studio and beginner single-session policy unverified.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-055",
+    "name": "Pole Dance Factory Amsterdam",
+    "category": "Circus & acrobatics",
+    "description": "Pole, flexibility and chair dance",
+    "notes": "Check branch, intro prerequisites and independent ticket.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-056",
+    "name": "AcroYoga Amsterdam sessions",
+    "category": "Circus & acrobatics",
+    "description": "Partner balance and jams",
+    "notes": "Jams may require experience; no-partner entry needs explicit confirmation.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-057",
+    "name": "De Kookfabriek Amsterdam",
+    "category": "Food & drink",
+    "description": "Cooking workshops",
+    "notes": "Private/corporate groups are not public individual bookings.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-057",
+      "status": "not-individual-booking",
+      "summary": "De Kookfabriek remains a group/private lead; no public individual date verified here.",
+      "sourceUrls": [
+        "https://www.kookfabriek.nl/"
+      ],
+      "nextStep": "Only include a public event with single-seat ticket.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-058",
+    "name": "Amsterdam Wine Academy",
+    "category": "Food & drink",
+    "description": "Wine tastings and food pairings",
+    "notes": "Verify exact organizer and single evenings.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-059",
+    "name": "Barista Company Academy",
+    "category": "Food & drink",
+    "description": "Coffee and latte art",
+    "notes": "Verify exact venue, public booking and equipment inclusions.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-059",
+      "status": "not-verified",
+      "summary": "No Amsterdam public single-seat Barista Company Academy session verified in this date range.",
+      "sourceUrls": [
+        "https://www.baristacompany.com/"
+      ],
+      "nextStep": "Find date, price and novice terms.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-060",
+    "name": "Baking Lab Amsterdam",
+    "category": "Food & drink",
+    "description": "Sourdough, fermentation and circular baking",
+    "notes": "Check actual public workshop dates and take-home inclusions.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-060",
+      "status": "not-verified",
+      "summary": "No standalone public Baking Lab Amsterdam event with exact date verified.",
+      "sourceUrls": [],
+      "nextStep": "Recheck organizer calendar; exclude private group bookings.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-061",
+    "name": "Zuiderbad",
+    "category": "Water & outdoors",
+    "description": "Swimming and aqua fitness",
+    "notes": "Lane swimming is lower interaction; classes need separate schedule checks.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-061",
+      "status": "verified_offer",
+      "finding": "Zuiderbad offers a single recreation-swim entry for €6.40; it is independent swimming rather than an instructed social session.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-062",
+    "name": "De Mirandabad",
+    "category": "Water & outdoors",
+    "description": "Swimming and aqua fitness",
+    "notes": "Separate leisure entry, lap swim and instructed sessions.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-062",
+      "status": "not_fully_reviewed",
+      "finding": "De Mirandabad remains active; official municipal update says 2026 swim impacts are limited, with major building works beginning early 2027. No single visit rate was captured in this pass.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-063",
+    "name": "Noorderparkbad",
+    "category": "Water & outdoors",
+    "description": "Swimming and aquatic classes",
+    "notes": "Check reservation and ticket type.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-063",
+      "status": "verified_offer",
+      "finding": "Noorderparkbad lists single public swim entry €6.40 and single Aquasport class €9.60/45 minutes; no session date/time harvested.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-064",
+    "name": "Jaap Eden Ice Rink",
+    "category": "Water & outdoors",
+    "description": "Ice skating and technique lessons",
+    "notes": "Seasonal: verify public sessions, rentals and independent beginner lessons.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "seed-064",
+      "status": "verified_offer",
+      "finding": "Jaap Eden 2026–27 public outdoor skating season is Oct 10–Mar 21. Adult ticket €10.60; rental from €7/day; specific public block times must be checked.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "seed-065",
+    "name": "Canal SUP Amsterdam",
+    "category": "Water & outdoors",
+    "description": "SUP tours and SUP yoga",
+    "notes": "Exact organizer and seasonal schedule unverified.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-066",
+    "name": "Sloterpas Watersports Center",
+    "category": "Water & outdoors",
+    "description": "Sailing, windsurfing and kayaking",
+    "notes": "Exact venue name and one-off taught sessions unverified.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-067",
+    "name": "Watersportvereniging IJburg",
+    "category": "Water & outdoors",
+    "description": "Coastal rowing and paddling",
+    "notes": "Club membership and beginner safety induction may apply.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-068",
+    "name": "Boom Chicago",
+    "category": "Music & expression",
+    "description": "English improv tasters",
+    "notes": "Check actual one-off classes rather than course enrollment.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-069",
+    "name": "Muziekgebouw aan ’t IJ Sound Lab",
+    "category": "Music & expression",
+    "description": "Experimental instruments and sound",
+    "notes": "Check adult individual tickets; some sessions may be family/group-only.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-070",
+    "name": "BIMHUIS Workshop Stage",
+    "category": "Music & expression",
+    "description": "Jazz and rhythm workshops",
+    "notes": "Audience masterclasses are not necessarily open playing sessions.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-071",
+    "name": "Amsterdam Songwriting Guild",
+    "category": "Music & expression",
+    "description": "Songwriting feedback circles",
+    "notes": "Exact organization and public drop-ins unverified.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-072",
+    "name": "Pakhuis de Zwijger",
+    "category": "Talks & writing",
+    "description": "Talks, workshops and civic discussions",
+    "notes": "Verify language and active participation; a panel audience is lower interaction.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-073",
+    "name": "Amsterdam Writing Workshops",
+    "category": "Talks & writing",
+    "description": "Creative writing and feedback",
+    "notes": "Exact organizer and one-session format unverified.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "seed-074",
+    "name": "Debate Club Amsterdam",
+    "category": "Talks & writing",
+    "description": "Debate and public speaking",
+    "notes": "Exact group near Roeterseiland and guest policy unverified.",
+    "status": "lead",
+    "origin": "Research lead",
+    "sourceUrl": null
+  },
+  {
+    "id": "astra-01",
+    "name": "Balfolk social with the introductory workshop",
+    "category": "New directions",
+    "description": "Movement, repeated partner/group changes and a low-pressure way to participate immediately",
+    "notes": "Exact Oct25 evidence above. Prioritize. Confirm ticket availability; retain beginner arrival time separately from doors.",
+    "status": "lead",
+    "origin": "Astra",
+    "sourceUrl": null
+  },
+  {
+    "id": "astra-02",
+    "name": "A called ceilidh or contra-dance evening",
+    "category": "New directions",
+    "description": "A caller may teach each dance; social movement without a term of classes",
+    "notes": "Hypothesis. Find a current Amsterdam occurrence explicitly accepting beginners and solo visitors; do not substitute a Scottish dance course.",
+    "status": "lead",
+    "origin": "Astra",
+    "sourceUrl": null
+  },
+  {
+    "id": "astra-03",
+    "name": "International circle-dance afternoon",
+    "category": "New directions",
+    "description": "Group activity may feel familiar while broadening beyond Greek community",
+    "notes": "Hypothesis. Verify repertoire, mixed community, drop-in admission and whether instruction restarts each session.",
+    "status": "lead",
+    "origin": "Astra",
+    "sourceUrl": null
+  },
+  {
+    "id": "astra-04",
+    "name": "Beginner contact-improvisation workshop followed by a jam",
+    "category": "New directions",
+    "description": "Responsive movement and structured interaction",
+    "notes": "Hypothesis; lower priority until comfort with physical contact and movement level are known. A jam alone is not proof of beginner suitability.",
+    "status": "lead",
+    "origin": "Astra",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "astra-04",
+      "status": "verified-dated-beginner-intros",
+      "summary": "CommonGround hosts explicitly beginner-inclusive contact-improvisation introduction plus jam evenings onOct21,Nov4 andNov18; separate advanced research labs were excluded.",
+      "sourceUrls": [
+        "https://hipsy.nl/event/256475-contact-impro-jam-intro"
+      ],
+      "nextStep": "Check comfort with physical contact,weight-sharing and floor work; choose an intro rather than an experienced-dancer lab.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "astra-05",
+    "name": "Facilitated body percussion or vocal improvisation",
+    "category": "New directions",
+    "description": "Making something together with no instrument to own",
+    "notes": "Hypothesis. Require a single-session offer and explicit novice access.",
+    "status": "lead",
+    "origin": "Astra",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "astra-05",
+      "status": "qualified",
+      "summary": "A free, audience-welcome jazz jam is listed at BIMHUIS on 24 Nov 22:00–00:30. It is a live music jam, not a facilitated body-percussion or vocal-improvisation workshop.",
+      "sourceUrls": [
+        "https://www.bimhuis.nl/en/calendar/tuesday-jam-291"
+      ],
+      "nextStep": "Use as a music/social evening if the late finish suits; performer sign-up details are not stated.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "astra-06",
+    "name": "Pop-up choir or single-evening singalong",
+    "category": "New directions",
+    "description": "Cooperation, shared achievement, little physical strain",
+    "notes": "Hypothesis. Exclude seasonal rehearsal groups unless the organizer explicitly permits independent attendance.",
+    "status": "lead",
+    "origin": "Astra",
+    "sourceUrl": null
+  },
+  {
+    "id": "astra-07",
+    "name": "Public karaoke with an identifiable host or newcomer night",
+    "category": "New directions",
+    "description": "Easy spontaneous option close to central Amsterdam; no technique progression",
+    "notes": "Public walk-in format supported by Sing Sing, Rembrandtplein 45. Hosted introductions, admission cost and next-week special programme unverified.",
+    "status": "lead",
+    "origin": "Astra",
+    "sourceUrl": "https://singsing.nl/en/open-karaoke/"
+  },
+  {
+    "id": "astra-08",
+    "name": "Hosted board-game day",
+    "category": "New directions",
+    "description": "Small tables create sustained conversation and a shared task",
+    "notes": "Amsterdice explicitly welcomes beginners and joining other tables. Its observed next date was Oct18, outside the target week. Do not extrapolate Oct25.",
+    "status": "lead",
+    "origin": "Astra",
+    "sourceUrl": "https://www.amsterdice.nl/",
+    "research": {
+      "ideaId": "astra-08",
+      "status": "verified",
+      "summary": "Strong fit: Amsterdice on 29 Nov (€10 with two coins), OBA Bordspellencafé on 28 Nov (fee unstated, solo visitors explicitly welcome), plus four dated Wednesday game nights at Roode Remise marked free.",
+      "sourceUrls": [
+        "https://www.meetup.com/nl-nl/amsterdice-boardgameclub/events/316179819/",
+        "https://oba.nl/nl/agenda/bordspellencafe-2b2b44af-419e-403f-82bd-35ecfacc4bab",
+        "https://www.meetup.com/nl-nl/amsterdam-board-gaming-meetup-group/events/tkqsstyjcpbgb/"
+      ],
+      "nextStep": "Prefer OBA for lower cost/clear solo access; Amsterdice for a larger day event.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "astra-09",
+    "name": "Beginner-friendly chess, backgammon or go social",
+    "category": "New directions",
+    "description": "One-to-one interaction, repeatable without a course",
+    "notes": "Hypothesis. Research a hosted matchmaking session rather than assuming a café with game boards welcomes solo joiners.",
+    "status": "lead",
+    "origin": "Astra",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "astra-09",
+      "status": "verified",
+      "summary": "Amsterdam Chess Meetup at Café de Laurierboom on 14 Nov, 11:00–13:00, is explicitly free and all levels are welcome.",
+      "sourceUrls": [
+        "https://www.meetup.com/nl-nl/amsterdam-chess-meetup/events/316779344/"
+      ],
+      "nextStep": "Attend as a low-cost, short daytime social session; skill level need not be established.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "astra-10",
+    "name": "A one-shot tabletop role-playing game",
+    "category": "New directions",
+    "description": "Introductions and collaborative storytelling are built in",
+    "notes": "Hypothesis. Verify one-shot rather than campaign, beginner seat, language, duration and preparation.",
+    "status": "lead",
+    "origin": "Astra",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "astra-10",
+      "status": "verified",
+      "summary": "Two date-specific beginner-friendly RPG options surfaced: Netherlands Roleplaying Guild 14 Nov (free, 18+, first-time-player games; 13:00–18:00) and D&D Amsterdam 21 Nov (free, 18+, RSVP, beginner help; 13:00–18:30).",
+      "sourceUrls": [
+        "https://www.meetup.com/netherlands-roleplaying-guild/events/315627403/",
+        "https://www.meetup.com/nl-nl/dungeons-dragons-amsterdam/events/316139338/"
+      ],
+      "nextStep": "Check which game tables and places remain before choosing.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "astra-11",
+    "name": "Pub quiz with a solo-player joining policy",
+    "category": "New directions",
+    "description": "Conversation and teamwork without special equipment",
+    "notes": "Hypothesis. “Book a table” often presumes an existing team; require an organizer joining table or explicit team matching.",
+    "status": "lead",
+    "origin": "Astra",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "astra-11",
+      "status": "not-found",
+      "summary": "No dated pub quiz with a clearly stated solo-player joining policy was verified in this research batch.",
+      "sourceUrls": [],
+      "nextStep": "Keep as a lead only; search venue calendars rather than assuming solo team assignment.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "astra-12",
+    "name": "Clothing-mending circle or repair café",
+    "category": "New directions",
+    "description": "A concrete project makes conversation easier",
+    "notes": "Repair Café Amsterdam's De Steek listing supports clothing repair on Mondays, 16:00–20:00. It displays an older next-date label; confirm current occurrence and whether visitors repair together or await a service.",
+    "status": "lead",
+    "origin": "Astra",
+    "sourceUrl": "https://repaircafe.amsterdam/cafe/de-steek",
+    "research": {
+      "ideaId": "astra-12",
+      "status": "verified",
+      "summary": "Four already-listed November repair cafés now have an explicit local price policy: free admission and repair help, optional contribution, parts/refreshments may cost extra.",
+      "sourceUrls": [
+        "https://repaircafe.amsterdam/en/repaircafes"
+      ],
+      "nextStep": "Choose based on date and venue fit; confirm whether the specific item can be repaired.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "astra-13",
+    "name": "Shared craft table: visible mending, embroidery or crochet",
+    "category": "New directions",
+    "description": "Slower pace with room to talk",
+    "notes": "De Steek supports craft offers, but several highlighted products are private group bookings or courses. Public single-seat workshop remains unverified.",
+    "status": "lead",
+    "origin": "Astra",
+    "sourceUrl": "https://desteekamsterdam.com/nl/",
+    "research": {
+      "ideaId": "astra-13",
+      "status": "lead",
+      "summary": "No separately dated visible-mending circle was verified here. OBA’s sewing atelier is already present as an undated event lead in the main inventory; its one-off November date and entry cost remain unconfirmed.",
+      "sourceUrls": [
+        "https://oba.nl/nl/jeugd-jongeren/maakplaats/oba-naaiatelier"
+      ],
+      "nextStep": "Check OBA calendar for a dated drop-in before treating this as available.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "astra-14",
+    "name": "Cooperative bike-repair workshop",
+    "category": "New directions",
+    "description": "Practical skill and light movement with natural questions",
+    "notes": "Hypothesis. Amsterdam repair calendar lists ABC Community bike repair; distinguish public service from a participatory workshop and check skills/tools policy.",
+    "status": "lead",
+    "origin": "Astra",
+    "sourceUrl": "https://repaircafe.amsterdam/en"
+  },
+  {
+    "id": "astra-15",
+    "name": "Volunteer cooking or food-rescue shift",
+    "category": "New directions",
+    "description": "Side-by-side work is likely to produce real conversation",
+    "notes": "One-day volunteering supported by Serve the City. Dated Noord leads above; check shift length, physical work and onboarding.",
+    "status": "lead",
+    "origin": "Astra",
+    "sourceUrl": "https://www.stcamsterdam.nl/?lang=nl"
+  },
+  {
+    "id": "astra-16",
+    "name": "Neighbourhood dinner with a cooking/helping role",
+    "category": "New directions",
+    "description": "Shared task plus shared table, potentially repeatable after travel",
+    "notes": "SOOZ Helpend Handje explicitly allows one-off help, including cooking. No dated opening verified. A request to contact staff is not a bookable calendar event.",
+    "status": "lead",
+    "origin": "Astra",
+    "sourceUrl": "https://soozamsterdam.nl/meedoen/helpend-handje/",
+    "research": {
+      "ideaId": "astra-16",
+      "status": "lead",
+      "summary": "Serve the City’s current calendar has dated kitchen/serving volunteering shifts through November; these are volunteer roles rather than public meals. Current event pages did not establish a fee or open capacity.",
+      "sourceUrls": [
+        "https://www.stcamsterdam.nl/volunteering/culinary-old/"
+      ],
+      "nextStep": "Check the specific shift details and sign-up availability; do not assume meal participation or zero cost.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "astra-17",
+    "name": "Community garden work morning",
+    "category": "New directions",
+    "description": "Light movement and recurring faces without sequential lessons",
+    "notes": "Hypothesis. Search flexible green volunteering, then verify one-off participation, tools, physical demands and weather cancellation.",
+    "status": "lead",
+    "origin": "Astra",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "astra-17",
+      "status": "verified",
+      "summary": "The existing Serve the City November Action Day includes a dated Boterbloem self-harvest garden shift; the STC calendar calls it volunteering, not a general public garden drop-in.",
+      "sourceUrls": [
+        "https://www.stcamsterdam.nl/volunteering/monthly-action-day/"
+      ],
+      "nextStep": "Use the existing Nov 14 event record and verify open capacity.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "astra-18",
+    "name": "Group park or canal-side cleanup",
+    "category": "New directions",
+    "description": "A clear common task; walking pace rather than workout",
+    "notes": "Hypothesis. Require a dated organizer listing, start point and group format; solo litter picking does not satisfy the social aim.",
+    "status": "lead",
+    "origin": "Astra",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "astra-18",
+      "status": "verified",
+      "summary": "The existing STC green-volunteering agenda lists dated November park cleanups; each is a signup-based group activity.",
+      "sourceUrls": [
+        "https://www.stcamsterdam.nl/volunteering/green/",
+        "https://www.stcamsterdam.nl/volunteering/monthly-action-day/"
+      ],
+      "nextStep": "Use the existing Nov 7 or Nov 14 records; suitability depends on travel to the park and remaining places.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "astra-19",
+    "name": "Guided tree, bird or fungi walk",
+    "category": "New directions",
+    "description": "Small-group movement with frequent conversation prompts",
+    "notes": "IVN public excursions supports regular public nature outings. Exact Beatrixpark event above. Language and participant mix unknown.",
+    "status": "lead",
+    "origin": "Astra",
+    "sourceUrl": "https://www.ivn.nl/afdeling/amsterdam/excursies/",
+    "research": {
+      "ideaId": "astra-19",
+      "status": "language-not-stated",
+      "summary": "Audited the three in-range IVN Amsterdam walk pages already represented in canonical events. Their visible page copy is Dutch, but none explicitly states spoken event language. Beatrixpark pages explicitly label the walk for adults; the Vrije Geer page lists free entry with a voluntary contribution appreciated. Do not change language metadata based on page language.",
+      "sourceUrls": [
+        "https://www.ivn.nl/afdeling/amsterdam/natuuractiviteiten/herfstwandeling-in-het-beatrixpark-bijzondere-en-zeldzame-bomen-zaden-en-vruchten-2/",
+        "https://www.ivn.nl/afdeling/amsterdam/natuuractiviteiten/rondwandeling-natuurpark-vrije-geer-2/",
+        "https://www.ivn.nl/afdeling/amsterdam/natuuractiviteiten/winterwandeling-in-het-beatrixpark-winterkenmerken-en-winterbloeiers/"
+      ],
+      "nextStep": "Keep spoken language unconfirmed unless the organizer explicitly states it; the Dutch page text is insufficient evidence.",
+      "checkedAt": "2026-10-18"
+    },
+    "researchHistory": [
+      {
+        "ideaId": "astra-19",
+        "status": "verified",
+        "summary": "Existing IVN Amsterdam event records provide dated nature walks in October and November. KNNV’s Diemerbos photo walk is also dated 20 Nov but membership access is unclear.",
+        "sourceUrls": [
+          "https://www.ivn.nl/afdeling/amsterdam/natuuractiviteiten/rondwandeling-natuurpark-vrije-geer-2/",
+          "https://www.ivn.nl/afdeling/amsterdam/natuuractiviteiten/winterwandeling-in-het-beatrixpark-winterkenmerken-en-winterbloeiers/",
+          "https://amsterdam.knnv.nl/agenda/fotowandeling-diemerbos/"
+        ],
+        "nextStep": "Prefer IVN’s public dated walks if non-member access is important.",
+        "checkedAt": "2026-10-18"
+      }
+    ]
+  },
+  {
+    "id": "astra-20",
+    "name": "Citizen-science observation session",
+    "category": "New directions",
+    "description": "Shared discovery makes introductions easier",
+    "notes": "Hypothesis. Look for one-off bird counts, water testing or urban biodiversity events; separate training-required projects.",
+    "status": "lead",
+    "origin": "Astra",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "astra-20",
+      "status": "not-found",
+      "summary": "No dated public citizen-science observation session was verified in this batch.",
+      "sourceUrls": [],
+      "nextStep": "Keep as an unverified lead.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "astra-21",
+    "name": "Urban sketch walk with an end-of-session sharing circle",
+    "category": "New directions",
+    "description": "Walking plus an easy topic for conversation",
+    "notes": "Hypothesis. Verify social sharing/coffee, beginner welcome and independent attendance; silent drawing alone scores lower.",
+    "status": "lead",
+    "origin": "Astra",
+    "sourceUrl": null
+  },
+  {
+    "id": "astra-22",
+    "name": "Photo walk with paired exercises or critique",
+    "category": "New directions",
+    "description": "Modest movement and a reason to interact",
+    "notes": "Hypothesis. Require a public single-seat session; exclude private tours and professional equipment prerequisites unless clearly acceptable.",
+    "status": "lead",
+    "origin": "Astra",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "astra-22",
+      "status": "qualified",
+      "summary": "KNNV’s Diemerbos photography walk is dated for 20 Nov, 10:00, but is described as a KNNV member working group and non-member eligibility is unclear. A separate 14 Nov analogue photowalk at Cameranu was sold out when checked.",
+      "sourceUrls": [
+        "https://amsterdam.knnv.nl/agenda/fotowandeling-diemerbos/",
+        "https://www.cameranu.nl/events/1287-photowalk-analoge-fotografie-met-fred-sansone-engelstalig"
+      ],
+      "nextStep": "Confirm KNNV membership access before recommending; do not list the sold-out Cameranu photowalk as available.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "astra-23",
+    "name": "Bookbinding, zine-making or printmaking taster",
+    "category": "New directions",
+    "description": "Small groups and tangible shared materials",
+    "notes": "Hypothesis. Require one-session completion and materials-inclusive price; studio open hours do not imply instruction.",
+    "status": "lead",
+    "origin": "Astra",
+    "sourceUrl": null
+  },
+  {
+    "id": "astra-24",
+    "name": "A facilitated reading group using a short text provided there",
+    "category": "New directions",
+    "description": "Shared discussion without weeks of homework",
+    "notes": "Hypothesis. Distinguish this from a traditional book club requiring advance reading or membership.",
+    "status": "lead",
+    "origin": "Astra",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "astra-24",
+      "status": "verified",
+      "summary": "Amsterdam Book Club has two 15 Nov sessions in English at Café Conrad (€10 including one drink); its organizer says many attendees come alone. Reading The Bell Jar beforehand is expected.",
+      "sourceUrls": [
+        "https://www.meetup.com/meetup-group-vjjzqjui/events/316963872/",
+        "https://www.meetup.com/meetup-group-vjjzqjui/events/316964318/",
+        "https://www.amsterdambookclub.com/"
+      ],
+      "nextStep": "Choose a session only if the book preparation and RSVP fee suit.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "astra-25",
+    "name": "Philosophical conversation or structured discussion salon",
+    "category": "New directions",
+    "description": "More reliable interaction than listening to a lecture",
+    "notes": "Hypothesis. Look for small-group dialogue, language and a newcomer joining policy; Q&A alone does not count as strong interaction.",
+    "status": "lead",
+    "origin": "Astra",
+    "sourceUrl": null,
+    "research": {
+      "ideaId": "astra-25",
+      "status": "verified",
+      "summary": "Socrates Café has individually listed Sunday OBA discussions throughout November, 15:00–17:00, free. The organizer requires basic spoken English but says listening without speaking is fine.",
+      "sourceUrls": [
+        "https://www.meetup.com/socrates-cafe-amsterdam-philosophy-discussions-meetup/events/calendar/",
+        "https://www.meetup.com/socrates-cafe-amsterdam-philosophy-discussions-meetup/events/317013696/"
+      ],
+      "nextStep": "Best discussion option if English and a structured philosophical conversation appeal.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "astra-26",
+    "name": "Social table tennis, pétanque or casual doubles session",
+    "category": "New directions",
+    "description": "Movement with natural turn-taking and low equipment burden",
+    "notes": "Hypothesis. Confirm equipment, matchmaking, level and single-session payment; free public facilities alone are not organized events.",
+    "status": "lead",
+    "origin": "Astra",
+    "sourceUrl": null
+  },
+  {
+    "id": "studio-koekoek",
+    "name": "Studio Koekoek",
+    "category": "Creative",
+    "description": "Embroidery, Sashiko and visible mending workshops near Waterlooplein.",
+    "notes": "Check the exact workshop level, date, total fee and remaining seats.",
+    "status": "lead",
+    "origin": "Deeper research",
+    "sourceUrl": "https://studio-koekoek.com/product-category/workshops/workshops-with-seats/",
+    "research": {
+      "ideaId": "studio-koekoek",
+      "status": "verified-dated-events",
+      "summary": "Studio Koekoek at Weesperstraat 100 near Waterlooplein lists beginner Sashiko and other embroidery tickets Nov 13–28 (€65–€75).",
+      "sourceUrls": [
+        "https://studio-koekoek.com/product-category/workshops/workshops-with-seats/"
+      ],
+      "nextStep": "Verify novice status on non-Sashiko items.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "atelier-kleie",
+    "name": "Atelier Kleie",
+    "category": "Creative",
+    "description": "Handbuilding workshops with independent single-session reservations.",
+    "notes": "Check the exact workshop level, date, total fee and remaining seats.",
+    "status": "lead",
+    "origin": "Deeper research",
+    "sourceUrl": "https://atelierkleie.wordpress.com/workshops/",
+    "research": {
+      "ideaId": "atelier-kleie",
+      "status": "verified-dated-format",
+      "summary": "Atelier Kleie lists five November beginner pottery sessions and permits booking one or two visits; exact prices and remaining seats are absent.",
+      "sourceUrls": [
+        "https://atelierkleie.wordpress.com/workshops/"
+      ],
+      "nextStep": "Ask organizer about exact price and seat count.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "astra-deep-01",
+    "name": "Dutch conversation café at SOB",
+    "category": "Writing & conversation",
+    "description": "Facilitated small-group Dutch practice without consecutive course attendance.",
+    "notes": "Organizer welcomes non-students and allows walk-in attendance for Amsterdam residents/workers; usual Fridays17:00–18:30, excluding school holidays. Exact target dates and fee need confirmation. Conditional on wanting Dutch practice.",
+    "status": "lead",
+    "origin": "Astra deeper review",
+    "sourceUrl": "https://www.sobamsterdam.nl/taalcafe/"
+  },
+  {
+    "id": "astra-deep-02",
+    "name": "Public telescope observing and astronomy outreach",
+    "category": "Community",
+    "description": "Observe with a small group and ask questions of astronomers.",
+    "notes": "Exact UvA October24 event is free but fully booked. VSA lists November20 19:00–22:00 at SciencePark904; registration availability,fee and language unconfirmed. Seek small-group tours or shared observing.",
+    "status": "lead",
+    "origin": "Astra deeper review",
+    "sourceUrl": "https://www.volkssterrenwachtamsterdam.nl/index.php/outreach"
+  },
+  {
+    "id": "astra-deep-03",
+    "name": "Public-speaking guest meeting with impromptu speaking",
+    "category": "Writing & conversation",
+    "description": "Guest visit to a structured speaking and feedback meeting.",
+    "notes": "Amsterdam Toastmasters supports free guests; confirm exact current venue and date,English delivery,guest limits and whether impromptu participation is optional. Other club pages have conflicting addresses; do not transfer them.",
+    "status": "lead",
+    "origin": "Astra deeper review",
+    "sourceUrl": "https://www.toastmasters.org/Find-a-Club/00009210-00009210"
+  },
+  {
+    "id": "astra-deep-04",
+    "name": "Ground juggling / object-manipulation taster",
+    "category": "Movement & dance",
+    "description": "Guided juggling or object-play session with beginner instruction.",
+    "notes": "Current CircusLab open training is self-guided,from€5,without formal lessons or supervision. Find an instructed novice workshop rather than treating unsupervised aerial/open training as suitable.",
+    "status": "lead",
+    "origin": "Astra deeper review",
+    "sourceUrl": "https://www.circuslab.amsterdam/open-training"
+  },
+  {
+    "id": "astra-deep-05",
+    "name": "Beginner orienteering with a partner and debrief",
+    "category": "Outdoors & water",
+    "description": "Occasional navigation activity with a shared task and walking option.",
+    "notes": "OLV MINOR welcomes walkers and all levels; no convenient exact target occurrence established. Ask about pairs,beginner briefing,equipment and a social debrief.",
+    "status": "lead",
+    "origin": "Astra deeper review",
+    "sourceUrl": "https://www.olvminor.nl/"
+  },
+  {
+    "id": "astra-deep-06",
+    "name": "Parkrun walking or volunteering followed by coffee",
+    "category": "Outdoors & volunteering",
+    "description": "Independent community mornings with walking or volunteer roles.",
+    "notes": "AmsterdamseBos official page was blocked; current meeting point,cancellations,coffee and one-off volunteer openings need official confirmation. Do not manufacture weekly Saturday entries.",
+    "status": "lead",
+    "origin": "Astra deeper review",
+    "sourceUrl": "https://www.parkrun.co.nl/amsterdamsebos/"
+  },
+  {
+    "id": "more-001",
+    "name": "Station West · one-session art and music workshops",
+    "category": "Creative",
+    "description": "Guided drawing,painting,collage and beginner percussion.",
+    "notes": "Select an individual session ticket. Exclude multi-session courses and pair-only portrait tickets. English support varies by topic; confirm the exact session.",
+    "status": "lead",
+    "origin": "Additional browser research",
+    "sourceUrl": "https://station-west.amsterdam/creatieve-workshops-in-amsterdam/",
+    "research": {
+      "status": "dated-format-researched",
+      "summary": "Guided drawing,painting,collage and beginner percussion.",
+      "sourceUrls": [
+        "https://station-west.amsterdam/creatieve-workshops-in-amsterdam/"
+      ],
+      "nextStep": "Select an individual session ticket. Exclude multi-session courses and pair-only portrait tickets. English support varies by topic; confirm the exact session.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "more-002",
+    "name": "ClubCuisine · public single-seat cooking",
+    "category": "Cooking & food",
+    "description": "Open-registration cooking workshops for individual participants.",
+    "notes": "VerifiedNovember2,3 and7 sessions are€95. Reopen the actual month and dated ticket; older indexed inventory can disagree with the live calendar.",
+    "status": "lead",
+    "origin": "Additional browser research",
+    "sourceUrl": "https://clubcuisine.nl/events/",
+    "research": {
+      "status": "dated-format-researched",
+      "summary": "Open-registration cooking workshops for individual participants.",
+      "sourceUrls": [
+        "https://clubcuisine.nl/events/"
+      ],
+      "nextStep": "VerifiedNovember2,3 and7 sessions are€95. Reopen the actual month and dated ticket; older indexed inventory can disagree with the live calendar.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "more-003",
+    "name": "Stretch & Fold · craft and food workshops",
+    "category": "Creative",
+    "description": "Weaving,fermentation and painting sessions.",
+    "notes": "Choose a one-event ticket. Check ingredients,materials and collection requirements; do not transfer one workshop’s fee or inclusions to another.",
+    "status": "lead",
+    "origin": "Additional browser research",
+    "sourceUrl": "https://www.stretchandfold.nl/events",
+    "research": {
+      "status": "dated-format-researched",
+      "summary": "Weaving,fermentation and painting sessions.",
+      "sourceUrls": [
+        "https://www.stretchandfold.nl/events"
+      ],
+      "nextStep": "Choose a one-event ticket. Check ingredients,materials and collection requirements; do not transfer one workshop’s fee or inclusions to another.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "more-004",
+    "name": "The Art Café · Waterlooplein workshops",
+    "category": "Creative",
+    "description": "Small creative workshops at Waterlooplein6F.",
+    "notes": "Close to the user’s preferred area. ExactOctober/November dates are published; two prices remain unknown. Confirm price and model-painting format before booking.",
+    "status": "lead",
+    "origin": "Additional browser research",
+    "sourceUrl": "https://www.theartcafe.nl/nl/workshops",
+    "research": {
+      "status": "dated-format-researched",
+      "summary": "Small creative workshops at Waterlooplein6F.",
+      "sourceUrls": [
+        "https://www.theartcafe.nl/nl/workshops"
+      ],
+      "nextStep": "Close to the user’s preferred area. ExactOctober/November dates are published; two prices remain unknown. Confirm price and model-painting format before booking.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "more-005",
+    "name": "Smaak & Cultuur · one-day sourdough",
+    "category": "Cooking & food",
+    "description": "Hands-on bread making in a standalone workshop.",
+    "notes": "November20 costs€75. Prepare a starter in the preceding week. Dutch delivery; English if the group wishes. Confirm the showroom’s meeting details.",
+    "status": "lead",
+    "origin": "Additional browser research",
+    "sourceUrl": "https://www.smaakcultuur.nl/workshop-zuurdesembrood",
+    "research": {
+      "status": "dated-format-researched",
+      "summary": "Hands-on bread making in a standalone workshop.",
+      "sourceUrls": [
+        "https://www.smaakcultuur.nl/workshop-zuurdesembrood"
+      ],
+      "nextStep": "November20 costs€75. Prepare a starter in the preceding week. Dutch delivery; English if the group wishes. Confirm the showroom’s meeting details.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "more-006",
+    "name": "Dam Hoops · independent hoopdance workshop",
+    "category": "Dance",
+    "description": "Beginner and improver hoopdance in a small group.",
+    "notes": "November20 is€15.80 at DeSchakel. No waist-hooping ability required; confirm available loan equipment and capacity.",
+    "status": "lead",
+    "origin": "Additional browser research",
+    "sourceUrl": "https://hipsy.eu/event/256765-hoopdance-workshop",
+    "research": {
+      "status": "dated-format-researched",
+      "summary": "Beginner and improver hoopdance in a small group.",
+      "sourceUrls": [
+        "https://hipsy.eu/event/256765-hoopdance-workshop"
+      ],
+      "nextStep": "November20 is€15.80 at DeSchakel. No waist-hooping ability required; confirm available loan equipment and capacity.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "more-007",
+    "name": "Moving Sparkles · single 5Rhythms session",
+    "category": "Dance",
+    "description": "Guided warm-up and free-form movement without fixed steps.",
+    "notes": "Choose an individually listed NDSM or Friday session; no consecutive attendance required. Single-session prices differ by venue; language and exact Friday address need confirmation.",
+    "status": "lead",
+    "origin": "Additional browser research",
+    "sourceUrl": "https://hipsy.nl/event/242346-5rhythms-amsterdam-noord-an-ecstatic-experience",
+    "research": {
+      "status": "dated-format-researched",
+      "summary": "Guided warm-up and free-form movement without fixed steps.",
+      "sourceUrls": [
+        "https://hipsy.nl/event/242346-5rhythms-amsterdam-noord-an-ecstatic-experience"
+      ],
+      "nextStep": "Choose an individually listed NDSM or Friday session; no consecutive attendance required. Single-session prices differ by venue; language and exact Friday address need confirmation.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "more-008",
+    "name": "Common Ground · Resonance Movement Practice",
+    "category": "Dance",
+    "description": "Expressive movement exercises with tea and time together.",
+    "notes": "A separate single-session ticket is explicitly available alongside the course. Standard€20.80; concessions and packages are separate.",
+    "status": "lead",
+    "origin": "Additional browser research",
+    "sourceUrl": "https://hipsy.nl/event/252724-resonance-movement-practice",
+    "research": {
+      "status": "dated-format-researched",
+      "summary": "Expressive movement exercises with tea and time together.",
+      "sourceUrls": [
+        "https://hipsy.nl/event/252724-resonance-movement-practice"
+      ],
+      "nextStep": "A separate single-session ticket is explicitly available alongside the course. Standard€20.80; concessions and packages are separate.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "more-009",
+    "name": "Common Ground · listening and NVC workshops",
+    "category": "Writing & conversation",
+    "description": "Facilitated listening,dialogue and connection exercises.",
+    "notes": "Reserve one evening. Donation-based participation may have a Free reservation card. Arrive before the18:50 door cutoff; do not treat the reservation label as the final cost.",
+    "status": "lead",
+    "origin": "Additional browser research",
+    "sourceUrl": "https://hipsy.nl/event/254141-nvc-and-authentic-relating-playground",
+    "research": {
+      "status": "dated-format-researched",
+      "summary": "Facilitated listening,dialogue and connection exercises.",
+      "sourceUrls": [
+        "https://hipsy.nl/event/254141-nvc-and-authentic-relating-playground"
+      ],
+      "nextStep": "Reserve one evening. Donation-based participation may have a Free reservation card. Arrive before the18:50 door cutoff; do not treat the reservation label as the final cost.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "more-010",
+    "name": "Kaap · independent ecstatic dance evening",
+    "category": "Dance",
+    "description": "Free-form movement with an opening and time together afterwards.",
+    "notes": "Regular ticket€23.30 for the verified dates. Early tiers are conditional. Conversation is outside the talk-free dance floor; arrive for the opening.",
+    "status": "lead",
+    "origin": "Additional browser research",
+    "sourceUrl": "https://hipsy.nl/event/250704-ecstatic-dance-kaap-dj-rachi",
+    "research": {
+      "status": "dated-format-researched",
+      "summary": "Free-form movement with an opening and time together afterwards.",
+      "sourceUrls": [
+        "https://hipsy.nl/event/250704-ecstatic-dance-kaap-dj-rachi"
+      ],
+      "nextStep": "Regular ticket€23.30 for the verified dates. Early tiers are conditional. Conversation is outside the talk-free dance floor; arrive for the opening.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "more-011",
+    "name": "Oostenburg Board Game Club",
+    "category": "Community",
+    "description": "Hosted board games with solo and beginner access.",
+    "notes": "VerifiedNovember4,19:30–22:00,free entry. Recheck the next actual hosted date rather than inferring a monthly recurrence.",
+    "status": "lead",
+    "origin": "Additional browser research",
+    "sourceUrl": "https://overdebrug-oostenburg.nl/agenda/board-game-club-3/",
+    "research": {
+      "status": "dated-format-researched",
+      "summary": "Hosted board games with solo and beginner access.",
+      "sourceUrls": [
+        "https://overdebrug-oostenburg.nl/agenda/board-game-club-3/"
+      ],
+      "nextStep": "VerifiedNovember4,19:30–22:00,free entry. Recheck the next actual hosted date rather than inferring a monthly recurrence.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "more-012",
+    "name": "Buurtteam · Amstelpark group nature walk",
+    "category": "Outdoors & water",
+    "description": "Guided walking with shared reflection in a small group.",
+    "notes": "Signup via gezond@buurtteamamsterdamzuid.nl; maximum12. Fee,age eligibility and spoken language remain unconfirmed. Confirm the entrance meeting point.",
+    "status": "lead",
+    "origin": "Additional browser research",
+    "sourceUrl": "https://www.buurtteamamsterdam.nl/serie/groepswandeling-in-de-natuur-amstelpark/",
+    "research": {
+      "status": "dated-format-researched",
+      "summary": "Guided walking with shared reflection in a small group.",
+      "sourceUrls": [
+        "https://www.buurtteamamsterdam.nl/serie/groepswandeling-in-de-natuur-amstelpark/"
+      ],
+      "nextStep": "Signup via gezond@buurtteamamsterdamzuid.nl; maximum12. Fee,age eligibility and spoken language remain unconfirmed. Confirm the entrance meeting point.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "more-013",
+    "name": "De Rooij · one-day beginner photography",
+    "category": "Creative",
+    "description": "A standalone photography day using your own camera.",
+    "notes": "November21 is fully booked with a waiting list. Keep as a future-format lead; do not substitute the calendar’s defaultDecember5 date into this November calendar.",
+    "status": "lead",
+    "origin": "Additional browser research",
+    "sourceUrl": "https://www.derooijfotografie.nl/fotocursus/fotografie-cursus-amsterdam/",
+    "research": {
+      "status": "dated-format-researched",
+      "summary": "A standalone photography day using your own camera.",
+      "sourceUrls": [
+        "https://www.derooijfotografie.nl/fotocursus/fotografie-cursus-amsterdam/"
+      ],
+      "nextStep": "November21 is fully booked with a waiting list. Keep as a future-format lead; do not substitute the calendar’s defaultDecember5 date into this November calendar.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "round4-oba-oosterdok-adult-sessions",
+    "name": "OBA Oosterdok · adult one-off programme",
+    "category": "Community & culture",
+    "description": "Use the OBA Oosterdok agenda to find dated single sessions such as open literary stages, maker nights, book discussions, public games and cultural conversations. Check individual listings; the broad agenda is a discovery route, not a promise that every date fits.",
+    "notes": "The supplied batch includes standalone public events at OBA Oosterdok; participation varies from audience attendance to hands-on or discussion. Do not infer all events are joinable, English-language, free, or suitable for drop-in from the venue alone.",
+    "status": "useful-venue-lead",
+    "origin": "round-1/2-libraries official-page research",
+    "sourceUrl": "https://oba.nl/nl/agenda/volledige-agenda?Wanneer=d_thismonth&page=6&query=Oosterdok",
+    "research": {
+      "summary": "Official OBA event pages verified exact upcoming dates for Open Podium, La Pause Café, Sensemakers Lab, Kralenspeltoernooi, Twee werelden één ontmoeting and Pamflettenclub. They represent varied formats; entry conditions, fees and spoken language must be checked on each detail page.",
+      "nextStep": "For each new date, open its OBA detail page, verify exact date/time/venue, adult suitability, audience-versus-active participation, price and booking requirement. Do not count recurring weekly entries unless the exact edition is displayed.",
+      "sourceUrls": [
+        "https://oba.nl/nl/agenda/volledige-agenda?Wanneer=d_thismonth&page=6&query=Oosterdok",
+        "https://oba.nl/nl/agenda/open-podium-met-jos-van-hest-65aa9e1d-5f14-4f53-931b-b5b70c613961",
+        "https://oba.nl/nl/agenda/la-pause-cafe-frans-oefenen-b10544bd-9915-41cb-98f5-ff027bb2ce58",
+        "https://oba.nl/nl/agenda/sensemakers-lab-83a7e0f6-03ab-49fc-a8bc-4bf74ad26c58",
+        "https://oba.nl/nl/agenda/finale-kralenspeltoernooi-41ecd2e9-2b5a-4607-830c-83a412873251",
+        "https://oba.nl/nl/agenda/twee-werelden-een-ontmoeting-stichting-tien-yan-745723ff-a1c2-4239-afd0-49b13394e141",
+        "https://oba.nl/nl/agenda/pamflettenclub-grenzend-aan-liefde-een-nieuw-verhaal-over-nederland-007f6ee9-6ed4-4e01-86f9-af383ceb217c"
+      ],
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "round4-de-boomsspijker-film-dinner",
+    "name": "De Boomsspijker · film and shared dinner",
+    "category": "Community & culture",
+    "description": "A dated neighborhood-house film evening paired with a themed three-course dinner, offering a clear shared-table format for an evening out.",
+    "notes": "The verified listing is explicitly for buurtbewoners; arrival/eligibility requirements are unknown. Confirm whether non-local visitors may attend and whether dinner is part of the ticket before treating this as a solo-friendly public option.",
+    "status": "conditional-lead",
+    "origin": "round-1-libraries official organizer listing",
+    "sourceUrl": "https://www.wijkconnect.com/amsterdam/organisaties/8345/huis-van-de-buurt-de-boomsspijker/agenda/26159/film-dineravond-buurtbewoners",
+    "research": {
+      "summary": "The organizer-linked listing described a 13 November 2026 film evening preceded by a three-course dinner themed to the film setting and identified it as an adult activity. Its wording targets neighborhood residents; nonresident eligibility/arrival conditions were not established.",
+      "nextStep": "Before reusing future dates, inspect the exact WijkConnect/organizer listing for date/time/price and ask no questions externally; leave attendance conditional if it still says buurtbewoners without public-entry clarification.",
+      "sourceUrls": [
+        "https://www.wijkconnect.com/amsterdam/organisaties/8345/huis-van-de-buurt-de-boomsspijker/agenda/26159/film-dineravond-buurtbewoners"
+      ],
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "round4-samba-school-fidelinas-solo-dropin",
+    "name": "Samba School Fidelinas · solo beginner drop-in",
+    "category": "Dance & movement",
+    "description": "Solo-oriented beginner/improver Brazilian samba basics, presented as a standalone class with no partner or equipment needed.",
+    "notes": "The research batch found a series of Wednesday dated classes and a class page. Confirm that the exact session is offered as a single class ticket and does not imply a term commitment before listing it; this is a dance class, not a social-dance party.",
+    "status": "conditional-single-session-lead",
+    "origin": "round-2-gym-dance official organizer research",
+    "sourceUrl": "https://www.sambaschoolfidelinas.nl/lessen/samba-beginners",
+    "research": {
+      "summary": "Official lesson and agenda pages were consulted for dated Wednesday beginner/improver samba classes; the research record describes solo participation without a partner. The event batch labels a single ticket, but future entries should be checked against the specific date’s price/booking terms.",
+      "nextStep": "Open the official lesson page and agenda, verify the next exact date and time and confirm a per-session purchase/no course commitment in the visible booking terms. Skip if only a multi-week course remains available.",
+      "sourceUrls": [
+        "https://www.sambaschoolfidelinas.nl/lessen/samba-beginners",
+        "https://sambaschoolfidelinas.nl/agenda",
+        "https://www.sambaschoolfidelinas.nl/proefles"
+      ],
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "round4-femmegym-intro-conditional",
+    "name": "FemmeGym De Smederij · women’s introductory day pass",
+    "category": "Fitness",
+    "description": "A conditional women’s gym option: the organizer says a free one-time day pass can be used for one class or open training, and lists Zumba among classes at the East club.",
+    "notes": "This is not a dated event lead until an exact eligible class/time is verified. Clearly state intended audience eligibility; the published weekly timetable is not a future-dated one-off. The day pass terms differ from the paid multi-workout trial package.",
+    "status": "conditional-schedule-lead",
+    "origin": "round-1-gym-dance official pages",
+    "sourceUrl": "https://www.femmegym.nl/femmegym-de-smederij/",
+    "research": {
+      "summary": "Official club and offer pages establish a free day-pass route for one class or free training and show Zumba at De Smederij. The embedded timetable defaulted to the checked current week, so no qualifying future exact date was added.",
+      "nextStep": "Check the public club timetable for a future exact date and preferred time, then verify class reservation and eligibility and that the free pass still applies. Do not turn a weekly recurring slot into a dated occurrence without a page showing that date.",
+      "sourceUrls": [
+        "https://www.femmegym.nl/femmegym-de-smederij/",
+        "https://www.femmegym.nl/het-aanbod/",
+        "https://www.femmegym.nl/daypass/"
+      ],
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "round4-tolhuistuin-community-programme",
+    "name": "Tolhuistuin · community, culture and participatory programme",
+    "category": "Culture & community",
+    "description": "A varied cultural venue with dated comedy, music, talks and dance listings; individual programmes may include an interactive quiz, audience conversation or dance floor.",
+    "notes": "Treat each event on its own merits: most listings are audience events, not facilitated meetups. An interactive segment is not evidence of a community group or guaranteed social connection. Verify language, price, ticket fees, venue room and exact start/end per event.",
+    "status": "useful-venue-lead",
+    "origin": "round-2-libraries official agenda/detail-page research",
+    "sourceUrl": "https://tolhuistuin.nl/agenda",
+    "research": {
+      "summary": "Official Tolhuistuin detail pages supplied exact dated November 2026 listings, including a DJ/dance evening, English comedy with audience quiz, Dutch comedy, music performances, and a lecture followed by audience conversation. The mix demonstrates a strong evening culture calendar but social participation is event-specific.",
+      "nextStep": "Scan the official agenda for exact dated adult evening/weekend listings; open each event detail page and copy only explicitly stated start/end, language, price and interactive format. Keep concerts and audience talks labelled as audience attendance.",
+      "sourceUrls": [
+        "https://tolhuistuin.nl/agenda",
+        "https://tolhuistuin.nl/evenementen/one-fine-mess-9",
+        "https://tolhuistuin.nl/evenementen/its-getting-hot-in-here-comedy-opening-night-warming-up-festival",
+        "https://tolhuistuin.nl/evenementen/keti-koti-komedyshow-2026",
+        "https://tolhuistuin.nl/evenementen/ecologische-rouw-het-verlies-van-de-toekomst",
+        "https://tolhuistuin.nl/evenementen/pongo-2",
+        "https://tolhuistuin.nl/evenementen/genesis-owusu"
+      ],
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "round4-instrument-drum-circle",
+    "name": "Facilitated instrument drum circle",
+    "category": "Singing & music",
+    "description": "Drumming together with spare instruments; distinct from body percussion or vocal improvisation. Verify newcomer and single-session access each time.",
+    "notes": "Drumming together with spare instruments; distinct from body percussion or vocal improvisation. Verify newcomer and single-session access each time.",
+    "status": "verified-dated-option",
+    "origin": "Round 4 evidence review",
+    "sourceUrl": "https://hipsy.nl/event/207276-drumcirkel",
+    "research": {
+      "status": "verified-dated-option",
+      "summary": "Drumming together with spare instruments; distinct from body percussion or vocal improvisation. Verify newcomer and single-session access each time.",
+      "sourceUrls": [
+        "https://hipsy.nl/event/207276-drumcirkel"
+      ],
+      "nextStep": "Check future exact dates, admission price, preferred time and individual entry on the public organizer page.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "round4-playfight-introduction",
+    "name": "Playfight newcomer introduction and circle",
+    "category": "Movement",
+    "description": "Physical play and contact with a newcomer introduction. Confirm contact/intensity and consent format; do not label this as gentle dance or Common Ground Resonance.",
+    "notes": "Physical play and contact with a newcomer introduction. Confirm contact/intensity and consent format; do not label this as gentle dance or Common Ground Resonance.",
+    "status": "verified-dated-option",
+    "origin": "Round 4 evidence review",
+    "sourceUrl": "https://hipsy.nl/event/242605-playfight-introduction-circle",
+    "research": {
+      "status": "verified-dated-option",
+      "summary": "Physical play and contact with a newcomer introduction. Confirm contact/intensity and consent format; do not label this as gentle dance or Common Ground Resonance.",
+      "sourceUrls": [
+        "https://hipsy.nl/event/242605-playfight-introduction-circle"
+      ],
+      "nextStep": "Check future exact dates, admission price, preferred time and individual entry on the public organizer page.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "round4-debalie-author-conversations",
+    "name": "De Balie · author conversations",
+    "category": "Talks & culture",
+    "description": "Public author conversations are audience experiences; do not count a Q&A alone as a structured discussion salon.",
+    "notes": "Public author conversations are audience experiences; do not count a Q&A alone as a structured discussion salon.",
+    "status": "verified-dated-option",
+    "origin": "Round 4 evidence review",
+    "sourceUrl": "https://debalie.nl/programma/arnon-grunberg-meets-adania-shibli-05-11-2026/",
+    "research": {
+      "status": "verified-dated-option",
+      "summary": "Public author conversations are audience experiences; do not count a Q&A alone as a structured discussion salon.",
+      "sourceUrls": [
+        "https://debalie.nl/programma/arnon-grunberg-meets-adania-shibli-05-11-2026/",
+        "https://debalie.nl/"
+      ],
+      "nextStep": "Check future exact dates, admission price, preferred time and individual entry on the public organizer page.",
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "round5-amsterdam-public-walking-tours",
+    "name": "Amsterdam public guided walking tours",
+    "category": "Walking & local history",
+    "description": "Solo-joinable public walking tours with shared routes, local history or architecture; distinguish fixed-fee, booking-fee-plus-tip and tip-based models.",
+    "notes": "Check the organizer's exact date calendar, total mandatory fee, separate voluntary tip, spoken tour language and public-versus-private joining conditions. Do not count general recurring hours as dated sessions without a selected calendar date.",
+    "status": "lead",
+    "origin": "round-5 official operator and public-calendar research",
+    "sourceUrl": "https://freewalkingtoursamsterdam.com/tours/free-classic-tour/",
+    "research": {
+      "summary": "Verified one exact Free Classic Tour departure (24 Oct, 10:30; €2 booking fee plus voluntary tip; English), a tip-based daily FreeDam offer with no fixed price, an English evening-tour offer where 24 Oct showed no availability, and an open €17.50/person architecture walk with no published individual date or spoken language.",
+      "nextStep": "Before any later date, select that date in the operator's public calendar and recheck availability and total mandatory fee. Ask for spoken language only where the official listing does not state it; do not infer it from page language.",
+      "sourceUrls": [
+        "https://freewalkingtoursamsterdam.com/tours/free-classic-tour/",
+        "https://freewalkingtoursamsterdam.com/tours/free-evening-tour/",
+        "https://freedamtours.com/",
+        "https://www.stadswandelkantoor.nl/nieuw"
+      ],
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "round10-astra-01-meetup-provider-spellenmaakgilde",
+    "name": "Spellenmaakgilde — prototype playtesting",
+    "category": "Social & creative activities",
+    "description": "Playtest board/card game prototypes and give feedback without bringing a design. OBA sixth-floor location.",
+    "notes": "Check an actual public future date, price and single-visit conditions.",
+    "status": "lead",
+    "origin": "round-10 astra-01-meetup actual public research",
+    "sourceUrl": "https://www.meetup.com/nl-nl/prototype-testing-meetup/",
+    "research": {
+      "summary": "Playtest board/card game prototypes and give feedback without bringing a design. OBA sixth-floor location.",
+      "nextStep": "Verify current dated public sessions and ordinary per-person prices.",
+      "sourceUrls": [
+        "https://www.meetup.com/nl-nl/prototype-testing-meetup/"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-astra-01-meetup-provider-writing-influence",
+    "name": "Writing Under the Influence AMS",
+    "category": "Social & creative activities",
+    "description": "Twenty-minute writing sprints alternate with social breaks at Vice Versa.",
+    "notes": "Check an actual public future date, price and single-visit conditions.",
+    "status": "lead",
+    "origin": "round-10 astra-01-meetup actual public research",
+    "sourceUrl": "https://www.meetup.com/nl-nl/writing-under-the-influence-ams/",
+    "research": {
+      "summary": "Twenty-minute writing sprints alternate with social breaks at Vice Versa.",
+      "nextStep": "Verify current dated public sessions and ordinary per-person prices.",
+      "sourceUrls": [
+        "https://www.meetup.com/nl-nl/writing-under-the-influence-ams/"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-astra-01-meetup-provider-creative-writers",
+    "name": "The Amsterdam Creative Writers Club",
+    "category": "Social & creative activities",
+    "description": "Shared writing at OBA followed by drinks; beginners welcome.",
+    "notes": "Check an actual public future date, price and single-visit conditions.",
+    "status": "lead",
+    "origin": "round-10 astra-01-meetup actual public research",
+    "sourceUrl": "https://www.meetup.com/nl-nl/the-amsterdam-creative-writers-club/",
+    "research": {
+      "summary": "Shared writing at OBA followed by drinks; beginners welcome.",
+      "nextStep": "Verify current dated public sessions and ordinary per-person prices.",
+      "sourceUrls": [
+        "https://www.meetup.com/nl-nl/the-amsterdam-creative-writers-club/"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-astra-01-meetup-provider-shutupwrite",
+    "name": "Shut Up & Write! Amsterdam centre",
+    "category": "Social & creative activities",
+    "description": "Introductions, quiet writing, then optional socializing at OBA.",
+    "notes": "Check an actual public future date, price and single-visit conditions.",
+    "status": "lead",
+    "origin": "round-10 astra-01-meetup actual public research",
+    "sourceUrl": "https://www.meetup.com/nl-nl/shutupandwriteamsterdam/events/fxjtvsyjcnbjc/",
+    "research": {
+      "summary": "Introductions, quiet writing, then optional socializing at OBA.",
+      "nextStep": "Verify current dated public sessions and ordinary per-person prices.",
+      "sourceUrls": [
+        "https://www.meetup.com/nl-nl/shutupandwriteamsterdam/events/fxjtvsyjcnbjc/"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-astra-01-meetup-provider-sidequest",
+    "name": "Side Quest Gaming Community",
+    "category": "Social & creative activities",
+    "description": "Beginner-friendly board games and storyteller-led social deduction.",
+    "notes": "Check an actual public future date, price and single-visit conditions.",
+    "status": "lead",
+    "origin": "round-10 astra-01-meetup actual public research",
+    "sourceUrl": "https://www.meetup.com/nl-nl/armoury-bar-gaming-community/",
+    "research": {
+      "summary": "Beginner-friendly board games and storyteller-led social deduction.",
+      "nextStep": "Verify current dated public sessions and ordinary per-person prices.",
+      "sourceUrls": [
+        "https://www.meetup.com/nl-nl/armoury-bar-gaming-community/"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-astra-01-meetup-provider-cosmology",
+    "name": "Discussing about the Universe, Life and Everything",
+    "category": "Social & creative activities",
+    "description": "Informal science discussions for non-specialists with introductions and participant-selected topics.",
+    "notes": "Check an actual public future date, price and single-visit conditions.",
+    "status": "lead",
+    "origin": "round-10 astra-01-meetup actual public research",
+    "sourceUrl": "https://www.meetup.com/nl-nl/discussing-about-the-universe-life-and-everything/events/rgvrztyjcnbfc/",
+    "research": {
+      "summary": "Informal science discussions for non-specialists with introductions and participant-selected topics.",
+      "nextStep": "Verify current dated public sessions and ordinary per-person prices.",
+      "sourceUrls": [
+        "https://www.meetup.com/nl-nl/discussing-about-the-universe-life-and-everything/events/rgvrztyjcnbfc/"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-astra-01-meetup-provider-drawing",
+    "name": "Drawing Amsterdam",
+    "category": "Social & creative activities",
+    "description": "All skill levels can bring sketching materials, draw and chat; peer support rather than a taught course.",
+    "notes": "Check an actual public future date, price and single-visit conditions.",
+    "status": "lead",
+    "origin": "round-10 astra-01-meetup actual public research",
+    "sourceUrl": "https://www.meetup.com/nl-nl/drawing-amsterdam/",
+    "research": {
+      "summary": "All skill levels can bring sketching materials, draw and chat; peer support rather than a taught course.",
+      "nextStep": "Verify current dated public sessions and ordinary per-person prices.",
+      "sourceUrls": [
+        "https://www.meetup.com/nl-nl/drawing-amsterdam/"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-astra-05-gyms-basic-fit-ladies",
+    "name": "Basic-Fit Europaboulevard Ladies — live Zumba and Steps with ordinary day pass",
+    "category": "Dance fitness",
+    "description": "New provider not found in canonical ideas/offers. Women-only eligibility must be shown prominently. Exact dated Zumba Thursday 29 October 09:00–10:00 and Steps evenings observed.",
+    "notes": "Check an actual public future date, price and single-visit conditions.",
+    "status": "lead",
+    "origin": "round-10 astra-05-gyms actual public research",
+    "sourceUrl": "https://www.basic-fit.com/en-nl/clubs/basic-fit-amsterdam-europaboulevard-ladies-65152669510f4e0aa6c0ea11bd3bf2c8.html",
+    "research": {
+      "summary": "New provider not found in canonical ideas/offers. Women-only eligibility must be shown prominently. Exact dated Zumba Thursday 29 October 09:00–10:00 and Steps evenings observed.",
+      "nextStep": "Verify current dated public sessions and ordinary per-person prices.",
+      "sourceUrls": [
+        "https://www.basic-fit.com/en-nl/clubs/basic-fit-amsterdam-europaboulevard-ladies-65152669510f4e0aa6c0ea11bd3bf2c8.html",
+        "https://www.basic-fit.com/nl-nl/basic-fit-day-pass",
+        "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/va203f2228cf2f4e0781da53a150dc81965165254/PDF/Terms-Conditions-NLNL.pdf"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-astra-05-gyms-mercator-aqua",
+    "name": "Sportplaza / Sportfondsen Mercator — single aqua fitness class",
+    "category": "Aquasport",
+    "description": "Aquarobics, Aquacycling and AquaFit each have a €13 loose-class tariff. Weekday-evening slots exist in a generic weekday timetable, but no exact date was verified. Official fitness page also confirms a whole-day pass includes fitness and water group classes, excluding swimming lessons/adapted sport; current ordinary day-pass price is €20, independently verified on the official Mercator Fitness tariff page.",
+    "notes": "Check an actual public future date, price and single-visit conditions.",
+    "status": "lead",
+    "origin": "round-10 astra-05-gyms actual public research",
+    "sourceUrl": "https://mercator.sportfondsen.nl/tijden-tarieven-van-mercator/",
+    "research": {
+      "summary": "Aquarobics, Aquacycling and AquaFit each have a €13 loose-class tariff. Weekday-evening slots exist in a generic weekday timetable, but no exact date was verified. Official fitness page also confirms a whole-day pass includes fitness and water group classes, excluding swimming lessons/adapted sport; current ordinary day-pass price is €20, independently verified on the official Mercator Fitness tariff page.",
+      "nextStep": "Verify current dated public sessions and ordinary per-person prices.",
+      "sourceUrls": [
+        "https://mercator.sportfondsen.nl/tijden-tarieven-van-mercator/",
+        "https://www.mercatorfitness.nl/sportfondsen-mercator-fitness/aqua-sport-lessen/",
+        "https://mercator.sportfondsen.nl/fitness/",
+        "https://mercator.sportfondsen.nl/activiteiten/aquarobics/",
+        "https://www.mercatorfitness.nl/sportfondsen-mercator/lidmaatschappen/",
+        "https://www.mercatorfitness.nl/sportfondsen-mercator/gratis-dagpas-aanvragen/"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-astra-10-talk-writing-huis-de-pinto",
+    "name": "Huis de Pinto · literary and neighbourhood conversations",
+    "category": "Talks & writing",
+    "description": "Near Waterlooplein: individual literary interviews, city-history talks and occasional practical workshops.",
+    "notes": "Ordinary talk admission €7 on checked details. Verify each date and language separately; avoid course commitments.",
+    "status": "lead",
+    "origin": "round-10 astra-10-talk-writing actual public research",
+    "sourceUrl": "https://huisdepinto.nl/programma/",
+    "research": {
+      "summary": "Near Waterlooplein: individual literary interviews, city-history talks and occasional practical workshops.",
+      "nextStep": "Verify current dated public sessions and ordinary per-person prices.",
+      "sourceUrls": [
+        "https://huisdepinto.nl/programma/"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-astra-10-talk-writing-spui25",
+    "name": "SPUI25 · public author and research conversations",
+    "category": "Talks & writing",
+    "description": "Central venue with standalone moderated literary and research discussions.",
+    "notes": "Many listings start 17:00 and fail user timing. Use unfiltered agenda as well as location-specific page; the latter omitted eligible events. Recheck cancellations; language and free entry cannot be inferred.",
+    "status": "lead",
+    "origin": "round-10 astra-10-talk-writing actual public research",
+    "sourceUrl": "https://www.spui25.nl/agenda",
+    "research": {
+      "summary": "Central venue with standalone moderated literary and research discussions.",
+      "nextStep": "Verify current dated public sessions and ordinary per-person prices.",
+      "sourceUrls": [
+        "https://www.spui25.nl/agenda"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-astra-10-talk-writing-perdu",
+    "name": "Perdu · literary experiments and community debates",
+    "category": "Talks & writing",
+    "description": "Literary venue close to Waterlooplein with individual talks, debates and occasional writing workshops.",
+    "notes": "Current agenda omits years; corroborate year explicitly. News sidebar includes older workshops and paid-programme dependencies; never shift them to 2026.",
+    "status": "lead",
+    "origin": "round-10 astra-10-talk-writing actual public research",
+    "sourceUrl": "https://perdu.nl/en/agenda/",
+    "research": {
+      "summary": "Literary venue close to Waterlooplein with individual talks, debates and occasional writing workshops.",
+      "nextStep": "Verify current dated public sessions and ordinary per-person prices.",
+      "sourceUrls": [
+        "https://perdu.nl/en/agenda/"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-astra-10-talk-writing-funny-women",
+    "name": "Funny Women Amsterdam · audience comedy games at Volta",
+    "category": "Community & social games",
+    "description": "English 18+ stand-up and host-led games with optional audience participation; organizer says all are welcome.",
+    "notes": "Performance platform emphasizes women and nonbinary comedians; audience participation is open to all. Check each listed date and ticket price.",
+    "status": "lead",
+    "origin": "round-10 astra-10-talk-writing actual public research",
+    "sourceUrl": "https://www.eventbrite.nl/e/stand-up-comedy-games-night-funny-women-amsterdam-tickets-1985368423399",
+    "research": {
+      "summary": "English 18+ stand-up and host-led games with optional audience participation; organizer says all are welcome.",
+      "nextStep": "Verify current dated public sessions and ordinary per-person prices.",
+      "sourceUrls": [
+        "https://www.eventbrite.nl/e/stand-up-comedy-games-night-funny-women-amsterdam-tickets-1985368423399"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-astra-10-talk-writing-framer-reading",
+    "name": "Framer Framed · facilitated collage and collective reading",
+    "category": "Writing & creative community",
+    "description": "English collage, reading and conversation workshop format with optional contribution to a collective zine.",
+    "notes": "Observed 1 November session is specifically for Black women with ADHD/autism, with or without formal diagnosis. Held rather than presumed suitable. Free admission with optional pay-what-you-can donation.",
+    "status": "lead",
+    "origin": "round-10 astra-10-talk-writing actual public research",
+    "sourceUrl": "https://framerframed.nl/projecten/workshop-fragments-of-time-otherwise/",
+    "research": {
+      "summary": "English collage, reading and conversation workshop format with optional contribution to a collective zine.",
+      "nextStep": "Verify current dated public sessions and ordinary per-person prices.",
+      "sourceUrls": [
+        "https://framerframed.nl/projecten/workshop-fragments-of-time-otherwise/"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-sol-01-oba-avondmakers-provider",
+    "name": "OBA Avondmakers Oost / West",
+    "category": "Creative social making",
+    "description": "Standalone evening maker gatherings explicitly welcome solo visitors and knowledge exchange. Work on your own creative project and bring materials/tools.",
+    "notes": "New distinct format beyond generic OBA venue idea. Exact 28 Oct / 19 Nov editions retained. Fee, registration and delivery language unknown.",
+    "status": "lead",
+    "origin": "round-10 sol-01-oba actual public research",
+    "sourceUrl": "https://oba.nl/nl/agenda/oba-avondmakers-oost-a60bd967-3886-4ca3-993c-0dedc74aee8c",
+    "research": {
+      "summary": "Standalone evening maker gatherings explicitly welcome solo visitors and knowledge exchange. Work on your own creative project and bring materials/tools.",
+      "nextStep": "Verify current dated public sessions and ordinary per-person prices.",
+      "sourceUrls": [
+        "https://oba.nl/nl/agenda/oba-avondmakers-west-3f4bcefb-f165-4407-bdf8-c89783a15001"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-sol-01-oba-zinnenzetten-provider",
+    "name": "Zinnen Zetten one-off pop-up writing workshops",
+    "category": "Writing and conversation",
+    "description": "Creative writing and shared exploration of personal voice; distinguish one-off workshops from multi-week trajectories.",
+    "notes": "Official OBA Javaplein page explicitly describes 1 Nov as one-off and beginner friendly. Other organizer programmes may have age/local-connection restrictions. Fee and language unknown.",
+    "status": "lead",
+    "origin": "round-10 sol-01-oba actual public research",
+    "sourceUrl": "https://zinnenzetten.com/",
+    "research": {
+      "summary": "Creative writing and shared exploration of personal voice; distinguish one-off workshops from multi-week trajectories.",
+      "nextStep": "Verify current dated public sessions and ordinary per-person prices.",
+      "sourceUrls": [
+        "https://zinnenzetten.com/"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-sol-01-oba-staats-workshops-provider",
+    "name": "OBA Staatsliedenbuurt · Baukje drawing and Annemieke bookbinding",
+    "category": "Creative workshops",
+    "description": "Branch page publicly lists 5 Nov model drawing 19:00–20:30, 7 Nov raffia bookbinding 12:00–13:30 and 19 Nov ink/bister drawing 19:00–20:30.",
+    "notes": "Held as provider lead because detailed single-ticket terms/price were not reviewed before hard stop. Capture location-staats.json; links are in that evidence file.",
+    "status": "lead",
+    "origin": "round-10 sol-01-oba actual public research",
+    "sourceUrl": "https://oba.nl/nl/locaties/oba-staatsliedenbuurt",
+    "research": {
+      "summary": "Branch page publicly lists 5 Nov model drawing 19:00–20:30, 7 Nov raffia bookbinding 12:00–13:30 and 19 Nov ink/bister drawing 19:00–20:30.",
+      "nextStep": "Verify current dated public sessions and ordinary per-person prices.",
+      "sourceUrls": [
+        "https://oba.nl/nl/locaties/oba-staatsliedenbuurt"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-sol-02-neighbourhood-civic-ballroom",
+    "name": "Civic / Waterlandplein · solo-friendly ballroom",
+    "category": "Dance & community",
+    "description": "Monday evening ballroom lesson 19:30–20:30; partner not required. Published €2 per lesson / €4 both lessons.",
+    "notes": "Official page supplies weekly format only; no in-window date inferred. Exact date, meaning of both lessons, newcomer access and spoken language still need confirmation. Actual venue Waterlandplein; Flevopoort address in footer is organization contact, not this event venue.",
+    "status": "lead",
+    "origin": "round-10 sol-02-neighbourhood actual public research",
+    "sourceUrl": "https://civicamsterdam.nl/activiteiten/ballroom-dansen-bij-wijkservicepunt-flevopoort/",
+    "research": {
+      "summary": "Monday evening ballroom lesson 19:30–20:30; partner not required. Published €2 per lesson / €4 both lessons.",
+      "nextStep": "Verify current dated public sessions and ordinary per-person prices.",
+      "sourceUrls": [
+        "https://civicamsterdam.nl/activiteiten/ballroom-dansen-bij-wijkservicepunt-flevopoort/"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-sol-02-neighbourhood-civic-relax",
+    "name": "Civic / Yoga met Iona · Flevopoort Relaxles",
+    "category": "Movement & wellbeing",
+    "description": "Simple breathing, movement and meditation class for ages 15+, €3.50 ordinary class / €1 Stadspas, 19:30–20:30 at Kramatplantsoen 101h.",
+    "notes": "Detail says monthly Friday; agenda initially shows Wednesday. Follow teacher link yogametiona.nl/relaxles-oost for dated verification. No dates expanded.",
+    "status": "lead",
+    "origin": "round-10 sol-02-neighbourhood actual public research",
+    "sourceUrl": "https://civicamsterdam.nl/activiteiten/relaxlessen-in-de-flevopoort/",
+    "research": {
+      "summary": "Simple breathing, movement and meditation class for ages 15+, €3.50 ordinary class / €1 Stadspas, 19:30–20:30 at Kramatplantsoen 101h.",
+      "nextStep": "Verify current dated public sessions and ordinary per-person prices.",
+      "sourceUrls": [
+        "https://civicamsterdam.nl/activiteiten/relaxlessen-in-de-flevopoort/"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-sol-02-neighbourhood-podium-genieten",
+    "name": "Podium Genieten · neighbourhood creative/social programme",
+    "category": "Community & creative",
+    "description": "Dynamo/Civic venue with exact-dated live-music dance, jam sessions, story circles and printmaking; these formats offer strong shared participation.",
+    "notes": "Open individual listings. Some meals start too early on weekdays; several duplicate dance listings represent the same occurrence.",
+    "status": "lead",
+    "origin": "round-10 sol-02-neighbourhood actual public research",
+    "sourceUrl": "https://oost-online.nl/locatie/podium-genieten/",
+    "research": {
+      "summary": "Dynamo/Civic venue with exact-dated live-music dance, jam sessions, story circles and printmaking; these formats offer strong shared participation.",
+      "nextStep": "Verify current dated public sessions and ordinary per-person prices.",
+      "sourceUrls": [
+        "https://oost-online.nl/locatie/podium-genieten/"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-sol-02-neighbourhood-brinkhuis",
+    "name": "Het Brinkhuis · community games afternoons",
+    "category": "Games & community",
+    "description": "Brinks games afternoon has explicit current dates and broad age access in Betondorp.",
+    "notes": "Check price, current booking terms and actual occurrence rather than expanding the monthly timetable.",
+    "status": "lead",
+    "origin": "round-10 sol-02-neighbourhood actual public research",
+    "sourceUrl": "https://hetbrinkhuis.nl/agenda/tabel/spelletjes",
+    "research": {
+      "summary": "Brinks games afternoon has explicit current dates and broad age access in Betondorp.",
+      "nextStep": "Verify current dated public sessions and ordinary per-person prices.",
+      "sourceUrls": [
+        "https://hetbrinkhuis.nl/agenda/tabel/spelletjes"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-sol-02-neighbourhood-esther-games",
+    "name": "Civic / Waterlandplein · games with Esther",
+    "category": "Games & community",
+    "description": "Community games session17:00–21:00, third Saturday monthly; explicitly free and no signup required.",
+    "notes": "No current full dated occurrence observed. Do not infer November21 from third-Saturday timetable. Venue in Noord, farther than Centrum/Oost.",
+    "status": "lead",
+    "origin": "round-10 sol-02-neighbourhood actual public research",
+    "sourceUrl": "https://civicamsterdam.nl/activiteiten/spelletjesmiddag-met-esther-iedere-3e-zaterdag/",
+    "research": {
+      "summary": "Community games session17:00–21:00, third Saturday monthly; explicitly free and no signup required.",
+      "nextStep": "Verify current dated public sessions and ordinary per-person prices.",
+      "sourceUrls": [
+        "https://civicamsterdam.nl/activiteiten/spelletjesmiddag-met-esther-iedere-3e-zaterdag/"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-sol-03-walking-sandemans",
+    "name": "SANDEMANs · Amsterdam public English tour",
+    "category": "Walking & local history",
+    "description": "Tip-based, English explicitly offered, National Monument meeting point; solo travelers welcome. Exact dated departures not extracted.",
+    "notes": "Use visible See more dates calendar; retain only selected exact departure.",
+    "status": "lead",
+    "origin": "round-10 sol-03-walking actual public research",
+    "sourceUrl": "https://www.neweuropetours.eu/sandemans-tours/amsterdam/free-tour-of-amsterdam/",
+    "research": {
+      "summary": "Tip-based, English explicitly offered, National Monument meeting point; solo travelers welcome. Exact dated departures not extracted.",
+      "nextStep": "Use visible See more dates calendar; retain only selected exact departure.",
+      "sourceUrls": [
+        "https://www.neweuropetours.eu/sandemans-tours/amsterdam/free-tour-of-amsterdam/"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-sol-03-walking-dominika",
+    "name": "Dominika · Along the medieval city walls",
+    "category": "Walking & local history",
+    "description": "English explicitly listed; 90-minute tour along Kloveniersburgwal near Waterlooplein, starting Centraal Station. No exact occurrence observed.",
+    "notes": "Inspect public Check availability date picker without entering guest details.",
+    "status": "lead",
+    "origin": "round-10 sol-03-walking actual public research",
+    "sourceUrl": "https://www.guruwalk.com/walks/58739-along-the-medieval-city-walls",
+    "research": {
+      "summary": "English explicitly listed; 90-minute tour along Kloveniersburgwal near Waterlooplein, starting Centraal Station. No exact occurrence observed.",
+      "nextStep": "Inspect public Check availability date picker without entering guest details.",
+      "sourceUrls": [
+        "https://www.guruwalk.com/walks/58739-along-the-medieval-city-walls"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-sol-03-walking-friendly-tours",
+    "name": "Friendly Tours Amsterdam · Red Light District Uncovered",
+    "category": "Walking & local history",
+    "description": "English offered; tip-based; 90 minutes; Barbizon hotel entrance meeting point; minimum five participants. Exact dated occurrence unverified.",
+    "notes": "Select exact date and English departure; verify minimum group and meeting point.",
+    "status": "lead",
+    "origin": "round-10 sol-03-walking actual public research",
+    "sourceUrl": "https://www.guruwalk.com/walks/48487-amsterdam-s-red-light-district-uncovered-the-untold-story",
+    "research": {
+      "summary": "English offered; tip-based; 90 minutes; Barbizon hotel entrance meeting point; minimum five participants. Exact dated occurrence unverified.",
+      "nextStep": "Select exact date and English departure; verify minimum group and meeting point.",
+      "sourceUrls": [
+        "https://www.guruwalk.com/walks/48487-amsterdam-s-red-light-district-uncovered-the-untold-story"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-sol-03-walking-museum-het-schip",
+    "name": "Museum Het Schip / De Dageraad · public themed walks",
+    "category": "Walking & local history",
+    "description": "Five exact weekend walks found. Architecture activities require activity and museum entrance tickets; total unresolved. Useful future source.",
+    "notes": "Read dated cards, then public ticket products; do not treat supplement as total.",
+    "status": "lead",
+    "origin": "round-10 sol-03-walking actual public research",
+    "sourceUrl": "https://www.hetschip.nl/tickets/categorie/87-wandelingen",
+    "research": {
+      "summary": "Five exact weekend walks found. Architecture activities require activity and museum entrance tickets; total unresolved. Useful future source.",
+      "nextStep": "Read dated cards, then public ticket products; do not treat supplement as total.",
+      "sourceUrls": [
+        "https://www.hetschip.nl/tickets/categorie/87-wandelingen"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-sol-03-walking-getevents",
+    "name": "GET Events · Van Twee Walletjes solo joining tour",
+    "category": "Walking & local history",
+    "description": "Dutch explicitly stated; body allows solo registration. Central start and café stop. Four dates retained from attributed secondary calendar.",
+    "notes": "Resolve generic header minimum-four wording and confirm exact occurrence with a public calendar.",
+    "status": "lead",
+    "origin": "round-10 sol-03-walking actual public research",
+    "sourceUrl": "https://getevents.nl/uitje/inschrijftour-amsterdam/",
+    "research": {
+      "summary": "Dutch explicitly stated; body allows solo registration. Central start and café stop. Four dates retained from attributed secondary calendar.",
+      "nextStep": "Resolve generic header minimum-four wording and confirm exact occurrence with a public calendar.",
+      "sourceUrls": [
+        "https://getevents.nl/uitje/inschrijftour-amsterdam/"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-sol-04-games-provider-lorcana",
+    "name": "Friends & Foes / Lorcana organized play",
+    "category": "Social games",
+    "description": "Card-game community at 2 Klaveren; all skill levels welcomed on Lorcana homepage.",
+    "notes": "Thursday19:00 gameplay,18:30 registration; De Clercqstraat136. Generic schedule only. Upcoming special events17Oct2026 and23Jan2027 outside window. Price, borrowing decks and spoken language unknown.",
+    "status": "lead",
+    "origin": "round-10 sol-04-games actual public research",
+    "sourceUrl": "https://www.lorcana-amsterdam.nl/organized-play",
+    "research": {
+      "summary": "Card-game community at 2 Klaveren; all skill levels welcomed on Lorcana homepage.",
+      "nextStep": "Verify current dated public sessions and ordinary per-person prices.",
+      "sourceUrls": [
+        "https://www.lorcana-amsterdam.nl/organized-play"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-sol-04-games-provider-barblitz",
+    "name": "Bar Blitz café chess",
+    "category": "Social games",
+    "description": "Strong solo-entry source with exact dated café chess and public calendar links encoding full year.",
+    "notes": "Public detail then venue link/calendar href. Stop at Log in to register. Near Waterlooplein Café Katoen28Oct; Screaming Beans13Dec lies outside window. Prices mostly hidden or absent.",
+    "status": "lead",
+    "origin": "round-10 sol-04-games actual public research",
+    "sourceUrl": "https://www.barblitz.co/",
+    "research": {
+      "summary": "Strong solo-entry source with exact dated café chess and public calendar links encoding full year.",
+      "nextStep": "Verify current dated public sessions and ordinary per-person prices.",
+      "sourceUrls": [
+        "https://www.barblitz.co/"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-sol-04-games-provider-quizitive",
+    "name": "Quizitive solo quiz tickets",
+    "category": "Social games",
+    "description": "English House of Watt quiz explicitly matches individual ticket holders into teams.",
+    "notes": "Open visible dated cards. Regular solo€7 inclVAT, team€20up to5.28Oct team tier sold out while solo tier remained displayed; inventory unchecked.",
+    "status": "lead",
+    "origin": "round-10 sol-04-games actual public research",
+    "sourceUrl": "https://www.quizitive.nl/",
+    "research": {
+      "summary": "English House of Watt quiz explicitly matches individual ticket holders into teams.",
+      "nextStep": "Verify current dated public sessions and ordinary per-person prices.",
+      "sourceUrls": [
+        "https://www.quizitive.nl/"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-sol-04-games-provider-quizchris",
+    "name": "QuizChris solo-friendly English quizzes",
+    "category": "Social games",
+    "description": "Free English EDN quiz with explicit solo/small-team merging.",
+    "notes": "Public organizer form supplies25Nov2026,date/time,address,free entry and confirmation policy. Read title carefully: separate28Oct SideQuest form now WAITLIST ONLY.",
+    "status": "lead",
+    "origin": "round-10 sol-04-games actual public research",
+    "sourceUrl": "https://docs.google.com/forms/d/e/1FAIpQLSecg8ymY6LtObXfRmeWvRSDI-OkbQMBapVG1XxcUBjferttFg/viewform",
+    "research": {
+      "summary": "Free English EDN quiz with explicit solo/small-team merging.",
+      "nextStep": "Verify current dated public sessions and ordinary per-person prices.",
+      "sourceUrls": [
+        "https://docs.google.com/forms/d/e/1FAIpQLSecg8ymY6LtObXfRmeWvRSDI-OkbQMBapVG1XxcUBjferttFg/viewform"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-sol-04-games-provider-braincandy",
+    "name": "Brain Candy lucky-spin pub quiz",
+    "category": "Social games",
+    "description": "English trivia with a dedicated table for solos/pairs,€7.50 per person.",
+    "notes": "27Oct event sold out on live public page despite cached ticket choices. Future exact edition needs a new public listing; no recurrence inferred.",
+    "status": "lead",
+    "origin": "round-10 sol-04-games actual public research",
+    "sourceUrl": "https://fienta.com/brain-candy-oct-2026",
+    "research": {
+      "summary": "English trivia with a dedicated table for solos/pairs,€7.50 per person.",
+      "nextStep": "Verify current dated public sessions and ordinary per-person prices.",
+      "sourceUrls": [
+        "https://fienta.com/brain-candy-oct-2026"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-sol-04-games-provider-twoklaveren",
+    "name": "Spelletjescafé 2 Klaveren",
+    "category": "Social games",
+    "description": "Established café for chess,bridge,backgammon,Magic and other games.",
+    "notes": "No exact eligible dated agenda found. Organized Lorcana route gives location; solo matching, ordinary play fee and minimum spend unverified.",
+    "status": "lead",
+    "origin": "round-10 sol-04-games actual public research",
+    "sourceUrl": "https://www.2klaveren.nl/",
+    "research": {
+      "summary": "Established café for chess,bridge,backgammon,Magic and other games.",
+      "nextStep": "Verify current dated public sessions and ordinary per-person prices.",
+      "sourceUrls": [
+        "https://www.2klaveren.nl/"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-sol-04-games-provider-geinig",
+    "name": "Bordspellenclub Geinig",
+    "category": "Social games",
+    "description": "Amsterdam Zuidoost casual board games; organizer says no obligations and welcomes beginners.",
+    "notes": "Dates/location organized through an app group after initial email. No public dated agenda or ordinary price. Research stopped without contacting or joining.",
+    "status": "lead",
+    "origin": "round-10 sol-04-games actual public research",
+    "sourceUrl": "https://www.bordspellenclubgeinig.nl/",
+    "research": {
+      "summary": "Amsterdam Zuidoost casual board games; organizer says no obligations and welcomes beginners.",
+      "nextStep": "Verify current dated public sessions and ordinary per-person prices.",
+      "sourceUrls": [
+        "https://www.bordspellenclubgeinig.nl/"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-sol-08-volunteer-kaskantine-dropin-mending",
+    "name": "Kaskantine Clothes Swap & Repair Sunday · drop-in volunteer making table",
+    "category": "Repair & community making",
+    "description": "Mend clothes, support sewing machines, work on personal projects and help others. Organizer explicitly welcomes drop-in volunteers without commitment.",
+    "notes": "Programme /program.html embeds a public Tockify calendar; verify an actual November date, start, location and price.",
+    "status": "lead",
+    "origin": "round-10 sol-08-volunteer actual public research",
+    "sourceUrl": "https://www.kaskantine.nl/volunteering.html",
+    "research": {
+      "summary": "Mend clothes, support sewing machines, work on personal projects and help others. Organizer explicitly welcomes drop-in volunteers without commitment.",
+      "nextStep": "Programme /program.html embeds a public Tockify calendar; verify an actual November date, start, location and price.",
+      "sourceUrls": [
+        "https://www.kaskantine.nl/volunteering.html"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round10-sol-08-volunteer-natuurwerkdag-provider",
+    "name": "Nationale Natuurwerkdagen · individual garden and wildlife-habitat tasks",
+    "category": "Community gardening & volunteering",
+    "description": "New provider route for one-day, supervised practical nature work. Individual public signup and no experience requirement established by organizer FAQ. One qualifying Amsteldijk occurrence saved.",
+    "notes": "Use Vind een klus, Amsterdam, Saturday 7 November. Check date/body agreement, meeting point, current full labels and whether English is explicitly supported.",
+    "status": "lead",
+    "origin": "round-10 sol-08-volunteer actual public research",
+    "sourceUrl": "https://www.natuurwerkdag.nl/",
+    "research": {
+      "summary": "New provider route for one-day, supervised practical nature work. Individual public signup and no experience requirement established by organizer FAQ. One qualifying Amsteldijk occurrence saved.",
+      "nextStep": "Use Vind een klus, Amsterdam, Saturday 7 November. Check date/body agreement, meeting point, current full labels and whether English is explicitly supported.",
+      "sourceUrls": [
+        "https://www.natuurwerkdag.nl/"
+      ],
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "round11-luna-03-dance-afrodrip-camp",
+    "name": "AfroDrip African Diaspora Dance Camp",
+    "category": "Dance",
+    "description": "Three-day African and diaspora dance camp at CanDance Studios, with workshops, cultural education, parties, shows, battles and jams; beginner and solo attendance are explicitly welcome.",
+    "notes": "Organizer lists 20–22 November 2026 at Isolatorweg 28, but no individual session schedule or readable ticket price was available. Avoid treating the full multi-day camp as a single dated event until pass terms and exact session times are confirmed.",
+    "sourceUrl": "https://www.afro-drip.com/",
+    "sourceUrls": [
+      "https://www.afro-drip.com/",
+      "https://www.afro-drip.com/tickets"
+    ],
+    "nextStep": "Recheck official programme and ticket guide for individually dated sessions, a one-visit price and any required pass.",
+    "status": "lead",
+    "origin": "round-11 actual public research",
+    "research": {
+      "summary": "Three-day African and diaspora dance camp at CanDance Studios, with workshops, cultural education, parties, shows, battles and jams; beginner and solo attendance are explicitly welcome.",
+      "nextStep": "Recheck official programme and ticket guide for individually dated sessions, a one-visit price and any required pass.",
+      "sourceUrls": [
+        "https://www.afro-drip.com/",
+        "https://www.afro-drip.com/tickets"
+      ],
+      "checkedAt": "2026-10-27"
+    }
+  }
+]

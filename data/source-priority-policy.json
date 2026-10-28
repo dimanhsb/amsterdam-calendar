@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "focus": [
+    {
+      "domain": "oba.nl",
+      "reason": "OBA Oosterdok and other branches are a user priority close to the centre.",
+      "entryUrls": [
+        "https://oba.nl/nl/agenda/volledige-agenda"
+      ]
+    },
+    {
+      "domain": "wijkconnect.com",
+      "reason": "Public agenda route for De Boomsspijker, a user priority.",
+      "entryUrls": [
+        "https://www.wijkconnect.com/amsterdam/organisaties/8345/huis-van-de-buurt-de-boomsspijker/agenda_items/slides"
+      ]
+    },
+    {
+      "domain": "huisvandebuurtdeboomsspijker.nl",
+      "reason": "Official De Boomsspijker venue agenda; previous month access was restricted.",
+      "entryUrls": [
+        "https://huisvandebuurtdeboomsspijker.nl/agenda/kalender"
+      ]
+    },
+    {
+      "domain": "meetup.com",
+      "reason": "The user explicitly requested Meetup and it has historically yielded many social events.",
+      "entryUrls": [
+        "https://www.meetup.com/find/nl--amsterdam/"
+      ]
+    },
+    {
+      "domain": "classpass.com",
+      "reason": "The user explicitly requested ClassPass; individual class dates and credit prices remain difficult to verify.",
+      "entryUrls": [
+        "https://classpass.com/search/amsterdam/fitness"
+      ]
+    },
+    {
+      "domain": "freewalkingtoursamsterdam.com",
+      "reason": "Walking tours are a stated preference; confirm language and tips or fees for each tour."
+    },
+    {
+      "domain": "balfolkamsterdam.nl",
+      "reason": "Balfolk is a stated movement and social-community interest."
+    },
+    {
+      "domain": "station-west.amsterdam",
+      "reason": "Central workshops with a tested public calendar collector.",
+      "entryUrls": [
+        "https://station-west.amsterdam/msc/"
+      ]
+    },
+    {
+      "domain": "dezwijger.nl",
+      "reason": "Central cultural venue with a tested public agenda-page collector.",
+      "entryUrls": [
+        "https://dezwijger.nl/agenda"
+      ]
+    },
+    {
+      "domain": "activiteiten.amsterdam.nl",
+      "reason": "Municipal source for community activities across Amsterdam.",
+      "entryUrls": [
+        "https://activiteiten.amsterdam.nl/"
+      ]
+    },
+    {
+      "domain": "hipsy.nl",
+      "reason": "Historically useful discovery platform for one-off social and movement events.",
+      "entryUrls": [
+        "https://hipsy.nl/"
+      ]
+    },
+    {
+      "domain": "eventbrite.nl",
+      "reason": "Historically useful for dated single-session events.",
+      "entryUrls": [
+        "https://www.eventbrite.nl/"
+      ]
+    },
+    {
+      "domain": "iamsterdam.com",
+      "reason": "City listings can expose dated sessions and organizer links.",
+      "entryUrls": [
+        "https://www.iamsterdam.com/en/whats-on"
+      ]
+    }
+  ],
+  "discovery": [
+    {
+      "id": "existing-leads",
+      "title": "Revisit saved leads first",
+      "steps": "Search the inventory, held notes, provider catalog and source guides. Deduplicate by organization and canonical page, and keep prior failures and uncertainties."
+    },
+    {
+      "id": "code-feasibility",
+      "title": "Probe public structured feeds",
+      "steps": "Look for permitted iCalendar, RSS, official API, JSON-LD, sitemaps or stable HTML. Check robots and access terms, cache raw evidence, record zero-match or errors, and build a focused adapter before using model tokens."
+    },
+    {
+      "id": "local-discovery",
+      "title": "Find Amsterdam providers and directories",
+      "steps": "Search neighborhood venues, libraries, municipal agendas, activity providers and directories using Dutch and English terms for drop-in, one-off, social dance, walks, workshops and community events, with Waterlooplein and Oosterdok as location clues."
+    },
+    {
+      "id": "organizer-followthrough",
+      "title": "Follow aggregators to organizers",
+      "steps": "Use Meetup, Hipsy, Eventbrite, ClassPass and city directories to find organizers. Prefer an accessible public organizer calendar or feed; record both links and avoid duplicating the same event."
+    },
+    {
+      "id": "luna-triage",
+      "title": "Use Luna for unresolved extraction",
+      "steps": "Once code cannot reliably extract the needed facts, give Luna one source guide, the smallest relevant cached excerpts or links, date range and output schema. Save successful and failed evidence, not just conclusions."
+    },
+    {
+      "id": "harder-cases",
+      "title": "Escalate only the unresolved problem",
+      "steps": "Use a stronger review for conflicting dates, costs or eligibility. A browser or previously authorized Android route can help with ordinary rendering gaps. Respect access gates and rate limits; model choice does not grant access."
+    }
+  ]
+}

@@ -1,0 +1,1564 @@
+{
+  "checkedAt": "2026-10-18",
+  "events": [
+    {
+      "id": "adc-pilates-open-level-2026-10-19",
+      "title": "Pilates Open level · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-10-19T09:00:00+02:00",
+      "end": "2026-10-19T10:00:00+02:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "60-minute Pilates Open level class with Elizabeth Steele; listed in the public weekly schedule. ADC describes levels such as open level and beginners on the timetable.",
+      "participation": "class",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared class; conversation may happen before/after. No structured introductions established. (Assessment.)",
+      "attendance": "Independent single class, €22.50 without membership. Open level (everyone). Advance signup helps ensure a place.",
+      "language": "Not stated; the public site and schedule offer Dutch and English text. Confirm teaching language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://amsterdamdancecentre.nl/adults/",
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en"
+      ],
+      "dateEvidence": "Exact date, start time, duration, title, teacher and studio listed in the public embedded schedule for 19–25 October 2026.",
+      "evidence": {
+        "schedule": "2026-10-19 09:00–10:00 (60 min), Pilates Open level, Elizabeth Steele, Centrum Studio 2; public ADC schedule widget.",
+        "single_visit": "ADC adult FAQ says a single class costs €22.50; no membership required, and advance signup is optional but ensures a spot."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; schedule showed an Aanmelden (sign-up) button.",
+        "Teaching language for this class is not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "ADC adult FAQ lists €22.50 per single class without requiring membership.",
+        "caption": "Single class"
+      },
+      "arrival": "First-time visitors: arrive around30minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-barre-fit-open-level-2026-10-19",
+      "title": "Barre Fit open level · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-10-19T10:00:00+02:00",
+      "end": "2026-10-19T11:00:00+02:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "60-minute Barre Fit open level class with Mariana Santacreu Hofland; listed in the public weekly schedule. ADC describes levels such as open level and beginners on the timetable.",
+      "participation": "class",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared class; conversation may happen before/after. No structured introductions established. (Assessment.)",
+      "attendance": "Independent single class, €22.50 without membership. Open level (everyone). Advance signup helps ensure a place.",
+      "language": "Not stated; the public site and schedule offer Dutch and English text. Confirm teaching language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://amsterdamdancecentre.nl/adults/",
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en"
+      ],
+      "dateEvidence": "Exact date, start time, duration, title, teacher and studio listed in the public embedded schedule for 19–25 October 2026.",
+      "evidence": {
+        "schedule": "2026-10-19 10:00–11:00 (60 min), Barre Fit open level, Mariana Santacreu Hofland, Centrum Studio 2; public ADC schedule widget.",
+        "single_visit": "ADC adult FAQ says a single class costs €22.50; no membership required, and advance signup is optional but ensures a spot."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; schedule showed an Aanmelden (sign-up) button.",
+        "Teaching language for this class is not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "ADC adult FAQ lists €22.50 per single class without requiring membership.",
+        "caption": "Single class"
+      },
+      "arrival": "First-time visitors: arrive around30minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-hiphop-beginners-2026-10-19",
+      "title": "HipHop beginners · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-10-19T17:30:00+02:00",
+      "end": "2026-10-19T19:00:00+02:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "90-minute HipHop beginners class with Denise van Gent, Reika Ozeki; listed in the public weekly schedule. ADC describes levels such as open level and beginners on the timetable.",
+      "participation": "class",
+      "formatLabel": "Single class · Beginners (some previous dance experience)",
+      "socialReason": "Shared class; conversation may happen before/after. No structured introductions established. (Assessment.)",
+      "attendance": "Independent single class, €22.50 without membership. Beginners (some previous dance experience). Advance signup helps ensure a place.",
+      "language": "Not stated; the public site and schedule offer Dutch and English text. Confirm teaching language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://amsterdamdancecentre.nl/adults/",
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en"
+      ],
+      "dateEvidence": "Exact date, start time, duration, title, teacher and studio listed in the public embedded schedule for 19–25 October 2026.",
+      "evidence": {
+        "schedule": "2026-10-19 17:30–19:00 (90 min), HipHop beginners, Denise van Gent, Reika Ozeki, Centrum Studio 4; public ADC schedule widget.",
+        "single_visit": "ADC adult FAQ says a single class costs €22.50; no membership required, and advance signup is optional but ensures a spot."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; schedule showed an Aanmelden (sign-up) button.",
+        "Teaching language for this class is not stated.",
+        "ADC Beginners means some previous dance experience; Basic is its absolute-novice level. Check style-specific suitability."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "ADC adult FAQ lists €22.50 per single class without requiring membership.",
+        "caption": "Single class"
+      },
+      "arrival": "First-time visitors: arrive around30minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-barre-fit-open-level-2026-10-19-1800",
+      "title": "Barre Fit open level · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-10-19T18:00:00+02:00",
+      "end": "2026-10-19T19:00:00+02:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "60-minute Barre Fit open level class with Mariana Santacreu Hofland; listed in the public weekly schedule. ADC describes levels such as open level and beginners on the timetable.",
+      "participation": "class",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared class; conversation may happen before/after. No structured introductions established. (Assessment.)",
+      "attendance": "Independent single class, €22.50 without membership. Open level (everyone). Advance signup helps ensure a place.",
+      "language": "Not stated; the public site and schedule offer Dutch and English text. Confirm teaching language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://amsterdamdancecentre.nl/adults/",
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en"
+      ],
+      "dateEvidence": "Exact date, start time, duration, title, teacher and studio listed in the public embedded schedule for 19–25 October 2026.",
+      "evidence": {
+        "schedule": "2026-10-19 18:00–19:00 (60 min), Barre Fit open level, Mariana Santacreu Hofland, Centrum Studio 2; public ADC schedule widget.",
+        "single_visit": "ADC adult FAQ says a single class costs €22.50; no membership required, and advance signup is optional but ensures a spot."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; schedule showed an Aanmelden (sign-up) button.",
+        "Teaching language for this class is not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "ADC adult FAQ lists €22.50 per single class without requiring membership.",
+        "caption": "Single class"
+      },
+      "arrival": "First-time visitors: arrive around30minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-pilates-open-level-2026-10-20",
+      "title": "Pilates Open level · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-10-20T09:00:00+02:00",
+      "end": "2026-10-20T10:00:00+02:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "60-minute Pilates Open level class with Reut Laks Reiter; listed in the public weekly schedule. ADC describes levels such as open level and beginners on the timetable.",
+      "participation": "class",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared class; conversation may happen before/after. No structured introductions established. (Assessment.)",
+      "attendance": "Independent single class, €22.50 without membership. Open level (everyone). Advance signup helps ensure a place.",
+      "language": "Not stated; the public site and schedule offer Dutch and English text. Confirm teaching language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://amsterdamdancecentre.nl/adults/",
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en"
+      ],
+      "dateEvidence": "Exact date, start time, duration, title, teacher and studio listed in the public embedded schedule for 19–25 October 2026.",
+      "evidence": {
+        "schedule": "2026-10-20 09:00–10:00 (60 min), Pilates Open level, Reut Laks Reiter, Centrum Studio 3; public ADC schedule widget.",
+        "single_visit": "ADC adult FAQ says a single class costs €22.50; no membership required, and advance signup is optional but ensures a spot."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; schedule showed an Aanmelden (sign-up) button.",
+        "Teaching language for this class is not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "ADC adult FAQ lists €22.50 per single class without requiring membership.",
+        "caption": "Single class"
+      },
+      "arrival": "First-time visitors: arrive around30minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-stretching-open-level-2026-10-20",
+      "title": "Stretching Open level · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-10-20T10:00:00+02:00",
+      "end": "2026-10-20T11:00:00+02:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "60-minute Stretching Open level class with Reut Laks Reiter; listed in the public weekly schedule. ADC describes levels such as open level and beginners on the timetable.",
+      "participation": "class",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared class; conversation may happen before/after. No structured introductions established. (Assessment.)",
+      "attendance": "Independent single class, €22.50 without membership. Open level (everyone). Advance signup helps ensure a place.",
+      "language": "Not stated; the public site and schedule offer Dutch and English text. Confirm teaching language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://amsterdamdancecentre.nl/adults/",
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en"
+      ],
+      "dateEvidence": "Exact date, start time, duration, title, teacher and studio listed in the public embedded schedule for 19–25 October 2026.",
+      "evidence": {
+        "schedule": "2026-10-20 10:00–11:00 (60 min), Stretching Open level, Reut Laks Reiter, Centrum Studio 3; public ADC schedule widget.",
+        "single_visit": "ADC adult FAQ says a single class costs €22.50; no membership required, and advance signup is optional but ensures a spot."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; schedule showed an Aanmelden (sign-up) button.",
+        "Teaching language for this class is not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "ADC adult FAQ lists €22.50 per single class without requiring membership.",
+        "caption": "Single class"
+      },
+      "arrival": "First-time visitors: arrive around30minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-salsa-solo-open-level-2026-10-20",
+      "title": "Salsa Solo open level · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-10-20T19:00:00+02:00",
+      "end": "2026-10-20T20:30:00+02:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "90-minute Salsa Solo open level class with Sofia Ferreira; listed in the public weekly schedule. ADC describes levels such as open level and beginners on the timetable.",
+      "participation": "class",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared class; conversation may happen before/after. No structured introductions established. (Assessment.)",
+      "attendance": "Independent single class, €22.50 without membership. Open level (everyone). Advance signup helps ensure a place.",
+      "language": "Not stated; the public site and schedule offer Dutch and English text. Confirm teaching language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://amsterdamdancecentre.nl/adults/",
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en"
+      ],
+      "dateEvidence": "Exact date, start time, duration, title, teacher and studio listed in the public embedded schedule for 19–25 October 2026.",
+      "evidence": {
+        "schedule": "2026-10-20 19:00–20:30 (90 min), Salsa Solo open level, Sofia Ferreira, Centrum Studio 3; public ADC schedule widget.",
+        "single_visit": "ADC adult FAQ says a single class costs €22.50; no membership required, and advance signup is optional but ensures a spot."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; schedule showed an Aanmelden (sign-up) button.",
+        "Teaching language for this class is not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "ADC adult FAQ lists €22.50 per single class without requiring membership.",
+        "caption": "Single class"
+      },
+      "arrival": "First-time visitors: arrive around30minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-pilates-open-level-2026-10-21",
+      "title": "Pilates Open level · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-10-21T09:00:00+02:00",
+      "end": "2026-10-21T10:00:00+02:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "60-minute Pilates Open level class with Eline van Dijk, Matthijs Janssen; listed in the public weekly schedule. ADC describes levels such as open level and beginners on the timetable.",
+      "participation": "class",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared class; conversation may happen before/after. No structured introductions established. (Assessment.)",
+      "attendance": "Independent single class, €22.50 without membership. Open level (everyone). Advance signup helps ensure a place.",
+      "language": "Not stated; the public site and schedule offer Dutch and English text. Confirm teaching language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://amsterdamdancecentre.nl/adults/",
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en"
+      ],
+      "dateEvidence": "Exact date, start time, duration, title, teacher and studio listed in the public embedded schedule for 19–25 October 2026.",
+      "evidence": {
+        "schedule": "2026-10-21 09:00–10:00 (60 min), Pilates Open level, Eline van Dijk, Matthijs Janssen, Centrum Studio 2; public ADC schedule widget.",
+        "single_visit": "ADC adult FAQ says a single class costs €22.50; no membership required, and advance signup is optional but ensures a spot."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; schedule showed an Aanmelden (sign-up) button.",
+        "Teaching language for this class is not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "ADC adult FAQ lists €22.50 per single class without requiring membership.",
+        "caption": "Single class"
+      },
+      "arrival": "First-time visitors: arrive around30minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-stretching-open-level-2026-10-21",
+      "title": "Stretching Open level · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-10-21T10:00:00+02:00",
+      "end": "2026-10-21T11:00:00+02:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "60-minute Stretching Open level class with Eline van Dijk, Matthijs Janssen; listed in the public weekly schedule. ADC describes levels such as open level and beginners on the timetable.",
+      "participation": "class",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared class; conversation may happen before/after. No structured introductions established. (Assessment.)",
+      "attendance": "Independent single class, €22.50 without membership. Open level (everyone). Advance signup helps ensure a place.",
+      "language": "Not stated; the public site and schedule offer Dutch and English text. Confirm teaching language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://amsterdamdancecentre.nl/adults/",
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en"
+      ],
+      "dateEvidence": "Exact date, start time, duration, title, teacher and studio listed in the public embedded schedule for 19–25 October 2026.",
+      "evidence": {
+        "schedule": "2026-10-21 10:00–11:00 (60 min), Stretching Open level, Eline van Dijk, Matthijs Janssen, Centrum Studio 2; public ADC schedule widget.",
+        "single_visit": "ADC adult FAQ says a single class costs €22.50; no membership required, and advance signup is optional but ensures a spot."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; schedule showed an Aanmelden (sign-up) button.",
+        "Teaching language for this class is not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "ADC adult FAQ lists €22.50 per single class without requiring membership.",
+        "caption": "Single class"
+      },
+      "arrival": "First-time visitors: arrive around30minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-barre-fit-open-level-2026-10-21",
+      "title": "Barre Fit open level · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-10-21T18:15:00+02:00",
+      "end": "2026-10-21T19:15:00+02:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "60-minute Barre Fit open level class with Mariana Santacreu Hofland; listed in the public weekly schedule. ADC describes levels such as open level and beginners on the timetable.",
+      "participation": "class",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared class; conversation may happen before/after. No structured introductions established. (Assessment.)",
+      "attendance": "Independent single class, €22.50 without membership. Open level (everyone). Advance signup helps ensure a place.",
+      "language": "Not stated; the public site and schedule offer Dutch and English text. Confirm teaching language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://amsterdamdancecentre.nl/adults/",
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en"
+      ],
+      "dateEvidence": "Exact date, start time, duration, title, teacher and studio listed in the public embedded schedule for 19–25 October 2026.",
+      "evidence": {
+        "schedule": "2026-10-21 18:15–19:15 (60 min), Barre Fit open level, Mariana Santacreu Hofland, Centrum Studio 2; public ADC schedule widget.",
+        "single_visit": "ADC adult FAQ says a single class costs €22.50; no membership required, and advance signup is optional but ensures a spot."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; schedule showed an Aanmelden (sign-up) button.",
+        "Teaching language for this class is not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "ADC adult FAQ lists €22.50 per single class without requiring membership.",
+        "caption": "Single class"
+      },
+      "arrival": "First-time visitors: arrive around30minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-barre---all-levels-2026-10-22",
+      "title": "Barre - all levels · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-10-22T09:00:00+02:00",
+      "end": "2026-10-22T10:00:00+02:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "60-minute Barre - all levels class with Matthijs Janssen; listed in the public weekly schedule. ADC describes levels such as open level and beginners on the timetable.",
+      "participation": "class",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared class; conversation may happen before/after. No structured introductions established. (Assessment.)",
+      "attendance": "Independent single class, €22.50 without membership. Open level (everyone). Advance signup helps ensure a place.",
+      "language": "Not stated; the public site and schedule offer Dutch and English text. Confirm teaching language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://amsterdamdancecentre.nl/adults/",
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en"
+      ],
+      "dateEvidence": "Exact date, start time, duration, title, teacher and studio listed in the public embedded schedule for 19–25 October 2026.",
+      "evidence": {
+        "schedule": "2026-10-22 09:00–10:00 (60 min), Barre - all levels, Matthijs Janssen, Centrum Studio 2; public ADC schedule widget.",
+        "single_visit": "ADC adult FAQ says a single class costs €22.50; no membership required, and advance signup is optional but ensures a spot."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; schedule showed an Aanmelden (sign-up) button.",
+        "Teaching language for this class is not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "ADC adult FAQ lists €22.50 per single class without requiring membership.",
+        "caption": "Single class"
+      },
+      "arrival": "First-time visitors: arrive around30minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-flexibility-flow---all-levels-2026-10-22",
+      "title": "Flexibility Flow - all levels · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-10-22T10:00:00+02:00",
+      "end": "2026-10-22T11:00:00+02:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "60-minute Flexibility Flow - all levels class with Matthijs Janssen; listed in the public weekly schedule. ADC describes levels such as open level and beginners on the timetable.",
+      "participation": "class",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared class; conversation may happen before/after. No structured introductions established. (Assessment.)",
+      "attendance": "Independent single class, €22.50 without membership. Open level (everyone). Advance signup helps ensure a place.",
+      "language": "Not stated; the public site and schedule offer Dutch and English text. Confirm teaching language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://amsterdamdancecentre.nl/adults/",
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en"
+      ],
+      "dateEvidence": "Exact date, start time, duration, title, teacher and studio listed in the public embedded schedule for 19–25 October 2026.",
+      "evidence": {
+        "schedule": "2026-10-22 10:00–11:00 (60 min), Flexibility Flow - all levels, Matthijs Janssen, Centrum Studio 2; public ADC schedule widget.",
+        "single_visit": "ADC adult FAQ says a single class costs €22.50; no membership required, and advance signup is optional but ensures a spot."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; schedule showed an Aanmelden (sign-up) button.",
+        "Teaching language for this class is not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "ADC adult FAQ lists €22.50 per single class without requiring membership.",
+        "caption": "Single class"
+      },
+      "arrival": "First-time visitors: arrive around30minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-house-beginners-2026-10-22",
+      "title": "House beginners · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-10-22T20:30:00+02:00",
+      "end": "2026-10-22T22:00:00+02:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "90-minute House beginners class with Ezra van Slooten; listed in the public weekly schedule. ADC describes levels such as open level and beginners on the timetable.",
+      "participation": "class",
+      "formatLabel": "Single class · Beginners (some previous dance experience)",
+      "socialReason": "Shared class; conversation may happen before/after. No structured introductions established. (Assessment.)",
+      "attendance": "Independent single class, €22.50 without membership. Beginners (some previous dance experience). Advance signup helps ensure a place.",
+      "language": "Not stated; the public site and schedule offer Dutch and English text. Confirm teaching language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://amsterdamdancecentre.nl/adults/",
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en"
+      ],
+      "dateEvidence": "Exact date, start time, duration, title, teacher and studio listed in the public embedded schedule for 19–25 October 2026.",
+      "evidence": {
+        "schedule": "2026-10-22 20:30–22:00 (90 min), House beginners, Ezra van Slooten, Centrum Studio 2; public ADC schedule widget.",
+        "single_visit": "ADC adult FAQ says a single class costs €22.50; no membership required, and advance signup is optional but ensures a spot."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; schedule showed an Aanmelden (sign-up) button.",
+        "Teaching language for this class is not stated.",
+        "ADC Beginners means some previous dance experience; Basic is its absolute-novice level. Check style-specific suitability."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "ADC adult FAQ lists €22.50 per single class without requiring membership.",
+        "caption": "Single class"
+      },
+      "arrival": "First-time visitors: arrive around30minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-pilates-open-level-2026-10-23",
+      "title": "Pilates Open level · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-10-23T09:00:00+02:00",
+      "end": "2026-10-23T10:00:00+02:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "60-minute Pilates Open level class with Elizabeth Steele; listed in the public weekly schedule. ADC describes levels such as open level and beginners on the timetable.",
+      "participation": "class",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared class; conversation may happen before/after. No structured introductions established. (Assessment.)",
+      "attendance": "Independent single class, €22.50 without membership. Open level (everyone). Advance signup helps ensure a place.",
+      "language": "Not stated; the public site and schedule offer Dutch and English text. Confirm teaching language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://amsterdamdancecentre.nl/adults/",
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en"
+      ],
+      "dateEvidence": "Exact date, start time, duration, title, teacher and studio listed in the public embedded schedule for 19–25 October 2026.",
+      "evidence": {
+        "schedule": "2026-10-23 09:00–10:00 (60 min), Pilates Open level, Elizabeth Steele, Centrum Studio 2; public ADC schedule widget.",
+        "single_visit": "ADC adult FAQ says a single class costs €22.50; no membership required, and advance signup is optional but ensures a spot."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; schedule showed an Aanmelden (sign-up) button.",
+        "Teaching language for this class is not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "ADC adult FAQ lists €22.50 per single class without requiring membership.",
+        "caption": "Single class"
+      },
+      "arrival": "First-time visitors: arrive around30minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-stretching-open-level-2026-10-23",
+      "title": "Stretching Open level · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-10-23T10:00:00+02:00",
+      "end": "2026-10-23T11:00:00+02:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "60-minute Stretching Open level class with Elizabeth Steele; listed in the public weekly schedule. ADC describes levels such as open level and beginners on the timetable.",
+      "participation": "class",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared class; conversation may happen before/after. No structured introductions established. (Assessment.)",
+      "attendance": "Independent single class, €22.50 without membership. Open level (everyone). Advance signup helps ensure a place.",
+      "language": "Not stated; the public site and schedule offer Dutch and English text. Confirm teaching language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://amsterdamdancecentre.nl/adults/",
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en"
+      ],
+      "dateEvidence": "Exact date, start time, duration, title, teacher and studio listed in the public embedded schedule for 19–25 October 2026.",
+      "evidence": {
+        "schedule": "2026-10-23 10:00–11:00 (60 min), Stretching Open level, Elizabeth Steele, Centrum Studio 2; public ADC schedule widget.",
+        "single_visit": "ADC adult FAQ says a single class costs €22.50; no membership required, and advance signup is optional but ensures a spot."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; schedule showed an Aanmelden (sign-up) button.",
+        "Teaching language for this class is not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "ADC adult FAQ lists €22.50 per single class without requiring membership.",
+        "caption": "Single class"
+      },
+      "arrival": "First-time visitors: arrive around30minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-salsa-solo-open-level-2026-10-23",
+      "title": "Salsa Solo open level · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-10-23T17:00:00+02:00",
+      "end": "2026-10-23T18:00:00+02:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "60-minute Salsa Solo open level class with Sofia Ferreira; listed in the public weekly schedule. ADC describes levels such as open level and beginners on the timetable.",
+      "participation": "class",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared class; conversation may happen before/after. No structured introductions established. (Assessment.)",
+      "attendance": "Independent single class, €22.50 without membership. Open level (everyone). Advance signup helps ensure a place.",
+      "language": "Not stated; the public site and schedule offer Dutch and English text. Confirm teaching language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://amsterdamdancecentre.nl/adults/",
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en"
+      ],
+      "dateEvidence": "Exact date, start time, duration, title, teacher and studio listed in the public embedded schedule for 19–25 October 2026.",
+      "evidence": {
+        "schedule": "2026-10-23 17:00–18:00 (60 min), Salsa Solo open level, Sofia Ferreira, Centrum Studio 3; public ADC schedule widget.",
+        "single_visit": "ADC adult FAQ says a single class costs €22.50; no membership required, and advance signup is optional but ensures a spot."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; schedule showed an Aanmelden (sign-up) button.",
+        "Teaching language for this class is not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "ADC adult FAQ lists €22.50 per single class without requiring membership.",
+        "caption": "Single class"
+      },
+      "arrival": "First-time visitors: arrive around30minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-contemporary-floorwork-beginners-2026-10-24",
+      "title": "Contemporary/Floorwork beginners · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-10-24T14:30:00+02:00",
+      "end": "2026-10-24T16:00:00+02:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "90-minute Contemporary/Floorwork beginners class with Liv Schmiedeke; listed in the public weekly schedule. ADC describes levels such as open level and beginners on the timetable.",
+      "participation": "class",
+      "formatLabel": "Single class · Beginners (some previous dance experience)",
+      "socialReason": "Shared class; conversation may happen before/after. No structured introductions established. (Assessment.)",
+      "attendance": "Independent single class, €22.50 without membership. Beginners (some previous dance experience). Advance signup helps ensure a place.",
+      "language": "Not stated; the public site and schedule offer Dutch and English text. Confirm teaching language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://amsterdamdancecentre.nl/adults/",
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en"
+      ],
+      "dateEvidence": "Exact date, start time, duration, title, teacher and studio listed in the public embedded schedule for 19–25 October 2026.",
+      "evidence": {
+        "schedule": "2026-10-24 14:30–16:00 (90 min), Contemporary/Floorwork beginners, Liv Schmiedeke, Centrum Studio 1; public ADC schedule widget.",
+        "single_visit": "ADC adult FAQ says a single class costs €22.50; no membership required, and advance signup is optional but ensures a spot."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; schedule showed an Aanmelden (sign-up) button.",
+        "Teaching language for this class is not stated.",
+        "ADC Beginners means some previous dance experience; Basic is its absolute-novice level. Check style-specific suitability."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "ADC adult FAQ lists €22.50 per single class without requiring membership.",
+        "caption": "Single class"
+      },
+      "arrival": "First-time visitors: arrive around30minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-pilates-open-level-2026-10-25",
+      "title": "Pilates Open level · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-10-25T09:45:00+01:00",
+      "end": "2026-10-25T10:45:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "60-minute Pilates Open level class with Anniek Hazenberg; listed in the public weekly schedule. ADC describes levels such as open level and beginners on the timetable.",
+      "participation": "class",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared class; conversation may happen before/after. No structured introductions established. (Assessment.)",
+      "attendance": "Independent single class, €22.50 without membership. Open level (everyone). Advance signup helps ensure a place.",
+      "language": "Not stated; the public site and schedule offer Dutch and English text. Confirm teaching language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://amsterdamdancecentre.nl/adults/",
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en"
+      ],
+      "dateEvidence": "Exact date, start time, duration, title, teacher and studio listed in the public embedded schedule for 19–25 October 2026.",
+      "evidence": {
+        "schedule": "2026-10-25 09:45–10:45 (60 min), Pilates Open level, Anniek Hazenberg, Centrum Studio 2; public ADC schedule widget.",
+        "single_visit": "ADC adult FAQ says a single class costs €22.50; no membership required, and advance signup is optional but ensures a spot."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; schedule showed an Aanmelden (sign-up) button.",
+        "Teaching language for this class is not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "ADC adult FAQ lists €22.50 per single class without requiring membership.",
+        "caption": "Single class"
+      },
+      "arrival": "First-time visitors: arrive around30minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-stretching-open-level-2026-10-25",
+      "title": "Stretching Open level · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-10-25T10:45:00+01:00",
+      "end": "2026-10-25T11:45:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Movement & dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "60-minute Stretching Open level class with Anniek Hazenberg; listed in the public weekly schedule. ADC describes levels such as open level and beginners on the timetable.",
+      "participation": "class",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared class; conversation may happen before/after. No structured introductions established. (Assessment.)",
+      "attendance": "Independent single class, €22.50 without membership. Open level (everyone). Advance signup helps ensure a place.",
+      "language": "Not stated; the public site and schedule offer Dutch and English text. Confirm teaching language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://amsterdamdancecentre.nl/adults/",
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en"
+      ],
+      "dateEvidence": "Exact date, start time, duration, title, teacher and studio listed in the public embedded schedule for 19–25 October 2026.",
+      "evidence": {
+        "schedule": "2026-10-25 10:45–11:45 (60 min), Stretching Open level, Anniek Hazenberg, Centrum Studio 2; public ADC schedule widget.",
+        "single_visit": "ADC adult FAQ says a single class costs €22.50; no membership required, and advance signup is optional but ensures a spot."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; schedule showed an Aanmelden (sign-up) button.",
+        "Teaching language for this class is not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "ADC adult FAQ lists €22.50 per single class without requiring membership.",
+        "caption": "Single class"
+      },
+      "arrival": "First-time visitors: arrive around30minutes early; desk payment is PIN."
+    },
+    {
+      "id": "adc-contemporary-improvisation-open-level-2026-10-25",
+      "title": "Contemporary Improvisation open level · Amsterdam Dance Centre",
+      "status": "dated",
+      "start": "2026-10-25T11:15:00+01:00",
+      "end": "2026-10-25T12:45:00+01:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Dance",
+      "area": "Centrum / Marnixstraat",
+      "venue": "Amsterdam Dance Centre",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "90-minute Contemporary Improvisation open level class with Rowan van Sen; listed in the public weekly schedule. ADC describes levels such as open level and beginners on the timetable.",
+      "participation": "class",
+      "formatLabel": "Single class · Open level (everyone)",
+      "socialReason": "Shared class; conversation may happen before/after. No structured introductions established. (Assessment.)",
+      "attendance": "Independent single class, €22.50 without membership. Open level (everyone). Advance signup helps ensure a place.",
+      "language": "Not stated; the public site and schedule offer Dutch and English text. Confirm teaching language if needed.",
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://amsterdamdancecentre.nl/adults/",
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en"
+      ],
+      "dateEvidence": "Exact date, start time, duration, title, teacher and studio listed in the public embedded schedule for 19–25 October 2026.",
+      "evidence": {
+        "schedule": "2026-10-25 11:15–12:45 (90 min), Contemporary Improvisation open level, Rowan van Sen, Centrum Studio 1; public ADC schedule widget.",
+        "single_visit": "ADC adult FAQ says a single class costs €22.50; no membership required, and advance signup is optional but ensures a spot."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked; schedule showed an Aanmelden (sign-up) button.",
+        "Teaching language for this class is not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "ADC adult FAQ lists €22.50 per single class without requiring membership.",
+        "caption": "Single class"
+      },
+      "arrival": "First-time visitors: arrive around30minutes early; desk payment is PIN."
+    },
+    {
+      "id": "equal-hot-fusion-linnaeusstraat-2026-10-19",
+      "title": "Hot Fusion · EQUAL Linnaeusstraat",
+      "status": "dated",
+      "start": "2026-10-19T07:00:00+02:00",
+      "end": "2026-10-19T08:00:00+02:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Yoga & mindful movement",
+      "area": "Amsterdam East / Linnaeusstraat",
+      "venue": "EQUAL Linnaeusstraat",
+      "address": "Linnaeusstraat 30, 1092 CL Amsterdam",
+      "description": "Fixed beginner-friendly yoga sequence mixed with vinyasa flow; taught at 36°C. Heated room: 36°C.",
+      "participation": "class",
+      "formatLabel": "Single class · beginner suitable",
+      "socialReason": "Individual practice; conversation may happen before/after. No structured introductions established. (Assessment.)",
+      "attendance": "Single-class card plus a booking for this session required. Organizer recommends this class type for beginners; towel mandatory (bring one or rent for €2.50).",
+      "language": "Not stated; organizer pages are in English. Confirm teaching language if needed.",
+      "bookingUrl": "https://www.equalyoga.com/reserve/",
+      "sourceUrls": [
+        "https://www.equalyoga.com/reserve/",
+        "https://www.equalyoga.com/pricing",
+        "https://www.equalyoga.com/studios/linnaeusstraat"
+      ],
+      "dateEvidence": "Exact date, class, instructor, 60-minute duration and location listed in the public booking calendar after selecting Monday October 19, 2026.",
+      "evidence": {
+        "schedule": "Monday October 19, 2026, 07:00–8:00 AM, 60 min, Hot Fusion, Sofia Hinteregger, Ams - Linnaeusstraat; direct booking link shown.",
+        "single_visit": "Pricing page lists a €20 single class card (valid for one year); Amsterdam first-timer intro is €25 for three classes in 15 days.",
+        "beginner_heat": "FAQ recommends HotFusion/CoreFlow for beginners; specific room temperature 36°C."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked.",
+        "Teaching language for this class is not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 20.0,
+        "type": "single class card",
+        "from": false,
+        "note": "Equal pricing page lists a one-class card for €20; separate €25 intro offer is for first-timers only. Bring a towel or pay €2.50 to rent one.",
+        "caption": "€20; towel rental €2.50 extra"
+      },
+      "arrival": "Arrive10–15minutes early."
+    },
+    {
+      "id": "equal-core-flow-linnaeusstraat-2026-10-19",
+      "title": "Core Flow · EQUAL Linnaeusstraat",
+      "status": "dated",
+      "start": "2026-10-19T08:30:00+02:00",
+      "end": "2026-10-19T09:30:00+02:00",
+      "proposedDate": null,
+      "timezone": "Europe/Amsterdam",
+      "category": "Yoga & mindful movement",
+      "area": "Amsterdam East / Linnaeusstraat",
+      "venue": "EQUAL Linnaeusstraat",
+      "address": "Linnaeusstraat 30, 1092 CL Amsterdam",
+      "description": "Moderate-paced vinyasa-based full-body workout; taught at 32°C. Heated room: 32°C.",
+      "participation": "class",
+      "formatLabel": "Single class · moderate pace",
+      "socialReason": "Individual practice; conversation may happen before/after. No structured introductions established. (Assessment.)",
+      "attendance": "Single-class card plus a booking for this session required. Organizer recommends this class type for beginners; towel mandatory (bring one or rent for €2.50).",
+      "language": "Not stated; organizer pages are in English. Confirm teaching language if needed.",
+      "bookingUrl": "https://www.equalyoga.com/reserve/",
+      "sourceUrls": [
+        "https://www.equalyoga.com/reserve/",
+        "https://www.equalyoga.com/pricing",
+        "https://www.equalyoga.com/studios/linnaeusstraat"
+      ],
+      "dateEvidence": "Exact date, class, instructor, 60-minute duration and location listed in the public booking calendar after selecting Monday October 19, 2026.",
+      "evidence": {
+        "schedule": "Monday October 19, 2026, 08:30–9:30 AM, 60 min, Core Flow, Sofia Hinteregger, Ams - Linnaeusstraat; direct booking link shown.",
+        "single_visit": "Pricing page lists a €20 single class card (valid for one year); Amsterdam first-timer intro is €25 for three classes in 15 days.",
+        "beginner_heat": "FAQ recommends HotFusion/CoreFlow for beginners; specific room temperature 32°C."
+      },
+      "checkedAt": "2026-10-18",
+      "uncertainties": [
+        "Remaining capacity was not checked.",
+        "Teaching language for this class is not stated."
+      ],
+      "availability": "unchecked",
+      "price": {
+        "amount": 20.0,
+        "type": "single class card",
+        "from": false,
+        "note": "Equal pricing page lists a one-class card for €20; separate €25 intro offer is for first-timers only. Bring a towel or pay €2.50 to rent one.",
+        "caption": "€20; towel rental €2.50 extra"
+      },
+      "arrival": "Arrive10–15minutes early."
+    }
+  ],
+  "sources": [
+    {
+      "id": "deep-cp-001",
+      "title": "ClassPass — Upclub ROW & RIDE",
+      "url": "https://classpass.com/studios/upclub-row-and-ride-amsterdam",
+      "type": "ClassPass venue page",
+      "evidence": "Search-indexed rendered profile showed Weesperstraat 69, about 250 m from Waterlooplein, LGBTQ-friendly/owned, ROW/RIDE formats and a schedule example on Tue Oct 13. Direct browser navigation returned Cloudflare 403; Oct 13 is outside requested window and is not used as a dated event. ClassPass credit cost unavailable.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-cp-002",
+      "title": "ClassPass — Movements City",
+      "url": "https://classpass.com/studios/movements-city-amsterdam",
+      "type": "ClassPass venue page",
+      "evidence": "Indexed profile lists Utrechtsedwarsstraat 31 and hot Pilates / yoga schedule sample dated Thu Oct 8 (outside requested window). Direct browser navigation returned Cloudflare 403; no date or credits inferred.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-cp-003",
+      "title": "ClassPass — Svaha Yoga Downtown",
+      "url": "https://classpass.com/studios/svaha-yoga-downtown-amsterdam",
+      "type": "ClassPass venue page",
+      "evidence": "Indexed profile lists Begijnensteeg 1, 1012 PN, Vinyasa 1/2/3, Yin and meditation; sample schedule dated Wed Oct 14 is outside requested window. Direct browser navigation returned Cloudflare 403; no date or credits inferred.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-cp-004",
+      "title": "ClassPass — EQUAL Rozengracht",
+      "url": "https://classpass.com/studios/equal-rozengracht-amsterdam",
+      "type": "ClassPass venue page",
+      "evidence": "Indexed profile lists Rozengracht 191 and schedule dated Thu Oct 15 (outside requested window); confirms Hot Pilates, Power Flow, Core Flow, Vinyasa, Yin and Hot Fusion. Direct browser navigation returned Cloudflare 403; no date or credits inferred.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-cp-005",
+      "title": "ClassPass — Studio 191 Oost",
+      "url": "https://classpass.com/studios/studio-191-oost-amsterdam",
+      "type": "ClassPass venue page",
+      "evidence": "Indexed profile lists Beukenweg 3a, Amsterdam 1092 AX, Pilates, Sculpt, Barre and schedule sample Thu Oct 8 (outside requested window). Direct browser navigation returned Cloudflare 403; no date or credits inferred.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-cp-006",
+      "title": "ClassPass — Yagoy West",
+      "url": "https://classpass.com/studios/yagoy-west-amsterdam",
+      "type": "ClassPass venue page",
+      "evidence": "Indexed profile lists Postjesweg 106-1, Amsterdam 1057 EG, but its schedule sample Fri Sep 18 is outside requested window and shows no reservations. Direct browser navigation returned Cloudflare 403; no date or credits inferred.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-cp-007",
+      "title": "ClassPass — Boulder Amsterdam",
+      "url": "https://classpass.com/studios/boulder-amsterdam",
+      "type": "ClassPass venue page",
+      "evidence": "Indexed profile lists Gillis van Ledenberchstraat 62, Amsterdam 1052 VK and describes a group intro. Its schedule sample Sat Oct 3 is outside the requested window. Direct browser navigation was blocked; no date or credits inferred.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-cp-008",
+      "title": "ClassPass — Boulderhal Luchthaven",
+      "url": "https://classpass.com/studios/boulderhal-luchthaven-amsterdam",
+      "type": "ClassPass venue page",
+      "evidence": "Indexed profile describes bouldering class access at Anthony Fokkerweg 75, Amsterdam 1059 CP; schedule sample Thu Oct 8 is outside requested window. Direct browser navigation blocked; no date or credits inferred.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-dir-001",
+      "title": "Amsterdam Dance Centre — adult schedule and FAQ",
+      "url": "https://amsterdamdancecentre.nl/adults/",
+      "type": "Organizer schedule and price FAQ",
+      "evidence": "Rendered public embedded Trainin schedule showed dated classes Oct 19–25 with times, durations, class levels, instructors, locations and sign-up buttons. ADC adult FAQ states €22.50 for a single class, no membership required; online signup is optional, but helps ensure a place.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-dir-002",
+      "title": "EQUAL — public schedule",
+      "url": "https://www.equalyoga.com/reserve/",
+      "type": "Organizer booking calendar",
+      "evidence": "Rendered Momence calendar showed the week Sun Oct 18–Sat Oct 24; selecting Mon Oct 19 showed exact class times, instructors, durations, branch and public booking links.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-dir-003",
+      "title": "EQUAL — pricing and Linnaeusstraat studio",
+      "url": "https://www.equalyoga.com/pricing",
+      "type": "Organizer price page",
+      "evidence": "Amsterdam one-class card €20, valid one year; new-customer intro €25 for three classes in 15 days. Linnaeusstraat branch address verified as Linnaeusstraat 30, 1092 CL Amsterdam.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-dir-004",
+      "title": "Studio 191 — schedule",
+      "url": "https://studio191.nl/schedule/",
+      "type": "Organizer schedule",
+      "evidence": "Rendered public schedule shows Sun Oct 18–Sat Oct 24 and location filters for De Pijp, Oost and West. Visible sample rows include start times, class names, instructors, booking status and a walk-in note; booking is recommended to ensure a spot. No November schedule was observed.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-dir-005",
+      "title": "Studio 191 — prices and memberships",
+      "url": "https://studio191.nl/prices/",
+      "type": "Organizer pricing page",
+      "evidence": "Single Class drop-in €20 valid one month; Intro 3 €40 for first-time guests, valid one month; class cards and memberships also listed. Does not include Reformer; a separate Reformer single costs €28.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-dir-006",
+      "title": "Yagoy — pricing and booking information",
+      "url": "https://yagoy.nl/",
+      "type": "Organizer homepage",
+      "evidence": "Rendered homepage lists single class €18 (valid one month), two classes €30, and first-timer one-month unlimited €50. Homepage describes West and De Pijp schedules and beginner welcome. Exact upcoming schedule not harvested.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-dir-007",
+      "title": "Movements — class pricing",
+      "url": "https://movementsyoga.com/pricing/",
+      "type": "Organizer pricing page",
+      "evidence": "Public page describes a single Hot Yoga or Hot Pilates class at €25. Search-indexed page also showed a €10 first-timer trial restricted to new members / Amsterdam-Haarlem residents; treat eligibility as conditional. Current class calendar not harvested.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-dir-008",
+      "title": "Upclub — ROW & RIDE workouts",
+      "url": "https://upclubstudios.com/",
+      "type": "Organizer homepage",
+      "evidence": "Public homepage describes team-format indoor rowing and ride-plus-strength workouts, 45–50 minute class formats via indexed profile, intro deal of 2 workouts for €19, and Weesperstraat 69 / nearby Waterlooplein. Standalone single-class price not established.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "deep-dir-009",
+      "title": "Svaha Yoga — ClassPass profile",
+      "url": "https://classpass.com/studios/svaha-yoga-downtown-amsterdam",
+      "type": "ClassPass venue profile",
+      "evidence": "Indexed ClassPass page shows the central Begijnensteeg branch, Vinyasa, Kundalini, Yin and free guided meditation listing; direct studio standalone price was not independently verified.",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "direct-extra-17",
+      "title": "Pilates Open level · Amsterdam Dance Centre · adc.trainin.app",
+      "url": "https://adc.trainin.app/widget/schedule",
+      "type": "Public studio calendar / policy",
+      "evidence": "Read alongside the studio listing: {\"schedule\": \"2026-10-19 09:00–10:00 (60 min), Pilates Open level, Elizabeth Steele, Centrum Studio 2; public ADC schedule widget.\", \"single_visit\": \"ADC adult FAQ says a single class costs €22.50; no membership required, and advance signup is optional but ensures a spot.\"}",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "direct-extra-18",
+      "title": "Pilates Open level · Amsterdam Dance Centre · amsterdamdancecentre.nl",
+      "url": "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en",
+      "type": "Public studio calendar / policy",
+      "evidence": "Read alongside the studio listing: {\"schedule\": \"2026-10-19 09:00–10:00 (60 min), Pilates Open level, Elizabeth Steele, Centrum Studio 2; public ADC schedule widget.\", \"single_visit\": \"ADC adult FAQ says a single class costs €22.50; no membership required, and advance signup is optional but ensures a spot.\"}",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "direct-extra-19",
+      "title": "Hot Fusion · EQUAL Linnaeusstraat · www.equalyoga.com",
+      "url": "https://www.equalyoga.com/studios/linnaeusstraat",
+      "type": "Public studio calendar / policy",
+      "evidence": "Read alongside the studio listing: {\"schedule\": \"Monday October 19, 2026, 07:00–8:00 AM, 60 min, Hot Fusion, Sofia Hinteregger, Ams - Linnaeusstraat; direct booking link shown.\", \"single_visit\": \"Pricing page lists a €20 single class card (valid for one year); Amsterdam first-timer intro is €25 for three classes in 15 days.\"}",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "direct-extra-20",
+      "title": "Movements City · movementsyoga.com",
+      "url": "https://movementsyoga.com/our-locations/city/",
+      "type": "Public studio calendar / policy",
+      "evidence": "Read alongside the studio listing: [\"Official location page identifies Utrechtsedwarsstraat 31h and 40°C studio. Official pricing page lists a €25 single class. ClassPass index showed a schedule sample dated Oct 8.\"]",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "direct-extra-21",
+      "title": "Yagoy de Pijp · yagoy.nl",
+      "url": "https://yagoy.nl/contact/",
+      "type": "Public studio calendar / policy",
+      "evidence": "Read alongside the studio listing: [\"Official homepage lists €18 single class, €30 for two, and €50 first-timer one-month unlimited; contact page confirms de Pijp studio address and schedule link. ClassPass search result found the West branch only.\"]",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "direct-extra-22",
+      "title": "Monk Bouldergym Amsterdam · monk.nl",
+      "url": "https://monk.nl/amsterdam/",
+      "type": "Public studio calendar / policy",
+      "evidence": "Read alongside the studio listing: [\"Monk official Amsterdam page describes beginner Boulder Basics and beginner routes; official FAQ says no experience required and shoe hire costs €5. The official pages checked did not provide current adult single-entry EUR price.\"]",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "direct-extra-23",
+      "title": "Monk Bouldergym Amsterdam · monk.nl",
+      "url": "https://monk.nl/hulp/veelgestelde-vragen/eerste-keer-boulderen/",
+      "type": "Public studio calendar / policy",
+      "evidence": "Read alongside the studio listing: [\"Monk official Amsterdam page describes beginner Boulder Basics and beginner routes; official FAQ says no experience required and shoe hire costs €5. The official pages checked did not provide current adult single-entry EUR price.\"]",
+      "checkedAt": "2026-10-18"
+    }
+  ],
+  "offers": [
+    {
+      "id": "deep-offer-equal-rozengracht",
+      "name": "EQUAL Rozengracht",
+      "venue": "EQUAL",
+      "category": "Hot yoga, Pilates & mobility",
+      "area": "Centrum / Rozengracht",
+      "address": "Rozengracht 191, 1016 LZ Amsterdam",
+      "description": "Hot and non-hot yoga/Pilates, Yin, mobility and sculpt. Single-class card €20; first-timer offer €25 for three classes in 15 days. Mats free; towel on mat is required (bring or rent).",
+      "attendance": "Single class / drop-in access is explicitly offered; check the linked calendar for a current place.",
+      "beginner": true,
+      "language": "Not explicitly confirmed for every class; check the booking page or studio before attending.",
+      "directPrice": {
+        "amount": 20,
+        "type": "single class card",
+        "from": false,
+        "note": "One class card valid one year; separate intro €25 / 3 classes in 15 days for new customers. A mat towel is required: bring one or rent for €2.50; buying a card does not reserve a class.",
+        "caption": "Towel rental €2.50 extra if needed"
+      },
+      "classpass": {
+        "url": "https://classpass.com/studios/equal-rozengracht-amsterdam",
+        "credits": null,
+        "creditNote": "Credit cost not visible without an accessible ClassPass booking view; not inferred."
+      },
+      "bookingUrl": "https://www.equalyoga.com/reserve/",
+      "sourceUrls": [
+        "https://www.equalyoga.com/reserve/",
+        "https://www.equalyoga.com/pricing",
+        "https://classpass.com/studios/equal-rozengracht-amsterdam"
+      ],
+      "checkedAt": "2026-10-18",
+      "evidence": [
+        "Direct booking calendar rendered the Oct 18–24 week and the Oct 19 rows. Pricing page lists a €20 one-class card and a €25 three-class first-timer offer. ClassPass index lists Rozengracht 191; direct ClassPass navigation was blocked."
+      ],
+      "uncertainties": [
+        "ClassPass credit cost unavailable. Hot classes may be more vigorous than desired; class descriptions specify temperature and intensity."
+      ],
+      "scheduleHorizon": "Sun Oct 18–Sat Oct 24 observed; direct calendar showed Oct 19 classes. Booking normally opens14days ahead according to FAQ.",
+      "ideaIds": []
+    },
+    {
+      "id": "deep-offer-equal-linnaeus",
+      "name": "EQUAL Linnaeusstraat",
+      "venue": "EQUAL",
+      "category": "Hot yoga, Pilates & mobility",
+      "area": "Amsterdam East / Linnaeusstraat",
+      "address": "Linnaeusstraat 30, 1092 CL Amsterdam",
+      "description": "Community-oriented studio with hot and non-hot classes. Public schedule listed Hot Fusion (beginner-friendly sequence) and moderate-paced Core Flow on Oct 19. One class card €20; first-timer offer €25 for 3 classes in 15 days.",
+      "attendance": "Single class / drop-in access is explicitly offered; check the linked calendar for a current place.",
+      "beginner": true,
+      "language": "Not explicitly confirmed for every class; check the booking page or studio before attending.",
+      "directPrice": {
+        "amount": 20,
+        "type": "single class card",
+        "from": false,
+        "note": "Valid one year; first-timer intro offer is separate. A mat towel is required: bring one or rent for €2.50; buying a card does not reserve a class.",
+        "caption": "Towel rental €2.50 extra if needed"
+      },
+      "classpass": {
+        "url": null,
+        "credits": null,
+        "creditNote": "No matching public ClassPass listing verified."
+      },
+      "bookingUrl": "https://www.equalyoga.com/reserve/",
+      "sourceUrls": [
+        "https://www.equalyoga.com/reserve/",
+        "https://www.equalyoga.com/pricing",
+        "https://www.equalyoga.com/studios/linnaeusstraat"
+      ],
+      "checkedAt": "2026-10-18",
+      "evidence": [
+        "Direct booking calendar lists the Oct 19 Hot Fusion and Core Flow times at Linnaeusstraat. Official studio page confirms Linnaeusstraat 30, 1092 CL; pricing page lists €20 single class and €25 introductory three-class offer."
+      ],
+      "uncertainties": [
+        "No exact ClassPass listing verified for this branch. ClassPass prices not available."
+      ],
+      "scheduleHorizon": "Sun Oct 18–Sat Oct 24 observed. Booking normally opens14days ahead according to FAQ.",
+      "ideaIds": []
+    },
+    {
+      "id": "deep-offer-studio191-oost",
+      "name": "Studio 191 Oost",
+      "venue": "Studio 191",
+      "category": "Barre, Pilates, Sculpt & Yoga",
+      "area": "Amsterdam Oost / Beukenweg",
+      "address": "Beukenweg 3a, 1092 AX Amsterdam",
+      "description": "Drop-in classes include barre, Pilates, sculpt and yoga. One class €20, valid one month. First-time Intro 3 is €40; non-Reformer class cards can be used across Studio 191 / The Cosmos. Schedule page showed Oct 18–24 and says walk-ins are possible, with advance booking recommended.",
+      "attendance": "Single class / drop-in access is explicitly offered; check the linked calendar for a current place.",
+      "beginner": true,
+      "language": "Not explicitly confirmed for every class; check the booking page or studio before attending.",
+      "directPrice": {
+        "amount": 20,
+        "type": "single class",
+        "from": false,
+        "note": "Valid one month; separate Intro 3 for first-time guests costs €40. Reformer excluded."
+      },
+      "classpass": {
+        "url": "https://classpass.com/studios/studio-191-oost-amsterdam",
+        "credits": null,
+        "creditNote": "Credit cost not visible without an accessible ClassPass booking view; not inferred."
+      },
+      "bookingUrl": "https://studio191.nl/schedule/",
+      "sourceUrls": [
+        "https://studio191.nl/schedule/",
+        "https://studio191.nl/prices/",
+        "https://classpass.com/studios/studio-191-oost-amsterdam"
+      ],
+      "checkedAt": "2026-10-18",
+      "evidence": [
+        "Organizer schedule rendered Oct 18–24 and its page states walk-ins are allowed, with advance booking recommended. Official pricing lists €20 single class and a separate €40 Intro 3. ClassPass profile identifies the Oost branch and schedule sample."
+      ],
+      "uncertainties": [
+        "ClassPass credit cost unavailable. Schedule only observed through Oct 24."
+      ],
+      "scheduleHorizon": "Sun Oct 18–Sat Oct 24 observed.",
+      "ideaIds": []
+    },
+    {
+      "id": "deep-offer-upclub",
+      "name": "Upclub ROW & RIDE",
+      "venue": "Upclub",
+      "category": "Indoor rowing, indoor cycling & strength",
+      "area": "Waterlooplein / Weesperstraat",
+      "address": "Weesperstraat 69, 1018 VN Amsterdam",
+      "description": "Team-based rowing intervals plus strength, or cycling plus strength; high-energy workout format. Intro deal is two workouts for €19, with the first workout free. ClassPass profile places the studio about 250 m from Waterlooplein.",
+      "attendance": "Single class / drop-in access is explicitly offered; check the linked calendar for a current place.",
+      "beginner": false,
+      "language": "Not explicitly confirmed for every class; check the booking page or studio before attending.",
+      "directPrice": {
+        "amount": null,
+        "type": "single class price unknown",
+        "from": false,
+        "note": "Only the €19 intro two-workout deal was verified; standalone EUR price not established."
+      },
+      "classpass": {
+        "url": "https://classpass.com/studios/upclub-row-and-ride-amsterdam",
+        "credits": null,
+        "creditNote": "Credit cost not visible without an accessible ClassPass booking view; not inferred."
+      },
+      "bookingUrl": "https://upclubstudios.com/",
+      "sourceUrls": [
+        "https://upclubstudios.com/",
+        "https://classpass.com/studios/upclub-row-and-ride-amsterdam"
+      ],
+      "checkedAt": "2026-10-18",
+      "evidence": [
+        "Organizer homepage rendered the €19 intro offer for two workouts and describes ROW and RIDE formats. ClassPass profile identifies Weesperstraat 69 and states Waterlooplein is 250 m away; its indexed schedule sample was Oct 13."
+      ],
+      "uncertainties": [
+        "ClassPass credits unavailable due direct page block. Intro deal eligibility/expiry not visible on the captured page. Workout is vigorous and may not fit the modest-movement preference."
+      ],
+      "scheduleHorizon": "ClassPass index showed Oct 13 only (outside target); direct schedule not harvested.",
+      "ideaIds": []
+    },
+    {
+      "id": "deep-offer-movements-city",
+      "name": "Movements City",
+      "venue": "Movements",
+      "category": "Hot yoga & Pilates",
+      "area": "Centrum / Utrechtsedwarsstraat",
+      "address": "Utrechtsedwarsstraat 31h, 1017 WB Amsterdam",
+      "description": "Hot yoga and Pilates in a studio heated up to 40°C. Public pricing lists a €25 single Hot Yoga or Hot Pilates class. Indexed pricing also showed €10 first-class trial subject to first-timer and Amsterdam/Haarlem-resident eligibility.",
+      "attendance": "Single class / drop-in access is explicitly offered; check the linked calendar for a current place.",
+      "beginner": false,
+      "language": "Not explicitly confirmed for every class; check the booking page or studio before attending.",
+      "directPrice": {
+        "amount": 25,
+        "type": "single class",
+        "from": false,
+        "note": "Hot Yoga or Hot Pilates. Separate trial price may be eligibility-restricted."
+      },
+      "classpass": {
+        "url": "https://classpass.com/studios/movements-city-amsterdam",
+        "credits": null,
+        "creditNote": "Credit cost not visible without an accessible ClassPass booking view; not inferred."
+      },
+      "bookingUrl": "https://movementsyoga.com/our-locations/city/",
+      "sourceUrls": [
+        "https://movementsyoga.com/our-locations/city/",
+        "https://movementsyoga.com/pricing/",
+        "https://classpass.com/studios/movements-city-amsterdam"
+      ],
+      "checkedAt": "2026-10-18",
+      "evidence": [
+        "Official location page identifies Utrechtsedwarsstraat 31h and 40°C studio. Official pricing page lists a €25 single class. ClassPass index showed a schedule sample dated Oct 8."
+      ],
+      "uncertainties": [
+        "ClassPass credits unavailable. Heat reaches 40°C; confirm suitable class and current trial terms."
+      ],
+      "scheduleHorizon": "ClassPass index showed Oct 8 only (outside target); direct future calendar not harvested.",
+      "ideaIds": []
+    },
+    {
+      "id": "deep-offer-yagoy-pijp",
+      "name": "Yagoy de Pijp",
+      "venue": "Yagoy",
+      "category": "Yoga & Pilates",
+      "area": "De Pijp / Karel du Jardinstraat",
+      "address": "Karel du Jardinstraat 33-1, 1072 SG Amsterdam",
+      "description": "Teacher-owned studio with creative Vinyasa, Yin, prenatal yoga and Pilates. Single class €18 (valid one month); two classes €30. A first-timer can try one month unlimited for €50.",
+      "attendance": "Single class / drop-in access is explicitly offered; check the linked calendar for a current place.",
+      "beginner": true,
+      "language": "Not explicitly confirmed for every class; check the booking page or studio before attending.",
+      "directPrice": {
+        "amount": 18,
+        "type": "single class",
+        "from": false,
+        "note": "Single pass valid one month; separate first-timer one-month unlimited offer costs €50."
+      },
+      "classpass": {
+        "url": "https://classpass.com/studios/yagoy-west-amsterdam",
+        "credits": null,
+        "creditNote": "Credit cost not visible without an accessible ClassPass booking view; not inferred."
+      },
+      "bookingUrl": "https://yagoy.nl/",
+      "sourceUrls": [
+        "https://yagoy.nl/",
+        "https://yagoy.nl/contact/",
+        "https://classpass.com/studios/yagoy-west-amsterdam"
+      ],
+      "checkedAt": "2026-10-18",
+      "evidence": [
+        "Official homepage lists €18 single class, €30 for two, and €50 first-timer one-month unlimited; contact page confirms de Pijp studio address and schedule link. ClassPass search result found the West branch only."
+      ],
+      "uncertainties": [
+        "ClassPass page found was the West branch, not de Pijp. Credits unavailable. Direct schedule widget did not yield a dated class list in this check."
+      ],
+      "scheduleHorizon": "No dated direct schedule observed.",
+      "ideaIds": []
+    },
+    {
+      "id": "deep-offer-svaha-downtown",
+      "name": "Svaha Yoga Downtown",
+      "venue": "Svaha Yoga",
+      "category": "Vinyasa, Yin, Kundalini & meditation",
+      "area": "Centrum / Begijnensteeg",
+      "address": "Begijnensteeg 1, 1012 PN Amsterdam",
+      "description": "Central studio with Vinyasa levels 1–3, Kundalini, Yin and guided meditation; ClassPass profile says studio mats may be borrowed free. ClassPass indexed schedule is stale (Oct 14), so use its live booking view to check current times.",
+      "attendance": "Single class / drop-in access is explicitly offered; check the linked calendar for a current place.",
+      "beginner": true,
+      "language": "Not explicitly confirmed for every class; check the booking page or studio before attending.",
+      "directPrice": {
+        "amount": null,
+        "type": "unknown",
+        "from": false,
+        "note": "Standalone direct EUR price not verified in this research."
+      },
+      "classpass": {
+        "url": "https://classpass.com/studios/svaha-yoga-downtown-amsterdam",
+        "credits": null,
+        "creditNote": "Credit cost not visible without an accessible ClassPass booking view; not inferred."
+      },
+      "bookingUrl": "https://classpass.com/studios/svaha-yoga-downtown-amsterdam",
+      "sourceUrls": [
+        "https://classpass.com/studios/svaha-yoga-downtown-amsterdam"
+      ],
+      "checkedAt": "2026-10-18",
+      "evidence": [
+        "ClassPass indexed profile lists central address, class types, free studio mats and older sample schedule; direct ClassPass page returned HTTP 403 and direct studio price was not verified."
+      ],
+      "uncertainties": [
+        "ClassPass credits unavailable; no direct studio single-class price verified. Indexed schedule predates target range."
+      ],
+      "scheduleHorizon": "ClassPass index showed Oct 14 only (outside target).",
+      "ideaIds": []
+    },
+    {
+      "id": "deep-offer-adc",
+      "name": "Amsterdam Dance Centre — adult single classes",
+      "venue": "Amsterdam Dance Centre",
+      "category": "Dance, Pilates, stretching, yoga & barre",
+      "area": "Centrum / Marnixstraat",
+      "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+      "description": "Large adult timetable seven days a week, with open-level and beginner Pilates, barre, stretching, contemporary, hip-hop and other styles. Single class costs €22.50 without membership; signup is optional, and helpful to ensure a place.",
+      "attendance": "Single class / drop-in access is explicitly offered; check the linked calendar for a current place.",
+      "beginner": "Open level: everyone; Basic: absolute novice; Beginners: some previous dance experience.",
+      "language": "Not explicitly confirmed for every class; check the booking page or studio before attending.",
+      "directPrice": {
+        "amount": 22.5,
+        "type": "single class",
+        "from": false,
+        "note": "No membership required; ADC adult FAQ says signup is optional but helps ensure a place."
+      },
+      "classpass": {
+        "url": null,
+        "credits": null,
+        "creditNote": "No matching public ClassPass listing verified."
+      },
+      "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+      "sourceUrls": [
+        "https://amsterdamdancecentre.nl/adults/",
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en"
+      ],
+      "checkedAt": "2026-10-18",
+      "evidence": [
+        "ADC public schedule iframe lists dated class rows Oct 19–25 and signup links. Adult FAQ states €22.50 for one class without membership."
+      ],
+      "uncertainties": [
+        "No ClassPass listing verified. Language for individual classes is not stated. Public schedule horizon observed Oct 19–25 only."
+      ],
+      "scheduleHorizon": "Oct 19–25, 2026 rendered.",
+      "ideaIds": []
+    }
+  ],
+  "priceUpdates": [],
+  "findings": [
+    "Direct ClassPass pages for Upclub, Movements City, Svaha Downtown, EQUAL Rozengracht and Studio 191 Oost were attempted in the installed Chromium browser. Each returned HTTP 403 Cloudflare security verification. The native preview browser also returned its documented AppArmor host-block message. No challenge was bypassed.",
+    "ClassPass search-indexed pages remain useful for venue identity, locations, amenities and old schedule examples. Their indexed schedule dates (Sep 18 to Oct 15) precede the requested Oct 19–Nov 30 window; no ClassPass occurrence was converted into a dated event.",
+    "ClassPass credit prices are not visible in the accessible public page state and are account/session-dependent. All credits remain null; no EUR conversion was attempted.",
+    "ADC’s embedded public schedule rendered Oct 19–25, 2026 and exposes date, start time, duration, title, teacher, studio and signup buttons. The adult FAQ supports individual single-class visits at €22.50 without membership. The dates recorded here are only the visible week.",
+    "EQUAL’s public Momence schedule rendered Oct 18–24, 2026; Monday Oct 19 was selected and showed exact class rows. EQUAL prices a one-class card at €20 and a first-time offer at €25 for three classes in 15 days.",
+    "Studio 191’s public schedule displayed Oct 18–24, 2026 with location filters and visible current-week bookings. Its pricing page says walk-ins are possible, recommends booking ahead, and lists a €20 single class. No November dates were recorded.",
+    "Verified direct single-class EUR offers: ADC €22.50; EQUAL €20; Studio 191 €20; Yagoy €18; Movements €25. Intro or multi-class offers are kept separate in notes. Upclub’s verified €19 price is for a two-workout intro deal; its standalone class price remains unknown.",
+    "Language, age, budget and preferred class intensity are unknown. Individual class teaching language was not stated on the visible schedules; flagged for confirmation.",
+    "Browser method: local Playwright module at /tmp/cadence-qa/node_modules/playwright/index.mjs controlling ~/.cache/ms-playwright/chromium-1243/chrome-linux64/chrome in headless mode with --no-sandbox; public pages only, no login or booking."
+  ],
+  "gaps": [
+    "ClassPass rendered schedules and pricing remain inaccessible due Cloudflare 403 in the available browser; target-window ClassPass dates and credits are therefore unverified.",
+    "The direct schedules rendered here only covered Oct 19–25 (ADC), Oct 18–24 (EQUAL and Studio 191). Public dated occurrences for Oct 26–Nov 30 were not observed and were not extrapolated.",
+    "Exact live capacity and waitlist status were not verified for ADC or Equal; ADC showed a signup button, not a seat count.",
+    "No exact dated event was confirmed for Upclub, Movements, Svaha, Yagoy or Monk within Oct 19–Nov 30. They are retained as venue/offers leads only."
+  ],
+  "ideaReviews": [
+    {
+      "ideaId": "seed-015",
+      "status": "offer-researched",
+      "summary": "Team-based rowing intervals plus strength, or cycling plus strength; high-energy workout format. Intro deal is two workouts for €19, with the first workout free. ClassPass profile places the studio about 250 m from Waterlooplein. Direct price: Only the €19 intro two-workout deal was verified; standalone EUR price not established.",
+      "sourceUrls": [
+        "https://upclubstudios.com/"
+      ],
+      "nextStep": "Reopen the current booking window and select the exact branch, level and session. ClassPass credits and remaining availability are unverified."
+    },
+    {
+      "ideaId": "seed-032",
+      "status": "offer-researched",
+      "summary": "Central studio with Vinyasa levels 1–3, Kundalini, Yin and guided meditation; ClassPass profile says studio mats may be borrowed free. ClassPass indexed schedule is stale (Oct 14), so use its live booking view to check current times. Direct price: Standalone direct EUR price not verified in this research.",
+      "sourceUrls": [],
+      "nextStep": "Reopen the current booking window and select the exact branch, level and session. ClassPass credits and remaining availability are unverified."
+    },
+    {
+      "ideaId": "seed-033",
+      "status": "offer-researched",
+      "summary": "Hot yoga and Pilates in a studio heated up to 40°C. Public pricing lists a €25 single Hot Yoga or Hot Pilates class. Indexed pricing also showed €10 first-class trial subject to first-timer and Amsterdam/Haarlem-resident eligibility. Direct price: Hot Yoga or Hot Pilates. Separate trial price may be eligibility-restricted.",
+      "sourceUrls": [
+        "https://movementsyoga.com/our-locations/city/",
+        "https://movementsyoga.com/pricing/"
+      ],
+      "nextStep": "Reopen the current booking window and select the exact branch, level and session. ClassPass credits and remaining availability are unverified."
+    },
+    {
+      "ideaId": "seed-034",
+      "status": "offer-researched",
+      "summary": "Hot and non-hot yoga/Pilates, Yin, mobility and sculpt. Single-class card €20; first-timer offer €25 for three classes in 15 days. Mats free; towel on mat is required (bring or rent). Direct price: One class card valid one year; separate intro €25 / 3 classes in 15 days for new customers. A mat towel is required: bring one or rent for €2.50; buying a card does not reserve a class.",
+      "sourceUrls": [
+        "https://www.equalyoga.com/reserve/",
+        "https://www.equalyoga.com/pricing"
+      ],
+      "nextStep": "Reopen the current booking window and select the exact branch, level and session. ClassPass credits and remaining availability are unverified."
+    },
+    {
+      "ideaId": "seed-035",
+      "status": "offer-researched",
+      "summary": "Drop-in classes include barre, Pilates, sculpt and yoga. One class €20, valid one month. First-time Intro 3 is €40; non-Reformer class cards can be used across Studio 191 / The Cosmos. Schedule page showed Oct 18–24 and says walk-ins are possible, with advance booking recommended. Direct price: Valid one month; separate Intro 3 for first-time guests costs €40. Reformer excluded.",
+      "sourceUrls": [
+        "https://studio191.nl/schedule/",
+        "https://studio191.nl/prices/"
+      ],
+      "nextStep": "Reopen the current booking window and select the exact branch, level and session. ClassPass credits and remaining availability are unverified."
+    },
+    {
+      "ideaId": "seed-036",
+      "status": "offer-researched",
+      "summary": "Teacher-owned studio with creative Vinyasa, Yin, prenatal yoga and Pilates. Single class €18 (valid one month); two classes €30. A first-timer can try one month unlimited for €50. Direct price: Single pass valid one month; separate first-timer one-month unlimited offer costs €50.",
+      "sourceUrls": [
+        "https://yagoy.nl/",
+        "https://yagoy.nl/contact/"
+      ],
+      "nextStep": "Reopen the current booking window and select the exact branch, level and session. ClassPass credits and remaining availability are unverified."
+    },
+    {
+      "ideaId": "seed-049",
+      "status": "offer-researched",
+      "summary": "Large adult timetable seven days a week, with open-level and beginner Pilates, barre, stretching, contemporary, hip-hop and other styles. Single class costs €22.50 without membership; signup is optional, and helpful to ensure a place. Direct price: No membership required; ADC adult FAQ says signup is optional but helps ensure a place.",
+      "sourceUrls": [
+        "https://amsterdamdancecentre.nl/adults/",
+        "https://adc.trainin.app/widget/schedule",
+        "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en"
+      ],
+      "nextStep": "Reopen the current booking window and select the exact branch, level and session. ClassPass credits and remaining availability are unverified."
+    }
+  ]
+}

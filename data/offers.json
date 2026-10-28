@@ -1,0 +1,1080 @@
+[
+  {
+    "id": "heart-soul-cozy-cup",
+    "name": "The Cozy Cup — autumn mug workshop",
+    "venue": "Heart & Soul Studio",
+    "category": "Creative",
+    "area": "De Pijp",
+    "address": "Hemonystraat 54H, 1074 BS Amsterdam",
+    "description": "Standalone themed handbuilding workshop; no experience needed. Clay/tools/engobes/glaze/firing included; pickup in about four weeks.",
+    "attendance": "Upcoming Sessions section visible; exact dates did not load.",
+    "beginner": true,
+    "language": "Not stated.",
+    "directPrice": {
+      "amount": 85,
+      "type": "paid",
+      "from": false,
+      "note": "Organizer service page lists €85.",
+      "caption": "€85"
+    },
+    "classpass": null,
+    "bookingUrl": "https://www.heartandsoulstudio.nl/service-page/the-cozy-cup-autumn-mug-workshop",
+    "sourceUrls": [
+      "https://www.heartandsoulstudio.nl/classes",
+      "https://www.heartandsoulstudio.nl/service-page/the-cozy-cup-autumn-mug-workshop"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": {
+      "price": "€85",
+      "beginner": "No previous pottery experience needed",
+      "inclusions": "450g clay, tools/materials, engobes, bisque and glaze firing",
+      "browserMethod": "Rendered official catalogue and service page; upcoming date cards did not render."
+    },
+    "uncertainties": [
+      "No exact date/time captured; do not turn into a dated event until one is visible."
+    ],
+    "scheduleHorizon": "Upcoming Sessions section shown but unpopulated.",
+    "ideaIds": [
+      "seed-003"
+    ],
+    "languages": []
+  },
+  {
+    "id": "heart-soul-handbuilding-intro",
+    "name": "Introduction to handbuilding",
+    "venue": "Heart & Soul Studio",
+    "category": "Creative",
+    "area": "De Pijp",
+    "address": "Hemonystraat 54H, 1074 BS Amsterdam",
+    "description": "Beginner introduction to make a mug or bowl; official class catalogue lists €72.",
+    "attendance": "Booking card visible; date widget remained “Loading days…”.",
+    "beginner": true,
+    "language": "Not stated.",
+    "directPrice": {
+      "amount": 72,
+      "type": "paid",
+      "from": false,
+      "note": "Official catalogue lists €72.",
+      "caption": "€72"
+    },
+    "classpass": null,
+    "bookingUrl": "https://www.heartandsoulstudio.nl/classes",
+    "sourceUrls": [
+      "https://www.heartandsoulstudio.nl/classes"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": {
+      "price": "€72",
+      "description": "Create your own mug or a bowl",
+      "browserMethod": "Rendered organizer catalogue."
+    },
+    "uncertainties": [
+      "Exact date, duration, language and capacity not captured."
+    ],
+    "scheduleHorizon": "Dates not loaded in catalogue widget.",
+    "ideaIds": [
+      "seed-003"
+    ],
+    "languages": []
+  },
+  {
+    "id": "deep-offer-equal-rozengracht",
+    "name": "EQUAL Rozengracht",
+    "venue": "EQUAL",
+    "category": "Hot yoga, Pilates & mobility",
+    "area": "Centrum / Rozengracht",
+    "address": "Rozengracht 191, 1016 LZ Amsterdam",
+    "description": "Hot and non-hot yoga/Pilates, Yin, mobility and sculpt. Single-class card €20; first-timer offer €25 for three classes in 15 days. Mats free; towel on mat is required (bring or rent).",
+    "attendance": "Single class / drop-in access is explicitly offered; check the linked calendar for a current place.",
+    "beginner": true,
+    "language": "Not explicitly confirmed for every class; check the booking page or studio before attending.",
+    "directPrice": {
+      "amount": 20,
+      "type": "single class card",
+      "from": false,
+      "note": "One class card valid one year; separate intro €25 / 3 classes in 15 days for new customers. A mat towel is required: bring one or rent for €2.50; buying a card does not reserve a class.",
+      "caption": "Towel rental €2.50 extra if needed"
+    },
+    "classpass": {
+      "url": "https://classpass.com/studios/equal-rozengracht-amsterdam",
+      "credits": null,
+      "creditNote": "The public ClassPass studio page loaded in Android Firefox on 18 October 2026, but no session credit amounts were observed in the inspected view. Credits remain unknown; check the exact session and account."
+    },
+    "bookingUrl": "https://www.equalyoga.com/reserve/",
+    "sourceUrls": [
+      "https://www.equalyoga.com/reserve/",
+      "https://www.equalyoga.com/pricing",
+      "https://classpass.com/studios/equal-rozengracht-amsterdam"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": {
+      "observations": "Direct booking calendar rendered the Oct 18–24 week and the Oct 19 rows. Pricing page lists a €20 one-class card and a €25 three-class first-timer offer. ClassPass index lists Rozengracht 191; earlier desktop ClassPass navigation was blocked.",
+      "android_follow_up": "Normal Android Firefox loaded the public ClassPass EQUAL Rozengracht Info page; no dated sessions, credits or remaining availability were observed in the inspected view. No signup or trial was entered."
+    },
+    "uncertainties": [
+      "No session credit amount was observed in the inspected public ClassPass view. Hot classes may be more vigorous than desired; class descriptions specify temperature and intensity."
+    ],
+    "scheduleHorizon": "Sun Oct 18–Sat Oct 24 observed; direct calendar showed Oct 19 classes. Booking normally opens14days ahead according to FAQ.",
+    "ideaIds": [],
+    "languages": []
+  },
+  {
+    "id": "deep-offer-equal-linnaeus",
+    "name": "EQUAL Linnaeusstraat",
+    "venue": "EQUAL",
+    "category": "Hot yoga, Pilates & mobility",
+    "area": "Amsterdam East / Linnaeusstraat",
+    "address": "Linnaeusstraat 30, 1092 CL Amsterdam",
+    "description": "Community-oriented studio with hot and non-hot classes. Public schedule listed Hot Fusion (beginner-friendly sequence) and moderate-paced Core Flow on Oct 19. One class card €20; first-timer offer €25 for 3 classes in 15 days.",
+    "attendance": "Single class / drop-in access is explicitly offered; check the linked calendar for a current place.",
+    "beginner": true,
+    "language": "Not explicitly confirmed for every class; check the booking page or studio before attending.",
+    "directPrice": {
+      "amount": 20,
+      "type": "single class card",
+      "from": false,
+      "note": "Valid one year; first-timer intro offer is separate. A mat towel is required: bring one or rent for €2.50; buying a card does not reserve a class.",
+      "caption": "Towel rental €2.50 extra if needed"
+    },
+    "classpass": null,
+    "bookingUrl": "https://www.equalyoga.com/reserve/",
+    "sourceUrls": [
+      "https://www.equalyoga.com/reserve/",
+      "https://www.equalyoga.com/pricing",
+      "https://www.equalyoga.com/studios/linnaeusstraat"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": {
+      "observations": "Direct booking calendar lists the Oct 19 Hot Fusion and Core Flow times at Linnaeusstraat. Official studio page confirms Linnaeusstraat 30, 1092 CL; pricing page lists €20 single class and €25 introductory three-class offer."
+    },
+    "uncertainties": [
+      "No exact ClassPass listing verified for this branch. ClassPass prices not available."
+    ],
+    "scheduleHorizon": "Sun Oct 18–Sat Oct 24 observed. Booking normally opens14days ahead according to FAQ.",
+    "ideaIds": [],
+    "languages": []
+  },
+  {
+    "id": "deep-offer-studio191-oost",
+    "name": "Studio 191 Oost",
+    "venue": "Studio 191",
+    "category": "Barre, Pilates, Sculpt & Yoga",
+    "area": "Amsterdam Oost / Beukenweg",
+    "address": "Beukenweg 3a, 1092 AX Amsterdam",
+    "description": "Drop-in classes include barre, Pilates, sculpt and yoga. One class €20, valid one month. First-time Intro 3 is €40; non-Reformer class cards can be used across Studio 191 / The Cosmos. Schedule page showed Oct 18–24 and says walk-ins are possible, with advance booking recommended.",
+    "attendance": "Single class / drop-in access is explicitly offered; check the linked calendar for a current place.",
+    "beginner": true,
+    "language": "Not explicitly confirmed for every class; check the booking page or studio before attending.",
+    "directPrice": {
+      "amount": 20,
+      "type": "single class",
+      "from": false,
+      "note": "Valid one month; separate Intro 3 for first-time guests costs €40. Reformer excluded."
+    },
+    "classpass": {
+      "url": "https://classpass.com/studios/studio-191-oost-amsterdam",
+      "credits": null,
+      "creditNote": "Android Firefox public schedule works; See pricing only, credit amount unknown."
+    },
+    "bookingUrl": "https://studio191.nl/schedule/",
+    "sourceUrls": [
+      "https://studio191.nl/schedule/",
+      "https://studio191.nl/prices/",
+      "https://classpass.com/studios/studio-191-oost-amsterdam"
+    ],
+    "checkedAt": "2026-10-21",
+    "evidence": {
+      "observations": "Organizer schedule rendered Oct 18–24 and its page states walk-ins are allowed, with advance booking recommended. Official pricing lists €20 single class and a separate €40 Intro 3. ClassPass profile identifies the Oost branch and schedule sample.",
+      "androidSchedule": "Round 9 Hermes local + independent Astra review: exact dated schedule rows through 25 October; calendar additions are filtered by preferred times and eligibility."
+    },
+    "uncertainties": [
+      "ClassPass credits, remaining places and session spoken language remain unconfirmed."
+    ],
+    "scheduleHorizon": "Actual ClassPass public dated rows observed 21–25 October 2026; day coverage partial, no recurrence generated.",
+    "ideaIds": [],
+    "languages": [],
+    "researchMethod": "android-firefox",
+    "researchRound": "round-9",
+    "discoverySource": "https://studio191.nl/schedule/"
+  },
+  {
+    "id": "deep-offer-upclub",
+    "name": "Upclub ROW & RIDE",
+    "venue": "Upclub",
+    "category": "Indoor rowing, indoor cycling & strength",
+    "area": "Waterlooplein / Weesperstraat",
+    "address": "Weesperstraat 69, 1018 VN Amsterdam",
+    "description": "Coached rowing, cycling and strength workouts with a single drop-in pass available. Intro packages are separate.",
+    "attendance": "Single-workout pass available; separately choose and reserve a class. The pass alone does not establish an exact dated place.",
+    "beginner": false,
+    "language": "Not explicitly confirmed for every class; check the booking page or studio before attending.",
+    "directPrice": {
+      "amount": 19,
+      "type": "paid",
+      "from": false,
+      "note": "Official pricing page lists one drop-in workout for €19, valid two weeks. The two-for-€19 intro deal is a separate first-timer product; a subscription is not required for the single pass.",
+      "caption": "Single drop-in workout"
+    },
+    "classpass": {
+      "url": "https://classpass.com/studios/upclub-row-and-ride-amsterdam",
+      "credits": null,
+      "creditNote": "Android Firefox public schedule works; See pricing only, credit amount unknown."
+    },
+    "bookingUrl": "https://upclubstudios.com/",
+    "sourceUrls": [
+      "https://upclubstudios.com/",
+      "https://classpass.com/studios/upclub-row-and-ride-amsterdam",
+      "https://upclubstudios.com/pricing/"
+    ],
+    "checkedAt": "2026-10-21",
+    "evidence": {
+      "observations": "Organizer homepage rendered the €19 intro offer for two workouts and describes ROW and RIDE formats. ClassPass profile identifies Weesperstraat 69 and states Waterlooplein is 250 m away; its indexed schedule sample was Oct 13.",
+      "single_visit_price": "21October:officialWORKOUTPASSES explicitly1drop-inworkout€19,valid2weeks.",
+      "androidSchedule": "Round 9 Hermes local + independent Astra review: exact dated schedule rows through 25 October; calendar additions are filtered by preferred times and eligibility."
+    },
+    "uncertainties": [
+      "ClassPass credits, remaining places and session spoken language remain unconfirmed."
+    ],
+    "scheduleHorizon": "Actual ClassPass public dated rows observed 21–25 October 2026; day coverage partial, no recurrence generated.",
+    "ideaIds": [],
+    "languages": [],
+    "researchMethod": "android-firefox",
+    "researchRound": "round-9",
+    "discoverySource": "https://upclubstudios.com/"
+  },
+  {
+    "id": "deep-offer-movements-city",
+    "name": "Movements City",
+    "venue": "Movements",
+    "category": "Hot yoga & Pilates",
+    "area": "Centrum / Utrechtsedwarsstraat",
+    "address": "Utrechtsedwarsstraat 31h, 1017 WB Amsterdam",
+    "description": "Hot yoga and Pilates in a studio heated up to 40°C. Public pricing lists a €25 single Hot Yoga or Hot Pilates class. Indexed pricing also showed €10 first-class trial subject to first-timer and Amsterdam/Haarlem-resident eligibility.",
+    "attendance": "Single class / drop-in access is explicitly offered; check the linked calendar for a current place.",
+    "beginner": false,
+    "language": "Not explicitly confirmed for every class; check the booking page or studio before attending.",
+    "directPrice": {
+      "amount": 25,
+      "type": "single class",
+      "from": false,
+      "note": "Hot Yoga or Hot Pilates. Separate trial price may be eligibility-restricted."
+    },
+    "classpass": {
+      "url": "https://classpass.com/studios/movements-city-amsterdam",
+      "credits": null,
+      "creditNote": "Credit cost not visible without an accessible ClassPass booking view; not inferred."
+    },
+    "bookingUrl": "https://movementsyoga.com/our-locations/city/",
+    "sourceUrls": [
+      "https://movementsyoga.com/our-locations/city/",
+      "https://movementsyoga.com/pricing/",
+      "https://classpass.com/studios/movements-city-amsterdam"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": {
+      "observations": "Official location page identifies Utrechtsedwarsstraat 31h and 40°C studio. Official pricing page lists a €25 single class. ClassPass index showed a schedule sample dated Oct 8."
+    },
+    "uncertainties": [
+      "ClassPass credits unavailable. Heat reaches 40°C; confirm suitable class and current trial terms."
+    ],
+    "scheduleHorizon": "ClassPass index showed Oct 8 only (outside target); direct future calendar not harvested.",
+    "ideaIds": [],
+    "languages": []
+  },
+  {
+    "id": "deep-offer-yagoy-pijp",
+    "name": "Yagoy de Pijp",
+    "venue": "Yagoy",
+    "category": "Yoga & Pilates",
+    "area": "De Pijp / Karel du Jardinstraat",
+    "address": "Karel du Jardinstraat 33-1, 1072 SG Amsterdam",
+    "description": "Teacher-owned studio with creative Vinyasa, Yin, prenatal yoga and Pilates. Single class €18 (valid one month); two classes €30. A first-timer can try one month unlimited for €50.",
+    "attendance": "Single class / drop-in access is explicitly offered; check the linked calendar for a current place.",
+    "beginner": true,
+    "language": "Not explicitly confirmed for every class; check the booking page or studio before attending.",
+    "directPrice": {
+      "amount": 18,
+      "type": "single class",
+      "from": false,
+      "note": "Single pass valid one month; separate first-timer one-month unlimited offer costs €50. Direct EUR price last checked18October2026; not refreshed in this branch-link correction."
+    },
+    "classpass": {
+      "url": "https://classpass.com/studios/yagoy-pijp-amsterdam",
+      "credits": null,
+      "creditNote": "Correct de Pijp ClassPass profile verified21October2026; displayed dateOct1 is past. Session credits remain unknown; no account or trial entered."
+    },
+    "bookingUrl": "https://yagoy.nl/",
+    "sourceUrls": [
+      "https://yagoy.nl/",
+      "https://yagoy.nl/contact/",
+      "https://classpass.com/studios/yagoy-pijp-amsterdam"
+    ],
+    "checkedAt": "2026-10-21",
+    "evidence": {
+      "observations": "Historical18October2026 observation: Official homepage lists €18 single class, €30 for two, and €50 first-timer one-month unlimited; contact page confirms de Pijp studio address and schedule link. ClassPass search result found the West branch only.",
+      "branch_correction": "ClassPassYagoy-Pijp namesKarel du Jardinstraat33-1. Replaced mismatchedWestbranch URL21October; historical EURprice observation retained."
+    },
+    "uncertainties": [
+      "Direct price evidence is from18October2026; recheck before purchase.",
+      "No currentdatedClassPass occurrence or credit amountverified; displayedOct1schedule is past.",
+      "Spokenlanguage and sessionavailability need confirmation."
+    ],
+    "scheduleHorizon": "Direct Yagoy occurrences were researched separately in round7; no current dated ClassPass session or credit price was verified on21October2026.",
+    "ideaIds": [],
+    "languages": [],
+    "researchMethod": "web-extraction",
+    "researchRound": "round-8",
+    "discoverySource": "https://yagoy.nl/"
+  },
+  {
+    "id": "deep-offer-svaha-downtown",
+    "name": "Svaha Yoga Downtown",
+    "venue": "Svaha Yoga",
+    "category": "Vinyasa, Yin, Kundalini & meditation",
+    "area": "Centrum / Begijnensteeg",
+    "address": "Begijnensteeg 1, 1012 PN Amsterdam",
+    "description": "Central studio with Vinyasa levels 1–3, Kundalini, Yin and guided meditation; ClassPass profile says studio mats may be borrowed free. ClassPass indexed schedule is stale (Oct 14), so use its live booking view to check current times.",
+    "attendance": "Single class / drop-in access is explicitly offered; check the linked calendar for a current place.",
+    "beginner": true,
+    "language": "Not explicitly confirmed for every class; check the booking page or studio before attending.",
+    "directPrice": {
+      "amount": null,
+      "type": "unknown",
+      "from": false,
+      "note": "Standalone direct EUR price not verified in this research."
+    },
+    "classpass": {
+      "url": "https://classpass.com/studios/svaha-yoga-downtown-amsterdam",
+      "credits": null,
+      "creditNote": "Credit cost not visible without an accessible ClassPass booking view; not inferred."
+    },
+    "bookingUrl": "https://classpass.com/studios/svaha-yoga-downtown-amsterdam",
+    "sourceUrls": [
+      "https://classpass.com/studios/svaha-yoga-downtown-amsterdam"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": {
+      "observations": "ClassPass indexed profile lists central address, class types, free studio mats and older sample schedule; direct ClassPass page returned HTTP 403 and direct studio price was not verified."
+    },
+    "uncertainties": [
+      "ClassPass credits unavailable; no direct studio single-class price verified. Indexed schedule predates target range."
+    ],
+    "scheduleHorizon": "ClassPass index showed Oct 14 only (outside target).",
+    "ideaIds": [],
+    "languages": []
+  },
+  {
+    "id": "deep-offer-adc",
+    "name": "Amsterdam Dance Centre — adult single classes",
+    "venue": "Amsterdam Dance Centre",
+    "category": "Dance, Pilates, stretching, yoga & barre",
+    "area": "Centrum / Marnixstraat",
+    "address": "Marnixstraat 342-E, 1016 XT Amsterdam",
+    "description": "Large adult timetable seven days a week, with open-level and beginner Pilates, barre, stretching, contemporary, hip-hop and other styles. Single class costs €22.50 without membership; signup is optional, and helpful to ensure a place.",
+    "attendance": "Single class / drop-in access is explicitly offered; check the linked calendar for a current place.",
+    "beginner": "Open level: everyone; Basic: absolute novice; Beginners: some previous dance experience.",
+    "language": "Not explicitly confirmed for every class; check the booking page or studio before attending.",
+    "directPrice": {
+      "amount": 22.5,
+      "type": "single class",
+      "from": false,
+      "note": "No membership required; ADC adult FAQ says signup is optional but helps ensure a place."
+    },
+    "classpass": null,
+    "bookingUrl": "https://amsterdamdancecentre.nl/adults/",
+    "sourceUrls": [
+      "https://amsterdamdancecentre.nl/adults/",
+      "https://adc.trainin.app/widget/schedule",
+      "https://amsterdamdancecentre.nl/faq-adult-division/?lang=en"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": {
+      "observations": "ADC public schedule iframe lists dated class rows Oct 19–25 and signup links. Adult FAQ states €22.50 for one class without membership."
+    },
+    "uncertainties": [
+      "No ClassPass listing verified. Language for individual classes is not stated. Public schedule horizon observed Oct 19–25 only."
+    ],
+    "scheduleHorizon": "Oct 19–25, 2026 rendered.",
+    "ideaIds": [],
+    "languages": []
+  },
+  {
+    "id": "fitness-offer-beest-amsterdam",
+    "name": "Beest Boulders Amsterdam",
+    "venue": "Beest Boulders",
+    "category": "Bouldering",
+    "area": "West / Bos en Lommer",
+    "address": "Willem de Zwijgerlaan 338B, 1055 RD Amsterdam",
+    "description": "Large bouldering hall with café/restaurant, seating and weekly route resets. A first visit can include a short safety orientation; bouldering is self-paced and offers a social setting between attempts.",
+    "attendance": "Single-entry access is available; check the linked current timetable for opening/session times.",
+    "beginner": true,
+    "language": "Independent visits need little spoken language; instruction language for coached classes is not verified.",
+    "directPrice": {
+      "amount": 19.7,
+      "type": "first-visit adult day entry",
+      "from": false,
+      "note": "The public tariff lists first-time adult day entry at €19.70, regular entry with member card at €14.70, and registration/member card at €5. This strongly indicates €19.70 is the combined first-visit total (€14.70 + €5), not €19.70 plus another €5; the page does not explicitly say “including” beside the first-visit line. Shoe rental €4.50 and chalk bag €3 are separately listed add-ons; student off-peak entry €11.25.",
+      "caption": "First-entry tariff; shoe rental €4.50 extra"
+    },
+    "classpass": null,
+    "bookingUrl": "https://beestboulders.com/vestigingen/beest-boulders-amsterdam/",
+    "sourceUrls": [
+      "https://beestboulders.com/tarieven/",
+      "https://beestboulders.com/vestigingen/beest-boulders-amsterdam/",
+      "https://beestboulders.com/voorwaarden-en-regels/"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": {
+      "observations": "Live rendered official tariff (HTTP 200, 2026-10-18): ‘Dagentree eerste keer 19,70’, ‘Dagentree (met ledenpas) 14,70’, and separately under ‘Huur en registratie’, ‘Registratiekosten (inclusief ledenpas) 5,00’. Their arithmetic indicates the €5 registration is already represented in the €19.70 first-visit total; no second €5 was added. Shoes (€4.50) and chalk bag (€3) are separate."
+    },
+    "uncertainties": [
+      "Tariff page does not explicitly state next to the €19.70 first-visit line that it includes the €5 registration; this is inferred from the listed €14.70 registered day entry plus €5 registration equaling €19.70. Ask venue if certainty is needed. First-visit rate applies only if you have not previously registered at Beest/De Klimmuur. Orientation is a safety briefing, not a coached lesson."
+    ],
+    "scheduleHorizon": "Public single-visit admission; no specific dated class was verified.",
+    "ideaIds": [
+      "seed-044"
+    ],
+    "languages": []
+  },
+  {
+    "id": "fitness-offer-beest-het-lab",
+    "name": "Beest Boulders Het Lab",
+    "venue": "Beest Boulders",
+    "category": "Bouldering",
+    "area": "Westpoort / Transformatorweg",
+    "address": "Transformatorweg 32, 1014 AK Amsterdam",
+    "description": "Smaller branch with pool table, foosball, board games, seating and food. Good option for a relaxed climb with a social break. First timers get a short safety orientation; no prior experience needed for entry.",
+    "attendance": "Single-entry access is available; check the linked current timetable for opening/session times.",
+    "beginner": true,
+    "language": "Independent visits need little spoken language; instruction language for coached classes is not verified.",
+    "directPrice": {
+      "amount": 19.7,
+      "type": "first-visit adult day entry",
+      "from": false,
+      "note": "The public tariff lists first-time adult day entry at €19.70, regular entry with member card at €14.70, and registration/member card at €5. This strongly indicates €19.70 is the combined first-visit total (€14.70 + €5), not €19.70 plus another €5; the page does not explicitly say “including” beside the first-visit line. Shoe rental €4.50 and chalk bag €3 are separately listed add-ons; student off-peak entry €11.25.",
+      "caption": "First-entry tariff; shoe rental €4.50 extra"
+    },
+    "classpass": null,
+    "bookingUrl": "https://beestboulders.com/vestigingen/het-lab-amsterdam/",
+    "sourceUrls": [
+      "https://beestboulders.com/tarieven/",
+      "https://beestboulders.com/vestigingen/het-lab-amsterdam/",
+      "https://beestboulders.com/voorwaarden-en-regels/"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": {
+      "observations": "Live rendered official tariff (HTTP 200, 2026-10-18): ‘Dagentree eerste keer 19,70’, ‘Dagentree (met ledenpas) 14,70’, and separately under ‘Huur en registratie’, ‘Registratiekosten (inclusief ledenpas) 5,00’. Their arithmetic indicates the €5 registration is already represented in the €19.70 first-visit total; no second €5 was added. Shoes (€4.50) and chalk bag (€3) are separate."
+    },
+    "uncertainties": [
+      "Tariff page does not explicitly state next to the €19.70 first-visit line that it includes the €5 registration; this is inferred from the listed €14.70 registered day entry plus €5 registration equaling €19.70. Ask venue if certainty is needed. First-visit rate applies only if you have not previously registered at Beest/De Klimmuur. Orientation is a safety briefing, not a coached lesson."
+    ],
+    "scheduleHorizon": "Public single-visit admission; no specific dated class was verified.",
+    "ideaIds": [
+      "seed-043"
+    ],
+    "languages": []
+  },
+  {
+    "id": "fitness-offer-beta",
+    "name": "Beta Boulders Amsterdam",
+    "venue": "Beta Boulders",
+    "category": "Bouldering",
+    "area": "Amsterdam Zuid / Stadionplein",
+    "address": "Stadionplein 18, 1076 CM Amsterdam",
+    "description": "Bouldering gym plus café and workspace; workspace is included with every entry. New climbers can book a 1–1.5 hour Intro to Bouldering class for €19.90 including entry and shoes; the description explicitly says no prior experience.",
+    "attendance": "Single-entry access is available; check the linked current timetable for opening/session times.",
+    "beginner": true,
+    "language": "Independent visits need little spoken language; instruction language for coached classes is not verified.",
+    "directPrice": {
+      "amount": 19.9,
+      "type": "single beginner intro lesson",
+      "from": false,
+      "note": "1–1.5 hours; entry and climbing shoes included, and you can continue climbing independently until close. Unguided day entry alone is €13.50 off-peak or €14.90 peak; shoe rental alone €5.",
+      "caption": "Single intro includes entry and shoes"
+    },
+    "classpass": null,
+    "bookingUrl": "https://betaboulders.nl/product/intro-to-bouldering/",
+    "sourceUrls": [
+      "https://betaboulders.nl/prices/",
+      "https://betaboulders.nl/product/intro-to-bouldering/",
+      "https://betaboulders.nl/"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": {
+      "observations": "Official Beta pricing page lists day-pass price bands and shoe rent; its separate public Intro to Bouldering product states €19.90 with entry and shoes included and no experience required."
+    },
+    "uncertainties": [
+      "The intro lesson has bookable dates/times on its public product page, but no specific slot was verified here. Adult day-entry prices vary by peak/off-peak."
+    ],
+    "scheduleHorizon": "Public single-visit admission; no specific dated class was verified.",
+    "ideaIds": [
+      "seed-045"
+    ],
+    "languages": []
+  },
+  {
+    "id": "fitness-offer-monk",
+    "name": "Monk Bouldergym Amsterdam",
+    "venue": "Monk",
+    "category": "Bouldering",
+    "area": "Amsterdam Noord / Aambeeldstraat",
+    "address": "Aambeeldstraat 26, 1021 KB Amsterdam",
+    "description": "Large bouldering hall with café and beginner routes. No experience is required; first-time visitors receive a short rules/safety introduction. The venue lists a beginner Boulder Basics course, but a course fee/date was not established.",
+    "attendance": "Single-entry access is available; check the linked current timetable for opening/session times.",
+    "beginner": true,
+    "language": "Independent visits need little spoken language; instruction language for coached classes is not verified.",
+    "directPrice": {
+      "amount": 14.5,
+      "type": "adult day entry (age 25+)",
+      "from": false,
+      "note": "Ages 18–24 €13.50; ages 6–17 €12.50. Shoe rental €5. Student discount €9.50 Saturday/Sunday 18:00–00:00 with valid ID. Entry valid for the day.",
+      "caption": "Age25+ tariff; shoe rental €5 extra"
+    },
+    "classpass": null,
+    "bookingUrl": "https://monk.nl/amsterdam/",
+    "sourceUrls": [
+      "https://monk.nl/amsterdam/",
+      "https://monk.nl/amsterdam/lid-worden/",
+      "https://monk.nl/hulp/veelgestelde-vragen/eerste-keer-boulderen/"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": {
+      "observations": "Official Monk access page lists adult/age-bracket day-entry fees and €5 rental; official FAQ confirms no experience needed and safety briefing."
+    },
+    "uncertainties": [
+      "New visitors should create an account online to avoid delay; no booking is required for general entry. Student rate requires a current student card."
+    ],
+    "scheduleHorizon": "Public single-visit admission; no specific dated class was verified.",
+    "ideaIds": [
+      "seed-046"
+    ],
+    "languages": []
+  },
+  {
+    "id": "fitness-offer-klimmuur-centraal",
+    "name": "De Klimmuur Amsterdam Centraal",
+    "venue": "De Klimmuur",
+    "category": "Roped climbing and bouldering",
+    "area": "Centrum / Dijksgracht",
+    "address": "Dijksgracht 2, 1019 BS Amsterdam",
+    "description": "Central climbing hall a short walk from Centraal Station, with both ropes and bouldering. City venue information says it suits beginners and offers introduction lessons. A bouldering day visit is a social self-paced option; roped climbing needs suitable belay knowledge or instruction.",
+    "attendance": "Single-entry access is available; check the linked current timetable for opening/session times.",
+    "beginner": "Roped climbing requires suitable skills/partner or an independently booked intro; general entry is not a beginner lesson.",
+    "language": "Independent visits need little spoken language; instruction language for coached classes is not verified.",
+    "directPrice": {
+      "amount": null,
+      "type": "current direct single-visit price unverified",
+      "from": false,
+      "note": "The €18.70 adult entry is only a secondary, indicative directory listing (checked there 27 Apr 2026), not a current primary tariff. Beest’s official €14.70/€19.70 tariff is explicitly for bouldering and does not verify De Klimmuur Centraal’s roped-climbing entry. Rental fees also unverified."
+    },
+    "classpass": null,
+    "bookingUrl": "https://www.iamsterdam.com/uit/agenda/attracties-en-bezienswaardigheden/attracties/klimmuur-centraal",
+    "sourceUrls": [
+      "https://www.iamsterdam.com/uit/agenda/attracties-en-bezienswaardigheden/attracties/klimmuur-centraal",
+      "https://www.dagjeweg.nl/tip/9296/De-Klimmuur-Amsterdam-Centraal",
+      "https://beestboulders.com/tarieven/"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": {
+      "observations": "I amsterdam confirms current address and beginner-intro availability; a secondary venue directory lists €18.70 but marks rates indicative (checked 27 Apr 2026). The live Beest tariff page checked 2026-10-18 explicitly describes bouldering, so it does not establish the rope-climbing entry fee at Klimmuur Centraal."
+    },
+    "uncertainties": [
+      "Current primary single-visit price and rental fees for roped climbing were not verified; treat the secondary €18.70 as indicative only. First-time rope climbers need an intro, belayer or other approved arrangement; do not assume independent top-rope access."
+    ],
+    "scheduleHorizon": "Public single-visit admission; no specific dated class was verified.",
+    "ideaIds": [
+      "seed-042"
+    ],
+    "languages": []
+  },
+  {
+    "id": "fitness-offer-vondelgym-oost",
+    "name": "Vondelgym Oost — day pass",
+    "venue": "Vondelgym",
+    "category": "Gym and group fitness",
+    "area": "Amsterdam Oost / Wibautstraat",
+    "address": "Wibautstraat 131, 1091 GL Amsterdam",
+    "description": "Day pass covers self-training or one group lesson; class attendance can be booked in the schedule widget or the pass bought at reception. Gym describes a club atmosphere and group classes, but listed classes vary by skill and intensity.",
+    "attendance": "Single-entry access is available; check the linked current timetable for opening/session times.",
+    "beginner": false,
+    "language": "Independent visits need little spoken language; instruction language for coached classes is not verified.",
+    "directPrice": {
+      "amount": 19.5,
+      "type": "day pass",
+      "from": false,
+      "note": "Allows self-training or one class. Day pass price can be credited as bar credit if you start a membership within 24 hours; membership is optional."
+    },
+    "classpass": null,
+    "bookingUrl": "https://www.vondelgym.nl/gyms/vondelgym-oost",
+    "sourceUrls": [
+      "https://www.vondelgym.nl/gyms/vondelgym-oost",
+      "https://www.vondelgym.nl/gyms/vondelgym-zuid",
+      "https://www.vondelgym.nl/gyms/vondelgym-west"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": {
+      "observations": "Official FAQ says day pass €19.50 covers one group class or self-training and can be bought at a gym desk; Oost address is on official branch page."
+    },
+    "uncertainties": [
+      "No class level is guaranteed by the day pass; check class description and reserve a place. This is gym access, not a coached beginner session."
+    ],
+    "scheduleHorizon": "Public single-visit admission; no specific dated class was verified.",
+    "ideaIds": [
+      "seed-016",
+      "seed-021",
+      "seed-022"
+    ],
+    "languages": []
+  },
+  {
+    "id": "fitness-offer-het-gymlokaal",
+    "name": "Het Gymlokaal West & Noord — single credit",
+    "venue": "Het Gymlokaal",
+    "category": "Mobility, Pilates, strength, yoga, boxing and fitness",
+    "area": "Amsterdam West and Noord",
+    "address": "West: Dr Jan van Breemenstraat 3, 1056 AB; Noord: Grasweg 53-a, 1031 HX Amsterdam",
+    "description": "A single credit reserves one group class or gives access to gym facilities at either branch. Current class styles include mobility, Pilates, yoga, barre, gymnastics, boxing, strength and Hyrox.",
+    "attendance": "Single-entry access is available; check the linked current timetable for opening/session times.",
+    "beginner": true,
+    "language": "Independent visits need little spoken language; instruction language for coached classes is not verified.",
+    "directPrice": {
+      "amount": 17.5,
+      "type": "one credit for one group class or gym visit",
+      "from": false,
+      "note": "Credit is valid one month at both West and Noord. Trial week is separate and not used as the single-visit price."
+    },
+    "classpass": null,
+    "bookingUrl": "https://www.hetgymlokaal.nl/en/credits/",
+    "sourceUrls": [
+      "https://www.hetgymlokaal.nl/en/credits/",
+      "https://www.hetgymlokaal.nl/info/",
+      "https://www.hetgymlokaal.nl/"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": {
+      "observations": "Organizer page explicitly says one €17.50 credit reserves one group class or grants a gym-facility visit and is valid for one month at West and Noord."
+    },
+    "uncertainties": [
+      "Choose a beginner-friendly class from the current schedule; individual class language/intensity is not confirmed."
+    ],
+    "scheduleHorizon": "Public single-visit admission; no specific dated class was verified.",
+    "ideaIds": [
+      "seed-019"
+    ],
+    "languages": []
+  },
+  {
+    "id": "fitness-offer-eastbound",
+    "name": "Eastbound Gym — single group lesson",
+    "venue": "Eastbound Gym",
+    "category": "Boxing, kickboxing, Muay Thai, BJJ, strength & bag training",
+    "area": "Amsterdam Oost / Tweede van Swindenstraat",
+    "address": "Tweede van Swindenstraat 1, Amsterdam Oost",
+    "description": "Friendly community gym with group classes and bag training. Single class ticket starts at €16.50 and is valid for 365 days. Newcomers should check the class format and choose bag training or a listed beginner class if they have no martial-arts experience.",
+    "attendance": "Single-entry access is available; check the linked current timetable for opening/session times.",
+    "beginner": false,
+    "language": "Independent visits need little spoken language; instruction language for coached classes is not verified.",
+    "directPrice": {
+      "amount": 16.5,
+      "type": "single group lesson credit",
+      "from": true,
+      "note": "Organizer labels the single lesson “from €16.50”; options may vary by lesson type. Separate 3-class trial package is excluded here."
+    },
+    "classpass": null,
+    "bookingUrl": "https://eastboundgym.nl/en/word-lid",
+    "sourceUrls": [
+      "https://eastboundgym.nl/en/word-lid",
+      "https://eastboundgym.nl/en/"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": {
+      "observations": "Official membership and single-class page lists a single lesson from €16.50 valid 365 days; current East branch lists boxing, bag training and other group formats."
+    },
+    "uncertainties": [
+      "Exact class type and one-off newcomer eligibility depend on the timetable; contact page suggests an intro kickboxing course, which is a separate multi-session option."
+    ],
+    "scheduleHorizon": "Public single-visit admission; no specific dated class was verified.",
+    "ideaIds": [
+      "seed-023"
+    ],
+    "languages": []
+  },
+  {
+    "id": "fitness-offer-boogieland",
+    "name": "Boogieland — single group class",
+    "venue": "Boogieland",
+    "category": "Boxing, kickboxing and bag training",
+    "area": "Amsterdam Noord / Gedempt Hamerkanaal",
+    "address": "Gedempt Hamerkanaal 38, 1021 KM Amsterdam",
+    "description": "Single group lesson is €15 and requires reserving a place in the schedule. For little/no experience, organizer recommends bag training or its separate four-class basics course; technique lessons require prior experience.",
+    "attendance": "Single-entry access is available; check the linked current timetable for opening/session times.",
+    "beginner": true,
+    "language": "Independent visits need little spoken language; instruction language for coached classes is not verified.",
+    "directPrice": {
+      "amount": 15,
+      "type": "single group lesson",
+      "from": false,
+      "note": "One group class credit; course and trial-week bundles are separate. Reserve before arrival."
+    },
+    "classpass": null,
+    "bookingUrl": "https://boogieland.virtuagym.com/webshop",
+    "sourceUrls": [
+      "https://boogieland.nl/",
+      "https://boogieland.virtuagym.com/webshop"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": {
+      "observations": "Official webshop lists one group class for €15; official FAQ states reservation is required and steers newcomers toward bag training."
+    },
+    "uncertainties": [
+      "The exact class selection matters: first-timers should use bag training or a beginner basics course; technique classes require experience."
+    ],
+    "scheduleHorizon": "Public single-visit admission; no specific dated class was verified.",
+    "ideaIds": [
+      "seed-030"
+    ],
+    "languages": []
+  },
+  {
+    "id": "fitness-offer-noorderparkbad",
+    "name": "Noorderparkbad — Aquasport / public swim",
+    "venue": "Noorderparkbad",
+    "category": "Swimming and Aquasport",
+    "area": "Amsterdam Noord / Sneeuwbalweg",
+    "address": "Sneeuwbalweg 5, 1032 VS Amsterdam",
+    "description": "Municipal pool with public recreational/lane swimming and coached Aquasport. One Aquasport class lasts 45 minutes; this is a modest-movement option, though public swim itself is mostly independent.",
+    "attendance": "Single-entry access is available; check the linked current timetable for opening/session times.",
+    "beginner": true,
+    "language": "Independent visits need little spoken language; instruction language for coached classes is not verified.",
+    "directPrice": {
+      "amount": 9.6,
+      "type": "single 45-minute Aquasport class",
+      "from": false,
+      "note": "Regular single recreational/lane-swim ticket is €6.40. A €5.80 zwempas is required for lessons and multi-visit cards; verify whether it applies to a single Aquasport booking.",
+      "caption": "Check whether a €5.80 swim card is required"
+    },
+    "classpass": null,
+    "bookingUrl": "https://www.amsterdam.nl/noorderparkbad/prijzen-noorderparkbad/",
+    "sourceUrls": [
+      "https://www.amsterdam.nl/noorderparkbad/prijzen-noorderparkbad/",
+      "https://www.amsterdam.nl/noorderparkbad/faciliteiten/"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": {
+      "observations": "Official city tariff page lists one 45-minute Aquasport class at €9.60 and single swim entry at €6.40."
+    },
+    "uncertainties": [
+      "Exact Aquasport date/time and remaining capacity were not checked; current timetable is separate."
+    ],
+    "scheduleHorizon": "Public single-visit admission; no specific dated class was verified.",
+    "ideaIds": [
+      "seed-063"
+    ],
+    "languages": []
+  },
+  {
+    "id": "fitness-offer-zuiderbad",
+    "name": "Zuiderbad — recreational swim",
+    "venue": "Zuiderbad",
+    "category": "Swimming",
+    "area": "Amsterdam Zuid / Museumplein",
+    "address": "Hobbemastraat 26, 1071 ZC Amsterdam",
+    "description": "Single recreational-swim ticket includes use of the pool’s play equipment; a low-cost independent movement option in a historic indoor bath. The venue’s current timetable controls session access.",
+    "attendance": "Single-entry access is available; check the linked current timetable for opening/session times.",
+    "beginner": "Public swimming; no beginner instruction included. Swimming ability required.",
+    "language": "Independent visits need little spoken language; instruction language for coached classes is not verified.",
+    "directPrice": {
+      "amount": 6.4,
+      "type": "single recreational swim ticket",
+      "from": false,
+      "note": "Adult single entry from age 3; Stadspas ticket €1 for eligible holders. No instruction/session is included."
+    },
+    "classpass": null,
+    "bookingUrl": "https://www.amsterdam.nl/zuiderbad/activiteiten/recreatiezwemmen/",
+    "sourceUrls": [
+      "https://www.amsterdam.nl/zuiderbad/activiteiten/recreatiezwemmen/"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": {
+      "observations": "Official city activity and tariff page lists the single recreation-swim ticket at €6.40 and address."
+    },
+    "uncertainties": [
+      "Not a class or social session; check timetable for public recreational-swim hours."
+    ],
+    "scheduleHorizon": "Public single-visit admission; no specific dated class was verified.",
+    "ideaIds": [
+      "seed-061"
+    ],
+    "languages": []
+  },
+  {
+    "id": "fitness-offer-jaap-eden",
+    "name": "Jaap Eden Ice Rink — public skating",
+    "venue": "Jaap Eden IJsbaan",
+    "category": "Ice skating",
+    "area": "Amsterdam Oost / Radioweg",
+    "address": "Radioweg 64, 1098 NJ Amsterdam",
+    "description": "Public outdoor 400m rink is open for the 2026–27 season from 10 Oct 2026 to 21 Mar 2027. A single adult entry is available; skate rental starts at €7/day. Skating can be social, but this offer is public skating rather than an instructed beginner lesson.",
+    "attendance": "Single-entry access is available; check the linked current timetable for opening/session times.",
+    "beginner": false,
+    "language": "Independent visits need little spoken language; instruction language for coached classes is not verified.",
+    "directPrice": {
+      "amount": 10.6,
+      "type": "adult single skating entry (2026–27)",
+      "from": false,
+      "note": "Skate hire starts at €7/day; adult entry excludes rental. Off-peak discount is 25% for adults, students and 65+.",
+      "caption": "Entry only; skate rental from €7 extra"
+    },
+    "classpass": null,
+    "bookingUrl": "https://www.jaapeden.nl/praktische-informatie/tarieven/",
+    "sourceUrls": [
+      "https://www.jaapeden.nl/praktische-informatie/tarieven/",
+      "https://www.jaapeden.nl/praktische-informatie/veelgesteldevragen/",
+      "https://www.jaapeden.nl/"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": {
+      "observations": "Official 2026–27 tariff page lists an adult visit €10.60; official FAQ lists skate rental from €7/day and season dates."
+    },
+    "uncertainties": [
+      "Public timetable has session blocks; check the specific date/time before travelling. No beginner lesson session was date-verified in this pass."
+    ],
+    "scheduleHorizon": "Public single-visit admission; no specific dated class was verified.",
+    "ideaIds": [
+      "seed-064"
+    ],
+    "languages": []
+  },
+  {
+    "id": "ahac-open-atelier-offer",
+    "name": "Open Atelier · choose a craft",
+    "venue": "Amsterdam House of Arts & Crafts",
+    "category": "Creative",
+    "area": "Centrum / Oudeschans",
+    "address": "Oudeschans21,1011KS Amsterdam",
+    "description": "Two-hour guided making visit with materials, tea and a biscuit. Choose from the projects available at that session.",
+    "attendance": "Single booking; no experience needed. Confirm which project is offered on your chosen date.",
+    "beginner": true,
+    "language": "Delivery language not stated; English information available.",
+    "directPrice": {
+      "amount": 59,
+      "type": "paid",
+      "from": true,
+      "note": "The organizer describes a two-hour visit with materials, guidance, tea and a biscuit. Android Firefox independently reconfirmed the booking module’s starting price of €59; the final fee for a selected date was not verified.",
+      "caption": "Two hours; materials included"
+    },
+    "classpass": null,
+    "bookingUrl": "https://booking.leisureking.eu/bm/ab3fc530c18df81c3718b7129276caac/assortiment/88905?lang=NL",
+    "sourceUrls": [
+      "https://www.amsterdamhouseofartsandcrafts.com/nl/workshops/open-atelier",
+      "https://booking.leisureking.eu/bm/ab3fc530c18df81c3718b7129276caac?lang=NL",
+      "https://booking.leisureking.eu/bm/ab3fc530c18df81c3718b7129276caac/assortiment/88905?lang=NL"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": {
+      "price_access": "Earlier organizer evidence describes a two-hour visit with materials, guidance and no experience required. The Android-inspected booking offer qualifies its price as from €59.",
+      "date_limit": "Android Firefox reached the October 2026 month header; the captured viewport ended above the day rows. No individual dated times or remaining places were verified.",
+      "android_price": "The public booking offer and product view both displayed a starting price of €59. This is not a final quote for a selected date."
+    },
+    "uncertainties": [
+      "Exact upcoming dates and remaining places need the booking calendar.",
+      "Some pieces require later collection; check before travel."
+    ],
+    "scheduleHorizon": "Public October 2026 calendar header reached; individual dated slots remain unverified.",
+    "ideaIds": [
+      "seed-008"
+    ],
+    "languages": []
+  },
+  {
+    "id": "femmegym-smederij-free-day-pass-zumba",
+    "name": "FemmeGym de Smederij — women’s introductory pass (Zumba listed)",
+    "venue": "FemmeGym de Smederij",
+    "category": "Fitness & dance fitness",
+    "area": "Amsterdam East / Oosterpark",
+    "address": "Tweede Oosterparkstraat 83, Amsterdam",
+    "description": "A one-time free day pass at FemmeGym East; organizer says it can be used to join one class or train in the free-training room. Zumba is listed among classes at this club.",
+    "attendance": "One free visit; organizer says one class or free training is included. Check current club timetable and whether class reservation is needed before choosing a visit. FemmeGym is a women’s gym; eligibility is limited to its intended audience. Direct day-pass terms: one try, redeem within three weeks; no ongoing commitment.",
+    "beginner": null,
+    "language": "Not stated for Zumba on the currently rendered schedule.",
+    "directPrice": {
+      "amount": 0,
+      "type": "free day pass",
+      "from": false,
+      "note": "Organizer page states one free class or free-training visit. Separate 3-workout trial package is €9.99; it is not the day pass.",
+      "caption": "Free single visit"
+    },
+    "classpass": null,
+    "bookingUrl": "https://www.femmegym.nl/femmegym-de-smederij/",
+    "sourceUrls": [
+      "https://www.femmegym.nl/femmegym-de-smederij/",
+      "https://www.femmegym.nl/het-aanbod/",
+      "https://www.femmegym.nl/daypass/"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": {
+      "pass_inclusion": "Rendered official club page says Free Day Pass lets visitor attend one class or use free training area.",
+      "dance_offer": "Same page lists Zumba at De Smederij.",
+      "single_visit_terms": "Organizer separately names €9.99 three-workout trial package; free day pass is one-visit tryout.",
+      "schedule_horizon": "Rendered class iframe defaulted to Week 42, 12–18 October 2026. It showed Zumba Friday 12:15–13:10; no upcoming one-off dated session surfaced on club page.",
+      "browserMethod": "Rendered official organizer page and public timetable iframe in Chromium; no sign-up submitted.",
+      "direct_terms": "Astra independently read official /daypass/: one try, class or gym, three-week redemption, no commitment."
+    },
+    "uncertainties": [
+      "Pass application eligibility and class reservation requirements are not stated on public club page.",
+      "Visible Zumba slot in Week 42 is not in target period or preferred hours; verify a suitable future class before travel.",
+      "Teaching language for Zumba was not shown."
+    ],
+    "scheduleHorizon": "Public class iframe showed Week 42 (12–18 October 2026) by default; a future dated one-off class was not found.",
+    "ideaIds": [
+      "round4-femmegym-intro-conditional"
+    ],
+    "researchMethod": "desktop-browser",
+    "researchRound": "round-1",
+    "discoverySource": "https://www.femmegym.nl/femmegym-de-smederij/",
+    "languages": []
+  },
+  {
+    "id": "freedam-public-daily-walking-tour",
+    "name": "Absolutely Amsterdam · public city-history walk",
+    "venue": "FreeDam Tours",
+    "category": "Walking & local history",
+    "area": "Amsterdam Centrum",
+    "address": "Beursplein 5, 1012 JW Amsterdam",
+    "description": "Public 2.5-hour small-group walk combining sightseeing, Amsterdam history, culture and modern life. The guide shares local stories; the route covers about 2.5 km.",
+    "attendance": "A solo visitor can reserve a place in the public tour. The organizer requires a reservation to guarantee attendance; free-tour parties are capped at five people and the group size at 15. No reservation was made.",
+    "beginner": "No experience needed; the organizer describes it as an introduction to Amsterdam.",
+    "language": "English; the organizer explicitly says all daily tours are in English. Private tours may be booked in Dutch or German.",
+    "languages": [
+      "en"
+    ],
+    "languageMode": "single",
+    "activityType": "walking-tour",
+    "researchMethod": "web-extraction",
+    "researchRound": "round-5",
+    "priceKind": "tip-based",
+    "directPrice": {
+      "amount": null,
+      "type": "tip-based",
+      "from": false,
+      "note": "No fixed public-tour ticket price. Gratuity is voluntary; the organizer says guests commonly tip €15–€25. This is tip-based, not classified as a guaranteed zero-cost offer.",
+      "caption": "Tip-based · no fixed ticket price"
+    },
+    "classpass": null,
+    "bookingUrl": "https://freedamtours.com/",
+    "discoverySource": "https://freedamtours.com/",
+    "sourceUrls": [
+      "https://freedamtours.com/"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": {
+      "schedule": "Organizer states departures every day at 10:30 and 14:00; Sunday through Friday also 17:30. Dates were not entered as events because the inspected page presents a recurring timetable, not a saved individually dated occurrence.",
+      "price": "No fixed fee; optional tip; operator describes €15–€25 as a common tip range.",
+      "language": "FAQ states all daily tours are English; Dutch and German are available as private tours.",
+      "joining": "Reservation needed to guarantee a place; free-tour parties max five; 15 participants per group.",
+      "method": "Official operator page read by web extraction. Linked FareHarbor calendar did not render availability in web extraction; no specific dates credited."
+    },
+    "scheduleHorizon": "Recurring times are stated on the official page, but individual target dates were not verified in the public ticket calendar.",
+    "uncertainties": [
+      "Availability on any particular date from 19 October to 30 November 2026 was not checked.",
+      "A tip is not mandatory and has no fixed amount; the stated typical range is advisory only."
+    ],
+    "ideaIds": [
+      "round5-amsterdam-public-walking-tours"
+    ]
+  },
+  {
+    "id": "freewalking-evening-tour-amsterdam",
+    "name": "Free Evening Tour of Amsterdam · public 19:30 walk",
+    "venue": "Free Walking Tours Amsterdam",
+    "category": "Walking & local history",
+    "area": "Amsterdam Centrum",
+    "address": "National Monument, Dam Square, 1012 JS Amsterdam",
+    "description": "Two-hour guided evening walk through the illuminated canal belt and central landmarks, with local history and recommendations for exploring after the walk.",
+    "attendance": "Public departures are selected by date on the operator page; reserve to guarantee a place; walk-ins are accepted only if space remains. On the inspected calendar, 24 October showed no available departure. The page limits a booking party to five people. Do not assume another date has places without checking the date picker.",
+    "beginner": "No experience needed; this is a guided city walk.",
+    "language": "English; the tour page explicitly states Tour Language: English.",
+    "languages": [
+      "en"
+    ],
+    "languageMode": "single",
+    "activityType": "walking-tour",
+    "researchMethod": "desktop-browser",
+    "researchRound": "round-5",
+    "priceKind": "tip-based",
+    "directPrice": {
+      "amount": 2,
+      "type": "tip-based",
+      "from": false,
+      "note": "For an online reservation: €2/person booking fee plus a separate voluntary guide tip. Walk-ins only if space remains; walk-in fee policy was not verified.",
+      "caption": "€2 booking fee + voluntary tip"
+    },
+    "classpass": null,
+    "bookingUrl": "https://freewalkingtoursamsterdam.com/tours/free-evening-tour/",
+    "discoverySource": "https://freewalkingtoursamsterdam.com/tours/free-evening-tour/",
+    "sourceUrls": [
+      "https://freewalkingtoursamsterdam.com/tours/free-evening-tour/",
+      "https://freewalkingtoursamsterdam.com/faq/"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": {
+      "schedule": "Page describes a 19:30 start, two hours. The date picker selected 24 October 2026 and returned “No available departures on this date.” No other date was selected.",
+      "price": "Mandatory booking fee €2/person plus separate voluntary guide tip.",
+      "language": "Organizer states Tour Language: English.",
+      "method": "Desktop Chromium rendered the public date calendar; selected only 24 October and did not advance into guest selection or booking."
+    },
+    "scheduleHorizon": "19:30 is the advertised evening start; checked 24 October 2026 had no departure. Other target dates are unverified.",
+    "uncertainties": [
+      "Do not count as a dated event: the only inspected target date had no available departure.",
+      "Remaining availability and exact dates for other target-range days are unverified."
+    ],
+    "ideaIds": [
+      "round5-amsterdam-public-walking-tours"
+    ]
+  },
+  {
+    "id": "stadswandelkantoor-buiksloterham-open-walk",
+    "name": "Buiksloterham–Ceuvel–Schoonschip · open architecture walk",
+    "venue": "Stadswandelkantoor",
+    "category": "Walking & architecture",
+    "area": "Amsterdam Noord / Buiksloterham",
+    "address": null,
+    "description": "Architecture and sustainability walk through Buiksloterham, including circular construction, energy self-sufficiency, reused houseboats and experimental urban nature.",
+    "attendance": "The organizer says open tours may be signed up for and lists this walk at €17.50 per person, payable in cash on site. The public page's signup form contained no individually dated session in the checked view. It is presented as an open per-person tour, not a private-group quotation.",
+    "beginner": "Not stated; no special walking experience is indicated.",
+    "language": "Spoken tour language not stated. The site has an English tour page, which does not establish the language of this open departure.",
+    "languages": [],
+    "activityType": "walking-tour",
+    "researchMethod": "desktop-browser",
+    "researchRound": "round-5",
+    "priceKind": "paid",
+    "directPrice": {
+      "amount": 17.5,
+      "type": "paid",
+      "from": false,
+      "note": "Official Open Rondleidingen page lists this walk at €17.50 per person; cash payment at the venue is stated for open tours.",
+      "caption": "€17.50 per person"
+    },
+    "classpass": null,
+    "bookingUrl": "https://www.stadswandelkantoor.nl/nieuw",
+    "discoverySource": "https://www.stadswandelkantoor.nl/nieuw",
+    "sourceUrls": [
+      "https://www.stadswandelkantoor.nl/nieuw"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": {
+      "price": "Buiksloterham–Ceuvel–Schoonschip walk: €17.50 per person; open-tour page says cash on site.",
+      "joining": "Open tours are listed for signup; page does not show an individual date in its current form.",
+      "language": "Spoken language is not stated. English page content is not counted as spoken-language evidence.",
+      "method": "Official Open Rondleidingen page rendered and read in public desktop browser; no booking or form submission."
+    },
+    "scheduleHorizon": "No individually dated upcoming departure was shown on the official open-tour page.",
+    "uncertainties": [
+      "Exact date, start time, duration, meeting point and spoken language are not provided on the open-tour catalogue page.",
+      "Confirm the next public date and departure details on the organizer page before attending."
+    ],
+    "ideaIds": [
+      "round5-amsterdam-public-walking-tours"
+    ]
+  }
+]
